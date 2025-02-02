@@ -1,0 +1,1600 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Central Administrative Building\nPO Box 8212\nKirtipur",
+                "City": "Kathmandu",
+                "Province": "Bagmati",
+                "PostCode": "N/A",
+                "Website": "https://tu.edu.np",
+                "college_name": "Tribhuvan University",
+                "university_name": "Tribhuvan Vishwavidalaya (TU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1959 as a teaching and affiliated University with a National Institute of Higher Education. Reorganized 1971 and 1993. An autonomous institution financed by the State.",
+            "AcademicYear": "July to July",
+            "AdmissionRequirements": [
+                "Secondary school certificate and entrance examination (Prabeshika Parikshya Ra Prabesh Parikshya)"
+            ],
+            "Languages": [
+                "English",
+                "Nepali"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Technology",
+                    "English",
+                    "Indic Languages",
+                    "Social Studies",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Cultural Studies",
+                    "Dance",
+                    "Demography and Population",
+                    "Economics",
+                    "English",
+                    "Fine Arts",
+                    "Geography",
+                    "Hindi",
+                    "History",
+                    "Home Economics",
+                    "Indic Languages",
+                    "Journalism",
+                    "Linguistics",
+                    "Mathematics",
+                    "Military Science",
+                    "Music",
+                    "Peace and Disarmament",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Rural Studies",
+                    "Sanskrit",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Statistics",
+                    "Urdu",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "Kathmandu"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Hotel Management",
+                    "Management",
+                    "Public Administration",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture and Animal Science",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Horticulture",
+                    "Veterinary Science"
+                ],
+                "Details": "Rampur, Chitwan"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Heating and Refrigeration",
+                    "Mechanical Engineering",
+                    "Town Planning"
+                ],
+                "Details": "Pulchowk, Lalitpur"
+            },
+            {
+                "College": "Forestry",
+                "FieldsOfStudy": [
+                    "Forest Biology",
+                    "Forest Management",
+                    "Forest Products",
+                    "Forestry",
+                    "Soil Conservation",
+                    "Water Management"
+                ],
+                "Details": "Pokhara, Gandaki Zone"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Nursing",
+                    "Ophthalmology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacy",
+                    "Psychiatry and Mental Health",
+                    "Radiology",
+                    "Surgery"
+                ],
+                "Details": "Maharajgunj, Kathmandu"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Botany",
+                    "Chemistry",
+                    "Computer Science",
+                    "Environmental Studies",
+                    "Food Technology",
+                    "Geology",
+                    "Mathematics",
+                    "Meteorology",
+                    "Microbiology",
+                    "Natural Sciences",
+                    "Physics",
+                    "Statistics",
+                    "Technology",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Science and Technology",
+                "FieldsOfStudy": [
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "RECAST"
+            },
+            {
+                "College": "Economic Development and Administration",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Economics"
+                ],
+                "Details": "CEDA"
+            },
+            {
+                "College": "Educational Innovation and Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Educational Research"
+                ],
+                "Details": "CERID"
+            },
+            {
+                "College": "Nepalese and Asian Studies",
+                "FieldsOfStudy": [
+                    "Asian Studies",
+                    "Cultural Studies"
+                ],
+                "Details": "CNAS"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Ayurvedic Medicine",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Computer Science",
+                    "Education",
+                    "Engineering",
+                    "Forestry",
+                    "Hotel Management",
+                    "Information Management",
+                    "Law",
+                    "Linguistics",
+                    "Mathematics",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy",
+                    "Public Administration",
+                    "Rural Studies",
+                    "Speech Therapy and Audiology",
+                    "Tourism",
+                    "Veterinary Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Demography and Population",
+                    "Library Science",
+                    "Police Studies",
+                    "Psychology",
+                    "Women's Studies"
+                ],
+                "Master'sDegree": [
+                    "Curriculum",
+                    "Demography and Population",
+                    "Economics",
+                    "Educational Administration",
+                    "English",
+                    "Finance",
+                    "Management",
+                    "Mathematics",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [
+                    "Agriculture",
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Biotechnology",
+                    "Botany",
+                    "Chemistry",
+                    "Demography and Population",
+                    "Economics",
+                    "Education",
+                    "Educational Sciences",
+                    "Engineering",
+                    "English",
+                    "Fine Arts",
+                    "Forestry",
+                    "Geography",
+                    "Law",
+                    "Linguistics",
+                    "Management",
+                    "Mathematics",
+                    "Microbiology",
+                    "Music",
+                    "Native Language",
+                    "Nursing",
+                    "Physics",
+                    "Political Sciences",
+                    "Public Health",
+                    "Rural Studies",
+                    "Sociology",
+                    "Statistics"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Rampur",
+                "Province": "Chitwan",
+                "PostCode": "N/A",
+                "Website": "http://www.afu.edu.np",
+                "college_name": "Agriculture and Forestry University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Agronomy",
+                    "Biotechnology",
+                    "Botany",
+                    "Development Studies",
+                    "Entomology",
+                    "Genetics",
+                    "Horticulture",
+                    "Natural Resources",
+                    "Plant Pathology",
+                    "Soil Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Animal Science, Veterinary Science and Fisheries",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Biotechnology",
+                    "Fishery",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry",
+                "FieldsOfStudy": [
+                    "Forest Products",
+                    "Forestry",
+                    "Natural Resources",
+                    "Soil Science",
+                    "Water Management",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Fishery",
+                    "Forestry",
+                    "Veterinary Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Food Science",
+                    "Forestry",
+                    "Microbiology",
+                    "Pharmacology",
+                    "Plant Pathology",
+                    "Soil Science"
+                ],
+                "Doctor'sDegrees": [
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Entomology",
+                    "Fishery",
+                    "Horticulture",
+                    "Veterinary Science"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 7053",
+                "City": "Dharan",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.bpkihs.edu",
+                "college_name": "B.P. Koirala Institute of Health Sciences",
+                "university_name": "(BPKIHS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 1993 and became an autonomous health sciences university in 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Nepali",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Dental Surgery",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Forensic Medicine and Dentistry",
+                    "Oral Pathology",
+                    "Orthodontics",
+                    "Periodontics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Biochemistry",
+                    "Community Health",
+                    "Dermatology",
+                    "Forensic Medicine and Dentistry",
+                    "Medicine",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Ophthalmology",
+                    "Orthopaedics",
+                    "Otorhinolaryngology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Psychiatry and Mental Health",
+                    "Radiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Dentistry",
+                    "Medicine",
+                    "Nursing",
+                    "Surgery"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Biological and Life Sciences",
+                    "Medicine"
+                ],
+                "Doctor'sDegrees": [
+                    "Biological and Life Sciences",
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Mahendranagar",
+                "Province": "Kanchanpur",
+                "PostCode": "N/A",
+                "Website": "http://farwesternuniversity.edu.np",
+                "college_name": "Far Western University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Education",
+                    "Information Technology",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 6250",
+                "City": "Dhulikhel",
+                "Province": "Kabhre",
+                "PostCode": "N/A",
+                "Website": "http://www.ku.edu.np",
+                "college_name": "Kathmandu University",
+                "university_name": "Kathmandu Vishwavidalaya (KU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991",
+            "AcademicYear": "August to June",
+            "AdmissionRequirements": [
+                "National Examination Board Examination Certificate or equivalent secondary school leaving certificate"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Development Studies",
+                    "Fine Arts",
+                    "Media Studies",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Mathematics Education",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Power Engineering",
+                    "Surveying and Mapping",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "Lalitpur"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Nursing"
+                ],
+                "Details": "Manipal College of Medical Sciences, Pokhara; College of Medical Sciences, Bharatpur; Nepalgunj Medical College, Nepalgunj; Kathmandu Medical College, Kathmandu; Nepal Medical College, Kathmandu;  Nobel Medical College, "
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Applied Physics",
+                    "Biology",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Pharmacy",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Applied Physics",
+                    "Architecture",
+                    "Biology",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Business Computing",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Dentistry",
+                    "Electrical and Electronic Engineering",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Fine Arts",
+                    "Hotel Management",
+                    "Law",
+                    "Mathematics and Computer Science",
+                    "Mechanical Engineering",
+                    "Media Studies",
+                    "Medicine",
+                    "Music",
+                    "Nursing",
+                    "Pharmacy",
+                    "Power Engineering",
+                    "Surveying and Mapping",
+                    "Telecommunications Engineering",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Educational Administration",
+                    "Primary Education"
+                ],
+                "Master'sDegree": [
+                    "Chemistry",
+                    "Development Studies",
+                    "Education",
+                    "Management",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Doctor'sDegrees": [
+                    "Biotechnology",
+                    "Education",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Management",
+                    "Mathematics",
+                    "Pharmacy",
+                    "Physics"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Parsa Chauraha",
+                "City": "Llumbini",
+                "Province": "Rupandehi",
+                "PostCode": "N/A",
+                "Website": "http://www.lbu.edu.np",
+                "college_name": "Lumbini Buddhist University",
+                "university_name": "Lumbini Bauddha Vishwavidyalaya"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2006",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Buddhist Studies",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "Asian Religious Studies",
+                    "Museum Studies",
+                    "Peace and Disarmament",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Disaster Risk Engineering",
+                "FieldsOfStudy": [
+                    "Construction Engineering",
+                    "Engineering Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Archaeology",
+                    "Asian Religious Studies"
+                ],
+                "Master'sDegree": [
+                    "Asian Religious Studies",
+                    "Construction Engineering",
+                    "Engineering Management",
+                    "Museum Studies",
+                    "Peace and Disarmament"
+                ],
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Central Office Post Box 21700\nBirendranagar - 10",
+                "City": "Surkhet",
+                "Province": "Karnali",
+                "PostCode": "N/A",
+                "Website": "http://www.mwu.edu.np",
+                "college_name": "Mid-Western University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Computer Science",
+                    "Engineering",
+                    "Information Technology",
+                    "Mathematics",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Biology",
+                    "Business Administration",
+                    "Computer Science",
+                    "Education",
+                    "Engineering",
+                    "Information Technology",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Education",
+                    "Modern Languages",
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bir Hospital\nMahaboudha",
+                "City": "Kathmandu",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://nams.edu.np",
+                "college_name": "National Academy of Medical Sciences",
+                "university_name": "(NAMS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Provides postgraduate training and specializations for doctors and nurses.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Nepali",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Cardiology",
+                    "Dentistry",
+                    "Dermatology",
+                    "Gastroenterology",
+                    "Hepatology",
+                    "Medicine",
+                    "Nephrology",
+                    "Neurology",
+                    "Nursing",
+                    "Obstetrics and Gynaecology",
+                    "Oncology",
+                    "Ophthalmology",
+                    "Oral Pathology",
+                    "Orthopaedics",
+                    "Otorhinolaryngology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Periodontics",
+                    "Plastic Surgery",
+                    "Psychiatry and Mental Health",
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Medicine",
+                    "Nursing",
+                    "Surgery"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Anaesthesiology",
+                    "Cardiology",
+                    "Dermatology",
+                    "Diabetology",
+                    "Endocrinology",
+                    "Gastroenterology",
+                    "Hepatology",
+                    "Medicine",
+                    "Nephrology",
+                    "Neurology",
+                    "Obstetrics and Gynaecology",
+                    "Oncology",
+                    "Ophthalmology",
+                    "Orthodontics",
+                    "Paediatrics",
+                    "Pathology",
+                    "Periodontics",
+                    "Plastic Surgery",
+                    "Psychiatry and Mental Health",
+                    "Surgery",
+                    "Urology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Manbhawan",
+                "City": "Lalitpur",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://nou.edu.np",
+                "college_name": "Nepal Open University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2016",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Nepali",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Health Science and Technology",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Health Sciences",
+                    "Medical Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Law",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Law",
+                    "Management",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Education",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Economics",
+                    "Education",
+                    "English",
+                    "Foreign Languages Education",
+                    "Health Education",
+                    "Mathematics Education",
+                    "Media Studies",
+                    "Political Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Education",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Anthropology",
+                    "Economics",
+                    "Educational Sciences",
+                    "English",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Doctor'sDegrees": [
+                    "Educational Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Beljhundi",
+                "City": "Dang",
+                "Province": "N/A",
+                "PostCode": "22412",
+                "Website": "N/A",
+                "college_name": "Nepal Sanskrit University",
+                "university_name": "Nepal Sanskrit Vishwavidalaya (NSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1986. Previously known as Mahendra Sanskrit University (Mahendra Sanskrit Vishwavidalaya).",
+            "AcademicYear": "July to May",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Nepali",
+                "Sanskrit",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Asian Religious Studies",
+                "FieldsOfStudy": [
+                    "Asian Religious Studies",
+                    "Yoga"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ayurveda Medicine and Surgery",
+                "FieldsOfStudy": [
+                    "Ayurvedic Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Classical Languages",
+                "FieldsOfStudy": [
+                    "Indic Languages",
+                    "Malay",
+                    "Native Language",
+                    "Sanskrit"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Sanskrit"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Sanskrit"
+                ],
+                "Doctor'sDegrees": [
+                    "Sanskrit"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 26500",
+                "City": "Patan",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.pahs.edu.np",
+                "college_name": "Patan Academy of Health Sciences",
+                "university_name": "(PAHS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2008. Provides post-sedondary medical training.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing and Midwifery",
+                "FieldsOfStudy": [
+                    "Midwifery",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Medicine",
+                    "Nursing",
+                    "Surgery"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Medicine",
+                    "Nursing",
+                    "Public Health",
+                    "Surgery"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Lekhnath-12\nKhudi, Dhungepatan",
+                "City": "Pokhara",
+                "Province": "Kaski",
+                "PostCode": "N/A",
+                "Website": "http://www.pu.edu.np",
+                "college_name": "Pokhara University",
+                "university_name": "Pokhara Vishwavidyalaya"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1997.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "National Examination Board Examination Certificate or equivalent secondary school leaving certificate for undergraduate studies; Bachelor's degree for Master's degree; Master's or Master of Philosophy for Doctoral studies"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Medical Technology",
+                    "Microbiology",
+                    "Nursing",
+                    "Optometry",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Demography and Population",
+                    "Development Studies",
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management Studies",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Health Administration",
+                    "Hotel Management",
+                    "Information Technology",
+                    "Insurance",
+                    "International Business",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Biochemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Engineering Management",
+                    "Environmental Management",
+                    "Information Technology",
+                    "Natural Resources",
+                    "Transport Engineering",
+                    "Transport Management",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Banking",
+                    "Biochemistry",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Development Studies",
+                    "Electrical and Electronic Engineering",
+                    "Environmental Management",
+                    "Health Administration",
+                    "Hotel Management",
+                    "Information Technology",
+                    "Medical Technology",
+                    "Nursing",
+                    "Pharmacy",
+                    "Public Health",
+                    "Software Engineering",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Health Administration"
+                ],
+                "Master'sDegree": [
+                    "English"
+                ],
+                "Doctor'sDegrees": [
+                    "Arts and Humanities",
+                    "Development Studies",
+                    "Management"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Post Box 142, Puspalal chowk",
+                "City": "Biratnagar",
+                "Province": "Morang",
+                "PostCode": "56613",
+                "Website": "http://purbuniv.edu.np",
+                "college_name": "Purbanchal University",
+                "university_name": "Purbanchal Vishwavidalaya"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1993",
+            "AcademicYear": "July to June",
+            "AdmissionRequirements": [
+                "12th year senior or intermediate examination or equivalent"
+            ],
+            "Languages": [
+                "Nepali",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Demography and Population",
+                    "Development Studies",
+                    "Gender Studies",
+                    "Interior Design",
+                    "Journalism",
+                    "Mass Communication",
+                    "Media Studies",
+                    "Peace and Disarmament",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Fashion Design",
+                    "Hotel Management",
+                    "Management",
+                    "Public Administration",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical and Allied Sciences",
+                "FieldsOfStudy": [
+                    "Homeopathic Medicine",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Architecture",
+                    "Biochemistry",
+                    "Biomedical Engineering",
+                    "Biotechnology",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Dairy",
+                    "Electrical and Electronic Engineering",
+                    "Engineering Management",
+                    "Food Technology",
+                    "Information Technology",
+                    "Surveying and Mapping",
+                    "Telecommunications Engineering",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Architecture",
+                    "Arts and Humanities",
+                    "Biomedical Engineering",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Cooking and Catering",
+                    "Dairy",
+                    "Education",
+                    "Fashion Design",
+                    "Food Technology",
+                    "Homeopathic Medicine",
+                    "Hotel Management",
+                    "Information Technology",
+                    "Interior Design",
+                    "Journalism",
+                    "Law",
+                    "Media Studies",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy",
+                    "Public Health",
+                    "Social Work",
+                    "Surveying and Mapping",
+                    "Telecommunications Engineering",
+                    "Tourism",
+                    "Veterinary Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Development Studies",
+                    "Economics",
+                    "Journalism",
+                    "Peace and Disarmament"
+                ],
+                "Master'sDegree": [
+                    "Agricultural Management",
+                    "Anthropology",
+                    "Biological and Life Sciences",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Dairy",
+                    "Demography and Population",
+                    "Development Studies",
+                    "Education",
+                    "Engineering Management",
+                    "Environmental Management",
+                    "Hotel Management",
+                    "Human Rights",
+                    "Journalism",
+                    "Law",
+                    "Mass Communication",
+                    "Meat and Poultry",
+                    "Media Studies",
+                    "Medicine",
+                    "Nursing",
+                    "Public Administration",
+                    "Regional Planning",
+                    "Seismology",
+                    "Social Work",
+                    "Sociology",
+                    "Tourism",
+                    "Town Planning"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Janakpur",
+                "Province": "Madhesh",
+                "PostCode": "N/A",
+                "Website": "https://rju.edu.np",
+                "college_name": "Rajarshi Janak University",
+                "university_name": "(RJU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2017",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Law",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Journalism",
+                    "Law",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "E-Business/Commerce",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science, Technology and Engineering",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Information Technology",
+                    "Medical Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "E-Business/Commerce",
+                    "Information Technology",
+                    "Journalism",
+                    "Law",
+                    "Management",
+                    "Medical Technology",
+                    "Public Health"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Philosophy"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

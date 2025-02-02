@@ -1,0 +1,77 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Pla\u00e7a de la Germandat, 7",
+                "City": "Sant Juli\u00e0 de L\u00f2ria",
+                "Province": "N/A",
+                "PostCode": "AD 600",
+                "Website": "https://www.uda.ad",
+                "college_name": "University of Andorra",
+                "university_name": "Universitat d'Andorra (UdA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Higher education in Andorra started in 1988 with two faculties: the School of Nursing and the School of Computer Systems. The University of Andorra was formally created by law in July 1997. Now, the University of Andorra is constituted by public centres devoted to higher education.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Established by the government depending on the degree"
+            ],
+            "Languages": [
+                "Catalan",
+                "English",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "College of Business and Technology",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "College of eLearning and Lifelong Learning",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Catalan",
+                    "Law",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "College of Health and Education Sciences",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Nursing and Midwifery"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Accountancy",
+                    "Management"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Economics",
+                    "Education",
+                    "Health Sciences",
+                    "Law",
+                    "Modern Languages"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

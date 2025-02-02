@@ -1,0 +1,3855 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ratapihantie 13",
+                "City": "Helsinki",
+                "Province": "N/A",
+                "PostCode": "00520",
+                "Website": "https://www.haaga-helia.fi/en",
+                "college_name": "Haaga-Helia University of Applied Sciences",
+                "university_name": "Haaga-Helia ammattikorkeakoulu \u2013 HAAGA-HELIA Polytechnic (HAAGA-HELIA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992. Acquired present title 2007, following merger with Haaga ammattikorkeakoulu (Haaga Polytechnic). Formerly known as Helsingin liiketalouden ammattikorkeakoulu Helsingfors yrkesh\u00f6gskola f\u00f6r f\u00f6retagsekonomi (Helsinki Business Polytechnic)",
+            "AcademicYear": "August to December; January to May",
+            "AdmissionRequirements": [
+                "Bachelor level:\nlukion p\u00e4\u00e4tt\u00f6todistus / ylioppilastutkintotodistus = Upper secondary education and Matriculation examination completed in Finland;\nopistoasteen / ammatillisen korkea-asteen tutkinto = a vocational college diploma or higher vocational diploma completed in Finland (ex",
+                "insin\u00f6\u00f6ri, merkonomi);\nammatillinen perustutkinto = Vocational upper secondary diploma/higher vocational diploma/vocational qualification in adult education completed in Finland (ex",
+                "liiketalouden perustutkinto, tietojenk\u00e4sittelyn perustutkinto, matkailualan perustutkinto); \nammattitutkinto = further vocational qualification completed in Finland;\nerikoisammattitutkinto = specialist vocational qualification completed in Finland;\nForeign degree or qualification which gives eligibility for higher education in the awarding country",
+                "Entrance examination",
+                "In English-language programmes, applicants who are not a citizen of an EU/EEA country must provide proof of his/her English language skills (example IELTS, TOEFL)",
+                "Master level:\nalempi ammattikorkeakoulututkinto = Bachelor\u2019s degree completed in Finland in University of Applied Sciences (ex",
+                "tradenomi, restonomi (AMK), medianomi (AMK));\nkandidaatin tutkinto = Bachelor\u2019s degree completed in Finland in University;\nmaisterin tutkinto = Master\u2019s degree completed in Finland in University;\nForeign Bachelor or Master\u2019s degree ;\nMinimum requirements: Entrance examination",
+                "Degree must be completed from the corresponding field",
+                "Two years of working experience after the degree in the same field"
+            ],
+            "Languages": [
+                "Finnish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Finance",
+                    "International Business",
+                    "Modern Languages",
+                    "Sales Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel, Restaurant and Tourism",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Hotel Management",
+                    "Leisure Studies",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business Computing",
+                    "Information Management",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Management Systems"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Information Sciences",
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports",
+                "FieldsOfStudy": [
+                    "Leisure Studies",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "Vierum\u00e4ki"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "International Business",
+                    "Tourism"
+                ],
+                "Details": "Porvoo"
+            },
+            {
+                "College": "Vocational Teacher Education",
+                "FieldsOfStudy": [
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 479\nArkadiankatu 22",
+                "City": "Helsinki",
+                "Province": "N/A",
+                "PostCode": "00101",
+                "Website": "https://www.hanken.fi/en",
+                "college_name": "Hanken School of Economics",
+                "university_name": "Hanken Svenska handelsh\u00f6gskolan (Hanken)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1909. Authorised to grant Master of Science 1927, PhD 1944, and Licentiate 1953. Unit in Vaasa established 1980. Reports to the Ministry of Education and Culture",
+            "AcademicYear": "August to July",
+            "AdmissionRequirements": [
+                "BSc: Secondary school certificate (studentexamen) or equivalent and entrance examination; MSc: BSc-degree, language proficiency, and documented ability to conduct MSc-level studies; Executive MBA: BSc-degree, language proficiency, and documented ability to conduct MBA-level studies; PhD: MSc-degree, language proficiency, and documented ability to conduct PhD-level studies"
+            ],
+            "Languages": [
+                "Swedish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting and Commercial Law",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Commercial Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Organisation",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Leadership",
+                    "Management",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Geography (Human)",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 3\n(Fabianinkatu 33)",
+                "City": "Helsinki",
+                "Province": "N/A",
+                "PostCode": "00014",
+                "Website": "https://www.helsinki.fi",
+                "college_name": "University of Helsinki",
+                "university_name": "Helsingin yliopisto \u2013 Helsingsfors universitet (UH)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Royal Academy of Turku 1640. Transferred to Helsinki 1828. The first and only university in the country until 1919. \nThe University of Helsinki is part of the Sein\u00e4joki University Consortium (UCS) which brings together University of Tampere, Helsinki University of the Arts - Sibelius Academy, University of Vaasa, University of Turku, the University Association of South Ostrobothnia, the Natural Resources Institute Finland and the Migration Institute of Finland. The Sein\u00e4joki University Consortium is one of six university consortia in Finland and is coordinate by Tampere University.",
+            "AcademicYear": "September to May (September-December; January-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (ylioppilastutkinto/studentexamen) or foreign equivalent, BA/BSc for admission into Master's programmes"
+            ],
+            "Languages": [
+                "Finnish",
+                "Swedish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Centre for University Teaching and Learning (HYPE)",
+                "FieldsOfStudy": [
+                    "https://www.helsinki.fi/en/centre-for-university-teaching-and-learning-hype"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "HY+",
+                "FieldsOfStudy": [
+                    "https://eduvisit.hyplusglobal.fi/"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language Centre",
+                "FieldsOfStudy": [
+                    "Offers language courses for all students",
+                    "faculty and staff"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Neuroscience Center",
+                "FieldsOfStudy": [
+                    "https://www.helsinki.fi/en/hilife-neuroscience-center"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture and Forestry",
+                "FieldsOfStudy": [
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Arctic Studies",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Aesthetics",
+                    "African Studies",
+                    "Archaeology",
+                    "Art History",
+                    "Asian Studies",
+                    "Baltic Languages",
+                    "Cinema and Television",
+                    "Comparative Literature",
+                    "Comparative Religion",
+                    "Cultural Studies",
+                    "English",
+                    "Ethnology",
+                    "Film",
+                    "Finnish",
+                    "Folklore",
+                    "German",
+                    "History",
+                    "Hungarian",
+                    "Linguistics",
+                    "Literature",
+                    "Marine Science and Oceanography",
+                    "Museum Studies",
+                    "Musicology",
+                    "Philology",
+                    "Philosophy",
+                    "Romance Languages",
+                    "Scandinavian Languages",
+                    "Slavic Languages",
+                    "Theatre",
+                    "Translation and Interpretation",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biological and Environmental Sciences",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Biotechnology",
+                    "Ecology",
+                    "Genetics",
+                    "Microbiology",
+                    "Neurosciences",
+                    "Physiology",
+                    "Plant Pathology",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Cognitive Sciences",
+                    "Education",
+                    "Educational Testing and Evaluation",
+                    "Handicrafts",
+                    "Higher Education",
+                    "Home Economics",
+                    "Speech Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Criminal Law",
+                    "Human Rights",
+                    "International Economics",
+                    "International Law",
+                    "Justice Administration",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Dentistry",
+                    "Forensic Medicine and Dentistry",
+                    "Medicine",
+                    "Psychology",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science",
+                    "Chemistry",
+                    "Computer Science",
+                    "Geography",
+                    "Geology",
+                    "Mathematics",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Economics",
+                    "Political Sciences",
+                    "Social Psychology",
+                    "Social Studies",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Comparative Religion",
+                    "History of Religion",
+                    "Orthodox Theology",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aleksanteri Institute - Finnish Centre for Russian and East European Studies",
+                "FieldsOfStudy": [
+                    "https://www.helsinki.fi/en/aleksanteri-institute"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finnish Institute for Verification of the Chemical Weapons Convention (VERIFIN)",
+                "FieldsOfStudy": [
+                    "https://www.helsinki.fi/en/verifin-finnish-institute-for-verification-of-the-chemical-weapons-convention"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Helsinki Collegium for Advanced Studies",
+                "FieldsOfStudy": [
+                    "https://www.helsinki.fi/en/helsinki-collegium-for-advanced-studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Helsinki Institute for Information Technology (HIIT)",
+                "FieldsOfStudy": [
+                    "https://www.hiit.fi/"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Helsinki Institute of Life Science (HiLIFE)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Helsinki Institute of Physics (HIP)",
+                "FieldsOfStudy": [
+                    "http://www.hip.fi/"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Helsinki Institute of Sustainability Science (HELSUS)",
+                "FieldsOfStudy": [
+                    "https://www.helsinki.fi/en/helsinki-institute-of-sustainability-science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Institute for Atmospheric and Earth system Research (INAR)",
+                "FieldsOfStudy": [
+                    "https://www.helsinki.fi/en/inar-institute-for-atmospheric-and-earth-system-research"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Institute for Molecular Medicine Finland (FIMM)",
+                "FieldsOfStudy": [
+                    "https://www.helsinki.fi/en/hilife-fimm"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Institute of Biotechnology",
+                "FieldsOfStudy": [
+                    "https://www.helsinki.fi/en/hilife-institute-of-biotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Institute of Seismology",
+                "FieldsOfStudy": [
+                    "https://www.helsinki.fi/en/institute-of-seismology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Helsinki University Library",
+                "FieldsOfStudy": [
+                    "https://www.helsinki.fi/en/helsinki-university-library"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Seminaarinkatu 15 (Kirjaamo ja arkisto)\nP.O. Box 35",
+                "City": "Jyv\u00e4skyl\u00e4",
+                "Province": "N/A",
+                "PostCode": "40014",
+                "Website": "https://www.jyu.fi",
+                "college_name": "University of Jyv\u00e4skyl\u00e4",
+                "university_name": "Jyv\u00e4skyl\u00e4n yliopisto (JYU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1863 as the first Finnish-speaking teacher training college, Jyv\u00e4skyl\u00e4 Teacher Seminary. JYU became Jyv\u00e4skyl\u00e4 College of Education in 1934 and acquired its present status and title, University of Jyv\u00e4skyl\u00e4, in 1966. The University of Jyv\u00e4skyl\u00e4 is part of the Kajaani University Consortium (KUC) a networked academic community focused on scientific research, university teaching and community relations. The Kajaani University Consortium consists of four networked universities (Eastern Finland, Lapland, Jyv\u00e4skyl\u00e4 and Oulu) that have units in Kajaani and Sotkamo. The Consortium is coordinated by University of Oulu.",
+            "AcademicYear": "Autumn semester: September-December; Spring semester: January-June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (ylioppilastutkinto) or foreign equivalent, and entrance examination"
+            ],
+            "Languages": [
+                "Finnish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education and Psychology",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Special Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Applied Linguistics",
+                    "Art Education",
+                    "Art History",
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "English",
+                    "Ethnology",
+                    "Finnish",
+                    "Foreign Languages Education",
+                    "French",
+                    "German",
+                    "History",
+                    "Humanities and Social Science Education",
+                    "Journalism",
+                    "Linguistics",
+                    "Literature",
+                    "Modern Languages",
+                    "Museum Studies",
+                    "Music",
+                    "Music Education",
+                    "Musicology",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Romance Languages",
+                    "Russian",
+                    "Social Policy",
+                    "Social Work",
+                    "Sociology",
+                    "Speech Studies",
+                    "Swedish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Cognitive Sciences",
+                    "Computer Education",
+                    "Computer Science",
+                    "Information Management",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Science",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Ecology",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Limnology",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Natural Resources",
+                    "Natural Sciences",
+                    "Nuclear Physics",
+                    "Physics",
+                    "Science Education",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports and Health Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Gerontology",
+                    "Health Education",
+                    "Health Sciences",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Physiology",
+                    "Public Health",
+                    "Social Sciences",
+                    "Sports Management",
+                    "Sports Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chydenius",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Social Work",
+                    "Teacher Training"
+                ],
+                "Details": "Kokkola"
+            },
+            {
+                "College": "Educational Research",
+                "FieldsOfStudy": [
+                    "Educational Research"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Open University",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Environmental Studies",
+                    "Health Sciences",
+                    "Information Sciences",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Social Sciences",
+                    "Social Work",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "The Centre for Multilingual Academic Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Linguistics",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Economics (Jyv\u00e4skyl\u00e4)",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Environmental Management",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 122\nYliopistonkatu 8",
+                "City": "Rovaniemi",
+                "Province": "N/A",
+                "PostCode": "96101",
+                "Website": "https://www.ulapland.fi",
+                "college_name": "University of Lapland",
+                "university_name": "Lapin yliopisto"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1979. A State institution. The University of Lapland is part of the Kajaani University Consortium (KUC) a networked academic community focused on scientific research, university teaching and community relations. The Kajaani University Consortium consists of four networked universities (Eastern Finland, Lapland, Jyv\u00e4skyl\u00e4 and Oulu) that have units in Kajaani and Sotkamo. The Consortium is coordinated by University of Oulu. University of Lapland is also member of the University of the Arctic (Uartic), a network of over 200 universities, colleges, research institutes and other organizations concerned with education and research in and about the North",
+            "AcademicYear": "August to May (August-December; January-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (ylioppilastutkinto) or equivalent"
+            ],
+            "Languages": [
+                "Finnish",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arctic",
+                "FieldsOfStudy": [
+                    "Arctic Studies",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "For basic language courses and Finnish courses for overseas students."
+            },
+            {
+                "College": "Art and Design",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Clothing and Sewing",
+                    "Fashion Design",
+                    "Graphic Design",
+                    "Industrial Design",
+                    "Interior Design",
+                    "Media Studies",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Education",
+                    "Gender Studies",
+                    "Primary Education",
+                    "Teacher Training",
+                    "Technology Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Comparative Law",
+                    "International Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Law",
+                    "Social Sciences",
+                    "Social Welfare",
+                    "Social Work",
+                    "Sociology",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Lapland Institute for Tourism Research and Education",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 700\nWolffintie 34",
+                "City": "Vaasa",
+                "Province": "N/A",
+                "PostCode": "65101",
+                "Website": "https://www.uwasa.fi",
+                "college_name": "University of Vaasa",
+                "university_name": "Vaasan yliopisto"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1968 as private School of Economics and Business Administration. Became state institution 1977. Acquired present status and title 1991. The University of Vaasa is part of the Sein\u00e4joki University Consortium (UCS) which brings together University of Tampere, Helsinki University of the Arts - Sibelius Academy, University of Turku, the University Association of South Ostrobothnia, the Natural Resources Institute Finland and the Migration Institute of Finland. The Sein\u00e4joki University Consortium is one of six university consortia in Finland and is coordinate by Tampere University",
+            "AcademicYear": "September to May (September-December; January-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or certificate of secondary vocational education or Bachelor degree for master-level courses",
+                ""
+            ],
+            "Languages": [
+                "Finnish",
+                "English",
+                "Swedish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Commercial Law",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "English",
+                    "Finnish",
+                    "German",
+                    "Health Administration",
+                    "Public Administration",
+                    "Public Law",
+                    "Regional Studies",
+                    "Scandinavian Languages",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Mathematics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 18000\nOtakaari 1 B",
+                "City": "Espoo",
+                "Province": "N/A",
+                "PostCode": "00076",
+                "Website": "http://www.aalto.fi/fi",
+                "college_name": "Aalto University",
+                "university_name": "Aalto-yliopisto \u2013 Aalto-universitetet"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2010 following the merger of Helsingin kauppakorkeakoulu (Helsinki School of Economics and Business Administration - HSE) founded 1911; Taideteollinen korkeakoulu - Konstindustriella h\u00f6gskolan (University of Art and Design, Helsinki - TaiK) founded 1871 and Teknillinen korkeakoulu-Tekniska h\u00f6gskolan (Helsinki University of Technology - TKK) founded 1849",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (ylioppilastutkinto) or equivalent and entrance examination"
+            ],
+            "Languages": [
+                "Finnish",
+                "Swedish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "Helsinki"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "Helsinki"
+            },
+            {
+                "College": "Arts, Design and Architecture",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Art History",
+                    "Business and Commerce",
+                    "Ceramics and Glass Technology",
+                    "Cinema and Television",
+                    "Design",
+                    "Display and Stage Design",
+                    "Fashion Design",
+                    "Film",
+                    "Fine Arts",
+                    "Furniture Design",
+                    "Graphic Design",
+                    "Industrial Design",
+                    "Interior Design",
+                    "Media Studies",
+                    "Painting and Drawing",
+                    "Photography",
+                    "Sculpture",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Commercial Law",
+                    "Communication Studies",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "Information Sciences",
+                    "Information Technology",
+                    "International Business",
+                    "International Economics",
+                    "Labour Law",
+                    "Leadership",
+                    "Management",
+                    "Management Systems",
+                    "Marketing",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemical Engineering",
+                "FieldsOfStudy": [
+                    "Applied Physics",
+                    "Biotechnology",
+                    "Building Technologies",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Computer Science",
+                    "Engineering",
+                    "Forest Products",
+                    "Geophysics",
+                    "Industrial Management",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanics",
+                    "Physics",
+                    "Real Estate",
+                    "Regional Studies",
+                    "Systems Analysis",
+                    "Technology",
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Nanotechnology",
+                    "Radio and Television Broadcasting",
+                    "Sound Engineering (Acoustics)"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Energy Engineering",
+                    "Engineering Drawing and Design",
+                    "Environmental Engineering",
+                    "Mechanical Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Applied Physics",
+                    "Biomedical Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Industrial Engineering",
+                    "Industrial Management",
+                    "Mathematics",
+                    "Media Studies",
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tuomiokirkontori 3",
+                "City": "Turku",
+                "Province": "N/A",
+                "PostCode": "20500",
+                "Website": "https://www.abo.fi",
+                "college_name": "\u00c5bo Akademi University",
+                "university_name": "\u00c5bo Akademi"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1918 as Centre of Research and Higher Education for the Swedish-speaking minority in Finland. First University established at \u00c5bo 1640, and transferred to Helsingfors (Helsinki) 1828. Incorporated Swedish School of Economics, \u00c5bo 1980. Under supervision of the Ministry of Education",
+            "AcademicYear": "August to July",
+            "AdmissionRequirements": [
+                "Secondary school certificate (ylioppi lastutkinto/studentexamen) or equivalent, and in some cases entrance examination"
+            ],
+            "Languages": [
+                "Swedish",
+                "Finnish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Biotechnology",
+                "FieldsOfStudy": [
+                    "Biotechnology"
+                ],
+                "Details": "Turku/\u00c5bo"
+            },
+            {
+                "College": "Arts, Psychology and Theology",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Communication Disorders",
+                    "Comparative Religion",
+                    "English",
+                    "Ethnology",
+                    "Gender Studies",
+                    "German",
+                    "History",
+                    "Nordic Studies",
+                    "Psychology",
+                    "Religion",
+                    "Russian",
+                    "Swedish",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Social Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Economics",
+                    "Information Sciences",
+                    "International Business",
+                    "International Economics",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Maritime Law",
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Administration",
+                    "Social Policy",
+                    "Social Sciences",
+                    "Sociology",
+                    "Statistics",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Welfare Studies",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Developmental Psychology",
+                    "Education",
+                    "Home Economics",
+                    "Mathematics Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Science Education",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Engineering",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Geology",
+                    "Marine Biology",
+                    "Mathematics",
+                    "Mineralogy",
+                    "Molecular Biology",
+                    "Paper Technology",
+                    "Pharmacy",
+                    "Physics",
+                    "Software Engineering",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences, Business and Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Computing",
+                    "Commercial Law",
+                    "Economics",
+                    "International Law",
+                    "Law",
+                    "Maritime Law",
+                    "Marketing",
+                    "Mass Communication",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Public Law",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Rights",
+                "FieldsOfStudy": [
+                    "Human Rights"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Jan-Magnus Janssonin aukio 1",
+                "City": "Helsinki",
+                "Province": "N/A",
+                "PostCode": "00560",
+                "Website": "http://www.arcada.fi",
+                "college_name": "Arcada University of Applied Sciences",
+                "university_name": "ARCADA"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1996. Acquired present status 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Swedish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Mangement and Analytics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Information Technology",
+                    "International Business",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culture and Communication",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy and Materials Technology",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Industrial Management",
+                    "Polymer and Plastics Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Welfare",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Physical Therapy",
+                    "Public Health",
+                    "Social and Community Services",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Talonpojankatu 2",
+                "City": "Kokkola",
+                "Province": "N/A",
+                "PostCode": "67100",
+                "Website": "https://web.centria.fi",
+                "college_name": "Centria University of Applied Sciences",
+                "university_name": "Centria ammattikorkeakoulu"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991, acquired present status and title 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Finnish",
+                "Swedish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Culture",
+                "FieldsOfStudy": [
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Education",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Resources and the Environment",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Natural Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural sciences",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences, Business and Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Services, Health and Sport",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Public Health",
+                    "Social Welfare",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology, Communication and Transport",
+                "FieldsOfStudy": [
+                    "Technology",
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism, Catering and Domestic Services",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 12",
+                "City": "Helsinki",
+                "Province": "N/A",
+                "PostCode": "00511",
+                "Website": "http://www.diak.fi",
+                "college_name": "Diaconia University of Applied Sciences",
+                "university_name": "Diakonia-ammattikorkeakoulu (DIAK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2000",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Finnish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Social Services",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Social and Community Services",
+                    "Social Welfare"
+                ],
+                "Details": "Taught in Finnish"
+            },
+            {
+                "College": "Social Services",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Public Health",
+                    "Social and Community Services",
+                    "Social Welfare"
+                ],
+                "Details": "Taught in English"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 230",
+                "City": "H\u00e4meenlinna",
+                "Province": "N/A",
+                "PostCode": "13101",
+                "Website": "http://www.hamk.fi",
+                "college_name": "H\u00e4me University of Applied Sciences",
+                "university_name": "H\u00e4meen ammattikorkeakoulu HAMK (HAMK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1840 as School for agricultural studies. Unit for forestry studies created 1862, Handicraft school for girls 1885, Horticultural school 1910. Acquired present title and status 1996",
+            "AcademicYear": "September-May",
+            "AdmissionRequirements": [
+                "General upper secondary school syllabus or Matriculation Examination"
+            ],
+            "Languages": [
+                "Finnish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Culture",
+                "FieldsOfStudy": [
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Resources and the Environment",
+                "FieldsOfStudy": [
+                    "Natural Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences, Business and Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Services, Health and Sports",
+                "FieldsOfStudy": [
+                    "Social and Community Services",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology, Communication and Transport",
+                "FieldsOfStudy": [
+                    "Technology",
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ilkantie 4",
+                "City": "Helsinki",
+                "Province": "N/A",
+                "PostCode": "00400",
+                "Website": "https://www.humak.fi/en",
+                "college_name": "HUMAK University of Applied Sciences",
+                "university_name": "Humanistinen ammattikorkeakoulu \u2013 Humanities Polytechnic (HUMAK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Finnish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Cultural Management",
+                "FieldsOfStudy": [
+                    "Art Management",
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "NGO and Youth Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sign Language Interpretation",
+                "FieldsOfStudy": [
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 207",
+                "City": "Jyv\u00e4skyl\u00e4",
+                "Province": "N/A",
+                "PostCode": "40101",
+                "Website": "http://www.jamk.fi",
+                "college_name": "JAMK University of Applied Sciences",
+                "university_name": "Jyv\u00e4skyl\u00e4n ammattikorkeakoulu \u2013 Jyv\u00e4skyl\u00e4 University of Applied Sciences"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992, acquired present status and title 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Finnish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Hotel Management",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Social Studies",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Music Education",
+                    "Nursing",
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher Education",
+                "FieldsOfStudy": [
+                    "Teacher Training"
+                ],
+                "Details": "Professional training"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Natural Resources"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 52\nKetunpolku 3",
+                "City": "Kajaani",
+                "Province": "N/A",
+                "PostCode": "87101",
+                "Website": "https://www.kamk.fi/en",
+                "college_name": "Kajaani University of Applied Sciences",
+                "university_name": "Kajaanin ammattikorkeakoulu \u2013 Kajaani Polytechnic (KAMK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992. Acquired present status 1996",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Finnish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Construction Engineering",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Systems",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports",
+                "FieldsOfStudy": [
+                    "Leisure Studies",
+                    "Nursing",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tikkarinne 9",
+                "City": "Joensuu",
+                "Province": "N/A",
+                "PostCode": "80200",
+                "Website": "http://www.karelia.fi",
+                "college_name": "Karelia University of Applied Sciences",
+                "university_name": "Karelia ammattikorkeakoulu \u2013 Karelia Polytechnic"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992. Acquired present status and title 1996",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Finnish",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Culture",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Design",
+                    "Fine Arts",
+                    "Media Studies",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Resources and the Environment",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Forest Products",
+                    "Forestry",
+                    "Natural Resources",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences, Business and Administration",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Information Technology",
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social services, Health and Sports",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Nursing",
+                    "Physical Therapy",
+                    "Social Sciences",
+                    "Social Welfare",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology, Communication and Transport",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Environmental Engineering",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Production Engineering",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism, Catering and Domestic Services",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Mukkulankatu 19",
+                "City": "Lahti",
+                "Province": "N/A",
+                "PostCode": "15210",
+                "Website": "https://lab.fi/fi",
+                "college_name": "LAB University of Applied Sciences",
+                "university_name": "LAB ammattikorkeakoulu"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991, acquired present status and renamed Lahti University of Applied Sciences 1996. Acquired current title 2019 following merger with Saimaa University of Applied Sciences",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Finnish",
+                "English",
+                "Swedish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Finance",
+                    "Information Technology",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Design",
+                    "Fashion Design",
+                    "Furniture Design",
+                    "Graphic Design",
+                    "Industrial Design",
+                    "Interior Design",
+                    "Jewellery Art",
+                    "Multimedia",
+                    "Photography",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Care",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Information Technology",
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Polymer and Plastics Technology",
+                    "Production Engineering",
+                    "Software Engineering",
+                    "Telecommunications Engineering",
+                    "Textile Technology",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Jokiv\u00e4yl\u00e4 11 C",
+                "City": "Rovaniemi",
+                "Province": "N/A",
+                "PostCode": "96300",
+                "Website": "http://www.lapinamk.fi/fi",
+                "college_name": "Lapland University of Applied Sciences",
+                "university_name": "Lapin ammattikorkeakoulu \u2013 Also Open University of Applied Sciences (Lapin AMK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1996, acquired present status and title 1998. Formed by the merger of Rovaniemi University of Applied Sciences (Rovaniemen ammattikorkeakoulu) and Kemi-Tornio University of Applied Sciences (Kemi-Tornion ammattikorkeakoulu) 2014.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Finnish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Culture",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Information Technology",
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality and Tourism",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Hotel and Restaurant",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industry and Natural Resources",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agricultural Equipment",
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Services, Health and Sport",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Nursing",
+                    "Physical Therapy",
+                    "Public Health",
+                    "Social and Community Services",
+                    "Social Welfare",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ratatie 22",
+                "City": "Vantaa",
+                "Province": "N/A",
+                "PostCode": "01300",
+                "Website": "http://www.laurea.fi",
+                "college_name": "Laurea University of Applied Sciences",
+                "university_name": "Laurea ammattikorkeakoulu \u2013 Laurea Polytechnic (Laurea UAS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2001. Formerly known as Vantaa University of Applied Sciences and Espoo-Vantaa University of Applied Sciences",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Finnish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Health Administration",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Undergraduate",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Health Administration",
+                    "Nursing",
+                    "Service Trades",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Yliopistonkatu 34",
+                "City": "Lappeenranta",
+                "Province": "N/A",
+                "PostCode": "53850",
+                "Website": "https://www.lut.fi",
+                "college_name": "LUT University",
+                "university_name": "LUT-yliopisto (LUT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1969. A State institution under the supervision of the Ministry of Education",
+            "AcademicYear": "September to May (September-December; January-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (ylioppilastutkinto) or equivalent at the bachelor level\nMinimum bachelor of engineering or business in the field admission at the master level"
+            ],
+            "Languages": [
+                "Finnish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology Management",
+                "FieldsOfStudy": [
+                    "Industrial Management",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Carelian Drives and Motor",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "CDMC"
+            },
+            {
+                "College": "Computational Engineering and Integrated Design",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "CEID"
+            },
+            {
+                "College": "Northern Dimension",
+                "FieldsOfStudy": [
+                    "Central European Studies",
+                    "Eastern European Studies",
+                    "Russian"
+                ],
+                "Details": "NORDI"
+            },
+            {
+                "College": "Separation Technology",
+                "FieldsOfStudy": [
+                    "Environmental Engineering",
+                    "Environmental Management"
+                ],
+                "Details": "CST"
+            },
+            {
+                "College": "South Karelian",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Development Studies",
+                    "Regional Studies",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology Business Research",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 4000\nMyllypurontie 1",
+                "City": "Metropolia",
+                "Province": "N/A",
+                "PostCode": "FI-00079",
+                "Website": "http://www.metropolia.fi",
+                "college_name": "Metropolia University of Applied Sciences",
+                "university_name": "Metropolia Ammattikorkeakoulu \u2013 Helsinki Metropolia Polytechnic"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2008 following merger of EVTEK University of Applied Sciences and Helsinki Polytechnic Stadia. Was also known as Helsinki Metropolia University of Applied Sciences",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Finnish",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Culture and Creative Industries",
+                "FieldsOfStudy": [
+                    "Cinema and Television",
+                    "Design",
+                    "Fashion Design",
+                    "Heritage Preservation",
+                    "Jazz and Popular Music",
+                    "Media Studies",
+                    "Music",
+                    "Performing Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Care and Nursing",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Nursing",
+                    "Oral Pathology",
+                    "Radiology",
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Welfare and Human Functioning",
+                "FieldsOfStudy": [
+                    "Dental Technology",
+                    "Gerontology",
+                    "Occupational Therapy",
+                    "Optometry",
+                    "Osteopathy",
+                    "Physical Therapy",
+                    "Rehabilitation and Therapy",
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business Computing",
+                    "International Business",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering and Building Services",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Real Estate",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "ICT",
+                "FieldsOfStudy": [
+                    "Industrial Management",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Engineering",
+                "FieldsOfStudy": [
+                    "Automotive Engineering",
+                    "Biotechnology",
+                    "Chemical Engineering",
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Food Technology",
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 6",
+                "City": "Vaasa",
+                "Province": "N/A",
+                "PostCode": "65201",
+                "Website": "http://www.novia.fi",
+                "college_name": "Novia University of Applied Sciences",
+                "university_name": "Yrkesh\u00f6gskolan Novia \u2013 Novia Polytechnic"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2008 following the merger of Yrkesh\u00f6gskolan Sydv\u00e4st (Sydv\u00e4st University of Applied Sciences) and Svenska yrkesh\u00f6gskolan (Swedish Polytechnic, Finland)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Finnish",
+                "Swedish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Management",
+                    "Natural Resources",
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Undergraduate",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Hotel Management",
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 222",
+                "City": "Oulu",
+                "Province": "N/A",
+                "PostCode": "90101",
+                "Website": "http://www.oamk.fi",
+                "college_name": "Oulu University of Applied Sciences",
+                "university_name": "Oulun ammattikorkeakoulu \u2013 Oulu Polytechnic (OAMK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992. Acquired present status and title 1996",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Finnish",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Information Management",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Economics",
+                    "Information Management",
+                    "Information Technology",
+                    "International Business",
+                    "Library Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Natural Resources",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Environmental Studies",
+                    "Information Technology",
+                    "Laboratory Techniques",
+                    "Mechanical Engineering",
+                    "Natural Resources",
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and  Social Care",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Optometry",
+                    "Physical Therapy",
+                    "Public Health",
+                    "Radiology",
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media and Performing Arts",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Media Studies",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Vocational Teacher Education",
+                "FieldsOfStudy": [
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 1001\nSatakunnankatu 23",
+                "City": "Pori",
+                "Province": "N/A",
+                "PostCode": "28101",
+                "Website": "http://www.samk.fi",
+                "college_name": "Satakunta University of Applied Sciences",
+                "university_name": "Satakunnan ammattikorkeakoulu \u2013 Satakunta Polytechnic (SAMK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Finnish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Energy and Construction",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Logistics and Maritime Technology",
+                "FieldsOfStudy": [
+                    "Industrial Engineering",
+                    "Marine Transport",
+                    "Production Engineering",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Service Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Welfare",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Rehabilitation and Therapy",
+                    "Social Welfare"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 6\nMicrokatu 1",
+                "City": "Kuopio",
+                "Province": "N/A",
+                "PostCode": "70201",
+                "Website": "http://www.savonia.fi",
+                "college_name": "Savonia University of Applied Sciences",
+                "university_name": "Savonia ammattikorkeakoulu \u2013 Savonia Polytechnic (Savonia UAS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992, acquired present status and title 1998.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Finnish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Ceramic Art",
+                    "Fashion Design",
+                    "Furniture Design",
+                    "Glass Art",
+                    "Graphic Design",
+                    "Industrial Design",
+                    "Interior Design",
+                    "Jewellery Art",
+                    "Textile Design"
+                ],
+                "Details": "Kuopio"
+            },
+            {
+                "College": "Music and Dance",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Music"
+                ],
+                "Details": "Kuopio"
+            },
+            {
+                "College": "Business and Administration",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business and Commerce",
+                    "International Business"
+                ],
+                "Details": "Iisalmi, Kuopio and Varkaus"
+            },
+            {
+                "College": "Engineering and Technology",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Industrial Management"
+                ],
+                "Details": "Kuopio and Varkaus"
+            },
+            {
+                "College": "Natural Resources",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Natural Resources",
+                    "Rural Planning",
+                    "Rural Studies"
+                ],
+                "Details": "Peltosalmi"
+            },
+            {
+                "College": "Social and Health Care",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Public Health",
+                    "Social and Community Services"
+                ],
+                "Details": "Kuopio and Iisalmi"
+            },
+            {
+                "College": "Tourism and Catering",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Hotel and Restaurant",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "Kuopio"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 412\nKeskuskatu 34",
+                "City": "Sein\u00e4joki",
+                "Province": "N/A",
+                "PostCode": "60101",
+                "Website": "http://www.seamk.fi",
+                "college_name": "Sein\u00e4joki University of Applied Sciences",
+                "university_name": "Sein\u00e4joen ammattikorkeakoulu \u2013 Sein\u00e4joki Polytechnic (SeAmk)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1996",
+            "AcademicYear": "September to June (September-December; January-June)",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Finnish",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Culture",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Library Science",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food and Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Food Science",
+                    "Forestry",
+                    "Hotel and Restaurant"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Care and Social Work",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Nursing",
+                    "Rehabilitation and Therapy",
+                    "Social and Community Services",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 68 (Patteristonkatu 3 D)",
+                "City": "Mikkeli",
+                "Province": "N/A",
+                "PostCode": "50101",
+                "Website": "https://www.xamk.fi",
+                "college_name": "South-Eastern Finland University of Applied Sciences",
+                "university_name": "Kaakkois-Suomen ammattikorkeakoulu (XAMK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2017 following merger between Kymenlaakso University of Applied Sciences (Kymenlaakson ammattikorkeakoulu, created 1996) and Mikkeli University of Applied Sciences (Mikkelin ammattikorkeakoulu, created 1997).",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Finnish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Culture",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Wellbeing",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kalevantie 4",
+                "City": "Tampere",
+                "Province": "N/A",
+                "PostCode": "33014",
+                "Website": "https://www.tuni.fi/en/about-us/tampere-university",
+                "college_name": "Tampere University",
+                "university_name": "Tampereen yliopisto (TAU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Tampere University was established in 2019, through the merger of the University of Tampere and Tampere University of Technology.  Both predecessors had a long history as higher education institutions before the merger. University of Tampere was originally founded in 1925 in Helsinki as the Civic College. It was renamed the School of Social Sciences in 1930 and relocated to Tampere in 1960. In 1966, it became the University of Tampere. Tampere University of Technology began as a branch of the Helsinki University of Technology in 1965 and gained independent university status in 1972. Today, Tampere University is a multidisciplinary institution and a major shareholder of Tampere University of Applied Sciences.",
+            "AcademicYear": "September to May (September-December; January-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (ylioppilastutkinto) or foreign equivalent, and entrance examination"
+            ],
+            "Languages": [
+                "Finnish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "University Consortium of Sein\u00e4joki",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Mechanical Engineering",
+                    "Social Work"
+                ],
+                "Details": "The University Consortium of Sein\u00e4joki is a networked community of 80 multidisciplinary experts from four Finnish universities. The University Consortium is formed by Tampere University, the University of Helsinki, the U"
+            },
+            {
+                "College": "Built Environment",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Culture",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Foreign Languages Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Teacher Trainers Education",
+                    "Teacher Training",
+                    "Upper Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Automation",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Physical Engineering",
+                    "Physics",
+                    "Robotics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology and Communication Sciences",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Digital Technology",
+                    "Electrical and Electronic Engineering",
+                    "Electronics and Automation",
+                    "Information Technology",
+                    "Mass Communication",
+                    "Mathematics and Computer Science",
+                    "Modern Languages",
+                    "Robotics",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Economics",
+                    "Engineering Management",
+                    "Finance",
+                    "Industrial Engineering",
+                    "Information Management",
+                    "Insurance",
+                    "Marketing",
+                    "Political Sciences",
+                    "Public Law",
+                    "Regional Studies",
+                    "Sustainable Development"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Health Technology",
+                "FieldsOfStudy": [
+                    "Bioengineering",
+                    "Biological and Life Sciences",
+                    "Biomedical Engineering",
+                    "Biomedicine",
+                    "Medical Technology",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Gender Studies",
+                    "Health Sciences",
+                    "History",
+                    "Literature",
+                    "Nursing",
+                    "Peace and Disarmament",
+                    "Philosophy",
+                    "Psychology",
+                    "Public Health",
+                    "Social Policy",
+                    "Social Psychology",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tampere Institute of Advanced Study",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finnish Social Science Data Archive",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Library",
+                "FieldsOfStudy": [
+                    "Architecture and Planning",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Health Sciences",
+                    "Information Sciences",
+                    "Law",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Social Sciences",
+                    "Theatre",
+                    "Transport and Communications",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kuntokatu 3",
+                "City": "Tampere",
+                "Province": "N/A",
+                "PostCode": "33520",
+                "Website": "https://www.tuni.fi/en/about-us/tamk",
+                "college_name": "Tampere University of Applied Sciences",
+                "university_name": "Tampereen ammattikorkeakoulu (TAMK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2010 following the merger of Pirkanmaan ammattikorkeakoulu (PIRAMK University of Applied Sciences) and Tampereen ammattikorkeakoulu (TAMK University of Applied Sciences). A full member of the Tampere Universities community \u2013 together with Tampere University since 2019. Tampere University of Applied Sciences is part of the Tampere Universities community",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Finnish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate, Master's Programmes in English",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Forestry",
+                    "Media Studies"
+                ],
+                "Details": "Master's Programmes in English"
+            },
+            {
+                "College": "Postgraduate, Master's Programmes in Finnish",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Engineering",
+                    "Health Sciences",
+                    "Hotel and Restaurant",
+                    "Media Studies"
+                ],
+                "Details": "Master's Programmes in Finnish"
+            },
+            {
+                "College": "Undergraduate, Bachelor's Programmes in English",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Engineering",
+                    "Media Studies"
+                ],
+                "Details": "Bachelor's Programmes in English"
+            },
+            {
+                "College": "Undergraduate, Bachelor's Programmes in Finnish",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Engineering",
+                    "Forestry",
+                    "Health Sciences",
+                    "Hotel and Restaurant",
+                    "Media Studies",
+                    "Social Work"
+                ],
+                "Details": "Bachelor's Programmes in Finnish"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Joukahaisenkatu 3",
+                "City": "Turku",
+                "Province": "N/A",
+                "PostCode": "20520",
+                "Website": "http://www.turkuamk.fi",
+                "college_name": "Turku University of Applied Sciences",
+                "university_name": "Turun ammattikorkeakoulu - \u00c5bo yrkesh\u00f6gskola \u2013 Turku Polytechnic (TURKU AMK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Finnish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Media Studies",
+                    "Music",
+                    "Performing Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business, ICT and Chemical Engineering",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Well-being",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Nursing",
+                    "Rehabilitation and Therapy",
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology, Environment and Business",
+                "FieldsOfStudy": [
+                    "Automotive Engineering",
+                    "Civil Engineering",
+                    "Engineering Drawing and Design",
+                    "Environmental Engineering",
+                    "Industrial Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Yliopistonranta 1\nP.O. Box 1627",
+                "City": "Kuopio",
+                "Province": "N/A",
+                "PostCode": "70211",
+                "Website": "https://www.uef.fi",
+                "college_name": "University of Eastern Finland",
+                "university_name": "It\u00e4-Suomen yliopisto (UEF)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2010 following merger of Joensuun yliopisto (University of Joensuu, founded 1969) and Kuopion yliopisto (University of Kuopio, founded 1966). The University of Eastern Finland is part of the Kajaani University Consortium (KUC). The Kajaani University Consortium consists of four networked universities (Eastern Finland, Lapland, Jyv\u00e4skyl\u00e4 and Oulu) that have units in Kajaani and Sotkamo. The Consortium is coordinated by University of Oulu",
+            "AcademicYear": "August to July (September-December; January-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (ylioppilastutkinto) or equivalent, and entrance examination",
+                "Applicants not fluent in Finnish need to have good skills in English verified by an internationally recognised language proficiency test"
+            ],
+            "Languages": [
+                "Finnish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Language centre",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "English",
+                    "Finnish",
+                    "French",
+                    "German",
+                    "Latin",
+                    "Russian",
+                    "Spanish",
+                    "Swedish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Training and Development, Aducate",
+                "FieldsOfStudy": [
+                    "Continuing Education"
+                ],
+                "Details": "Also Open University"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Biotechnology",
+                    "Dentistry",
+                    "Health Sciences",
+                    "Medicine",
+                    "Molecular Biology",
+                    "Neurosciences",
+                    "Nursing",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Public Health",
+                    "Toxicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education",
+                    "Psychology",
+                    "Teacher Training",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Forestry",
+                "FieldsOfStudy": [
+                    "Applied Physics",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Environmental Studies",
+                    "Forestry",
+                    "Information Technology",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Geography",
+                    "Health Administration",
+                    "History",
+                    "Law",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "A. I. Virtanen",
+                "FieldsOfStudy": [
+                    "Biomedicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Karelian",
+                "FieldsOfStudy": [
+                    "Eastern European Studies",
+                    "Ethnology",
+                    "History",
+                    "Rural Studies",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mekrij\u00e4rvi Research Station",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Forestry",
+                    "Laboratory Techniques"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 8000\nPentti Kaiteran katu 1",
+                "City": "Oulu",
+                "Province": "N/A",
+                "PostCode": "90014",
+                "Website": "http://www.oulu.fi/yliopisto",
+                "college_name": "University of Oulu",
+                "university_name": "Oulun yliopisto (OY)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1958. An autonomous State institution financed by the Government",
+            "AcademicYear": "September to July (September-December; January-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (ylioppilastutkinto), or equivalent, and selection according to entrance examination results"
+            ],
+            "Languages": [
+                "Finnish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arctic Medicine",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Biocentre",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment and Energy",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Excellence in Cell-Extracellular Matrix Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Technology",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Internet Excellence",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Life Course Epidemiology Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Microscopy and Nanotechnology",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Wireless Communications",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Biochemistry and Molecular Medicine",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Molecular Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Sciences",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Communication Disorders",
+                    "English",
+                    "German",
+                    "History",
+                    "Literature",
+                    "Philology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology and Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Dentistry",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Botany",
+                    "Chemistry",
+                    "Genetics",
+                    "Mathematics",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Environmental Engineering",
+                    "Industrial Engineering",
+                    "Industrial Management",
+                    "Materials Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Bioeconomy",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Eudaimonia Research Center",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Research Centre",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architectural Restoration",
+                    "Architecture",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "Oulu"
+            },
+            {
+                "College": "Mining",
+                "FieldsOfStudy": [
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 1",
+                "City": "Helsinki",
+                "Province": "N/A",
+                "PostCode": "00097",
+                "Website": "http://www.uniarts.fi",
+                "college_name": "University of the Arts Helsinki",
+                "university_name": "Taideyliopisto \u2013 Uniarts Helsinki"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2013 by the merger of Finnish Academy of Fine Arts (Kuvataideakatemia - Bildkunstakademin), Sibelius Academy (Sibelius-Akatemia, Sibelius-Akademin) and Theatre Academy Helsinki (Teatterikorkeakoulu - Teaterh\u00f6gskolan). Helsinki University of the Arts - Sibelius Academy is part of the Sein\u00e4joki University Consortium (UCS) which brings together University of Tampere, University of Vaasa, University of Turku, the University Association of South Ostrobothnia, the Natural Resources Institute Finland and the Migration Institute of Finland. The Sein\u00e4joki University Consortium is one of six university consortia in Finland and is coordinate by Tampere University",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Finnish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sibelius",
+                "FieldsOfStudy": [
+                    "Music"
+                ],
+                "Details": "Sibelius Academy is part of the Sein\u00e4joki University Consortium"
+            },
+            {
+                "College": "Theatre",
+                "FieldsOfStudy": [
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Turku",
+                "Province": "N/A",
+                "PostCode": "20014",
+                "Website": "https://www.utu.fi",
+                "college_name": "University of Turku",
+                "university_name": "Turun yliopisto (UTU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1920 as a private institution on the initiative of the Finnish University Society. Inaugurated 1922. Became State institution 1974 under the supervision of the Ministry of Education. Merged with Turku School of Economics in 2010. A Faculty of Engineering is established on January 1, 2021. Turku School of Economics is AACSB accredited. The University of Turku is part of the Sein\u00e4joki University Consortium (UCS) which brings together University of Tampere, Helsinki University of the Arts - Sibelius Academy, University of Vaasa, the University Association of South Ostrobothnia, the Natural Resources Institute Finland and the Migration Institute of Finland. The Sein\u00e4joki University Consortium is one of six university consortia in Finland and is coordinate by Tampere University",
+            "AcademicYear": "August to July (August-December; January-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Ylioppilastutkinto) or foreign equivalent, and entrance examination",
+                "Applicants not fluent in Finnish are required to hold a lower university degree (BA, BSc) and TOEFL test"
+            ],
+            "Languages": [
+                "Finnish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Brahea Centre of the University of Turku",
+                "FieldsOfStudy": [
+                    "Operation areas: Food Sector and Circular Economy",
+                    "Sea and Maritime Studies",
+                    "Staff and Organisations' Development",
+                    "Smart Cities and Regions",
+                    "Development of Higher Education",
+                    "Cultural Diversity and Migration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Centre for Language and Communication Studies",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "Responsible unit for the language, communication and intercultural skills teaching of most UTU faculties"
+            },
+            {
+                "College": "Finnish Centre for Astronomy with ESO",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science"
+                ],
+                "Details": "FINCA practices and co-ordinates Finnish research in fields of astronomy with European Southern Observatory (ESO) and promotes technological development work related to ESO"
+            },
+            {
+                "College": "Turku Bioscience",
+                "FieldsOfStudy": [
+                    "Biotechnology"
+                ],
+                "Details": "Turku Bioscience (previously known as Turku Centre for Biotechnology) is an advanced core facility and research centre hosted jointly by University of Turku and \u00c5bo Akademi University.The Centre was established in 1992"
+            },
+            {
+                "College": "Turku PET Centre",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "Turku PET Centre is a Finnish National Research Institute for the use of short-lived positron emitting isotopes in the field of medical research. The Centre was established in 1970s and it got National status in 1996"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Education",
+                    "Educational Sciences",
+                    "Preschool Education",
+                    "Special Education",
+                    "Teacher Training",
+                    "Technology Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "American Studies",
+                    "Anthropology",
+                    "Archaeology",
+                    "Art History",
+                    "Baltic Languages",
+                    "Classical Languages",
+                    "Comparative Literature",
+                    "Comparative Religion",
+                    "Cultural Studies",
+                    "English",
+                    "Ethnology",
+                    "Finnish",
+                    "Folklore",
+                    "Foreign Languages Education",
+                    "French",
+                    "German",
+                    "History",
+                    "Hungarian",
+                    "Italian",
+                    "Linguistics",
+                    "Literature",
+                    "Media Studies",
+                    "Museum Studies",
+                    "Musicology",
+                    "Romanian",
+                    "Russian",
+                    "Scandinavian Languages",
+                    "Spanish",
+                    "Swedish",
+                    "Translation and Interpretation",
+                    "Women's Studies",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Health Sciences",
+                    "Medicine",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "School of Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "Pori Unit of  the University of Turku School of Economics. Campuses both in Turku and Pori. AACSB accredited"
+            },
+            {
+                "College": "Science and Engineering",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Phonetics",
+                    "Statistics"
+                ],
+                "Details": "Former name: Mathematics and Natural Sciences"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Asian Studies",
+                    "Contemporary History",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Policy",
+                    "Social Work",
+                    "Sociology",
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Archipelago Research Institute",
+                "FieldsOfStudy": [
+                    "in Nauvo",
+                    "Seili Island"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Functional Foods Forum",
+                "FieldsOfStudy": [
+                    "brings together the multidisciplinary expertise for the research and development of high-quality and healthy foods of the future."
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Kevo Subarctic Research Institute",
+                "FieldsOfStudy": [
+                    "in Utsjoki"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cultural Production and Landscape Studies",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Landscape Architecture"
+                ],
+                "Details": "Rauma and Pori, Part of Turku School of Economics"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Wolffintie 30",
+                "City": "Vaasa",
+                "Province": "N/A",
+                "PostCode": "65200",
+                "Website": "http://www.puv.fi/fi",
+                "college_name": "Vaasa University of Applied Sciences",
+                "university_name": "Vaasan ammattikorkeakoulu - Vaasa yrkesh\u00f6gskola \u2013 Vaasa Polytechnic (VAMK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1996, acquired present status and title 2006",
+            "AcademicYear": "August to July",
+            "AdmissionRequirements": [
+                "Completed Finnish Matriculation Examination or Upper Secondary Examination, European or International Baccalaureate or Reifeprufung examination or vocational qualification of 3 years or more or other non-Finnish equivalents"
+            ],
+            "Languages": [
+                "Finnish",
+                "English",
+                "Swedish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Care and Social Services",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Public Health",
+                    "Social and Community Services",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Environmental Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

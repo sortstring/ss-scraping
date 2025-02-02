@@ -1,0 +1,4859 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "80 Castle Peak Road, Castle Peak Bay",
+                "City": "Tuen Mun",
+                "Province": "New Territories",
+                "PostCode": "N/A",
+                "Website": "https://www.chuhai.edu.hk",
+                "college_name": "Chu Hai College of Higher Education",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Chu Hai University was founded in Guangzhou, China 1947. The University moved to Hong Kong and registered as Chu Hai College 1949. Acquired present status 1949.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Art and Social Sciences",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "English",
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Architecture",
+                    "Business Administration",
+                    "Chinese",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Science",
+                    "English",
+                    "Finance",
+                    "Journalism",
+                    "Literature"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Asian Religious Studies",
+                    "Chinese"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "83 Tat Chee Avenue",
+                "City": "Kowloon",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.cityu.edu.hk",
+                "college_name": "City University of Hong Kong",
+                "university_name": "(CityU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1984 as City Polytechnic of Hong Kong. Acquired present status and title 1994.",
+            "AcademicYear": "September to May (September-December; January-May), Summer term, June-August",
+            "AdmissionRequirements": [
+                "Meet general requirement, English and/or Chinese proficiency",
+                "Individual programmes may have additional entrance requirements",
+                "Consult university for details",
+                ""
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Chinese Civilisation",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Chinese",
+                    "Literature",
+                    "Music",
+                    "Painting and Drawing",
+                    "Philosophy",
+                    "Sculpture",
+                    "South Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronic Packaging & Assemblies, Failure Analysis & Reliability Engineering (EPA Centre)",
+                "FieldsOfStudy": [
+                    "Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Innovative Applications of Internet and Multimedia Technologies (AIMtech Centre)",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Maritime and Transportation Law (HKCMT)",
+                "FieldsOfStudy": [
+                    "Maritime Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Smart Energy Conversion and Utilization Research (CSCR)",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Economics",
+                    "Finance",
+                    "Information Technology",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liberal Arts and Social Sciences",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "Communication Studies",
+                    "East Asian Studies",
+                    "English",
+                    "Linguistics",
+                    "Media Studies",
+                    "Psychology",
+                    "Public Administration",
+                    "Social Policy",
+                    "Social Studies",
+                    "Social Work",
+                    "Southeast Asian Studies",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Engineering",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Building Technologies",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Engineering Management",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Physics",
+                    "Structural Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Commercial Law",
+                    "Information Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Social Studies",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "Educational and Student Counselling",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Asian and International Studies",
+                "FieldsOfStudy": [
+                    "East Asian Studies",
+                    "International Studies",
+                    "South and Southeast Asian Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology and Chemistry",
+                "FieldsOfStudy": [
+                    "Applied Chemistry",
+                    "Biology",
+                    "Environmental Management",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Building Science and Technology",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Building Technologies",
+                    "Construction Engineering",
+                    "Engineering Management",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese, Translation and Linguistics",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "Cultural Studies",
+                    "Heritage Preservation",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil and Architectural Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Building Technologies",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Management",
+                    "Real Estate",
+                    "Structural Architecture",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Education",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Finance",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance",
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronic Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Systems",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "E-Business/Commerce",
+                    "Information Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Human Resources",
+                    "International Business",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Applied Mathematics",
+                    "Finance",
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical and Biomedical Engineering",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media and Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "English",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics and Materials Science",
+                "FieldsOfStudy": [
+                    "Applied Physics",
+                    "Materials Engineering",
+                    "Nanotechnology",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Policy",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Management",
+                    "Public Administration",
+                    "Social Policy",
+                    "Social Studies",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems Engineering and Engineering Management",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Engineering Drawing and Design",
+                    "Engineering Management",
+                    "Industrial Engineering",
+                    "Production Engineering",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ability R&D Energy (AERC)",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Structural Materials (CASM)",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Computing and Interactive Studies (ACIM)",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Media Studies",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Asia-Pacific Climate Impact Centre (GCCC)",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Meteorology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biosystems, Neuroscience, and Nanotechnology (CBNN)",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Nanotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chaos and Complex Networks (CCCN)",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese and Comparative Law (RCCL)",
+                "FieldsOfStudy": [
+                    "Comparative Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Research (CCR)",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "East Asian and Comparative Philosophy (CEACOP)",
+                "FieldsOfStudy": [
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Functional Photonics (CFP)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Governance in Asia (GARC)",
+                "FieldsOfStudy": [
+                    "Asian Studies",
+                    "Government"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hong Kong Advanced Institute for Cross-Disciplinary Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Intelligent Applications of Language Studies (HCLS)",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Linguistics"
+                ],
+                "Details": "The Halliday Centre"
+            },
+            {
+                "College": "Mathematical Sciences (LBJ)",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Science",
+                    "Mathematics"
+                ],
+                "Details": "Liu Bie Ju"
+            },
+            {
+                "College": "Multimedia Software Engineering Research Centre (MERC)",
+                "FieldsOfStudy": [
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Prognostics and System Health Management",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Robotics and Automation (CRA)",
+                "FieldsOfStudy": [
+                    "Electronics and Automation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Media Marketing and Business Intelligence (CSMR)",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Southeast Asia (SEARC)",
+                "FieldsOfStudy": [
+                    "Southeast Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "State Key Laboratory in Marine Pollution (SKLMP)",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "State Key Laboratory of Millimeter Waves (SKLMW)",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Super-Diamond and Advanced Films (COSDAF)",
+                "FieldsOfStudy": [
+                    "Nanotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "System Informatics Engineering (CSIE)",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport, Trade and Financial Studies (CTFS)",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Finance",
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing and Professional Education (SCOPE)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Creative Media",
+                "FieldsOfStudy": [
+                    "Cinema and Television",
+                    "Media Studies",
+                    "Photography",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy and Environment",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Business Administration",
+                    "Engineering Management",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Comparative Law",
+                    "International Law",
+                    "Law",
+                    "Maritime Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Engineering",
+                    "Law",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Accountancy",
+                    "Building Technologies",
+                    "Computer Networks",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Information Management",
+                    "Law"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Applied Mathematics",
+                    "Architecture",
+                    "Asian Studies",
+                    "Biomedical Engineering",
+                    "Biomedicine",
+                    "Building Technologies",
+                    "Chemistry",
+                    "Chinese",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Science",
+                    "E-Business/Commerce",
+                    "Economics",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "English",
+                    "Environmental Studies",
+                    "Finance",
+                    "History",
+                    "International Business",
+                    "International Economics",
+                    "International Studies",
+                    "Law",
+                    "Linguistics",
+                    "Management",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Media Studies",
+                    "Physics",
+                    "Public Health",
+                    "Social Sciences",
+                    "Technology",
+                    "Translation and Interpretation",
+                    "Veterinary Science"
+                ],
+                "Doctor'sDegrees": [
+                    "Accountancy",
+                    "Architecture",
+                    "Asian Studies",
+                    "Biomedical Engineering",
+                    "Biomedicine",
+                    "Business Administration",
+                    "Chinese",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Ecology",
+                    "Economics",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Engineering Management",
+                    "English",
+                    "Environmental Management",
+                    "Finance",
+                    "History",
+                    "International Studies",
+                    "Law",
+                    "Linguistics",
+                    "Management",
+                    "Marketing",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Physics",
+                    "Public Health",
+                    "Social Sciences",
+                    "Translation and Interpretation",
+                    "Veterinary Science"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Baptist University Road Campus",
+                "City": "Kowloon Tong",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.hkbu.edu.hk",
+                "college_name": "Hong Kong Baptist University",
+                "university_name": "(HKBU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1956 as Hong Kong Baptist College, became autonomous 1983, and acquired present status and title 1994.",
+            "AcademicYear": "September to June (September-January; January-June). MBA programme: September to May",
+            "AdmissionRequirements": [
+                "Either Hong Kong Certificate of Education Examination (HKCEE), with Grade E/Level 2 or above in 6 subjects including Chinese Language (or French or German) and English Language with at least 5 subjects in a single sitting; and Hong Kong Advanced Level Examination (HKALE), with Grade E or above in Advanced Supplementary ('AS') subjects of Chinese Language and Culture, and use of English and either 2 advanced Level (AL) subjects or 1 AL subject plus 2 AS subjects obtainable in any two sittings or an acceptable equivalent qualification",
+                "Under the new 4-year education system from 2012, the general entrance requirements for applicants with Hong Kong Diploma of Secondary Education (HKDSE) would be: Level 3 for English Language and Chinese Language, and Level 2 for Mathematics, Liberal Studies and One Elective subject",
+                "Some programmes have specific minimum entrance requirements, or additions to the above General Entrance Requirements",
+                ""
+            ],
+            "Languages": [
+                "English",
+                "Chinese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Sinology (Jao Tsung-I)",
+                "FieldsOfStudy": [
+                    "Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual Arts",
+                "FieldsOfStudy": [
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Luminescence Materials",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advancement of English for Professionals",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "Jockey Club Centre"
+            },
+            {
+                "College": "Advancement of Social Sciences Research",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Ethics",
+                "FieldsOfStudy": [
+                    "Ethics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Child Development",
+                "FieldsOfStudy": [
+                    "Child Care and Development"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "China Urban and Regional Studies",
+                "FieldsOfStudy": [
+                    "Regional Studies",
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese Cultural Heritage",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "CIE Wellness Promotion",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Corporate Governance and Finance Policy",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "European Documentation",
+                "FieldsOfStudy": [
+                    "European Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geo-Computation Studies",
+                "FieldsOfStudy": [
+                    "Geophysics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "High Performance Cluster Computing Centre",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "Supported by Dell and Intel (HPCCC)"
+            },
+            {
+                "College": "Hong Kong Chinese Medicine Authentication",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hong Kong Energy Studies",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hong Kong Organic Resource",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Strategy and Development",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liberal Studies in Schools",
+                "FieldsOfStudy": [
+                    "Resource Centre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematical Imaging and Vision",
+                "FieldsOfStudy": [
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Non-linear Studies",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nonlinear and Complex Systems (Beijing-Hong Kong-Singapore Joint Centre)",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Olympic Studies",
+                "FieldsOfStudy": [
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Quantitative Systems Biology",
+                "FieldsOfStudy": [
+                    "Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science Consultancy Services",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Mathematics",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sino-Christian Studies",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "Christian Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Translation",
+                "FieldsOfStudy": [
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Research and Development Division - School of Chinese Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Chinese",
+                    "English",
+                    "Music",
+                    "Philosophy",
+                    "Religion",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Applied Physics",
+                    "Biology",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Environmental Studies",
+                    "Information Technology",
+                    "Mathematics",
+                    "Operations Research",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Education",
+                    "European Studies",
+                    "Geography",
+                    "Geography (Human)",
+                    "Government",
+                    "History",
+                    "International Studies",
+                    "Leisure Studies",
+                    "Parks and Recreation",
+                    "Physical Education",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "South Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advancement of Chinese Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advancing Translational Medicine in Bone & Joint Diseases",
+                "FieldsOfStudy": [
+                    "Rheumatology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Development (Wing Lung Bank Institute)",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computational Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Contemporary China Studies",
+                "FieldsOfStudy": [
+                    "Asian Studies"
+                ],
+                "Details": "Advanced Institute"
+            },
+            {
+                "College": "Creativity",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "East-West Studies (David C. Lam)",
+                "FieldsOfStudy": [
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Enterprise Development",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Sciences (Croucher Institute)",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Sciences (HKBU - RCEES Joint Institute)",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Society",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sino-Humanitas (Mr. Simon Suen and Mrs. Mary Suen )",
+                "FieldsOfStudy": [
+                    "Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemical Testing Services/Advanced Instrumentation Laboratory",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dioxin Analysis",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Surface Analysis and Material Characterization",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advancement of Social Sciences Research",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Mathematics (Peking University-HKBU Joint Research Institute)",
+                "FieldsOfStudy": [
+                    "Applied Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cancer and Inflammation Research (Shum Yiu Foon Shum Bik Chuen Memorial Centre)",
+                "FieldsOfStudy": [
+                    "Oncology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Changshu",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese Businesses Case Research",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Comparative Governance and Policy Research",
+                "FieldsOfStudy": [
+                    "Government"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "e-Transformation Technology Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "HKBU-UIC Joint Institute of Research Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Media and Communication Research",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Modern History Research",
+                "FieldsOfStudy": [
+                    "History",
+                    "Modern History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pearl River Delta Environment (Sino-Forest Applied Research Centre)",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Recreation and Wellness Research (Dr Stephen Hui)",
+                "FieldsOfStudy": [
+                    "Parks and Recreation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Statistics Research and Consultancy",
+                "FieldsOfStudy": [
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Surface Analysis and Research",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ubiquitous Computing",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Youth Research and Practice",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "E-Business/Commerce",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Information Technology",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese Medicine",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Medicine",
+                    "Pharmacy",
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Cinema and Television",
+                    "Communication Arts",
+                    "Journalism",
+                    "Public Relations",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Information Technology",
+                    "International and Comparative Education",
+                    "Preschool Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Biomedicine",
+                    "Business Administration",
+                    "Chemistry",
+                    "Chinese",
+                    "Communication Arts",
+                    "Computer Science",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "Film",
+                    "Finance",
+                    "French Studies",
+                    "Geography (Human)",
+                    "Germanic Studies",
+                    "History",
+                    "Human Resources",
+                    "International Studies",
+                    "Journalism",
+                    "Literature",
+                    "Marketing",
+                    "Mass Communication",
+                    "Mathematics",
+                    "Media Studies",
+                    "Multimedia",
+                    "Music",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Education",
+                    "Public Relations",
+                    "Religion",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Statistics",
+                    "Traditional Eastern Medicine",
+                    "Translation and Interpretation",
+                    "Visual Arts",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Asian Studies",
+                    "Business Administration",
+                    "Chemistry",
+                    "Chinese",
+                    "Communication Arts",
+                    "Comparative Literature",
+                    "Economics",
+                    "Education",
+                    "Film",
+                    "Finance",
+                    "Health Administration",
+                    "Human Resources",
+                    "Information Technology",
+                    "Journalism",
+                    "Leisure Studies",
+                    "Literature",
+                    "Marketing",
+                    "Media Studies",
+                    "Modern Languages",
+                    "Multimedia",
+                    "Music",
+                    "Pharmacy",
+                    "Public Administration",
+                    "Public Health",
+                    "Radio and Television Broadcasting",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sports",
+                    "Traditional Eastern Medicine",
+                    "Translation and Interpretation",
+                    "Visual Arts",
+                    "Vocational Counselling"
+                ],
+                "Doctor'sDegrees": [
+                    "Accountancy",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Business Administration",
+                    "Chemistry",
+                    "Chinese",
+                    "Communication Arts",
+                    "Computer Science",
+                    "Economics",
+                    "Education",
+                    "English",
+                    "Film",
+                    "Finance",
+                    "Journalism",
+                    "Literature",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Philosophy",
+                    "Physics",
+                    "Religious Studies",
+                    "Translation and Interpretation"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Homantin",
+                "City": "Kowloon",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.hkmu.edu.hk",
+                "college_name": "Hong Kong Metropolitan University",
+                "university_name": "(HKMU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1989 as Open Learning Institute of Hong Kong, became the The Open University of Hong Kong, a self-accrediting institution in1997, and acquired current title in 2021.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "For undergraduate programmes, students should hold the Hong Kong Diploma of Secondary Education or equivalent",
+                "For postgraduate programmes, students should have an undergraduate degree",
+                ""
+            ],
+            "Languages": [
+                "Chinese",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Chinese",
+                    "Economics",
+                    "English",
+                    "Film",
+                    "Law",
+                    "Literature",
+                    "Performing Arts",
+                    "Psychology",
+                    "Public Administration",
+                    "Regional Studies",
+                    "Social Sciences",
+                    "Translation and Interpretation",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "E-Business/Commerce",
+                    "Finance",
+                    "International Business",
+                    "Law",
+                    "Management",
+                    "Management Systems",
+                    "Marketing"
+                ],
+                "Details": "Lee Shau Kee"
+            },
+            {
+                "College": "Education and Languages",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Foreign Languages Education",
+                    "Preschool Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing and Health Studies",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional and Continuing Education",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Criminology",
+                    "Fashion Design",
+                    "Health Sciences",
+                    "Interior Design",
+                    "Japanese",
+                    "Multimedia",
+                    "Natural Sciences",
+                    "Preschool Education",
+                    "Psychology",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Applied Chemistry",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Industrial Design",
+                    "Information Technology",
+                    "Mathematics",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Criminology",
+                    "Fashion Design",
+                    "Interior Design",
+                    "Japanese",
+                    "Media Studies",
+                    "Preschool Education",
+                    "Psychology",
+                    "Tourism"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Administration",
+                    "Artificial Intelligence",
+                    "Banking",
+                    "Biological and Life Sciences",
+                    "Business Computing",
+                    "Chinese",
+                    "Communication Arts",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "E-Business/Commerce",
+                    "Education",
+                    "Educational Administration",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "English",
+                    "Environmental Studies",
+                    "Finance",
+                    "Food Science",
+                    "Foreign Languages Education",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Nursing",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Real Estate",
+                    "Sports Management",
+                    "Taxation",
+                    "Tourism",
+                    "Translation and Interpretation",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Philosophy",
+                    "Social Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "325-329 Lai Chi Kik Road\nSham Shui Po",
+                "City": "Kowloon",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ny.edu.hk",
+                "college_name": "Hong Kong Nang Yan College of Higher Education",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1969 as Hong Kong Buddhist College (HKBC). In April 2014, HKBC was approved by the HKSAR Government to become Hong Kong Nang Yan College of Higher Education to award university-level 4-year full-time Degrees.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Art",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "General Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanistic Buddhism",
+                "FieldsOfStudy": [
+                    "Asian Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing and Healh Care",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Chinese",
+                    "English",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Nursing",
+                    "Social Work"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "10 Wai Tsui Crescent\nBraemar Hill Road",
+                "City": "North Point",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.hksyu.edu",
+                "college_name": "Hong Kong Shue Yan University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1971 as Hong Kong Shue Yan College. Acquired current title and status 2006. Hong Kong's first private university.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Hong Kong Diploma of Secondary Education (or equivalent) in at least six subjects, including English and Chinese",
+                ""
+            ],
+            "Languages": [
+                "English",
+                "Chinese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese Language and Literature",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Counselling and Psychology",
+                "FieldsOfStudy": [
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Finance",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language and Literature",
+                "FieldsOfStudy": [
+                    "English",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Journalism",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Business",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology",
+                "FieldsOfStudy": [
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Conflict Engagement and Resolution (IICER)",
+                "FieldsOfStudy": [
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cognitive Psychology",
+                "FieldsOfStudy": [
+                    "Cognitive Sciences",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Neuropsychology",
+                "FieldsOfStudy": [
+                    "Neurological Therapy",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Study in Dynamic Cooperative Games  (SRS Consortium)",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Management",
+                    "Mathematics",
+                    "Political Sciences",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business, Economic and Public Policy",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Contemporary China",
+                "FieldsOfStudy": [
+                    "Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Counselling and Research Centre",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Enterprise and Social Development",
+                "FieldsOfStudy": [
+                    "Small Business",
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Online Communication",
+                "FieldsOfStudy": [
+                    "Computer Networks"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Qualitative Social Research",
+                "FieldsOfStudy": [
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Survey and Research Centre",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Mass Communication",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Chinese",
+                    "Commercial Law",
+                    "Economics",
+                    "Finance",
+                    "History",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Chinese",
+                    "Cultural Studies",
+                    "Economics",
+                    "English",
+                    "History",
+                    "Marketing",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Doctor'sDegrees": [
+                    "Chinese",
+                    "Economics",
+                    "English",
+                    "History",
+                    "Psychology",
+                    "Sociology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "8 Castle Peak Road",
+                "City": "Tuen Mun",
+                "Province": "New Territories",
+                "PostCode": "N/A",
+                "Website": "http://www.ln.edu.hk",
+                "college_name": "Lingnan University",
+                "university_name": "(LU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1967. A degree-conferring tertiary institution fully funded by Hong Kong Government through the University Grants Committee. Acquired present status and title 1999.",
+            "AcademicYear": "September to May (September-December; January-May)",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Asian Pacific Studies",
+                "FieldsOfStudy": [
+                    "Asian Studies",
+                    "Pacific Area Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Policy Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Community College and Further Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Hong Kong and South China Historical Research",
+                "FieldsOfStudy": [
+                    "History",
+                    "South Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Kwan Fong Cultural Research and Development",
+                "FieldsOfStudy": [
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Governance",
+                "FieldsOfStudy": [
+                    "Government"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "Cultural Studies",
+                    "English",
+                    "History",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Translation and Interpretation",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Computer Science",
+                    "Finance",
+                    "Insurance",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Policy",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Asia-Pacific Institute of Ageing Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Hong Kong Institute of Business Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Lingan Institute of Further Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities Research",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Chinese",
+                    "Cultural Studies",
+                    "Economics",
+                    "English Studies",
+                    "Finance",
+                    "History",
+                    "Insurance",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Philosophy",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology",
+                    "Translation and Interpretation",
+                    "Visual Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Business and Commerce"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Chinese",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "E-Business/Commerce",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "History",
+                    "Human Resources",
+                    "International Business",
+                    "International Studies",
+                    "Philosophy",
+                    "Psychology",
+                    "Social Sciences",
+                    "Translation and Interpretation",
+                    "Visual Arts"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Chinese",
+                    "Cultural Studies",
+                    "Economics",
+                    "English",
+                    "History",
+                    "Philosophy",
+                    "Social Sciences",
+                    "Translation and Interpretation",
+                    "Visual Arts"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Shatin",
+                "Province": "New Territories",
+                "PostCode": "N/A",
+                "Website": "https://www.cuhk.edu.hk",
+                "college_name": "The Chinese University of Hong Kong",
+                "university_name": "(CUHK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "CUHK is a highly esteemed, forward-looking comprehensive research university, recognized for excellence both regionally and globally. Founded in 1963, it is the second oldest university in Hong Kong. What sets CUHK apart are its deep roots in Chinese culture, its emphasis on bilingualism and multiculturalism, and a unique college system. The University\u2019s founding philosophy is to combine tradition with modernity and to bring together China and the West",
+            "AcademicYear": "August to July",
+            "AdmissionRequirements": [
+                "For Undergraduate Programmes\n(1) Local students: Hong Kong Diploma of Secondary Education (HKDSE) examination results\n(2) ) International students: GCE AL/ International AL, International Baccalaureate (IB) Diploma, and other high school qualifications (e",
+                "g",
+                "high school diploma plus SAT / ACT and AP Tests / SAT Subject Tests in the USA, UEC/STPM in Malaysia, ATAR in Australia, OSSD/BC diploma in Canada, AISSCE (CBSE)/ ISC in India, SMA in Indonesia, etc) would be considered\n(3) Students from mainland China: apply through the National Colleges and Universities Enrolment System - Details of admission requirements: https://admission",
+                "cuhk",
+                "edu",
+                "hk\n\nFor Postgraduate Programmes\n(1) For Postgraduate Diploma Programmes: a Bachelor's degree from a recognized university\n(2) For MPhil-PhD and Master's Programmes: a Bachelor's degree from a recognized university, with Second Class honours or above; or a Bachelor's degree from an honours programme of a recognized university, with an average grade of \"B\" or above\n(3) For PhD, Doctor of Music and Taught Doctoral Programmes: a Master's degree from a recognized university - Details of admission requirements: https://www",
+                "gs",
+                "cuhk",
+                "edu",
+                "hk/admissions"
+            ],
+            "Languages": [
+                "Chinese",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Chinese",
+                    "Cultural Studies",
+                    "English",
+                    "Fine Arts",
+                    "History",
+                    "Japanese",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Music",
+                    "Philosophy",
+                    "Religious Studies",
+                    "Translation and Interpretation"
+                ],
+                "Details": "http://www.arts.cuhk.edu.hk/web/en-gb"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Hotel Management",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "https://www.bschool.cuhk.edu.hk"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Educational Administration",
+                    "Educational Psychology",
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "http://www.fed.cuhk.edu.hk/en"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Engineering Management",
+                    "Mechanical Engineering"
+                ],
+                "Details": "https://www.erg.cuhk.edu.hk/erg"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "https://www.law.cuhk.edu.hk/app/"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Biomedicine",
+                    "Microbiology",
+                    "Nursing",
+                    "Obstetrics and Gynaecology",
+                    "Oncology",
+                    "Ophthalmology",
+                    "Orthopaedics",
+                    "Otorhinolaryngology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacy",
+                    "Psychiatry and Mental Health",
+                    "Public Health",
+                    "Radiology",
+                    "Surgery"
+                ],
+                "Details": "https://www.med.cuhk.edu.hk"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Mathematics",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "http://www.sci.cuhk.edu.hk/en-gb"
+            },
+            {
+                "College": "Social Science",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Economics",
+                    "Geography",
+                    "Government",
+                    "Journalism",
+                    "Psychology",
+                    "Public Administration",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "https://socsc.cuhk.edu.hk"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "Anthropology",
+                    "Architecture",
+                    "Artificial Intelligence",
+                    "Biochemistry",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Child Care and Development",
+                    "Chinese",
+                    "Communication Studies",
+                    "Community Health",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Design",
+                    "Earth Sciences",
+                    "Economics",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Energy Engineering",
+                    "Engineering Management",
+                    "English",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Finance",
+                    "Fine Arts",
+                    "Food Science",
+                    "Gender Studies",
+                    "Geography",
+                    "Geophysics",
+                    "Gerontology",
+                    "Government",
+                    "Health Administration",
+                    "Health Education",
+                    "History",
+                    "Information Sciences",
+                    "Insurance",
+                    "International Business",
+                    "International Economics",
+                    "International Studies",
+                    "Japanese",
+                    "Journalism",
+                    "Law",
+                    "Leadership",
+                    "Linguistics",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Medicine",
+                    "Molecular Biology",
+                    "Music",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Nutrition",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physics",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Real Estate",
+                    "Religious Studies",
+                    "Social Policy",
+                    "Social Work",
+                    "Sociology",
+                    "Statistics",
+                    "Sustainable Development",
+                    "Technology",
+                    "Theology",
+                    "Translation and Interpretation",
+                    "Urban Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Child Care and Development",
+                    "Communication Disorders",
+                    "Education",
+                    "Epidemiology",
+                    "Genetics",
+                    "Law",
+                    "Primary Education",
+                    "Public Health"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "Advertising and Publicity",
+                    "Agricultural Education",
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Anthropology",
+                    "Architecture",
+                    "Biochemistry",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Business Administration",
+                    "Cardiology",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Child Care and Development",
+                    "Chinese",
+                    "Christian Religious Studies",
+                    "Clinical Psychology",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "E-Business/Commerce",
+                    "Earth Sciences",
+                    "Economics",
+                    "Education",
+                    "Educational Psychology",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Endocrinology",
+                    "Engineering Management",
+                    "English",
+                    "Environmental Studies",
+                    "Epidemiology",
+                    "Finance",
+                    "Fine Arts",
+                    "Food Science",
+                    "Gastroenterology",
+                    "Gender Studies",
+                    "Geography",
+                    "Gerontology",
+                    "Government",
+                    "Health Administration",
+                    "Health Sciences",
+                    "History",
+                    "Industrial and Organizational Psychology",
+                    "Information Management",
+                    "Information Sciences",
+                    "Insurance",
+                    "Japanese",
+                    "Journalism",
+                    "Law",
+                    "Linguistics",
+                    "Management",
+                    "Marketing",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Microbiology",
+                    "Midwifery",
+                    "Molecular Biology",
+                    "Music",
+                    "Neurosciences",
+                    "Nursing",
+                    "Nutrition",
+                    "Obstetrics and Gynaecology",
+                    "Ophthalmology",
+                    "Orthopaedics",
+                    "Otorhinolaryngology",
+                    "Pathology",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physics",
+                    "Psychiatry and Mental Health",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Radiology",
+                    "Real Estate",
+                    "Religious Studies",
+                    "Social and Community Services",
+                    "Social Policy",
+                    "Social Welfare",
+                    "Social Work",
+                    "Sociology",
+                    "Sports",
+                    "Statistics",
+                    "Store Management",
+                    "Surgery",
+                    "Systems Analysis",
+                    "Technology",
+                    "Tourism",
+                    "Translation and Interpretation"
+                ],
+                "Doctor'sDegrees": [
+                    "Accountancy",
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Anthropology",
+                    "Architecture",
+                    "Biochemistry",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Business Administration",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Chinese",
+                    "Clinical Psychology",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Earth Sciences",
+                    "Economics",
+                    "Education",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Engineering Management",
+                    "English",
+                    "Environmental Studies",
+                    "Finance",
+                    "Food Science",
+                    "Gender Studies",
+                    "Geography",
+                    "Government",
+                    "History",
+                    "Japanese",
+                    "Law",
+                    "Linguistics",
+                    "Management",
+                    "Marketing",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Music",
+                    "Nursing",
+                    "Nutrition",
+                    "Obstetrics and Gynaecology",
+                    "Ophthalmology",
+                    "Orthopaedics",
+                    "Otorhinolaryngology",
+                    "Pathology",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physics",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Radiology",
+                    "Religious Studies",
+                    "Social Sciences",
+                    "Social Welfare",
+                    "Sociology",
+                    "Sports",
+                    "Statistics",
+                    "Surgery",
+                    "Translation and Interpretation"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "10 Lo Ping Road",
+                "City": "Tai Po",
+                "Province": "New Territories",
+                "PostCode": "N/A",
+                "Website": "https://www.eduhk.hk",
+                "college_name": "The Education University of Hong Kong",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Established in 1994 as The Hong Kong Institute of Education and acquired current title and status in 2016. A self-accrediting publicly-funded institution.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Chinese",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education and Human Development (FEHD)",
+                "FieldsOfStudy": [
+                    "Continuing Education",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "International and Comparative Education",
+                    "Preschool Education",
+                    "Psychology",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities (FHM)",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "Cultural Studies",
+                    "English",
+                    "Linguistics",
+                    "Literature",
+                    "Native Language"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liberal Arts and Social Sciences (FLASS)",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Environmental Studies",
+                    "Health Education",
+                    "Information Technology",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physical Education",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Asia Pacific Centre for Leadership and Change (APCLC)",
+                "FieldsOfStudy": [
+                    "The Joseph Lau Luen Hung Charitable Trust Asia Pacific Centre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Assessment (ARC)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Childhood Research and Innovation (CCRI)",
+                "FieldsOfStudy": [
+                    "Faculty of Education Studies R&D Centre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese Literature and Literacy Culture (RCCLC)",
+                "FieldsOfStudy": [
+                    "Literacy Education",
+                    "South Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education in Environmental Sustainability (CEES)",
+                "FieldsOfStudy": [
+                    "Faculty of Liberal Arts and Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Governance and Citizenship CGC)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Greater China Studies (CGCS)",
+                "FieldsOfStudy": [
+                    "South Asian Studies"
+                ],
+                "Details": "Faculty of Arts and Sciences R&D Centre"
+            },
+            {
+                "College": "Learning Study CLS)",
+                "FieldsOfStudy": [
+                    "Faculty of Education Studies R&D Centre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Lifelong Learning Research and Development (CLLRD)",
+                "FieldsOfStudy": [
+                    "Continuing Education",
+                    "Educational Research"
+                ],
+                "Details": "Faculty of Education Studies R&D Centre"
+            },
+            {
+                "College": "Popular Culture in the Humanities (CPCH)",
+                "FieldsOfStudy": [
+                    "Educational Research",
+                    "Folklore"
+                ],
+                "Details": "Faculty of Languages R&D Centre"
+            },
+            {
+                "College": "Psychosocial Health and Aging (CPHA)",
+                "FieldsOfStudy": [
+                    "Faculty of Education and Human Development"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Religious and Spirituality Education (CRSE)",
+                "FieldsOfStudy": [
+                    "Religious Education"
+                ],
+                "Details": "Faculty of Education Studies R&D Centre"
+            },
+            {
+                "College": "Small Class Teaching (CSCT)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Special Educational Needs and Inclusive Education (CSENIE)",
+                "FieldsOfStudy": [
+                    "Special Education"
+                ],
+                "Details": "Faculty of Education Studies R&D Centre"
+            },
+            {
+                "College": "Graduate School (GS)",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "Communication Studies",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Psychology",
+                    "English",
+                    "English Studies",
+                    "Foreign Languages Education",
+                    "Linguistics",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Music Education",
+                    "Native Language",
+                    "Native Language Education",
+                    "Pedagogy",
+                    "Psychology",
+                    "Science Education",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Chinese",
+                    "Cultural Studies",
+                    "Education",
+                    "English",
+                    "Environmental Studies",
+                    "Foreign Languages Education",
+                    "Geography (Human)",
+                    "Handicrafts",
+                    "Health Education",
+                    "History",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Music",
+                    "Nursing",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Psychology",
+                    "Special Education",
+                    "Visual Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Education",
+                    "Psychology"
+                ],
+                "Master'sDegree": [
+                    "Philosophy"
+                ],
+                "Doctor'sDegrees": [
+                    "Education",
+                    "Philosophy"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Hang Shin Link\nSiu Lek Yuen",
+                "City": "Shatin",
+                "Province": "New Territories",
+                "PostCode": "N/A",
+                "Website": "https://www.hsu.edu.hk",
+                "college_name": "The Hang Seng University of Hong Kong",
+                "university_name": "(HSUHK)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "The Hang Seng University of Hong Kong, formerly known as Hang Seng Management College and Hang Seng School of Commerce, was created in 2010. It officially became a private university with the approval from Hong Kong SAR Government in October 2018",
+            "AcademicYear": "September to May (September-December; January-May), Summer term, June-August",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Chinese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business and Commerce",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Journalism",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Decision Science",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Computer Science",
+                    "Data Processing",
+                    "Information Management",
+                    "Insurance",
+                    "Logistics Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Asian Studies",
+                    "Chinese",
+                    "Design",
+                    "Economics",
+                    "English",
+                    "Fine Arts",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Translation with Business",
+                "FieldsOfStudy": [
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "Asian Studies",
+                    "Banking",
+                    "Business and Commerce",
+                    "Chinese",
+                    "Communication Arts",
+                    "Computer Science",
+                    "Design",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "Fine Arts",
+                    "Human Resources",
+                    "Information Management",
+                    "Information Sciences",
+                    "Insurance",
+                    "International Business",
+                    "Journalism",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Media Studies",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Artificial Intelligence",
+                    "Chinese",
+                    "Communication Arts",
+                    "Cultural Studies",
+                    "English",
+                    "Entrepreneurship",
+                    "Foreign Languages Education",
+                    "Insurance",
+                    "Logistics Management",
+                    "Management",
+                    "Theatre",
+                    "Translation and Interpretation"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1 Gloucester Road",
+                "City": "Wan Chai",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.hkapa.edu",
+                "college_name": "The Hong Kong Academy for Performing Arts",
+                "university_name": "(HKAPA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1984. Provides professional education, training and research, reflecting the cultural diversity of Hong Kong.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Undergraduate: 5 subject passes, including English and Chinese, in the Hong Kong Certificate of Education Examination (HKCEE), and a Diploma awarded by the Academy",
+                "Equivalent certificates are also considered",
+                "Master's programmes: Bachelor's Degree in relevant discipline with requisite marks",
+                ""
+            ],
+            "Languages": [
+                "Chinese",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Chinese Traditional Theatre Programme",
+                "FieldsOfStudy": [
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liberal Arts",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "English",
+                    "French",
+                    "German",
+                    "Italian",
+                    "Japanese",
+                    "Korean",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dance",
+                "FieldsOfStudy": [
+                    "Dance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Drama",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Film and Television",
+                "FieldsOfStudy": [
+                    "Film",
+                    "Radio and Television Broadcasting",
+                    "Video"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music",
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theatre and Entertainment Arts",
+                "FieldsOfStudy": [
+                    "Performing Arts",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Dance",
+                    "Music",
+                    "Opera"
+                ],
+                "Bachelor'sDegree": [
+                    "Cinema and Television",
+                    "Dance",
+                    "Music",
+                    "Opera",
+                    "Theatre"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Cinema and Television",
+                    "Dance",
+                    "Music",
+                    "Theatre"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Hung Hom",
+                "City": "Kowloon",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.polyu.edu.hk",
+                "college_name": "The Hong Kong Polytechnic University",
+                "university_name": "(PolyU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1937. Became Hong Kong Technical College in 1947 and then Hong Kong Polytechnic in 1972. Acquired present status and title in 1994.",
+            "AcademicYear": "September to May (September-December; January-May). Summer Term: May to August",
+            "AdmissionRequirements": [
+                "Local Student, Hong Kong Diploma of Secondary Education (HKDSE); Non local student, an academic level equivalent to GCE A level standard, or International Baccalaureate (IB) Diploma"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marine Transport",
+                    "Marketing",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction and Environment",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Real Estate",
+                    "Regional Planning",
+                    "Structural Architecture",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Social Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Laboratory Techniques",
+                    "Medical Technology",
+                    "Nursing",
+                    "Optometry",
+                    "Rehabilitation and Therapy",
+                    "Social Sciences",
+                    "Social Studies",
+                    "Treatment Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Asian Studies",
+                    "Bilingual and Bicultural Education",
+                    "Chinese",
+                    "English",
+                    "Linguistics",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Applied Mathematics",
+                    "Applied Physics",
+                    "Artificial Intelligence",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemical Engineering",
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fashion and Textiles",
+                "FieldsOfStudy": [
+                    "Fashion Design",
+                    "Textile Design",
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel and Tourism Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Artificial Intelligence",
+                    "Biomedical Engineering",
+                    "Biotechnology",
+                    "Building Technologies",
+                    "Chemical Engineering",
+                    "Chinese",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Design",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "Fashion Design",
+                    "Finance",
+                    "Food Technology",
+                    "Hotel Management",
+                    "Industrial Engineering",
+                    "Information Management",
+                    "Information Technology",
+                    "Laboratory Techniques",
+                    "Linguistics",
+                    "Management",
+                    "Marine Transport",
+                    "Marketing",
+                    "Modern Languages",
+                    "Multimedia",
+                    "Nursing",
+                    "Occupational Health",
+                    "Occupational Therapy",
+                    "Optometry",
+                    "Physical Therapy",
+                    "Physics",
+                    "Production Engineering",
+                    "Radiology",
+                    "Real Estate",
+                    "Rehabilitation and Therapy",
+                    "Safety Engineering",
+                    "Social and Community Services",
+                    "Social Sciences",
+                    "Speech Therapy and Audiology",
+                    "Structural Architecture",
+                    "Sustainable Development",
+                    "Textile Design",
+                    "Textile Technology",
+                    "Tourism",
+                    "Translation and Interpretation",
+                    "Transport and Communications",
+                    "Transport Management",
+                    "Welfare and Protective Services"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Accountancy",
+                    "Applied Mathematics",
+                    "Computer Engineering",
+                    "Engineering",
+                    "Fashion Design",
+                    "Hotel Management",
+                    "Industrial Engineering",
+                    "Medical Technology",
+                    "Nursing",
+                    "Operations Research",
+                    "Real Estate",
+                    "Rehabilitation and Therapy",
+                    "Textile Design",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Aeronautical and Aerospace Engineering",
+                    "Air Transport",
+                    "Applied Linguistics",
+                    "Applied Mathematics",
+                    "Art History",
+                    "Artificial Intelligence",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Building Technologies",
+                    "Chemistry",
+                    "Coastal Studies",
+                    "Computer Networks",
+                    "Construction Engineering",
+                    "Cultural Studies",
+                    "Data Processing",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Family Studies",
+                    "Fashion Design",
+                    "Finance",
+                    "Food Technology",
+                    "Hydraulic Engineering",
+                    "Information Management",
+                    "Information Technology",
+                    "Linguistics",
+                    "Management",
+                    "Marine Transport",
+                    "Marketing",
+                    "Materials Engineering",
+                    "Media Studies",
+                    "Molecular Biology",
+                    "Multimedia",
+                    "Nursing",
+                    "Optometry",
+                    "Phonetics",
+                    "Power Engineering",
+                    "Psychology",
+                    "Real Estate",
+                    "Rehabilitation and Therapy",
+                    "Robotics",
+                    "Safety Engineering",
+                    "Social and Community Services",
+                    "Social Policy",
+                    "Social Welfare",
+                    "Social Work",
+                    "Software Engineering",
+                    "Sound Engineering (Acoustics)",
+                    "Statistics",
+                    "Surveying and Mapping",
+                    "Sustainable Development",
+                    "Textile Design",
+                    "Textile Technology",
+                    "Thermal Engineering",
+                    "Translation and Interpretation",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Construction Engineering",
+                    "Health Sciences",
+                    "Hotel Management",
+                    "Management",
+                    "Real Estate",
+                    "Social Work",
+                    "Tourism"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Clear Water Bay",
+                "City": "Kowloon",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ust.hk",
+                "college_name": "The Hong Kong University of Science and Technology",
+                "university_name": "(HKUST)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1988, and opened October 1991 as a technological university devoted to the advancement of learning and scholarship, with special emphasis on research, postgraduate education, and close collaboration with business and industry.",
+            "AcademicYear": "September to May (September-December; February-May)",
+            "AdmissionRequirements": [
+                "Hong Kong Certificate of Education (HKCEE) and Hong Kong Advanced Level Examination (HKALE), or equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Advanced Computing and Communication Technologies",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Computer Engineering"
+                ],
+                "Details": "International Centre"
+            },
+            {
+                "College": "Advanced Microsystem Packaging (CAMP)",
+                "FieldsOfStudy": [
+                    "Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Social and Economic Research (CASER)",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Asian Family Business and Entrepreneurship Studies (Tanoto)",
+                "FieldsOfStudy": [
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Asian Financial Markets",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Atmospheric Research (Nansha)",
+                "FieldsOfStudy": [
+                    "Meteorology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Building Energy Research (BERC) [Nansha]",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Case Studies",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Data Analysis",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Data Processing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Strategy and Innovation",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cancer Research",
+                "FieldsOfStudy": [
+                    "Oncology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese Linguistics",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "Linguistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese Medicine R&D",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cyberspace",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Digital Life Research (Nansha)",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Display Research",
+                "FieldsOfStudy": [
+                    "Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economic Development",
+                "FieldsOfStudy": [
+                    "Economic and Finance Policy",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronic Commerce (Tongyi Industrial Group)",
+                "FieldsOfStudy": [
+                    "E-Business/Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering Materials and Reliability (CEMAR) [Nansha]",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment, Energy and Resource Policy (CEERP)",
+                "FieldsOfStudy": [
+                    "Environmental Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Experimental Business Research (cEBR)",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "FINETEX R&D",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Fundamental Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Green Products and Processing Technologies (Nansha)",
+                "FieldsOfStudy": [
+                    "Environmental Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "HKUST LED-FPD Technology R&D",
+                "FieldsOfStudy": [
+                    "Electrical and Electronic Engineering"
+                ],
+                "Details": "Foshan"
+            },
+            {
+                "College": "Hong Kong-Beijing UST Joint Research (Nansha)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Huawei-HKUST Innovation Laboratory",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Investing (Value Partners)",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing and Supply Chain Management",
+                "FieldsOfStudy": [
+                    "Marketing",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Metamaterials Research",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Molecular Neuroscience",
+                "FieldsOfStudy": [
+                    "Neurosciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "New Element - HKUST Digital Healthcare Joint Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Organizational Research (Hang Lung)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Photonics Technology",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Polymer Processing and Systems (Nansha)",
+                "FieldsOfStudy": [
+                    "Polymer and Plastics Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "RFID",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Scientific Computation",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Semiconductor Product Analysis and Design Enhancement",
+                "FieldsOfStudy": [
+                    "Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Smart and Sustainable Infrastructure Research",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "South China Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Space Science Research",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Statistical Sciences",
+                "FieldsOfStudy": [
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Stem Cell Research",
+                "FieldsOfStudy": [
+                    "Cell Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Survey Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Sustainable Energy Technology (CSET)",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems Biology and Human Health",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology Transfer",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual Computing and Imaging Science at HKUST",
+                "FieldsOfStudy": [
+                    "Computer Graphics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Wireless Information Technology (CenWIT)",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biomedical Engineering",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment",
+                "FieldsOfStudy": [
+                    "Environmental Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Displays and Optoelectronics Technologies (Partner SKL)",
+                "FieldsOfStudy": [
+                    "Optical Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Molecular Neuroscience (SKL)",
+                "FieldsOfStudy": [
+                    "Neurosciences"
+                ],
+                "Details": "State Key Laboratory"
+            },
+            {
+                "College": "Advanced Manufacturing (AMI)",
+                "FieldsOfStudy": [
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Study (IAS)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Biotechnology Research (BRI)",
+                "FieldsOfStudy": [
+                    "Biotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Emerging Markets Studies (IEMS)",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "HKUST"
+            },
+            {
+                "College": "Energy (HKUST)",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment (IENV)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Europe",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Glassblowing Facility",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Hongkong Telecom Information Technology (HKTIIT)",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Integrated Microsystems (I2MS)",
+                "FieldsOfStudy": [
+                    "Microelectronics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Logistics and Supply Chain Management (LSCMI)",
+                "FieldsOfStudy": [
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nano Science and Technology (WMINST)",
+                "FieldsOfStudy": [
+                    "Nanotechnology",
+                    "Physical Engineering"
+                ],
+                "Details": "William Mong"
+            },
+            {
+                "College": "Shenzhen",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Sino Software Research (SSRI)",
+                "FieldsOfStudy": [
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Economics",
+                    "Finance",
+                    "Information Management",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Environmental Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Modern Languages",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Engineering Materials Facility",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Animal and Plant Care Facility",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Horticulture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biosciences Central Research Facility",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "CLP Power Wind/Wave Tunnel Facility",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Design and Manufacturing Services Facility",
+                "FieldsOfStudy": [
+                    "Maintenance Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Central Facility",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geotechnical Centrifuge Facility",
+                "FieldsOfStudy": [
+                    "Geological Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Materials Characterization and Preparation Facilty",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nanoelectronics Fabrication Facility",
+                "FieldsOfStudy": [
+                    "Microelectronics",
+                    "Nanotechnology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Aeronautical and Aerospace Engineering",
+                    "Biochemistry",
+                    "Biology",
+                    "Biotechnology",
+                    "Business and Commerce",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Economics",
+                    "Electronic Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Finance",
+                    "Industrial Engineering",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Physics",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": "N/A",
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Aeronautical and Aerospace Engineering",
+                    "Arts and Humanities",
+                    "Bioengineering",
+                    "Biological and Life Sciences",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Economics",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Finance",
+                    "Industrial Engineering",
+                    "Leadership",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Nanotechnology",
+                    "Physics",
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [
+                    "Accountancy",
+                    "Arts and Humanities",
+                    "Bioengineering",
+                    "Biological and Life Sciences",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Computer Engineering",
+                    "Economics",
+                    "Electronic Engineering",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Finance",
+                    "Management",
+                    "Marine Science and Oceanography",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Social Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Pok Fu Lam Road",
+                "City": "Pok Fu Lam",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.hku.hk",
+                "college_name": "The University of Hong Kong",
+                "university_name": "(HKU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1911. A self-governing body financed mainly by the HKSAR government.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Hong Kong Certificate of Education (HKCEE) or equivalent, and Hong Kong Advanced Level Examination (HKALE) or equivalent, or other qualifications as equivalent"
+            ],
+            "Languages": [
+                "English",
+                "Chinese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Advancement in Special Education",
+                "FieldsOfStudy": [
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advancement of Chinese Language Education and Research",
+                "FieldsOfStudy": [
+                    "Chinese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ageing (Sau Po)",
+                "FieldsOfStudy": [
+                    "Gerontology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Alimentary Research and Education",
+                "FieldsOfStudy": [
+                    "Food Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "American Studies",
+                "FieldsOfStudy": [
+                    "American Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Anthropological Research",
+                "FieldsOfStudy": [
+                    "Anthropology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied English Studies",
+                "FieldsOfStudy": [
+                    "English Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Spectroscopy and Analytical Sciences",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture and Urban Design for China and Hong Kong",
+                "FieldsOfStudy": [
+                    "Architecture and Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Asian Entrepreneurship and Business Values",
+                "FieldsOfStudy": [
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Asian Studies",
+                "FieldsOfStudy": [
+                    "Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Behavioural Health",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biomedical Engineering",
+                "FieldsOfStudy": [
+                    "Bioengineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Buddhist Studies",
+                "FieldsOfStudy": [
+                    "Asian Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cancer Research",
+                "FieldsOfStudy": [
+                    "Oncology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cellular Biology",
+                "FieldsOfStudy": [
+                    "Cell Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "China Development Studies",
+                "FieldsOfStudy": [
+                    "East Asian Studies"
+                ],
+                "Details": "International Centre"
+            },
+            {
+                "College": "China Financial Research",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chong Yuet Ming Amenities",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Society and Governance",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cleft Lip and Palate",
+                "FieldsOfStudy": [
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Clinical Trials",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cognitive Science",
+                "FieldsOfStudy": [
+                    "Cognitive Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Disorders",
+                "FieldsOfStudy": [
+                    "Communication Disorders"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Comparative and Public Law",
+                "FieldsOfStudy": [
+                    "Comparative Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construct I.T.",
+                "FieldsOfStudy": [
+                    "Building Technologies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Criminology",
+                "FieldsOfStudy": [
+                    "Criminology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cultural Policy Research",
+                "FieldsOfStudy": [
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Development and Resources for Students",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "E-Commerce Infrastructure Development",
+                "FieldsOfStudy": [
+                    "E-Business/Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Leadership",
+                "FieldsOfStudy": [
+                    "Educational Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Energy Systems",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Endocrinology and Diabetes",
+                "FieldsOfStudy": [
+                    "Diabetology",
+                    "Endocrinology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Enhancement of Teaching and Learning",
+                "FieldsOfStudy": [
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Engineering Research",
+                "FieldsOfStudy": [
+                    "Environmental Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "European Studies",
+                "FieldsOfStudy": [
+                    "European Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial Innovation and Risk Management",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fong Shu Chuen Amenities",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Genomic Sciences",
+                "FieldsOfStudy": [
+                    "Genetics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Globalization and Cultures",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hong Kong Prehistory",
+                "FieldsOfStudy": [
+                    "Archaeology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hong Kong Putonghua Education and Assessment",
+                "FieldsOfStudy": [
+                    "Educational Testing and Evaluation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Development and Birth Defects",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Reproduction",
+                "FieldsOfStudy": [
+                    "Genetics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Medicine",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Infection (Carol Yu)",
+                "FieldsOfStudy": [
+                    "Virology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Influenza Research",
+                "FieldsOfStudy": [
+                    "Virology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Security and Cryptography",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology in Education",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Infrastructure and Construction Industry Development",
+                "FieldsOfStudy": [
+                    "Building Technologies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Media Studies",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Technology",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Lung Fu Shan Environmental Education",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Materials Science",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Navigational Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Neuroscience",
+                "FieldsOfStudy": [
+                    "Neurosciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nonlinear Mechanics",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pokfulam Amenities",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Real Estate and Urban Economics",
+                "FieldsOfStudy": [
+                    "Real Estate"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Renewable Energy in Architecture",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Research in Plant Drugs Development",
+                "FieldsOfStudy": [
+                    "Pharmacology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences Research",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Study of Liver Disease",
+                "FieldsOfStudy": [
+                    "Hepatology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teachers of English Language Education",
+                "FieldsOfStudy": [
+                    "Foreign Languages Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology Support",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theoretical and Computational Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Urban Studies and Urban Planning",
+                "FieldsOfStudy": [
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Economics",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine (Li Ka Shing)",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced IT Training",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "AIDS",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Cardiovascular Science and Medicine",
+                "FieldsOfStudy": [
+                    "Cardiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "China and Global Development",
+                "FieldsOfStudy": [
+                    "East Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cyberport",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Business Strategy",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Emerging Technologies",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Family (HKU)",
+                "FieldsOfStudy": [
+                    "Family Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Reproduction",
+                "FieldsOfStudy": [
+                    "Genetics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Kadoorie",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management (Poon Kam Kai)",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Science (Swire)",
+                "FieldsOfStudy": [
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematical Research",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical and Health Sciences Education",
+                "FieldsOfStudy": [
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport Studies",
+                "FieldsOfStudy": [
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Mechanical Systems (Fong)",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Asia Case",
+                "FieldsOfStudy": [
+                    "Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese Language Cognitive Science",
+                "FieldsOfStudy": [
+                    "Chinese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Comparative Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electric Vehicles",
+                "FieldsOfStudy": [
+                    "Automotive Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geographical/Land Information System",
+                "FieldsOfStudy": [
+                    "Geography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Heart, Brain, Hormone & Healthy Aging",
+                "FieldsOfStudy": [
+                    "Gerontology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "HKU-Pasteur",
+                "FieldsOfStudy": [
+                    "Virology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rock Engineering",
+                "FieldsOfStudy": [
+                    "Geological Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Women's Studies",
+                "FieldsOfStudy": [
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional and Continuing Education (HKU SPACE)",
+                "FieldsOfStudy": [
+                    "Continuing Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Architecture and Planning",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Law",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": "N/A",
+                "Master'sDegree": [
+                    "Architecture",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Dentistry",
+                    "Education",
+                    "Engineering",
+                    "Law",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [
+                    "Architecture",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Dentistry",
+                    "Education",
+                    "Engineering",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "31 Wylie Road, Homantin",
+                "City": "Kowloon",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.twc.edu.hk",
+                "college_name": "Tung Wah College",
+                "university_name": "(TWC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Established by Tung Wah Group of Hospitals (TWGHs) 2010.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Child Care and Development",
+                    "Education",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical and Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Occupational Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Gerontology",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Child Care and Development",
+                    "Education",
+                    "Gerontology",
+                    "Health Sciences",
+                    "Management",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Psychology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

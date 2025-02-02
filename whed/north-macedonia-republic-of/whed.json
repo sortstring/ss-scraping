@@ -1,0 +1,2767 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bul Goce Delcev, 9",
+                "City": "Skopje",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "https://www.ukim.edu.mk",
+                "college_name": "Sts. Cyril and Methodius University, Skopje",
+                "university_name": "Univerzitet 'Sv. Kiril i Met\u00f3dij' vo Skopje (UKiM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1949, incorporating faculties of Letters (1946) and Agriculture and Medicine (1947).",
+            "AcademicYear": "October to June (October-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school leaving certificate (Matura), entrance examinations, depending on the faculty",
+                ""
+            ],
+            "Languages": [
+                "Macedonian",
+                "Turkish",
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Science and Food",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Agricultural Equipment",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Botany",
+                    "Cattle Breeding",
+                    "Crop Production",
+                    "Fruit Production",
+                    "Genetics",
+                    "Horticulture",
+                    "Mechanical Engineering",
+                    "Microbiology",
+                    "Plant and Crop Protection",
+                    "Soil Conservation",
+                    "Soil Science",
+                    "Vegetable Production",
+                    "Viticulture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Architecture",
+                    "Building Technologies",
+                    "Graphic Design",
+                    "Mathematics",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Hydraulic Engineering",
+                    "Irrigation",
+                    "Mathematics",
+                    "Power Engineering",
+                    "Railway Engineering",
+                    "Surveying and Mapping",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dental Technology",
+                    "Dentistry",
+                    "Oral Pathology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dramatic Arts",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Cinema and Television",
+                    "Film",
+                    "Theatre",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Science",
+                    "Economics",
+                    "Finance",
+                    "International Economics",
+                    "Management",
+                    "Marketing",
+                    "Mathematics and Computer Science",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering and Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Electronics and Automation",
+                    "Information Technology",
+                    "Physics",
+                    "Power Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Fine Arts",
+                    "Graphic Arts",
+                    "Painting and Drawing",
+                    "Sculpture",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry",
+                "FieldsOfStudy": [
+                    "Botany",
+                    "Environmental Management",
+                    "Forest Biology",
+                    "Forest Economics",
+                    "Forest Management",
+                    "Forest Products",
+                    "Forestry",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Furniture and Interior Design",
+                "FieldsOfStudy": [
+                    "Furniture Design",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Criminology",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "Iustinianus Primus"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Hydraulic Engineering",
+                    "Machine Building",
+                    "Mathematics and Computer Science",
+                    "Mechanical Engineering",
+                    "Mechanical Equipment and Maintenance",
+                    "Metal Techniques",
+                    "Power Engineering",
+                    "Production Engineering",
+                    "Thermal Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Cardiology",
+                    "Endocrinology",
+                    "Epidemiology",
+                    "Haematology",
+                    "Health Sciences",
+                    "Medicine",
+                    "Nephrology",
+                    "Neurology",
+                    "Nursing",
+                    "Obstetrics and Gynaecology",
+                    "Ophthalmology",
+                    "Orthopaedics",
+                    "Otorhinolaryngology",
+                    "Physical Therapy",
+                    "Physiology",
+                    "Plastic Surgery",
+                    "Psychology",
+                    "Radiology",
+                    "Rheumatology",
+                    "Surgery",
+                    "Toxicology",
+                    "Urology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Conducting",
+                    "Music",
+                    "Music Theory and Composition",
+                    "Musical Instruments",
+                    "Musicology",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences and Mathematics",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Geography",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy",
+                "FieldsOfStudy": [
+                    "Library Science",
+                    "Pedagogy",
+                    "Preschool Education",
+                    "Primary Education"
+                ],
+                "Details": "St. Kliment Ohrid"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Analytical Chemistry",
+                    "Biochemistry",
+                    "Botany",
+                    "Computer Science",
+                    "Immunology",
+                    "Inorganic Chemistry",
+                    "Molecular Biology",
+                    "Organic Chemistry",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Toxicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philology",
+                "FieldsOfStudy": [
+                    "Albanian",
+                    "Comparative Literature",
+                    "English",
+                    "German",
+                    "Native Language",
+                    "Philology",
+                    "Romance Languages",
+                    "Slavic Languages",
+                    "Translation and Interpretation",
+                    "Turkish"
+                ],
+                "Details": "Blaze Koneski"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Art History",
+                    "Classical Languages",
+                    "Family Studies",
+                    "Gender Studies",
+                    "History",
+                    "Pedagogy",
+                    "Philosophy",
+                    "Protective Services",
+                    "Psychology",
+                    "Social Policy",
+                    "Social Work",
+                    "Sociology",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education, Sport and Health",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology and Metallurgy",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Industrial Design",
+                    "Inorganic Chemistry",
+                    "Metallurgical Engineering",
+                    "Organic Chemistry",
+                    "Technology",
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology in Skopje",
+                "FieldsOfStudy": [
+                    "Theology"
+                ],
+                "Details": "St. Clement of Ohrid"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Gender Studies",
+                    "Microbiology",
+                    "Pathology",
+                    "Veterinary Science",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Chemistry",
+                    "Fruit Production",
+                    "Horticulture",
+                    "Plant and Crop Protection",
+                    "Viticulture"
+                ],
+                "Details": "Skopje"
+            },
+            {
+                "College": "Cattle Breeding",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Cattle Breeding",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Earthquake Engineering and Seismology",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Computer Science",
+                    "Engineering Management",
+                    "Geology",
+                    "Geophysics",
+                    "Safety Engineering",
+                    "Seismology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Development Studies",
+                    "Economic and Finance Policy",
+                    "Economics",
+                    "Finance",
+                    "International Economics",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Marketing",
+                    "Small Business",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Folklore",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Dance",
+                    "Folklore",
+                    "Music",
+                    "Sociology"
+                ],
+                "Details": "Marko Cepenkov"
+            },
+            {
+                "College": "Macedonian Language",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Literature",
+                    "Native Language",
+                    "Slavic Languages",
+                    "Terminology"
+                ],
+                "Details": "Krste Misirkov"
+            },
+            {
+                "College": "Macedonian Literature",
+                "FieldsOfStudy": [
+                    "Comparative Literature",
+                    "Documentation Techniques",
+                    "Literature",
+                    "Native Language",
+                    "Regional Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "National History",
+                "FieldsOfStudy": [
+                    "Ancient Civilizations",
+                    "Documentation Techniques",
+                    "History",
+                    "Library Science",
+                    "Medieval Studies",
+                    "Modern History",
+                    "Publishing and Book Trade"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology, Political Science and Law",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Criminology",
+                    "Cultural Studies",
+                    "Demography and Population",
+                    "Ethnology",
+                    "Human Resources",
+                    "Human Rights",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Marketing",
+                    "Media Studies",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Cosmetology",
+                    "Pharmacy"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Str. Kiro Gligorov br. 5",
+                "City": "Skopje",
+                "Province": "N/A",
+                "PostCode": "10000",
+                "Website": "https://fon.edu.mk",
+                "college_name": "American University of Europe - FON",
+                "university_name": "(AUE-FON)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Previously part of European University of Macedonia (Evropskij Univerzitet Respublika Makedonija) as Faculty of Social Sciences, 2003. Became FON University in 2005. Acquired present title and status 2020.",
+            "AcademicYear": "October to May (October-January; February-May)",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate"
+            ],
+            "Languages": [
+                "Macedonian",
+                "English",
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication and Information Technology",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Information Technology",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design and Multimedia",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "Albanian",
+                    "European Languages",
+                    "Foreign Languages Education",
+                    "Linguistics",
+                    "Slavic Languages",
+                    "Translation and Interpretation",
+                    "Turkish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Security and Detective Studies",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "Law",
+                    "Police Studies",
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sport and Sport Management",
+                "FieldsOfStudy": [
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Banking",
+                    "Design",
+                    "Economics",
+                    "European Union Law",
+                    "Finance",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Multimedia",
+                    "Political Sciences",
+                    "Sports"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Jane Sandanski 111, bar 2",
+                "City": "Skopje",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "http://www.bas.edu.mk",
+                "college_name": "Business Academy Smilevski",
+                "university_name": "Biznis Akademija Smilevski (BAS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Macedonian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Operational Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Strategic Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "Postgraduate"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Management"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Done Bozinov 41",
+                "City": "Kumanovo",
+                "Province": "N/A",
+                "PostCode": "1300",
+                "Website": "https://www.eurocollege.edu.mk",
+                "college_name": "Euro College, Kumanovo",
+                "university_name": "Euro Kolej, Kumanovo \u2013 Higher Education Professional Institution for Business Studies Euro College"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Macedonian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Behavioural Sciences",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Ethics",
+                    "Finance",
+                    "Human Resources",
+                    "Industrial and Organizational Psychology",
+                    "Information Management",
+                    "Information Technology",
+                    "Insurance",
+                    "International Business",
+                    "Leadership",
+                    "Management",
+                    "Marketing",
+                    "Statistics",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Business Administration"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kliment Ohridski Blvd 68",
+                "City": "Skopje",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "https://www.eu.edu.mk",
+                "college_name": "European University Republic of Macedonia",
+                "university_name": "Evropski Univerzitet vo Republika Makedonija"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created in 2001 as Faculty of Social Science. Obtained current status 2005.",
+            "AcademicYear": "October to May (October-January; February-May)",
+            "AdmissionRequirements": [
+                "Secondary School Certificate"
+            ],
+            "Languages": [
+                "Macedonian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Art and Design",
+                "FieldsOfStudy": [
+                    "Fashion Design",
+                    "Graphic Arts",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Detectives and Criminology",
+                "FieldsOfStudy": [
+                    "Criminal Law",
+                    "Criminology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Health Administration",
+                    "Management",
+                    "Marketing",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Design",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Krste Misirkov bb\nP.O. Box 201",
+                "City": "\u0160tip",
+                "Province": "N/A",
+                "PostCode": "2000",
+                "Website": "https://www.ugd.edu.mk",
+                "college_name": "Goce Delchev University, Stip",
+                "university_name": "Univerzitet Gotse Delchev vo \u0160tip (UGD)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Macedonian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Crop Production",
+                    "Development Studies",
+                    "Oenology",
+                    "Viticulture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Health Administration",
+                    "Insurance",
+                    "International Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Archiving",
+                    "Education",
+                    "Educational Sciences",
+                    "Library Science",
+                    "Pedagogy",
+                    "Philosophy of Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Electronics and Automation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "European Union Law",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Law",
+                    "Public Administration",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Machine Building",
+                    "Mechanical Engineering",
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Dental Technology",
+                    "Dentistry",
+                    "Laboratory Techniques",
+                    "Medicine",
+                    "Nursing",
+                    "Optometry",
+                    "Pharmacy",
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Jazz and Popular Music",
+                    "Music",
+                    "Music Education",
+                    "Musical Instruments",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural and Technical Sciences",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Computer Graphics",
+                    "Furniture Design",
+                    "Geography",
+                    "Geological Engineering",
+                    "Mineralogy",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Technology",
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philology",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "English",
+                    "French",
+                    "German",
+                    "History",
+                    "Italian",
+                    "Literature",
+                    "Native Language",
+                    "Philology",
+                    "Slavic Languages",
+                    "Turkish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Business",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Dietetics",
+                    "Nutrition",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Archaeology and History",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "History"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Architecture",
+                    "Architecture and Planning",
+                    "Civil Engineering",
+                    "Geology",
+                    "Interior Design",
+                    "Landscape Architecture",
+                    "Mining Engineering"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. '3-ta Makedonska Brigada' no. 66A - Floor 1",
+                "City": "Skopje",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "http://www.fbe.edu.mk",
+                "college_name": "Integrated Business Faculty",
+                "university_name": "Fakultet za Biznis Ekonomija \u2013 Business Economy High Professional School - Skopje (FBE)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Macedonian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Banking",
+                "FieldsOfStudy": [
+                    "Banking"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial Management",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing Management",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Regional and Local Business Development",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sustainable Development - Environmental Economy",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Economics",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Makedonsko-Kosovska Brigada bb.",
+                "City": "Skopje",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "https://www.ibu.edu.mk",
+                "college_name": "International Balkan University",
+                "university_name": "Megjunaroden Balkanski Univerzitet (IBU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2006 by the Foundation of Development for Education and Culture '(USKUP), Skopje through integration of the New Balkan Faculty and New Balkan Technical Sciences. Faculties received accreditation 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent",
+                ""
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Art and Design",
+                "FieldsOfStudy": [
+                    "Fashion Design",
+                    "Graphic Design",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communications",
+                "FieldsOfStudy": [
+                    "Media Studies",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dental Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "E-Business/Commerce",
+                    "Economics",
+                    "International Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "English",
+                    "Turkish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Artificial Intelligence",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Industrial Engineering",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Clinical Psychology",
+                    "Psychology"
+                ],
+                "Details": "New Balkan Faculty"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Criminal Law",
+                    "International Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Vocational Medical School",
+                "FieldsOfStudy": [
+                    "Midwifery",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Administrative Law",
+                    "Architecture",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Clinical Psychology",
+                    "Computer Engineering",
+                    "Criminal Law",
+                    "English",
+                    "Graphic Design",
+                    "Industrial Engineering",
+                    "International Economics",
+                    "International Law",
+                    "Public Relations",
+                    "Turkish",
+                    "Visual Arts"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Mar\u0161al Tito 77",
+                "City": "Sveti Nikole",
+                "Province": "N/A",
+                "PostCode": "2220",
+                "Website": "http://msu.edu.mk",
+                "college_name": "International Slavic University Gavrilo Romanovich Derzhavin Sveti Nikole",
+                "university_name": "Megjunaroden Slavjanski Univerzitet \"Gavrilo Romanovich Derzhavin\" Sveti Nikole (IUS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004 as International Slavic Institute Gavril Romanovich Derzhavin, Sveti Nikole. Acquired present name and status 2013.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Macedonian",
+                "English",
+                "Russian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Organization of Entrepreneurship",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informatics",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Clinical Psychology",
+                    "Psychology",
+                    "Social Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Safety Engineering",
+                "FieldsOfStudy": [
+                    "Fire Science",
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Art and Culture",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Clinical Psychology",
+                    "Computer Science",
+                    "Economics",
+                    "Engineering",
+                    "Fire Science",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Protective Services",
+                    "Psychology"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ezerski Lozja N-1",
+                "City": "Struga",
+                "Province": "N/A",
+                "PostCode": "6330",
+                "Website": "https://iust.edu.mk/",
+                "college_name": "International University of Struga",
+                "university_name": "Megjunaroden Univerzitet Struga (IUST)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Macedonian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "Law",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Criminology",
+                    "Economics",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Law"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. Major C. Filiposki, 1",
+                "City": "Gostivar",
+                "Province": "N/A",
+                "PostCode": "1230",
+                "Website": "http://www.vizyon.edu.mk",
+                "college_name": "International Vision University",
+                "university_name": "Uluslararas\u0131 Vizyon \u00dcniversitesi (IVU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2014.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Macedonian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Sciences",
+                "FieldsOfStudy": [
+                    "Information Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Architecture",
+                    "Business Administration",
+                    "Economics",
+                    "Information Sciences",
+                    "Law",
+                    "Psychology"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "bul.Treta Makedonska Brigada 66a\nMacedonia Square, City Gallery",
+                "City": "Skopje",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "https://www.mit.edu.mk",
+                "college_name": "MIT University, Skopje",
+                "university_name": "MIT Univerzitet, Skopje (MIT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007.",
+            "AcademicYear": "October to June",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Macedonian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Aviation",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Air Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Cosmetology and Physiotherapy",
+                "FieldsOfStudy": [
+                    "Cosmetology",
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Design",
+                    "Engineering",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "E-Business/Commerce",
+                    "Information Management",
+                    "Information Technology",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dental Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Resources Management",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Ecology",
+                    "Environmental Studies",
+                    "Natural Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Government",
+                    "Health Administration",
+                    "Management",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Sciences and Diplomacy",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Security Science",
+                "FieldsOfStudy": [
+                    "Civil Security",
+                    "Criminology",
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism Management",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Accountancy",
+                    "Agricultural Business",
+                    "Architecture",
+                    "Banking",
+                    "Civil Security",
+                    "Criminal Law",
+                    "Criminology",
+                    "Dentistry",
+                    "Design",
+                    "Finance",
+                    "Food Technology",
+                    "Health Administration",
+                    "Insurance",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Psychology",
+                    "Public Administration",
+                    "Town Planning",
+                    "Waste Management",
+                    "Water Management"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "MK, Mirche Acev No.4",
+                "City": "Skopje",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "http://unt.edu.mk",
+                "college_name": "Mother Teresa University, Skopje",
+                "university_name": "Universiteti \"N\u00ebn\u00eb Tereza\" Skopje"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2016.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Albanian",
+                "Macedonian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Civil Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Design",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informatics",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "European Studies",
+                    "Social Policy",
+                    "Social Sciences",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Sciences",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Industrial and Production Economics",
+                    "Industrial Management",
+                    "Mechanical Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technological Sciences",
+                "FieldsOfStudy": [
+                    "Food Technology",
+                    "Materials Engineering",
+                    "Metal Techniques",
+                    "Metallurgical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Design",
+                    "Food Technology",
+                    "Software Engineering"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. Jurij Gagarin 17/1-1",
+                "City": "Skopje",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "https://vs.edu.mk",
+                "college_name": "School of Journalism and Public Relations, Skopje",
+                "university_name": "Visokata \u0161kola za novinarstvo i odnosi so javnosta, Skpoje (VS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Macedonian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Corporate Communications and Public Relations",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Production",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media Management and Multimedia",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Media Studies",
+                    "Multimedia"
+                ],
+                "Details": "Postgraduate"
+            },
+            {
+                "College": "Strategic Communications Management",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Management",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Journalism"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ilindenska n.335",
+                "City": "Tetovo",
+                "Province": "N/A",
+                "PostCode": "1200",
+                "Website": "https://www.seeu.edu.mk",
+                "college_name": "South East European University",
+                "university_name": "Univerzitet na Jugoistocna Evropa \u2013 SEE University"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001.",
+            "AcademicYear": "October to June.",
+            "AdmissionRequirements": [
+                "School certificate and entrance examination",
+                ""
+            ],
+            "Languages": [
+                "Albanian",
+                "Macedonian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Agricultural Business",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Health Administration",
+                    "Information Technology",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Contemporary Sciences and Technologies",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Information Technology",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages, Cultures and Communications",
+                "FieldsOfStudy": [
+                    "Albanian",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "English",
+                    "German",
+                    "Literature",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Criminal Law",
+                    "Criminology",
+                    "International Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration and Political Science",
+                "FieldsOfStudy": [
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment and Health",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages, Cultures and Communications",
+                "FieldsOfStudy": [
+                    "Albanian",
+                    "Communication Studies",
+                    "Educational Administration",
+                    "English",
+                    "German"
+                ],
+                "Details": "Max van der Stoel"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Business Computing",
+                    "Civil Law",
+                    "Computer Science",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "Educational Administration",
+                    "Foreign Languages Education",
+                    "German",
+                    "Information Technology",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Marketing",
+                    "Mass Communication",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Transport Management"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bulevar '1 Maj' bb",
+                "City": "Bitola",
+                "Province": "N/A",
+                "PostCode": "7000",
+                "Website": "https://www.uklo.edu.mk",
+                "college_name": "St.Kliment Ohridski University, Bitola",
+                "university_name": "Univerzitet Sv. Kliment Ohridski Bitola (UKLO)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1979, incorporating previously existing institutions in the Southwest Macedonian Region founded between 1924 and 1979.",
+            "AcademicYear": "September to May (September-January; February-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate and pass grades at the maturity exam (Diploma za polozhena matura)",
+                ""
+            ],
+            "Languages": [
+                "Macedonian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Administration and Information Systems Management",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Engineering Management",
+                    "Information Management",
+                    "Information Sciences",
+                    "International Business",
+                    "Public Administration",
+                    "Software Engineering"
+                ],
+                "Details": "Bitola"
+            },
+            {
+                "College": "Biotechnical Sciences",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Biotechnology",
+                    "Farm Management"
+                ],
+                "Details": "Bitola"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business Computing",
+                    "E-Business/Commerce",
+                    "Economics",
+                    "Finance",
+                    "International Business",
+                    "International Economics",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "Prilep"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Computer Education",
+                    "Education",
+                    "English",
+                    "Foreign Languages Education",
+                    "French",
+                    "German",
+                    "Library Science",
+                    "Preschool Education",
+                    "Technology Education"
+                ],
+                "Details": "Bitola"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "Kichevo"
+            },
+            {
+                "College": "Security",
+                "FieldsOfStudy": [
+                    "Civil Security",
+                    "Criminology",
+                    "Finance",
+                    "Protective Services"
+                ],
+                "Details": "Skopje"
+            },
+            {
+                "College": "Technical Sciences",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Graphics",
+                    "Environmental Engineering",
+                    "Industrial Management",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Power Engineering",
+                    "Road Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "Bitola"
+            },
+            {
+                "College": "Technology and Technical Sciences",
+                "FieldsOfStudy": [
+                    "Food Technology",
+                    "Nutrition"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hospitality",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Dietetics",
+                    "Hotel and Restaurant",
+                    "Insurance",
+                    "Nutrition",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Details": "Ohrid"
+            },
+            {
+                "College": "Veterinary Science",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "Bitola"
+            },
+            {
+                "College": "Tobacco",
+                "FieldsOfStudy": [
+                    "Agronomy",
+                    "Chemistry",
+                    "Genetics"
+                ],
+                "Details": "Prilep"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Laboratory Techniques",
+                    "Medicine",
+                    "Midwifery",
+                    "Nursing",
+                    "Physical Therapy",
+                    "Radiology"
+                ],
+                "Details": "Bitola"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Animal Husbandry",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Computer Science",
+                    "Criminology",
+                    "Economics",
+                    "Education",
+                    "Engineering",
+                    "Farm Management",
+                    "Food Science",
+                    "Information Technology",
+                    "Marketing",
+                    "Protective Services",
+                    "Software Engineering",
+                    "Tourism"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bul. Treta makedonska brigada no.60",
+                "City": "Skopje",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "https://uacs.edu.mk",
+                "college_name": "University American College in Skopje",
+                "university_name": "Univerzitet Amerikan Kolej Skopje"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2005. Obtained status 2006.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent; TOEFL score of at least 530 (written form) or 200 (computer form), for studies in English; High School GPA of 3",
+                "5 - 5",
+                "0"
+            ],
+            "Languages": [
+                "English",
+                "Macedonian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture and Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Economics and Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "English",
+                    "Foreign Languages Education",
+                    "Literature",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal Studies",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Science",
+                "FieldsOfStudy": [
+                    "Human Rights",
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Architecture",
+                    "Banking",
+                    "Business Administration",
+                    "Design",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Political Sciences"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "st.Nicholas Rusinski no.1",
+                "City": "Skopje",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "http://www.esra.com.mk",
+                "college_name": "University of Audiovisual Arts, European Film, Theater and Dance Academy",
+                "university_name": "Univerzitet za Audiovizuelni Umetnosti - Evropska Filmska Akademija ESRA Pariz-Skopje- Njujork \u2013 European Film Academy ESRA-Skopje Paris-New York"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007 on the model of the French ESRA Film School.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Entrance examination",
+                ""
+            ],
+            "Languages": [
+                "Macedonian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Film",
+                "FieldsOfStudy": [
+                    "Cinema and Television",
+                    "Design",
+                    "Film",
+                    "Photography",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sound Production and Applied Music",
+                "FieldsOfStudy": [
+                    "Music",
+                    "Music Theory and Composition",
+                    "Sound Engineering (Acoustics)"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theatre",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Display and Stage Design",
+                    "Multimedia",
+                    "Music",
+                    "Music Theory and Composition",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Film",
+                    "Sound Engineering (Acoustics)",
+                    "Theatre"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Partizanska bb.",
+                "City": "Ohrid",
+                "Province": "N/A",
+                "PostCode": "6000",
+                "Website": "http://uist.edu.mk",
+                "college_name": "University of Information Science and Technology 'St. Paul the Apostle', Ohrid",
+                "university_name": "Univerzitet za informati\u010dki nauki i tehnologii 'Sv. Apostol Pavle' (UIST)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2009.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Macedonian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Information Technology, Machine Intelligence and Robotics",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Robotics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Networks and Security",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information and Communication Science",
+                "FieldsOfStudy": [
+                    "Information Sciences",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Systems, Visualization, Multimedia and Animation",
+                "FieldsOfStudy": [
+                    "Computer Graphics",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Information Sciences"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rruga e Ilindenit pn",
+                "City": "Tetovo",
+                "Province": "N/A",
+                "PostCode": "1200",
+                "Website": "https://unite.edu.mk",
+                "college_name": "University of Tetova",
+                "university_name": "Universitetit Shtet\u00ebror i Tetov\u00ebs"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1994. Obtained current status 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Albanian",
+                "Macedonian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Biotechnology",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Biotechnology",
+                    "Crop Production"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Architecture and Planning",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Electronic Engineering",
+                    "Mechanical Engineering",
+                    "Road Engineering",
+                    "Town Planning",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Aesthetics",
+                    "Art History",
+                    "Fine Arts",
+                    "Graphic Design",
+                    "Music",
+                    "Painting and Drawing",
+                    "Sculpture",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Albanian",
+                    "Economics",
+                    "Finance",
+                    "Marketing",
+                    "Modern Languages",
+                    "Public Administration",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Technology and Nutrition",
+                "FieldsOfStudy": [
+                    "Food Technology",
+                    "Nutrition"
+                ],
+                "Details": "Gostivar"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Civil Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "Human Rights",
+                    "International Relations and Diplomacy",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Nursing",
+                    "Obstetrics and Gynaecology",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences and Mathematics",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Ecology",
+                    "Geography",
+                    "Mathematics and Computer Science",
+                    "Pharmacy",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy",
+                "FieldsOfStudy": [
+                    "Pedagogy",
+                    "Preschool Education",
+                    "Special Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philology",
+                "FieldsOfStudy": [
+                    "Albanian",
+                    "English",
+                    "French",
+                    "German",
+                    "Italian",
+                    "Literature",
+                    "Native Language"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "History",
+                    "Pedagogy",
+                    "Philosophy",
+                    "Psychology",
+                    "Sociology",
+                    "Turkish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology and Ecology",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Albanian",
+                    "Architecture",
+                    "Biology",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Ecology",
+                    "Economics",
+                    "Electronic Engineering",
+                    "Engineering Management",
+                    "English",
+                    "French",
+                    "Geography",
+                    "German",
+                    "History",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Pedagogy",
+                    "Psychology",
+                    "Slavic Languages",
+                    "Sociology",
+                    "Tourism"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Blvd. Partizanski odredi, No.99",
+                "City": "Skopje",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "https://www.utms.edu.mk",
+                "college_name": "University of Tourism and Management in Skopje",
+                "university_name": "Univerzitet za Turizam i Menadzhment Skopje (UTMS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "High School Certificate",
+                ""
+            ],
+            "Languages": [
+                "Macedonian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Marketing and Management",
+                "FieldsOfStudy": [
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Hotel Management",
+                    "Human Resources",
+                    "Management",
+                    "Tourism"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

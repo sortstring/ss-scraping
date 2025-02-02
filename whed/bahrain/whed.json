@@ -1,0 +1,1442 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 5055\nBuilding 166 - Road 23\nBlock 623 - East Al-Ekir",
+                "City": "Manama",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.asu.edu.bh",
+                "college_name": "Applied Science University",
+                "university_name": "(ASU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Marketing",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Graphic Design",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Computer Science",
+                    "Finance",
+                    "Graphic Design",
+                    "Information Sciences",
+                    "Interior Design",
+                    "Law",
+                    "Management Systems",
+                    "Marketing",
+                    "Political Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Finance",
+                    "Human Resources",
+                    "Law"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Building No. 2441 Road 2835\nP.O. Box: 15503",
+                "City": "Busaiteen",
+                "Province": "Manama",
+                "PostCode": "228",
+                "Website": "https://www.rcsi.com/bahrain",
+                "college_name": "Royal College of Surgeons in Ireland - Medical University of Bahrain",
+                "university_name": "RCSI - Medical University of Bahrain (RCSI Bahrain)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2004 on the authority of the Government of the Kingdom of Bahrain and is a constituent university of the Royal College of Surgeons in Ireland. Graduates of the University are awarded degrees from both the Medical University of Bahrain and the National University of Ireland. In addition, graduates in medicine also receive Licentiates from the Royal College of Surgeons in Ireland and the Royal College of Physicians of Ireland. The degrees awarded by RCSI Bahrain are recognised and attested by the Higher Education Council in Bahrain",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "Recognized secondary school certificate for undergraduate degrees",
+                "For Master's courses, a recognized Bachelor's degree is required",
+                "Full information available from the institution"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing and Midwifery",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies and Research",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Medicine",
+                    "Midwifery",
+                    "Nursing",
+                    "Obstetrics and Gynaecology",
+                    "Surgery"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Health Administration",
+                    "Nursing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 32038\nManama",
+                "City": "Sakhir",
+                "Province": "Southern Directorate",
+                "PostCode": "N/A",
+                "Website": "https://www.uob.edu.bh",
+                "college_name": "University of Bahrain",
+                "university_name": "(UOB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1986, incorporating the University College of Arts, Science and Education, founded 1978 and the Gulf Polytechnic, College of Business and Administration and Engineering, founded 1981",
+            "AcademicYear": "September to September (September-January; February-June; June-September)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Twajihia) or equivalent (Min 70%, each college has its own admission criteria, exam & interview)"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "American Studies",
+                "FieldsOfStudy": [
+                    "American Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Bahrain Innovation and Tech Transfer",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Incubator",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Entrepreneurship"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cloud Innovation",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Community Service and Continuous Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "E-Learning",
+                "FieldsOfStudy": [
+                    "Distance Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "French Studies",
+                "FieldsOfStudy": [
+                    "French",
+                    "French Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "German Studies",
+                "FieldsOfStudy": [
+                    "Germanic Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Japanese Studies",
+                "FieldsOfStudy": [
+                    "Japanese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Measurement and Evaluation",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Media",
+                "FieldsOfStudy": [
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Information Technology",
+                    "Instrument Making",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "English",
+                    "Fine Arts",
+                    "Islamic Studies",
+                    "Literature",
+                    "Mass Communication",
+                    "Psychology",
+                    "Social Sciences",
+                    "Tourism"
+                ],
+                "Details": "Sukhair"
+            },
+            {
+                "College": "Bahrain Teachers Training",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Education",
+                    "Educational Technology",
+                    "Psychology"
+                ],
+                "Details": "BTC"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Entrepreneurship",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "Sukhair"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "Isa Town"
+            },
+            {
+                "College": "Health and Sport Science",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Network Technology",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "Sukhair"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics"
+                ],
+                "Details": "Sukhair"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Community Health",
+                    "Midwifery",
+                    "Nursing"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "Arabic",
+                    "Architecture",
+                    "Banking",
+                    "Biology",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Education",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "English",
+                    "Finance",
+                    "Fine Arts",
+                    "History",
+                    "Information Technology",
+                    "Interior Design",
+                    "International Business",
+                    "International Economics",
+                    "Islamic Studies",
+                    "Laboratory Techniques",
+                    "Landscape Architecture",
+                    "Law",
+                    "Literature",
+                    "Management",
+                    "Marketing",
+                    "Mass Communication",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Medical Technology",
+                    "Nursing",
+                    "Operations Research",
+                    "Pharmacy",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Physics",
+                    "Production Engineering",
+                    "Psychology",
+                    "Radiology",
+                    "Sociology",
+                    "Software Engineering",
+                    "Statistics",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Education",
+                    "Psychology"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Applied Physics",
+                    "Arabic",
+                    "Architecture",
+                    "Banking",
+                    "Biological and Life Sciences",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Data Processing",
+                    "Dietetics",
+                    "Educational and Student Counselling",
+                    "Educational Testing and Evaluation",
+                    "Electrical Engineering",
+                    "Engineering Management",
+                    "English",
+                    "Environmental Studies",
+                    "Finance",
+                    "Health Sciences",
+                    "Human Resources",
+                    "Information Technology",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Midwifery",
+                    "Nursing",
+                    "Nutrition",
+                    "Physical Therapy",
+                    "Private Law",
+                    "Psychiatry and Mental Health",
+                    "Psychology",
+                    "Public Law",
+                    "Real Estate",
+                    "Software Engineering",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Engineering Management",
+                    "Environmental Studies",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bld 41, Rd 18, Al-Hoora 310\nGosi Complex, Exhibition Road\nP.O. Box 10878",
+                "City": "Manama",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ahlia.edu.bh",
+                "college_name": "Ahlia University",
+                "university_name": "(AU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Science",
+                "FieldsOfStudy": [
+                    "Interior Design",
+                    "Mass Communication",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Information Management",
+                    "Management",
+                    "Management Systems",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical and Health Sciences",
+                "FieldsOfStudy": [
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies and Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Economics",
+                    "Finance",
+                    "Information Technology",
+                    "Interior Design",
+                    "Management",
+                    "Management Systems",
+                    "Marketing",
+                    "Mass Communication",
+                    "Multimedia",
+                    "Physical Therapy",
+                    "Public Relations",
+                    "Telecommunications Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Information Technology",
+                    "Mass Communication",
+                    "Public Relations"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Building 829, Road 1213\nBlock 712\nP.O. Box: 8041",
+                "City": "Salmabad",
+                "Province": "N/A",
+                "PostCode": "8041",
+                "Website": "http://www.amaiu.edu.bh",
+                "college_name": "AMA International University - Bahrain",
+                "university_name": "(AMAIU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002. Part of the AMA Education System (AMAES) based in the Philippines",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "General Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Administrative and Financial Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business Computing",
+                    "International Business",
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Studies",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "International Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Street 3220, Building 890, Block 732",
+                "City": "A'ali",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.aou.org.bh",
+                "college_name": "Arab Open University - Bahrain Branch",
+                "university_name": "(AOU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Studies",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language Studies",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "English",
+                    "Information Technology",
+                    "Literature"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 26671\nBuilding 293, Road, Complex 329\nGovernorate 2904",
+                "City": "Manama",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.agu.edu.bh",
+                "college_name": "Arabian Gulf University",
+                "university_name": "(AGU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1979 by the seven Gulf States. A regional autonomous scientific institution with public status, sponsored by the six GCC countries. Jointly managed by the member countries on the basis of equal representation in the General Conference and on the Board of Trustees",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Must be a national of one of the GCC member states that founded the University",
+                "Secondary school certificate with cumulative average of 90%"
+            ],
+            "Languages": [
+                "English",
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Arid Land Studies",
+                    "Biotechnology",
+                    "Distance Education",
+                    "Education",
+                    "Education of the Gifted",
+                    "Environmental Management",
+                    "Special Education",
+                    "Technology",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Medical Sciences",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Biochemistry",
+                    "Community Health",
+                    "Demography and Population",
+                    "Health Sciences",
+                    "Immunology",
+                    "Laboratory Techniques",
+                    "Medicine",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Finance",
+                    "Health Administration"
+                ],
+                "Details": "French Arabian"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Biotechnology",
+                    "Distance Education",
+                    "Education of the Gifted",
+                    "Education of the Handicapped",
+                    "Engineering Management",
+                    "Special Education",
+                    "Surveying and Mapping"
+                ],
+                "Master'sDegree": [
+                    "Air Transport",
+                    "Arid Land Studies",
+                    "Biotechnology",
+                    "Distance Education",
+                    "Education of the Gifted",
+                    "Education of the Handicapped",
+                    "Education of the Socially Disadvantaged",
+                    "Engineering Management",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Geology",
+                    "Management",
+                    "Natural Resources",
+                    "Special Education",
+                    "Surveying and Mapping",
+                    "Transport Management",
+                    "Water Management",
+                    "Water Science"
+                ],
+                "Doctor'sDegrees": [
+                    "Biotechnology",
+                    "Education of the Gifted",
+                    "Engineering Management"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 33349\nRoad 4003\nBlock 840",
+                "City": "Isa Town",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.polytechnic.bh",
+                "college_name": "Bahrain Polytechnic",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Logistics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering, Design and Information & Communications Technology",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Graphic Design",
+                    "Information Technology",
+                    "Multimedia",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foundation Studies",
+                "FieldsOfStudy": [
+                    "English",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Graphic Design",
+                    "Information Technology",
+                    "Management",
+                    "Mechanical Engineering",
+                    "Multimedia",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 26489\nBuilding 1964, Road 4363 \nBlock 743",
+                "City": "Sanad",
+                "Province": "N/A",
+                "PostCode": "26489",
+                "Website": "http://www.gulfuniversity.edu.bh",
+                "college_name": "Gulf University",
+                "university_name": "Al-Jame'a Al-Khaleejia (GU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "Bahrain Secondary School Certificate or equivalent"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Administrative and Financial Science",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Communication Arts",
+                    "Finance",
+                    "Human Resources",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering and Sciences",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Interior Design",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Finance",
+                    "Human Resources",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Interior Design",
+                    "Law",
+                    "Mass Communication",
+                    "Mechanical Engineering",
+                    "Public Relations",
+                    "Structural Architecture",
+                    "Telecommunications Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Administrative Law",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Commercial Law",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Finance",
+                    "Human Resources",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Islamic Law",
+                    "Law",
+                    "Management Systems",
+                    "Mechanical Engineering",
+                    "Public Relations",
+                    "Structural Architecture",
+                    "Telecommunications Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Gate 366 Muaskar Highway West Riffa 942 \nP.O. Box 37400",
+                "City": "West Riffa",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ruw.edu.bh",
+                "college_name": "Royal University for Women",
+                "university_name": "(RUW)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004",
+            "AcademicYear": "September to January; February to June",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "female"
+        },
+        "Divisions": [
+            {
+                "College": "General Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Art and Design",
+                "FieldsOfStudy": [
+                    "Fashion Design",
+                    "Graphic Design",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Financial Sciences",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Banking",
+                    "Business Administration",
+                    "Computer Science",
+                    "Design",
+                    "Education",
+                    "Fashion Design",
+                    "Finance",
+                    "Fine Arts",
+                    "Graphic Design",
+                    "Human Resources",
+                    "Information Technology",
+                    "Interior Design",
+                    "International Business",
+                    "Law",
+                    "Marketing",
+                    "Painting and Drawing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Design",
+                    "Management",
+                    "Painting and Drawing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bldg.1002 Road 5121 Suwayfia-Manama 351",
+                "City": "Manama",
+                "Province": "N/A",
+                "PostCode": "990",
+                "Website": "http://www.tagucb.edu.bh",
+                "college_name": "Talal Abu-Ghazaleh University College of Business",
+                "university_name": "(TAG-UCB)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2012",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Islamic Banking and Finance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking and Finance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Department of Human Resources",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Department of Logistics",
+                "FieldsOfStudy": [
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Department of Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Entrepreneurship and E-Business",
+                "FieldsOfStudy": [
+                    "E-Business/Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foundation and General Courses",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "International Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "E-Business/Commerce",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "5th Floor, Bldg. 296, Road 3903/ Al Estiqlal Ave., Block 939\nP.O. Box: 40434",
+                "City": "Riffa-Al-Hajiyat",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ku.edu.bh",
+                "college_name": "The Kingdom University",
+                "university_name": "(KU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "High school certificate or equivalent (Tawjeheya)"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture Engineering and Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Insurance",
+                    "International Business",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Private Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Business Administration",
+                    "Law"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Interior Design",
+                    "Law",
+                    "Management",
+                    "Structural Architecture"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus Road 2314 Saar 575\nP.O. Box 55040",
+                "City": "Manama",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ucb.edu.bh",
+                "college_name": "University College of Bahrain",
+                "university_name": "(UCB)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Bahraini Secondary School Completion Certificate or equivalent"
+            ],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication and Multimedia",
+                "FieldsOfStudy": [
+                    "Graphic Design",
+                    "Media Studies",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology",
+                    "Management Systems"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Communication Arts",
+                    "Computer Science",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Management Systems",
+                    "Multimedia"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

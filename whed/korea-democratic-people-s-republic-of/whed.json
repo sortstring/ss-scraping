@@ -1,0 +1,5615 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "North Pyongan Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Cha Gwan Su University",
+                "university_name": "Cha Gwang Su Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1961.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Biology and Chemistry",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Kanggye City",
+                "Province": "Chagang Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Chagang University",
+                "university_name": "Chagang Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1970.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry",
+                "FieldsOfStudy": [
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry Engineering",
+                "FieldsOfStudy": [
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry Machinery",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Horticulture",
+                "FieldsOfStudy": [
+                    "Horticulture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sericulture",
+                "FieldsOfStudy": [
+                    "Sericulture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine and Animal Husbandry",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Wood Processing",
+                "FieldsOfStudy": [
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Pyongchon District",
+                "City": "Pyongsong City",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Chang Chol Gu University",
+                "university_name": "Chang Chol Gu Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1970. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Cookery",
+                "FieldsOfStudy": [
+                    "Cooking and Catering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tailoring",
+                "FieldsOfStudy": [
+                    "Clothing and Sewing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commercial Management",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Organizational Techniques",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Supply Service",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "Chagang Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Changjasan University",
+                "university_name": "Changjasan Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1967.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Home Economics",
+                "FieldsOfStudy": [
+                    "Home Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogical Psychology",
+                "FieldsOfStudy": [
+                    "Pedagogy",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Haeju City",
+                "Province": "South Hwanghae Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Changsusan University",
+                "university_name": "Changsusan Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1959. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Koryo Medicine and Pharmacy",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "North Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Chinmyong University",
+                "university_name": "Chinmyong Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1948.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Biology and Chemistry",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music and Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Wonsan City",
+                "Province": "Kangwon Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Chong Jun Taek University of Economics",
+                "university_name": "Chong Jun Taek Kyongje Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1960. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Commercial Management",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance; Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Materials Supply and Labour Administration",
+                "FieldsOfStudy": [
+                    "Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Planning Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Hamhung City",
+                "Province": "South Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Chongsong University",
+                "university_name": "Chongsong Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1946. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Hygiene",
+                "FieldsOfStudy": [
+                    "Hygiene"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Koryo Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Stomatology",
+                "FieldsOfStudy": [
+                    "Stomatology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Surgery",
+                "FieldsOfStudy": [
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "Chagang Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Chonrigil University",
+                "university_name": "Chonrigil Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1953.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Biology and Chemistry",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music and Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tongdaewon District",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Choson University of Physical Education",
+                "university_name": "Choson Cheyuk Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1958. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports",
+                "FieldsOfStudy": [
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ranam District",
+                "City": "Chongjin City",
+                "Province": "North Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Hambuk University",
+                "university_name": "Hambuk Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1970. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Farm Machinery",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pomiculture",
+                "FieldsOfStudy": [
+                    "Crop Production"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine and Animal Husbandry",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Huichon City",
+                "Province": "Chagang Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Huichon University of Technology",
+                "university_name": "Huichon Kongop Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1959. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Automation Engineering",
+                "FieldsOfStudy": [
+                    "Electronics and Automation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electro-Apparatus Engineering",
+                "FieldsOfStudy": [
+                    "Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Radio Engineering",
+                "FieldsOfStudy": [
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Wire Communication Engineering",
+                "FieldsOfStudy": [
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Kanggye City",
+                "Province": "Chagang Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Inpung University",
+                "university_name": "Inpung Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1969. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Koryo Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Surgery",
+                "FieldsOfStudy": [
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "North Hwanghae Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Jangsun University of Pharmacy",
+                "university_name": "Jangsu Yakhak Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1984.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Herbal Studies",
+                "FieldsOfStudy": [
+                    "Traditional and Complementary Medicine and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Koryo Pharmacy",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Zoology",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Sariwon City",
+                "Province": "North Hwanghae Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kang Gon University",
+                "university_name": "Kang Gon Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1971. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Surgery",
+                "FieldsOfStudy": [
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Traditional Eastern Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Hyesan City",
+                "Province": "Ryangang Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Karimchon University",
+                "university_name": "Karimchon Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1971. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Traditional Eastern Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Central District",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kim Chaek University of Technology",
+                "university_name": "Kim Chaek Kongop Jonghap Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1948. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Automatic Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronic Engineering",
+                "FieldsOfStudy": [
+                    "Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geological Prospecting",
+                "FieldsOfStudy": [
+                    "Geological Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Heating Engineering",
+                "FieldsOfStudy": [
+                    "Heating and Refrigeration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Management",
+                "FieldsOfStudy": [
+                    "Industrial Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Machine Building",
+                "FieldsOfStudy": [
+                    "Machine Building"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Materials Engineering",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Metallurgy",
+                "FieldsOfStudy": [
+                    "Metallurgical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining Engineering",
+                "FieldsOfStudy": [
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Engineering",
+                "FieldsOfStudy": [
+                    "Physical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Power-Driven Machine Engineering",
+                "FieldsOfStudy": [
+                    "Power Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Shipbuilding",
+                "FieldsOfStudy": [
+                    "Marine Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kim Chol Ju University of Education",
+                "university_name": "Kim Chol Ju Sabom Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1946.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology and Chemistry",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "South Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kim Hyong Gwon University of Education",
+                "university_name": "Kim Hyong Gwon Sabon Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1961.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kim Hyong Jik University of Education",
+                "university_name": "Kim Hyong Jik Sabom Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1946.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geography",
+                "FieldsOfStudy": [
+                    "Geography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Taesong District",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kim Il Sung University",
+                "university_name": "Kim Il Sung Juonghap Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1946, reorganized 1953. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Automation",
+                "FieldsOfStudy": [
+                    "Electronics and Automation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages and Literature",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geography",
+                "FieldsOfStudy": [
+                    "Geography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geology",
+                "FieldsOfStudy": [
+                    "Geology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Juche Philosophy",
+                "FieldsOfStudy": [
+                    "Ethics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Haeju City",
+                "Province": "South Hwanghae Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kim Je Won University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1960. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agronomics",
+                "FieldsOfStudy": [
+                    "Agronomy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Farm Machinery",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pomiculture",
+                "FieldsOfStudy": [
+                    "Crop Production"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural Sciences Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Forest and River Protection",
+                "FieldsOfStudy": [
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine and Animal Husbandry",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "Ryanggang Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kim Jong Suk University of Education",
+                "university_name": "Kim Jong Suk Sabom Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1967.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "South Hwanghae Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kim Jong Tae University",
+                "university_name": "Kim Jong Tae Sabon Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1957.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Hamhung City",
+                "Province": "South Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Koryo University of Pharmacy",
+                "university_name": "Koryo Yakhak Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1968. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "Kangwon Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kumgang University",
+                "university_name": "Kumgang Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1949.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sapo District",
+                "City": "Hamhung City",
+                "Province": "South Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kumya University",
+                "university_name": "Kumya Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1958. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Farm Machinery",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pomiculture",
+                "FieldsOfStudy": [
+                    "Crop Production"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural Scientific Research",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine and Animal Husbandry",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Pyonghawa-Dong",
+                "City": "Sinuiju City",
+                "Province": "Pyongan Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kwanje University",
+                "university_name": "Kwangje Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1969. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Hygiene",
+                "FieldsOfStudy": [
+                    "Hygiene"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Koryo Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Stomatology",
+                "FieldsOfStudy": [
+                    "Stomatology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Surgery",
+                "FieldsOfStudy": [
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "North Pyongan Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kwanso University",
+                "university_name": "Kwanso Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1947.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music and Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Sariwon City",
+                "Province": "North Hwanghae Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kye Ung San University",
+                "university_name": "Kye Ung Sang Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "N/A",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agrochemistry",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agronomy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economic Plant",
+                "FieldsOfStudy": [
+                    "Plant and Crop Protection"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Farm Machinery",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forest and River Protection",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Land  Development",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pomiculture",
+                "FieldsOfStudy": [
+                    "Crop Production"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sericulture",
+                "FieldsOfStudy": [
+                    "Sericulture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine and Animal Husbandry",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Pohang District",
+                "City": "Chongjin City",
+                "Province": "North Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Kyongsong University",
+                "university_name": "Kyongsong Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1948. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Hygiene",
+                "FieldsOfStudy": [
+                    "Hygiene"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Koryo Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Stomatology",
+                "FieldsOfStudy": [
+                    "Stomatology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Surgery",
+                "FieldsOfStudy": [
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Sinuiju City",
+                "Province": "North Pyongyang Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Manpung University",
+                "university_name": "Manpung Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1969. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Farm Machinery",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pomiculture",
+                "FieldsOfStudy": [
+                    "Crop Production"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Stockraising",
+                "FieldsOfStudy": [
+                    "Animal Husbandry"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "South Pyongan Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Myongsin University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1961.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Waudo District",
+                "City": "Nampo City",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Nampo University",
+                "university_name": "Nampo Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1967. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Farm Machinery",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Horticulture",
+                "FieldsOfStudy": [
+                    "Horticulture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pomiculture",
+                "FieldsOfStudy": [
+                    "Crop Production"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Nampo City",
+                "Province": "South Pyongan Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Nampo University of Medicine",
+                "university_name": "Nampo Uihak Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1985.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "North Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "O Jung Hup University",
+                "university_name": "O Jung Hup Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1961.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Musics and Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Pyongsong City",
+                "Province": "South Pyongan Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Ponghwa University",
+                "university_name": "Ponghwa Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1972. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Koryo Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Stomatology",
+                "FieldsOfStudy": [
+                    "Stomatology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Surgery",
+                "FieldsOfStudy": [
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ryongsong District",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Pyongyang Nongop University of Agriculture",
+                "university_name": "Pyongyang Nongop Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1981. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agrobiology",
+                "FieldsOfStudy": [
+                    "Agrobiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Farm Machinery",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine and Animal Husbandry",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tongdaewon District",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Pyongyang University of Cinematics",
+                "university_name": "Pyongyang Yonguk Yonghwa Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1953. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Acting",
+                "FieldsOfStudy": [
+                    "Acting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cinema",
+                "FieldsOfStudy": [
+                    "Cinema and Television"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cinematography",
+                "FieldsOfStudy": [
+                    "Cinema and Television"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Creation",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Direction",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tongdaewon District",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Pyongyang University of Fine Arts",
+                "university_name": "Pyongyang Misul Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1947. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Crafts",
+                "FieldsOfStudy": [
+                    "Crafts and Trades"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graphic Art",
+                "FieldsOfStudy": [
+                    "Graphic Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Art",
+                "FieldsOfStudy": [
+                    "Industrial Arts Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Painting",
+                "FieldsOfStudy": [
+                    "Painting and Drawing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Painting",
+                "FieldsOfStudy": [
+                    "Painting and Drawing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sculpture",
+                "FieldsOfStudy": [
+                    "Sculpture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts Research",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Taesong District",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Pyongyang University of Foreign Studies",
+                "university_name": "Pyongyang Oeguko Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1949. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "French and Spanish",
+                "FieldsOfStudy": [
+                    "French",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Russian; Chinese; Arabic; Japanese",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Chinese",
+                    "Japanese",
+                    "Russian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education Theory",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Simultaneous Interpretation",
+                "FieldsOfStudy": [
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Training",
+                "FieldsOfStudy": [
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Songyo District",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Pyongyang University of Light Industry",
+                "university_name": "Pyongyang Kyonggongop Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1959. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Chemical Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Engineering",
+                "FieldsOfStudy": [
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Machine Engineering",
+                "FieldsOfStudy": [
+                    "Machine Building"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Textile Engineering",
+                "FieldsOfStudy": [
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Research",
+                "FieldsOfStudy": [
+                    "Food Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Light Industry",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Paper Technology",
+                "FieldsOfStudy": [
+                    "Paper Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Taedonggang District",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Pyongyang University of Mechanical Engineering",
+                "university_name": "Pyongyang Kigye Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "A State institution responsible to the National Education Comission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Automation",
+                "FieldsOfStudy": [
+                    "Electronics and Automation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction Machinery",
+                "FieldsOfStudy": [
+                    "Machine Building"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Central District",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Pyongyang University of Medicine",
+                "university_name": "Pyongyang Uihak Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1948. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Basic Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Clinical Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hygiene",
+                "FieldsOfStudy": [
+                    "Hygiene"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Koryo Medicine",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Stomatology",
+                "FieldsOfStudy": [
+                    "Stomatology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Taedonggang District",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Pyongyang University of Music and Dance",
+                "university_name": "Pyongyang Umakmuyong Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1948. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Composition",
+                "FieldsOfStudy": [
+                    "Music Theory and Composition"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dance",
+                "FieldsOfStudy": [
+                    "Dance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "National Instruments",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Preparatory",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Vocal Technique",
+                "FieldsOfStudy": [
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Western Instruments",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music and Dance",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Music"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Hyongjesan District",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Pyongyang University of Railways",
+                "university_name": "Pyongyang Choldo Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1959. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Railway Engineering",
+                "FieldsOfStudy": [
+                    "Railway Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Pyongyang University of Surgery",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1985.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Koryo Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "North Hwanghae Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Ri Kye Sun University",
+                "university_name": "Ri Kye Sun Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1953.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "South Pyongan Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Ri Su Bok University",
+                "university_name": "Ri Su Bok Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1984.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Antibiotics Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemical Machine Building",
+                "FieldsOfStudy": [
+                    "Machine Building"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "High Polymer Chemistry",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Inorganic Synthetic Techniques",
+                "FieldsOfStudy": [
+                    "Inorganic Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Organic Synthetic Techniques",
+                "FieldsOfStudy": [
+                    "Organic Chemistry"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Hyesan City",
+                "Province": "Ryangang Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Ryanggang University",
+                "university_name": "Ryanggang Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1955. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry Engineering",
+                "FieldsOfStudy": [
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Wood Processing",
+                "FieldsOfStudy": [
+                    "Forest Products"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural and Forestry Scientific Research",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Stockraising",
+                "FieldsOfStudy": [
+                    "Cattle Breeding"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "North Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Ryomyong University",
+                "university_name": "Ryomyong Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1946.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music and Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "South Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Saenal University",
+                "university_name": "Saenal Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1961.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music and Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Nampo",
+                "Province": "South Pyongan Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Sanmgwang University",
+                "university_name": "Samgwang Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1963.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Education",
+                "FieldsOfStudy": [
+                    "Technology Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "N/A",
+                "Province": "North Hwanghae Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Sariwon University",
+                "university_name": "Sariwon Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1963.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music and Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Sinuiju City",
+                "Province": "North Pyongyang Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Sinuiju University of Light Industry",
+                "university_name": "Sinuiju Kyongkongop Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1982. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Chemical Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Technology",
+                "FieldsOfStudy": [
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Machine Engineering",
+                "FieldsOfStudy": [
+                    "Machine Building"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Textile Engineering",
+                "FieldsOfStudy": [
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Waudo District",
+                "City": "Nampo City",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Sohae University",
+                "university_name": "Sohae Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1977. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Fish Farming and Cultivation",
+                "FieldsOfStudy": [
+                    "Aquaculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fisheries",
+                "FieldsOfStudy": [
+                    "Fishery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Kaesong",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Songdo University",
+                "university_name": "Songdo Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1961.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean Language and Literature",
+                "FieldsOfStudy": [
+                    "Korean",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Training",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Wonsan City",
+                "Province": "Kangwon Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Songdowon University",
+                "university_name": "Songdowon Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1971. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Koryo Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Koryo Pharmacy",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Wonsan City",
+                "Province": "Kangwon Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Tonghae University",
+                "university_name": "Tonghae Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1959. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Fish Farming and Cultivation",
+                "FieldsOfStudy": [
+                    "Aquaculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fisheries",
+                "FieldsOfStudy": [
+                    "Fishery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Products Processing",
+                "FieldsOfStudy": [
+                    "Marine Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Hoesang District",
+                "City": "Hamhung City",
+                "Province": "South Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Chemical Industry",
+                "university_name": "Hwahak Kongop Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1947. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "High Polymers Chemical Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Inorganic Chemical Engineering",
+                "FieldsOfStudy": [
+                    "Inorganic Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Machine Engineering",
+                "FieldsOfStudy": [
+                    "Machine Building"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Organic Chemical Engineering",
+                "FieldsOfStudy": [
+                    "Organic Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Silicate Engineering",
+                "FieldsOfStudy": [
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Pyongsong City",
+                "Province": "South Pyongan Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Coal Mining",
+                "university_name": "Sokthan Kongop Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1968. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Anthracite Engineering",
+                "FieldsOfStudy": [
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Automation",
+                "FieldsOfStudy": [
+                    "Electronics and Automation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Coal Mine Machine Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Coal Mining",
+                "FieldsOfStudy": [
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Taedonggang District",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Construction and Building Materials",
+                "university_name": "Konsol Konjae Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1959. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architectural Engineering",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Building Machines",
+                "FieldsOfStudy": [
+                    "Machine Building"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Building Materials",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "City Management",
+                "FieldsOfStudy": [
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Construction Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction",
+                "FieldsOfStudy": [
+                    "Construction Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Sariwon City",
+                "Province": "North Hwanghae Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Geology",
+                "university_name": "Jijil Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1970. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Geological Engineering",
+                "FieldsOfStudy": [
+                    "Geological Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geology",
+                "FieldsOfStudy": [
+                    "Geology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Machine Engineering",
+                "FieldsOfStudy": [
+                    "Machine Building"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Prospecting",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tonghungsan District",
+                "City": "Hamhung City",
+                "Province": "South Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Hydraulics and Dynamics",
+                "university_name": "Suridongryok Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1959. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hydraulic and Port Construction Engineering",
+                "FieldsOfStudy": [
+                    "Construction Engineering",
+                    "Hydraulic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hydraulic Engineering",
+                "FieldsOfStudy": [
+                    "Hydraulic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Irrigation",
+                "FieldsOfStudy": [
+                    "Irrigation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Kaesong",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Light Industry",
+                "university_name": "Koryo Songgyungwan Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Textile Technology",
+                "FieldsOfStudy": [
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Pohang District",
+                "City": "Chongjin City",
+                "Province": "North Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Mining and Metallurgical Engineering",
+                "university_name": "Kwangsan Gumsok Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1959. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Automation",
+                "FieldsOfStudy": [
+                    "Electronics and Automation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Coal Engineering",
+                "FieldsOfStudy": [
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geotechnology",
+                "FieldsOfStudy": [
+                    "Geological Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Metallurgy",
+                "FieldsOfStudy": [
+                    "Metallurgical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mineral Analysis",
+                "FieldsOfStudy": [
+                    "Mineralogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining",
+                "FieldsOfStudy": [
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining Machine Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of National Economics",
+                "university_name": "Inmin Gyongje Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1946. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Management",
+                "FieldsOfStudy": [
+                    "Agricultural Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance and Banking",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Government",
+                "FieldsOfStudy": [
+                    "Government"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Management",
+                "FieldsOfStudy": [
+                    "Industrial Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Planning",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Statistics",
+                "FieldsOfStudy": [
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Trade",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Pyongyang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Printing Technology",
+                "university_name": "Inswae Kongop Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1984. A State institution responsible to the Provincial Committee for Administration and Economic Guidance.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering and Technology",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Printing and Printmaking",
+                "FieldsOfStudy": [
+                    "Printing and Printmaking"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Pyongsong City",
+                "Province": "South Pyongan Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Science",
+                "university_name": "Rigwa Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1967. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Automation",
+                "FieldsOfStudy": [
+                    "Electronics and Automation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Sciences",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Rajin City",
+                "Province": "North Hamgyong Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Sea Transport",
+                "university_name": "Haeun Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1968. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Engineering",
+                "FieldsOfStudy": [
+                    "Marine Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Transport",
+                "FieldsOfStudy": [
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nautical Science",
+                "FieldsOfStudy": [
+                    "Nautical Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Pyongsong City",
+                "Province": "South Pyongan Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Veterinary Medicine and Animal Husbandry",
+                "university_name": "Suui Chuksan Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1955. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Animal Husbandry",
+                "FieldsOfStudy": [
+                    "Animal Husbandry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Science",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Wonsan City",
+                "Province": "Kwangwon Province",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Wonsan University of Agriculture",
+                "university_name": "Wonsan Nongop Taehak"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1948. A State institution responsible to the National Education Commission.",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Graduation from senior middle school"
+            ],
+            "Languages": [
+                "Korean"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Machines",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agrobiology",
+                "FieldsOfStudy": [
+                    "Agrobiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agrochemistry",
+                "FieldsOfStudy": [
+                    "Agronomy",
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agronomy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Botany",
+                "FieldsOfStudy": [
+                    "Botany"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Irrigation Engineering",
+                "FieldsOfStudy": [
+                    "Irrigation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pomiculture",
+                "FieldsOfStudy": [
+                    "Crop Production"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sericulture",
+                "FieldsOfStudy": [
+                    "Sericulture"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

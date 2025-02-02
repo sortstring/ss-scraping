@@ -1,0 +1,198 @@
+{
+    "basic_info": {
+        "name": "Massachusetts Institute of Technology",
+        "location": {
+            "address": "77 MASSACHUSETTS AVE",
+            "city": "CAMBRIDGE",
+            "state": "MA",
+            "zip": "02139"
+        },
+        "website": "web.mit.edu",
+        "description": "MIT is an elite private college located in Cambridge, Massachusetts in the Boston Area. It is a small institution with an enrollment of 4, 601 undergraduate students. Admissions is extremely competitive as the MIT acceptance rate is only 4%. Popular majors include Computer Science, Mechanical Engineering, and Mathematics. Graduating 95% of students, MIT alumni go on to earn a starting salary of $82,200.",
+        "athletics": {
+            "division": "NCAA Division III (with football)",
+            "conference": "New England Women's & Men's Athletic Conference"
+        }
+    },
+    "niche_grades": {
+        "overall": "A+",
+        "academics": "A+",
+        "value": "A+",
+        "diversity": "A+",
+        "campus": "A-",
+        "athletics": "C+",
+        "party_scene": "A",
+        "professors": "A+",
+        "location": "A+",
+        "dorms": "A",
+        "campus_food": "B-",
+        "student_life": "A+",
+        "safety": "B+"
+    },
+    "rankings": {
+        "specialty_rankings": [
+            {
+                "category": "Colleges with the Best Academics in America",
+                "rank": 1,
+                "total_schools": 1519
+            },
+            {
+                "category": "Best Colleges in America",
+                "rank": 1,
+                "total_schools": 1517
+            },
+            {
+                "category": "Top Private Universities in America",
+                "rank": 1,
+                "total_schools": 915
+            }
+        ]
+    },
+    "admissions": {
+        "acceptance_rate": 0.04,
+        "application_deadline": "January 6",
+        "application_fee": 75,
+        "test_scores": {
+            "sat_range": {
+                "min": 1530,
+                "max": 1580
+            },
+            "act_range": {
+                "min": 35,
+                "max": 36
+            }
+        },
+        "requirements": {
+            "sat_act": "Required",
+            "high_school_gpa": "Considered but not required",
+            "early_decision": true,
+            "common_app": false
+        },
+        "similar_schools": [
+            "California Institute of Technology",
+            "Stanford University",
+            "Harvard University"
+        ]
+    },
+    "costs": {
+        "net_price_per_year": 20232,
+        "national_average_price": 15523,
+        "financial_aid": {
+            "average_aid_awarded": 45591,
+            "national_average_aid": 7535,
+            "students_receiving_aid_percentage": 79
+        }
+    },
+    "academics": {
+        "student_faculty_ratio": "3:1",
+        "evening_degree_programs": false,
+        "professor_ratings": "A+",
+        "student_feedback": {
+            "professor_effort": {
+                "agree_percentage": 83,
+                "total_responses": 47
+            },
+            "class_availability": {
+                "agree_percentage": 90,
+                "total_responses": 60
+            },
+            "manageable_workload": {
+                "agree_percentage": 35,
+                "total_responses": 60
+            }
+        },
+        "popular_majors": [
+            {
+                "name": "Computer Science",
+                "graduates": 384
+            },
+            {
+                "name": "Mechanical Engineering",
+                "graduates": 142
+            },
+            {
+                "name": "Mathematics",
+                "graduates": 126
+            }
+        ],
+        "online_education": {
+            "offers_online_courses": false,
+            "learning_distribution": {
+                "mixed": 0,
+                "on_campus": 100,
+                "fully_online": 0
+            },
+            "online_programs": {
+                "complete_programs": 0,
+                "certificates": 0,
+                "associates": 0,
+                "bachelors": 0
+            }
+        }
+    },
+    "student_life": {
+        "enrollment": {
+            "full_time_undergrads": 4601,
+            "part_time_undergrads": 56,
+            "over_25_percentage": 1,
+            "pell_grant_percentage": 18,
+            "varsity_athletes_percentage": 16
+        },
+        "campus_experience": {
+            "freshman_housing": {
+                "live_on_campus_percentage": 100
+            },
+            "day_care_services": true,
+            "greek_life": {
+                "description": "average, and no one will treat you differently if you don't join",
+                "agree_percentage": 49,
+                "responses": 72
+            },
+            "sports_culture": {
+                "description": "varsity sporting events are attended, but not a huge part of campus life",
+                "agree_percentage": 62,
+                "responses": 74
+            },
+            "facility_ratings": {
+                "athletics": {
+                    "highly_rated_percentage": 80,
+                    "responses": 56
+                },
+                "dining": {
+                    "highly_rated_percentage": 44,
+                    "responses": 57
+                },
+                "performing_arts": {
+                    "highly_rated_percentage": 58,
+                    "responses": 55
+                }
+            },
+            "typical_student_descriptions": [
+                {
+                    "description": "Innovative",
+                    "percentage": 39
+                },
+                {
+                    "description": "Atypical",
+                    "percentage": 17
+                },
+                {
+                    "description": "Creative",
+                    "percentage": 15
+                }
+            ]
+        }
+    },
+    "outcomes": {
+        "median_earnings_after_6_years": 104700,
+        "national_median_earnings": 33028,
+        "graduation_rate": 0.95,
+        "national_graduation_rate": 0.49,
+        "employed_after_2_years": 0.94,
+        "national_employment_rate": 0.83
+    },
+    "metadata": {
+        "data_source": "Niche.com",
+        "last_updated": "2024-01-15"
+    }
+}

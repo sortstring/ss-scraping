@@ -1,0 +1,165 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida. Hassan II s/n, 661",
+                "City": "Malabo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://ungecampus.com",
+                "college_name": "University of Equatorial Guinea",
+                "university_name": "Universidad Nacional de Guinea Ecuatorial (UNGE)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1995",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Social Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Business Computing",
+                    "Economics",
+                    "Journalism",
+                    "Law",
+                    "Pedagogy",
+                    "Philology",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Sociology",
+                    "Spanish"
+                ],
+                "Details": "FLCS"
+            },
+            {
+                "College": "Environmental Studies",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Human Resources"
+                ],
+                "Details": "FMA"
+            },
+            {
+                "College": "Humanities and Religious Studies",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Nursing",
+                    "Public Health",
+                    "Surgery"
+                ],
+                "Details": "FM"
+            },
+            {
+                "College": "Agriculture, Fishery and Forestry",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Fishery",
+                    "Forestry",
+                    "Geological Engineering",
+                    "Mechanical Engineering",
+                    "Metallurgical Engineering",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "EUEAPF"
+            },
+            {
+                "College": "Economics and Administration",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Banking",
+                    "Business Computing",
+                    "Finance",
+                    "Human Resources",
+                    "Public Administration",
+                    "Small Business"
+                ],
+                "Details": "EUA"
+            },
+            {
+                "College": "Educational Sciences - Bata",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Sports",
+                    "Teacher Training"
+                ],
+                "Details": "EUFP - Bata"
+            },
+            {
+                "College": "Educational Sciences - Malabo",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Sports",
+                    "Teacher Training"
+                ],
+                "Details": "EUFP - Malabo"
+            },
+            {
+                "College": "Engineering - Bata",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Structural Architecture",
+                    "Technology"
+                ],
+                "Details": "EUIT - Bata"
+            },
+            {
+                "College": "Health and Environment Studies",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

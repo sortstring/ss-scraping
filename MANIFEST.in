@@ -1,0 +1,15 @@
+include requirements.txt
+recursive-include ss_scrapping/chromedriver *
+
+include ss_scrapping/topuniversities/cachefiles/a.txt
+include ss_scrapping/usnews/cachefiles/a.txt
+include ss_scrapping/niche/cachefiles/a.txt
+include ss_scrapping/whed/cachefiles/a.txt
+
+# Exclude unwanted files
+exclude *.pyc
+exclude *.pyo
+exclude __pycache__
+exclude build/*
+exclude dist/*
+exclude *.egg-info/*

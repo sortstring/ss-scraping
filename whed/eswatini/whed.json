@@ -1,0 +1,318 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 1569",
+                "City": "Manzini",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.sanu.ac.sz",
+                "college_name": "Southern Africa Nazarene University",
+                "university_name": "(SANU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2010 through incorporation of Nazarene College of Nursing (NCN), Nazarene Teacher Training College (NTTC) and Nazarene College of Theology (NCT), which are still affiliated with the University of Swaziland (UNISWA).",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Consumer Studies",
+                    "Education",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Primary Education",
+                    "Special Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Medical Technology",
+                    "Midwifery",
+                    "Nursing",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Bible",
+                    "Business Administration",
+                    "Management",
+                    "Pastoral Studies",
+                    "Social Sciences",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Education",
+                    "Theology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Private Bag 4",
+                "City": "Kwaluseni",
+                "Province": "N/A",
+                "PostCode": "M201",
+                "Website": "https://www.uneswa.ac.sz",
+                "college_name": "University of Eswatini",
+                "university_name": "(UNESWA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1982, the University was formerly University College of Swaziland, a Constituent College of the University of Botswana, Lesotho and Swaziland (founded 1976). Was previously known as the University of Swaziland.",
+            "AcademicYear": "August to April (August-December; January-April)",
+            "AdmissionRequirements": [
+                "General Certificate of Education (GCE) 'O' level, or International General Certificate of Secondary Education (IGCSE) with at least 6 credits (including English)",
+                ""
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Consultancy and Training Centre",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Education",
+                    "Health Sciences",
+                    "Natural Resources",
+                    "Public Administration",
+                    "Social Problems",
+                    "Urban Studies"
+                ],
+                "Details": "CTC"
+            },
+            {
+                "College": "Entrepreneurship and Business Development",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agricultural Education",
+                    "Agricultural Engineering",
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Consumer Studies",
+                    "Crop Production",
+                    "Food Science",
+                    "Food Technology",
+                    "Horticulture",
+                    "Nutrition",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Business Education",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Pedagogy",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Community Health",
+                    "Environmental Studies",
+                    "Health Sciences",
+                    "Midwifery",
+                    "Nursing",
+                    "Psychiatry and Mental Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "African Languages",
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "English",
+                    "French",
+                    "History",
+                    "Journalism",
+                    "Mass Communication",
+                    "Religion",
+                    "Religious Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Geography",
+                    "Mathematics and Computer Science",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Demography and Population",
+                    "Economics",
+                    "Law",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Sociology",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Distance Education",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Arts and Humanities",
+                    "Business and Commerce",
+                    "French",
+                    "Law",
+                    "Portuguese",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Agricultural Economics",
+                    "Agricultural Education",
+                    "Agriculture",
+                    "Chemistry",
+                    "Crop Production",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Environmental Management",
+                    "History",
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Research in Traditional Medicine, Medicinal and Indigenous Food Plants",
+                "FieldsOfStudy": [
+                    "Botany",
+                    "Traditional and Complementary Medicine and Therapy"
+                ],
+                "Details": "SIRMIP"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Adult Education",
+                    "Agricultural Economics",
+                    "Agricultural Education",
+                    "Agrobiology",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Arts and Humanities",
+                    "Business and Commerce",
+                    "Business Education",
+                    "Consumer Studies",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Horticulture",
+                    "Journalism",
+                    "Law",
+                    "Mass Communication",
+                    "Nursing",
+                    "Nutrition",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Technology",
+                    "Textile Design",
+                    "Veterinary Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Adult Education",
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agricultural Education",
+                    "Agricultural Management",
+                    "Chemistry",
+                    "Crop Production",
+                    "Curriculum",
+                    "Educational Administration",
+                    "Environmental Management",
+                    "History",
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

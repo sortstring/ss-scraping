@@ -1,0 +1,185 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Dorfstrasse 24",
+                "City": "Triesen",
+                "Province": "N/A",
+                "PostCode": "FL-9495",
+                "Website": "https://www.ufl.li",
+                "college_name": "Private University in the Principality of Liechtenstein",
+                "university_name": "Private Universit\u00e4t im F\u00fcrstentum Liechtenstein (UFL)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2000. Formerly known as Universit\u00e4t f\u00fcr Humanwissenschaften im F\u00fcrstentum Liechtenstein (University of Human Sciences)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "German"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Constitutional Law",
+                    "European Union Law",
+                    "International Law",
+                    "Labour Law",
+                    "Law",
+                    "Private Law",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Science",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Civil Law",
+                    "International Law",
+                    "Law"
+                ],
+                "Doctor'sDegrees": [
+                    "Law",
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "F\u00fcrst-Franz-Josef-Strasse",
+                "City": "Vaduz",
+                "Province": "N/A",
+                "PostCode": "9490",
+                "Website": "https://www.uni.li",
+                "college_name": "University of Liechtenstein",
+                "university_name": "Universit\u00e4t Liechtenstein"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1961 as Abendtechnikum Vaduz, acquired title of Hochschule Liechtenstein in 1992. Acquired current title and status 2011",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Matura)"
+            ],
+            "Languages": [
+                "German",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture and Planning",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Landscape Architecture",
+                    "Regional Planning",
+                    "Rural Planning",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Computing",
+                "FieldsOfStudy": [
+                    "Information Management",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Entrepreneurship",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Human Resources",
+                    "International Business",
+                    "Leadership",
+                    "Management",
+                    "Management Systems",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial Services",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Centre for Small and Medium Enterprises",
+                "FieldsOfStudy": [
+                    "KMU"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liechtenstein Economic Institute and Research Centre",
+                "FieldsOfStudy": [
+                    "KOFL"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate School",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Information Technology",
+                    "Management",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "International Business",
+                    "Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Computer Science",
+                    "Finance",
+                    "Management"
+                ],
+                "Doctor'sDegrees": [
+                    "Architecture and Planning",
+                    "Business and Commerce",
+                    "Economics"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

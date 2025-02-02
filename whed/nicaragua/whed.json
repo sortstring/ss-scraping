@@ -1,0 +1,4969 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "UCN Campus Central\nSem\u00e1foros del Zumen, 3C. Abajo, 1 C. al Lago",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "12104",
+                "Website": "https://www.ucn.edu.ni",
+                "college_name": "Central University of Nicaragua",
+                "university_name": "Universidad Central de Nicaragua (UCN)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1997. Acquired present status 1998",
+            "AcademicYear": "January-June; July-December",
+            "AdmissionRequirements": [
+                "High School Diploma or equivalent"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Languages",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economic and Administrative Science",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Hotel Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Science",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Pharmacy",
+                    "Psychology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Social Sciences",
+                "FieldsOfStudy": [
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Clinical Psychology",
+                    "Psychology",
+                    "Psychotherapy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Business Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Comarca Cedro Gal\u00e1n\nKm. 12 Carretera Vieja a Le\u00f3n, 1500 metros al sur",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://online.unadenic.edu.ni",
+                "college_name": "Adventist University of Nicaragua",
+                "university_name": "Universidad Adventista de Nicaragua (UNADENIC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geography",
+                "FieldsOfStudy": [
+                    "Geography (Human)"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Officer",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Education"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Plaza Espa\u00f1a, De la Rotonda el Gueguense 2c. al Oeste 1c al Norte",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://americancollege.edu.ni",
+                "college_name": "American College University",
+                "university_name": "Universidad American College (UAC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2005",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Administration Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Energy Engineering",
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Humanities",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Costado Noroeste Camino de Oriente",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://uam.edu.ni",
+                "college_name": "American University",
+                "university_name": "Universidad Americana (UAM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1992",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "University Studies in English UAM-CUSE",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Latin American Studies",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Administrative Sciences and Economics",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Advertising and Publicity",
+                    "Business Administration",
+                    "Economics",
+                    "Hotel Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal Sciences and International Relations",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing, Design and Communication Sciences",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Design",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ethics, Values and Development",
+                "FieldsOfStudy": [
+                    "Ethics",
+                    "Political Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Education",
+                    "Law"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Del BAC Rivas 3 cuadras al oeste",
+                "City": "Rivas",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://uniav.edu.ni",
+                "college_name": "Antonio de Valdivieso International University",
+                "university_name": "Universidad Internacional Antonio de Valdivieso (UNIAV)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1951. Formerly known as Escuela Internacional de Agricultura y Ganader\u00eda (EIAG) and Universidad Internacional de Agricultura y Ganader\u00eda. Acquired current title 2016",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Engineering",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Zootechnics",
+                "FieldsOfStudy": [
+                    "Animal Husbandry"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Education"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Club Eden 1/2 c. abajo",
+                "City": "Chinandega",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://universidaddechinandega.blogspot.fr",
+                "college_name": "Autonomous University of Chinandega",
+                "university_name": "Universidad Aut\u00f3noma de Chinandega \u2013 Universidad de Chinandega (UACH)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hotel Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Barrio San Pedro\navenida universitaria",
+                "City": "Bluefields",
+                "Province": "bicu@bicu.edu.ni",
+                "PostCode": "N/A",
+                "Website": "http://www.bicu.edu.ni",
+                "college_name": "Bluefields Indian and Caribbean University",
+                "university_name": "(BICU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1990. Acquired present status 1992",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "FACEA"
+            },
+            {
+                "College": "Educational Sciences and Humanities",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Education",
+                    "Educational Psychology",
+                    "English",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Social Sciences",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "FCJS"
+            },
+            {
+                "College": "Natural Resources and Environment",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Marine Biology"
+                ],
+                "Details": "FARENA"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine",
+                    "Surgery"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Km 166 1/2 carretera Panamericana",
+                "City": "Estel\u00ed",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ucatse.edu.ni",
+                "college_name": "Catholic University of Stockbreeding of the Dry Tropics",
+                "university_name": "Universidad Cat\u00f3lica Agropecuaria del Tr\u00f3pico Seco (UCATSE)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1968 as Escuela T\u00e9cnica Agropecuaria del Norte (ETAN), later renamed Escuela de Agricultura y Ganader\u00eda de Estel\u00ed (EAGE). Acquired present status and title 2004",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "FCA"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine"
+                ],
+                "Details": "FCM"
+            },
+            {
+                "College": "Theology and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Natural Sciences",
+                    "Social Sciences",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Research, Postgraduate Studies and Extension",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Development Studies",
+                    "Rural Planning"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Development Studies",
+                    "Regional Planning"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rotonda Rub\u00e9n Dar\u00edo 150 metros al oeste\nP.O. Box 69",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.uca.edu.ni",
+                "college_name": "Central American University",
+                "university_name": "Universidad Centroamericana (UCA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1960 as a private autonomous university by the Society of Jesus. Mainly financed by student fees and grants, but receives some support from the State and international cooperation",
+            "AcademicYear": "February to December (February-April; May-August; September-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato); Entrance examination required for some majors"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Innovation",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Xabier Gorostiaga, S.J.",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Educational Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "Development Studies",
+                    "Foreign Languages Education",
+                    "Law",
+                    "Philosophy",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science, Technology and Environment",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Civil Engineering",
+                    "Computer Networks",
+                    "Environmental Engineering",
+                    "Graphic Design",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History of Nicaragua and Central America",
+                "FieldsOfStudy": [
+                    "History",
+                    "Latin American Studies",
+                    "Regional Studies"
+                ],
+                "Details": "IHNCA"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "Interdisciplinary"
+            },
+            {
+                "College": "Research and Development",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "Nitlap\u00e1n"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "Interdisciplinary"
+            },
+            {
+                "College": "Training, Research and Environmental Development",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "CIDEA"
+            },
+            {
+                "College": "Juan Roberto Zarruk - Jinotega Biological Station",
+                "FieldsOfStudy": [
+                    "Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Julio Lopez de la Fuente S.J. Solar Station",
+                "FieldsOfStudy": [
+                    "Meteorology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Molecular Biology",
+                "FieldsOfStudy": [
+                    "Molecular Biology"
+                ],
+                "Details": "CBM"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Law"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Km. 4.5 Carretera Panamericana Sur\n29 Avenida Suroeste\nDe los sem\u00e1foros del Guanacaste\n2c. al Oeste 1c. al Norte\nContiguo al INVUR",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://ucem.edu.ni",
+                "college_name": "Central American University of Business Studies",
+                "university_name": "Universidad Centroamericana de Ciencias Empresariales (UCEM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Bilingual Preschool Education",
+                "FieldsOfStudy": [
+                    "Bilingual and Bicultural Education",
+                    "Preschool Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Engineering",
+                "FieldsOfStudy": [
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Logistics and International Trade",
+                "FieldsOfStudy": [
+                    "International Business",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Surgery",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Microbiology",
+                "FieldsOfStudy": [
+                    "Microbiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nutrition and Dietetics",
+                "FieldsOfStudy": [
+                    "Dietetics",
+                    "Nutrition"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Haematology",
+                    "Health Administration",
+                    "Human Resources",
+                    "Occupational Health",
+                    "Service Trades",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine",
+                    "Surgery"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "De la Bas\u00edlica de Le\u00f3n\nAvenida Central",
+                "City": "Le\u00f3n",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ucan.edu.ni",
+                "college_name": "Christian Autonomous University of Nicaragua",
+                "university_name": "Universidad Cristiana Aut\u00f3noma de Nicaragua (UCAN)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996, Consejo Nacional de Universidades (CNU) authorization granted 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Graduation from high school"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "Hotel Management",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Marketing",
+                    "Taxation",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Clinical Psychology",
+                    "Dietetics",
+                    "English",
+                    "Medical Technology",
+                    "Medicine",
+                    "Nursing",
+                    "Nutrition",
+                    "Optics",
+                    "Optometry",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Graphic Design",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Animal Husbandry",
+                    "Medicine",
+                    "Surgery",
+                    "Veterinary Science"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "De Plaza Julio Mart\u00ednez 300 metroshacia el Sur.",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ejercito.mil.ni/contenido/profesionalizacion-desarrollo/csem/csem.html",
+                "college_name": "General of Division Jos\u00e9 Dolores Estrada Vado Center for Military Studies",
+                "university_name": "Centro Superior de Estudios Militares \"General de Divisi\u00f3n Jos\u00e9 Dolores Estrada Vado\" (CSEM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Surgery",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Military Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Military Sciences",
+                "FieldsOfStudy": [
+                    "Military Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine",
+                    "Surgery"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bolonia, del canal 2 tv, 2 c al sur\n1 c abajo, esquina opuesta a la Empresa Portuaria Nacional",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://uhispam.edu.ni",
+                "college_name": "Hispanic-American University",
+                "university_name": "Universidad Hispanoamericana (UHISPAM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1999",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Communication Sciences",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Agricultural Business",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Social Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems Engineering and Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hotel Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rotonda Universitaria 100mts. al Sur. Managua",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://unicit.edu.ni",
+                "college_name": "Ibero-American University of Science and Technology",
+                "university_name": "Universidad Iberoamericana de Ciencia y Tecnolog\u00eda (UNICIT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Diploma de Bachiller"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Business Administration",
+                    "Cooking and Catering",
+                    "Display and Stage Design",
+                    "Finance",
+                    "Information Technology",
+                    "Marketing",
+                    "Pharmacology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Hotel Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Graphic Design",
+                    "Industrial Engineering",
+                    "Interior Design",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Juridical Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Optics",
+                    "Optometry",
+                    "Pharmacy",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine",
+                    "Surgery"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bolonia, Empresa Portuaria Nacional 2c Oeste, 1c Norte",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.unides.edu.ni",
+                "college_name": "International University for Sustainable Development",
+                "university_name": "Universidad Internacional para el Desarrollo Sostenible (UNIDES)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2005",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Surgery",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Computing",
+                    "Developmental Psychology",
+                    "Educational Psychology",
+                    "Educational Technology",
+                    "Family Studies",
+                    "Finance",
+                    "Small Business",
+                    "Social Welfare"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Strategic Management and Human Resources Management",
+                "FieldsOfStudy": [
+                    "Human Resources",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine and Zootechnics",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine",
+                    "Surgery",
+                    "Veterinary Science"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Puente Larreynaga 2C. al Oeste\n1 1/2 C. al Norte",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.unijjar.edu.ni",
+                "college_name": "Jean-Jacques Rousseau University",
+                "university_name": "Universidad Jean-Jacques Rousseau (UNIJJAR)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1999, Consejo Nacional de Universidades (CNU) authorization granted 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dental Technology",
+                "FieldsOfStudy": [
+                    "Dental Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Surgery",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Odontology",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmaceutical Chemistry",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Education",
+                    "Educational Research"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Costado norte del Polideportivo Espa\u00f1a , 2 c. al norte\nBarrio Isa\u00edas G\u00f3mez",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ucjps.edu.ni",
+                "college_name": "John Paul II Catholic University",
+                "university_name": "Universidad Cat\u00f3lica Juan Pablo II (UCJPS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993. Acquired present status 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Educational Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Philosophy",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing and Advertising",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Science and Public Administration",
+                "FieldsOfStudy": [
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Accounting and Internal Audit",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Human Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Social Studies",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Communication",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Mass Communication",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Entrada principal Maxipali Rivas\n50mt al oeste B\u00ba el Calvario",
+                "City": "Rivas",
+                "Province": "33021",
+                "PostCode": "N/A",
+                "Website": "https://www.uanunciata.com",
+                "college_name": "La Anunciata University",
+                "university_name": "Universidad La Anunciata (UA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hotel Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Km. 4 carretera a poneloya",
+                "City": "Le\u00f3n",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://ulsa.edu.ni",
+                "college_name": "La Salle Technological University",
+                "university_name": "Universidad Tecnol\u00f3gica La Salle (ULSA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Administration with an emphasis in Finance",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration in Virtual Environments",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "E-Business/Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce with an emphasis in Marketing",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering with an emphasis on Energy Efficiency",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronic Cybernetics",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Robotics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Management",
+                "FieldsOfStudy": [
+                    "Industrial Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechatronics and Control Systems",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Educational Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sem\u00e1foros el colonial 2c al lago",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://ilcomp.edu.ni",
+                "college_name": "Latin American Institute of Computer Science",
+                "university_name": "Instituto Latinoamericano de Computaci\u00f3n (ILCOMP)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991. Acquired present status 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Accounting and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Colonial Los Robles\nFrente a Plaza el Sol",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.uenicmlk.edu.ni",
+                "college_name": "Martin Luther King Jr Protestant Nicaraguan University",
+                "university_name": "Universidad Evang\u00e9lica Nicarag\u00fcense Martin Luther King Jr (UENIC-MLK)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994. Acquired present status 1999",
+            "AcademicYear": "February to December",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Bible Studies",
+                "FieldsOfStudy": [
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Hotel Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Educational Psychology",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Integrative Natural Medicine",
+                "FieldsOfStudy": [
+                    "Traditional and Complementary Medicine and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Integrative Natural Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Juridical Sciences",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Education"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Km 10 carretera vieja a Le\u00f3n 200 mts al norte\nfrente a las oficinas de las Asambleas de Dios",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.uml.edu.ni",
+                "college_name": "Martin Luther University",
+                "university_name": "Universidad Mart\u00edn Lutero \u2013 Martin Luther University - A Ministry of the Assemblies of God (UML)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Diploma, Bachiller or Maestro"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Management",
+                "FieldsOfStudy": [
+                    "Agricultural Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Studies",
+                "FieldsOfStudy": [
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "English",
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Clinical Psychology",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Juridical and Social Sciences",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Studies",
+                "FieldsOfStudy": [
+                    "Parks and Recreation",
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Education"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bolonia, de la Mansi\u00f3n Teodolinda 1 C al este, 3 C al sur costado este de INAA",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.unimetonline.com/site",
+                "college_name": "Metropolitan University",
+                "university_name": "Universidad Metropolitana (UNIMET)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Engineering",
+                "FieldsOfStudy": [
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems Engineering",
+                "FieldsOfStudy": [
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hotel Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Education",
+                    "Educational Testing and Evaluation",
+                    "International Law",
+                    "Pedagogy",
+                    "Psychology",
+                    "Social Work"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Edificio Central\ncontiguo a la Iglesia La Merced\nP.O. Box 68",
+                "City": "Le\u00f3n",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.unanleon.edu.ni",
+                "college_name": "National Autonomous University of Nicaragua-Leon",
+                "university_name": "Universidad Nacional Aut\u00f3noma de Nicaragua-Le\u00f3n (UNAN-Le\u00f3n)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as a Seminary 1816, reorganized 1880, acquired university status 1947, split and transformed into UNAN-Le\u00f3n and UNAN-Managua 1983",
+            "AcademicYear": "February to December (February-July; August-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato) or recognized equivalent, and entrance examination"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "female"
+        },
+        "Divisions": [
+            {
+                "College": "Business, Economics and Tourism",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemical Sciences",
+                "FieldsOfStudy": [
+                    "Food Technology",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education Sciences and Humanities",
+                "FieldsOfStudy": [
+                    "Computer Education",
+                    "English",
+                    "Mass Communication",
+                    "Mathematics Education",
+                    "Natural Sciences",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Juridical and Social Sciences",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Medicine",
+                    "Nursing",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Biology",
+                    "Chemistry",
+                    "Finance",
+                    "Information Technology",
+                    "Mathematics",
+                    "Statistics",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural and Veterinary Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Aquaculture",
+                    "Tropical Agriculture",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Veterinary Science"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rotonda Universitaria Rigoberto L\u00f3pez P\u00e9rez 150 metros al este\nP.O. Box 663",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.unan.edu.ni",
+                "college_name": "National Autonomous University of Nicaragua-Managua",
+                "university_name": "Universidad Nacional Aut\u00f3noma de Nicaragua-Managua (UNAN)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1812 as Universidad de Le\u00f3n in succession to a 17th century seminary. Retained characteristics of Spanish colonial university until reorganization at end of 19th century. Granted autonomous status 1958 and reforms initiated. Financially supported by the State through the Ministry of Finance (72.3%), tuition fees (25.2%), and other sources (2.5%)",
+            "AcademicYear": "February to December (February-July; August-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato) or recognized equivalent, and entrance examination"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Carazo Regional Multidisciplinary",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Biological and Life Sciences",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Hotel Management",
+                    "Humanities and Social Science Education",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Marketing",
+                    "Mathematics Education",
+                    "Native Language Education",
+                    "Science Education",
+                    "Teacher Training",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chontales Regional Multidisciplinary",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Agricultural Economics",
+                    "Business Administration",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Agricultural Economics",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Languages",
+                "FieldsOfStudy": [
+                    "Business Education",
+                    "Dance",
+                    "Educational Administration",
+                    "Educational Technology",
+                    "English",
+                    "French",
+                    "History",
+                    "Literature",
+                    "Mathematics",
+                    "Music Education",
+                    "Natural Sciences",
+                    "Physical Education",
+                    "Physics",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Social Sciences",
+                    "Spanish",
+                    "Special Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Estel\u00ed Regional Multidisciplinary",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Economics",
+                    "Educational Sciences",
+                    "Health Sciences",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Juridical Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Communication Studies",
+                    "Geography (Human)",
+                    "History",
+                    "Law",
+                    "Philosophy",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Matagalpa Regional Multidisciplinary",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Agricultural Engineering",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Economics",
+                    "Educational Sciences",
+                    "English",
+                    "Finance",
+                    "Health Sciences",
+                    "Industrial Engineering",
+                    "Literature",
+                    "Marketing",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Physical Education",
+                    "Physics",
+                    "Preschool Education",
+                    "Social Sciences",
+                    "Social Work",
+                    "Spanish",
+                    "Sports",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Diabetology",
+                    "Embryology and Reproduction Biology",
+                    "Histology",
+                    "Medicine",
+                    "Toxicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and Engineering",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics",
+                    "Statistics",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health (POLISAL)",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "Polytechnic"
+            },
+            {
+                "College": "Biotechnology",
+                "FieldsOfStudy": [
+                    "Biotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sector Central",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Molecular Biology",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Radiation Physics and Metrology",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Aquatic Resources of Nicaragua",
+                "FieldsOfStudy": [
+                    "Natural Resources",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Social Sciences (INIES)",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geology and Geophysics (CIGEO)",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "Geology",
+                    "Geophysics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health (CIES)",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Interdisciplinary Research, Decoloniality and Promotion of Reading, Writing and Mathematics (CIIDFLEM)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Applied Mathematics",
+                    "Education",
+                    "Environmental Studies",
+                    "Health Sciences",
+                    "History",
+                    "Information Sciences",
+                    "Natural Sciences",
+                    "Regional Studies",
+                    "Social Work"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado postal 453, Kilometro 12\nCarretera Norte",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.una.edu.ni",
+                "college_name": "National University of Agriculture",
+                "university_name": "Universidad Nacional Agraria (UNA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1929 as secondary level institute, acquired present status 1951",
+            "AcademicYear": "March to November (March-July; August-November)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato)"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agronomy",
+                    "Forestry",
+                    "Horticulture",
+                    "Plant and Crop Protection"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Animal Sciences",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Resources and Environment",
+                "FieldsOfStudy": [
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Forestry",
+                    "Irrigation",
+                    "Natural Resources",
+                    "Soil Science",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rural Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Rural Studies",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Agriculture",
+                    "Ecology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sede Central Avenida Universitaria\nP.O. Box 5595",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.uni.edu.ni",
+                "college_name": "National University of Engineering",
+                "university_name": "Universidad Nacional de Ingenier\u00eda (UNI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1983. A State institution",
+            "AcademicYear": "March to August",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato)"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Architecture and Planning"
+                ],
+                "Details": "Sim\u00f3n Bol\u00edvar Campus"
+            },
+            {
+                "College": "Chemical Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Food Technology"
+                ],
+                "Details": "Sim\u00f3n Bol\u00edvar Campus"
+            },
+            {
+                "College": "Construction Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Construction Engineering",
+                    "Hydraulic Engineering",
+                    "Road Engineering",
+                    "Structural Architecture",
+                    "Transport Engineering"
+                ],
+                "Details": "Pedro Arauz Palacios Campus"
+            },
+            {
+                "College": "Electronics and Computer Science",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "Sim\u00f3n Bol\u00edvar Campus"
+            },
+            {
+                "College": "Industrial Engineering",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Production Engineering"
+                ],
+                "Details": "Pedro Arauz P. Campus"
+            },
+            {
+                "College": "Science and Systems",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Physics",
+                    "Social Sciences"
+                ],
+                "Details": "Pedro Arauz Palacios Campus"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "De la Rotonda Metro Centro 150vrs\nAl oeste en el \"CIPRES\", en el sector de la Avenida Universitaria",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://utn-nicaragua.es.tl",
+                "college_name": "Nicaraguan Technological University",
+                "university_name": "Universidad Tecnol\u00f3gica Nicarag\u00fcense (UTN)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "High School Certificate"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Superior Technical Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Interior Design",
+                    "Mechanical Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Hotel Management",
+                    "International Business",
+                    "Law",
+                    "Taxation",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology Transfer",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Industrial Engineering",
+                    "Interior Design",
+                    "Mechanical Engineering",
+                    "Surveying and Mapping",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Plaza El Sol Comisariato de la Polic\u00eda, 5c. al lago",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://uneh.edu.ni",
+                "college_name": "Nicaraguan University of Humanist Studies",
+                "university_name": "Universidad Nicarag\u00fcense de Estudios Humanisticos (UNEH)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design and Construction Engineering",
+                "FieldsOfStudy": [
+                    "Construction Engineering",
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Accounting and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sem\u00e1foros de Rubenia 700 metros al lago",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ucyt.edu.ni",
+                "college_name": "Nicaraguan University of Science and Technology",
+                "university_name": "Universidad Nicarag\u00fcense de Ciencia y Tecnolog\u00eda (UCYT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel Management",
+                "FieldsOfStudy": [
+                    "Hotel Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Systems",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Relations",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Communication",
+                "FieldsOfStudy": [
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "De Sem\u00e1foros de Linda Vista 6 1/2 c. al Sur",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.upf.edu.ni",
+                "college_name": "Paulo Freire University",
+                "university_name": "Universidad Paulo Freire (UPF)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998 as Instituto Universitario \"Paulo Freire\" (IPF). Acquired present status and title 2002",
+            "AcademicYear": "January to December",
+            "AdmissionRequirements": [
+                "High school certificate (Bachillerato)"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Human Resources",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "English",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Pedagogy",
+                    "Preschool Education",
+                    "Social Sciences",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Computer Engineering",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Dietetics",
+                    "Epidemiology",
+                    "Nutrition",
+                    "Physical Therapy",
+                    "Rehabilitation and Therapy",
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Psychology",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Science",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Environmental Management",
+                    "Labour Law",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Delicias del Volga 1/2 c. al este. Frente a M\u00e1ntica Repuestos",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.uponic.edu.ni",
+                "college_name": "People's University of Nicaragua",
+                "university_name": "Universidad Popular de Nicaragua (UPONIC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informatics",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado postal 3595\nCostado Sur Villa 'Ruben Dar\u00edo'",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.upoli.edu.ni",
+                "college_name": "Polytechnic University of Nicaragua",
+                "university_name": "Universidad Polit\u00e9cnica de Nicaragua (UPOLI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1967 by the Nicaraguan Baptist Convention with the aid of the American Baptist Home Mission Society. Became university 1976. A private university receiving government subsidy for operating expenses. Relies on outside contributions for the other costs",
+            "AcademicYear": "February to November (February-July; August-November)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato)"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "\"Mauricio Lopez\" Interuniversity Center for Latin American and Caribbean Studies (CIELAC)",
+                "FieldsOfStudy": [
+                    "Caribbean Studies",
+                    "Latin American Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biotechnology (CEBIOT)",
+                "FieldsOfStudy": [
+                    "Biotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "English",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Conducting",
+                    "Music",
+                    "Music Theory and Composition",
+                    "Musical Instruments",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Administrative Law",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical and Electronic Equipment and Maintenance",
+                    "Environmental Studies",
+                    "Finance",
+                    "Human Resources",
+                    "Hygiene",
+                    "Information Technology",
+                    "Insurance",
+                    "Labour Law",
+                    "Occupational Health",
+                    "Sales Techniques",
+                    "Social Welfare",
+                    "Software Engineering",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Gender Studies (IEG)",
+                "FieldsOfStudy": [
+                    "Gender Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanistic Research and Development (IDEHU)",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Education",
+                    "Justice Administration",
+                    "Latin American Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Martin Luther King (IMLK)",
+                "FieldsOfStudy": [
+                    "Human Rights",
+                    "International Relations and Diplomacy",
+                    "Peace and Disarmament",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Training and Research in Integral Rural Development (ICIDRI)",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology (IST)",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Data Processing",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Administration, Commerce, and Finance",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business and Commerce",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Engineering",
+                    "Information Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Juridical and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Law"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Km 9\u00bd carretera a Masaya 500 vrs. al suroeste",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://unica.edu.ni",
+                "college_name": "Redemptoris Mater Catholic University",
+                "university_name": "Universidad Cat\u00f3lica Redemptoris Mater (UNICA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Diploma de Bachiller"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Business Administration",
+                    "Finance",
+                    "International Business",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Educational Administration",
+                    "Literature",
+                    "Mathematics Education",
+                    "Pedagogy",
+                    "Philosophy",
+                    "Spanish",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Social Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Dentistry",
+                    "Medicine",
+                    "Surgery"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Edificio La Inmaculada",
+                "City": "Diriamba",
+                "Province": "Carazo",
+                "PostCode": "N/A",
+                "Website": "http://urdni.online",
+                "college_name": "Ruben Dario University",
+                "university_name": "Universidad Rub\u00e9n Dar\u00edo (URD)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2011",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Pharmacy",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine",
+                    "Surgery"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Barrio Campo Bruce\nantiguo Cine Salinas 5c. al Oeste, 2c. Al Norte",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.utc.edu.ni",
+                "college_name": "Technical University of Commerce",
+                "university_name": "Universidad T\u00e9cnica de Comercio (UTC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1966 as Escuela Polit\u00e9cnica de Comercio. Acquired present status and title 2006",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Educational Research",
+                    "Higher Education Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Systems Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Accountancy and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Del puente el Eden 1 1/2 cuadra arriba",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.laamericanuniversity.edu.ni",
+                "college_name": "The American University",
+                "university_name": "La American University (LAAU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Clinical Bioanalysis",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Clinical Psychology",
+                "FieldsOfStudy": [
+                    "Clinical Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing and Advertising",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Criminal Law",
+                    "Educational Research",
+                    "English",
+                    "Foreign Languages Education",
+                    "Health Sciences",
+                    "Higher Education Teacher Training",
+                    "Law",
+                    "Management",
+                    "Psychology",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Accountancy and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sem\u00e1foros del Club Terraza 150 vrs. al Sur",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.unithomasmore.edu.ni",
+                "college_name": "Thomas More University",
+                "university_name": "Universidad Thomas More (UTM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "Founded 2000",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Finance",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial and Systems Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and International Business",
+                "FieldsOfStudy": [
+                    "International Business",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management, Marketing and Advertising",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Science, International Relations and Diplomacy",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Paso a desnivel Rubenia 2c. al este 4 1/2 c. al sur",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.unacad.edu.ni/unacad",
+                "college_name": "University of Administration, Commerce and Customs",
+                "university_name": "Universidad de Administraci\u00f3n, Comercio y Aduana (UNACAD)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration (with a concentration in Harbours and Airports)",
+                "FieldsOfStudy": [
+                    "Air and Space Law",
+                    "Business Administration",
+                    "Maritime Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration (with a concentration in Real Estate and Insurance)",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Insurance",
+                    "Real Estate"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Customs Administration",
+                "FieldsOfStudy": [
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Customs Law",
+                "FieldsOfStudy": [
+                    "International Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Industrial and Organizational Psychology",
+                    "International Business",
+                    "International Economics",
+                    "International Law",
+                    "Management",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Safety Engineering",
+                    "Social Sciences",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Specialization Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "International Business",
+                    "Marketing",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Educational Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado Postal, 84 Frente al Polideportivo Espa\u00f1a, Bosques de Altamira",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://ucc.edu.ni",
+                "college_name": "University of Commercial Science",
+                "university_name": "Universidad de Ciencias Comerciales \u2013 Frente a Polideportivo Espa\u00f1a (UCC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1964. Acquired university status 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Diploma de Bachiller"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture and Interor Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking and Finance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer and Telecommunications Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Corporate Communication and Public Relations",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and International Business",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Technology",
+                "FieldsOfStudy": [
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graphic Design and Advertising",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Graphic Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Engineering",
+                "FieldsOfStudy": [
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Business Consulting",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing and Advertising",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Accountancy and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hotel Administration",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine and Zootechnics",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate and Continuing Education",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Architecture",
+                    "Business Administration",
+                    "Design",
+                    "Fine Arts",
+                    "Information Technology",
+                    "Tourism",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Del Granero \u00bd cuadra al este, carretera Panamericana",
+                "City": "Somoto",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://ucser.edu.ni",
+                "college_name": "University of Health Sciences and Renewable Energies",
+                "university_name": "Universidad de Ciencias de la Salud y Energ\u00edas Renovables (UCSER)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2011",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Nursing",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Renewable Energies",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Reparto Belmonte\nHospital V\u00e9lez Paiz 1 c. Arriba",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.udem.edu.ni",
+                "college_name": "University of Managua",
+                "university_name": "Universidad de Managua (UdeM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering and Telematics",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Engineering",
+                "FieldsOfStudy": [
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing and Advertising",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hotel Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate and Continuing Education",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Business Computing",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Data Processing",
+                    "Finance",
+                    "Industrial Management",
+                    "International Business",
+                    "Journalism",
+                    "Law",
+                    "Marketing",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Estatua de Montoya 2c. Norte, 1c. Este",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ucm.edu.ni",
+                "college_name": "University of Medical Sciences",
+                "university_name": "Universidad de Ciencias M\u00e9dicas \u2013 Instituto Universitario de Ciencias M\u00e9dicas (IUCM) (UCM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2006",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Chemistry, Pharmacy and Clinical Bioanalysis",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dental Surgery",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Surgery",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nutrition and Dietetics",
+                "FieldsOfStudy": [
+                    "Dietetics",
+                    "Nutrition"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Dentistry",
+                    "Medicine",
+                    "Surgery"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Puente Desnivel Rubenia 7 cuadras abajo m/i.",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.umojn.edu.ni",
+                "college_name": "University of Oriental Medicine Japan-Nicaragua",
+                "university_name": "Universidad de Medicina Oriental Jap\u00f3n-Nicaragua (UMO-JN)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003 as Instituto de Estudios Superiores de Medicina Oriental. Acquired present status title 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Clinical Psychology",
+                "FieldsOfStudy": [
+                    "Clinical Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Oriental Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bosques de Altamira\nCalle Pamplona, de la farmacia Kielsa,1 cuadra y media al norte, 75 vrs al Oeste (abajo)",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.unitec.edu.ni",
+                "college_name": "University of Technology and Commerce",
+                "university_name": "Universidad de Tecnolog\u00eda y Comercio (UNITEC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2005",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Banking",
+                    "Business Administration",
+                    "Human Resources",
+                    "Management",
+                    "Sales Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Business Administration",
+                    "Finance",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Industrial Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Km. 2.5 - Panamericana Carretera Norte\nComplejo policial Ajax Delgado 2c. hacia Oeste\nP.O. Box A-279",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ulam.edu.ni",
+                "college_name": "University of the Americas",
+                "university_name": "Universidad de las Am\u00e9ricas (ULAM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1995. Acquired present status 1998",
+            "AcademicYear": "March to February",
+            "AdmissionRequirements": [
+                "High School Diploma (Diploma de Bachiller)"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Administration",
+                "FieldsOfStudy": [
+                    "Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking and Finance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Accounting and Audit",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hospitality Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Barrio Ducual\u00ed\nPuente El Eden\n1 cuadra al este\n2 cuadras al sur",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.uraccan.edu.ni",
+                "college_name": "University of the Autonomous Regions of the Caribbean Coast of Nicaragua",
+                "university_name": "Universidad de las Regiones Aut\u00f3nomas de la Costa Caribe Nicarag\u00fcense (URACCAN)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Research and Information on Multiethnic Women (CEIMM)",
+                "FieldsOfStudy": [
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Socio-environmental Information Studies",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Information Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cultural Heritage (IPILC) Linguistics Promotion and Research and Cultural Revitalization (IPILC)",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Linguistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Intercultural Communication (ICI)",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Resources, Environment and Sustainable Development (IREMADES)",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Natural Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Study and Promotion of Autonomy (IEPA)",
+                "FieldsOfStudy": [
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Traditional Medicine and Community Development (IMTRADEC)",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Cultural Studies"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Parque Dar\u00edo 1\nc. al norte y 1c. al oeste",
+                "City": "Matagalpa",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.unnnicmatagalpa.org",
+                "college_name": "University of the North of Nicaragua",
+                "university_name": "Universidad del Norte de Nicaragua \u2013 UNN Matagalpa (UNN)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural and Environmental Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Animal Husbandry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Psychology",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Costado sur de la Rotonda Del Periodista",
+                "City": "Managua",
+                "Province": "N/A",
+                "PostCode": "13005",
+                "Website": "https://univalle.edu.ni",
+                "college_name": "University of the Valley",
+                "university_name": "Universidad del Valle (UNIVALLE)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Diploma de Bachiller"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Design and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Fashion Design",
+                    "Graphic Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Hotel Management",
+                    "International Business",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Hospital Salud Integral 2 c. al oeste 1/2 cuadra al Sur",
+                "City": "Le\u00f3n",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://udomanagua.edu.ni",
+                "college_name": "University of the West",
+                "university_name": "Universidad de Occidente \u2013 Universidad de Occidente - Managua (UDO)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Hotel Management",
+                    "Marketing",
+                    "Taxation",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Industrial Engineering",
+                    "Structural Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Clinical Psychology",
+                    "Medical Technology",
+                    "Nursing",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

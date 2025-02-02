@@ -1,0 +1,857 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2660 Peck Avenue",
+                "City": "Riverton",
+                "Province": "Wyoming",
+                "PostCode": "82501",
+                "Website": "https://www.cwc.edu",
+                "college_name": "Central Wyoming College",
+                "university_name": "(CWC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1966",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Equine",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Animal Husbandry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Science",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education",
+                    "Leadership"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Behavioral and Social Sciences",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Entrepreneurship",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Entrepreneurship"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Career and Technical",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Science",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media, Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Outdoor Education and Environmental Science",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science, Tech, Engineering, Math",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Studies",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Leadership",
+                    "Management",
+                    "Preschool Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1400 E. College Drive",
+                "City": "Cheyenne",
+                "Province": "Wyoming",
+                "PostCode": "82007",
+                "Website": "https://www.lccc.wy.edu",
+                "college_name": "Laramie County Community College",
+                "university_name": "(LCCC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1968",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Albany County",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture and Equine",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Animal Husbandry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication and Creative Arts",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences and Wellness",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human and Public Services",
+                "FieldsOfStudy": [
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science, Technology, Engineering and Math",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Trades and Technical Studies",
+                "FieldsOfStudy": [
+                    "Service Trades",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Health Administration",
+                    "Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "231 West 6th Street",
+                "City": "Powell",
+                "Province": "Wyoming",
+                "PostCode": "82435",
+                "Website": "https://www.nwc.edu",
+                "college_name": "Northwest College",
+                "university_name": "(NWC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1946 as University of Wyoming Northwest Center through an agreement with the University of Wyoming and Park County School District No. 1. University support was discontinued 1950. Renamed Northwest Community College 1953, acquired current status and title 1989",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture, Business, Communication and Equine",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Business Administration",
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Professions",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science, Technology and Math (STEM)",
+                "FieldsOfStudy": [
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Science and Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual and Performing Arts, Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Performing Arts",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Criminology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1000 East University Avenue",
+                "City": "Laramie",
+                "Province": "Wyoming",
+                "PostCode": "82071",
+                "Website": "https://www.uwyo.edu",
+                "college_name": "University of Wyoming",
+                "university_name": "(UWO)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1886",
+            "AcademicYear": "September to August (September-December; January-May; May-August)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture, Life Sciences and Natural Resources",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Consumer Studies",
+                    "Microbiology",
+                    "Natural Resources",
+                    "Plant and Crop Protection",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "African American Studies",
+                    "American Studies",
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Astronomy and Space Science",
+                    "Biology",
+                    "Botany",
+                    "Chemistry",
+                    "Classical Languages",
+                    "Communication Studies",
+                    "Criminal Law",
+                    "Dance",
+                    "Ecology",
+                    "English",
+                    "Geography",
+                    "Geology",
+                    "Geophysics",
+                    "History",
+                    "International Studies",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Modern Languages",
+                    "Music",
+                    "Philosophy",
+                    "Physics",
+                    "Physiology",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religious Studies",
+                    "Science Education",
+                    "Sociology",
+                    "Statistics",
+                    "Theatre",
+                    "Women's Studies",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Education",
+                    "Educational and Student Counselling",
+                    "Higher Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Special Education",
+                    "Teacher Trainers Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Physical Sciences",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Chemical Engineering",
+                    "Computer Education",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Mechanical Engineering",
+                    "Meteorology",
+                    "Natural Sciences",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Honors Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Wyoming Institute for Humanities Research",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy Resources",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment and Natural Resources",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Natural Resources"
+                ],
+                "Details": "Haub"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Educational Administration",
+                    "Rehabilitation and Therapy",
+                    "Special Education"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Acting",
+                    "African American Studies",
+                    "African Studies",
+                    "Agricultural Business",
+                    "Agricultural Education",
+                    "Agricultural Management",
+                    "American Studies",
+                    "Animal Husbandry",
+                    "Anthropology",
+                    "Art Education",
+                    "Art History",
+                    "Arts and Humanities",
+                    "Astronomy and Space Science",
+                    "Astrophysics",
+                    "Bioengineering",
+                    "Biology",
+                    "Botany",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Child Care and Development",
+                    "Civil Engineering",
+                    "Communication Arts",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Criminal Law",
+                    "Criminology",
+                    "Dance",
+                    "Dental Hygiene",
+                    "Design",
+                    "Dietetics",
+                    "Display and Stage Design",
+                    "Earth Sciences",
+                    "Ecology",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "English",
+                    "Entrepreneurship",
+                    "Environmental Studies",
+                    "Family Studies",
+                    "Farm Management",
+                    "Finance",
+                    "Fine Arts",
+                    "Fishery",
+                    "Food Science",
+                    "Foreign Languages Education",
+                    "French",
+                    "Gender Studies",
+                    "Geography",
+                    "Geology",
+                    "German",
+                    "Graphic Design",
+                    "Health Sciences",
+                    "History",
+                    "Home Economics Education",
+                    "Hotel and Restaurant",
+                    "Humanities and Social Science Education",
+                    "Indigenous Studies",
+                    "Interior Design",
+                    "International Studies",
+                    "Jazz and Popular Music",
+                    "Journalism",
+                    "Laboratory Techniques",
+                    "Leadership",
+                    "Linguistics",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Music",
+                    "Music Education",
+                    "Musical Instruments",
+                    "Native American Studies",
+                    "Native Language Education",
+                    "Natural Resources",
+                    "Nursing",
+                    "Nutrition",
+                    "Parks and Recreation",
+                    "Petroleum and Gas Engineering",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physics",
+                    "Physiology",
+                    "Plant and Crop Protection",
+                    "Political Sciences",
+                    "Primary Education",
+                    "Psychology",
+                    "Religious Studies",
+                    "Sales Techniques",
+                    "Science Education",
+                    "Secondary Education",
+                    "Social Work",
+                    "Sociology",
+                    "Spanish",
+                    "Special Education",
+                    "Speech Therapy and Audiology",
+                    "Statistics",
+                    "Structural Architecture",
+                    "Surveying and Mapping",
+                    "Technology Education",
+                    "Textile Design",
+                    "Theatre",
+                    "Tourism",
+                    "Veterinary Science",
+                    "Vocational Education",
+                    "Water Management",
+                    "Water Science",
+                    "Wildlife",
+                    "Women's Studies",
+                    "Zoology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Air Transport",
+                    "Ecology",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Surveying and Mapping",
+                    "Teacher Training"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Agricultural Economics",
+                    "Agricultural Management",
+                    "American Studies",
+                    "Animal Husbandry",
+                    "Anthropology",
+                    "Botany",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Consumer Studies",
+                    "Criminal Law",
+                    "Criminology",
+                    "Curriculum",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Sciences",
+                    "Educational Technology",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "English",
+                    "Entomology",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Family Studies",
+                    "Finance",
+                    "Food Science",
+                    "Geology",
+                    "Geophysics",
+                    "Health Administration",
+                    "Health Education",
+                    "Health Sciences",
+                    "Higher Education",
+                    "History",
+                    "International Studies",
+                    "Leadership",
+                    "Literacy Education",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Meteorology",
+                    "Molecular Biology",
+                    "Music Education",
+                    "Musical Instruments",
+                    "Natural Resources",
+                    "Nursing",
+                    "Nutrition",
+                    "Petroleum and Gas Engineering",
+                    "Physical Education",
+                    "Physics",
+                    "Physiology",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Administration",
+                    "Science Education",
+                    "Social Sciences",
+                    "Social Work",
+                    "Soil Science",
+                    "Spanish",
+                    "Special Education",
+                    "Speech Therapy and Audiology",
+                    "Sports",
+                    "Statistics",
+                    "Structural Architecture",
+                    "Surveying and Mapping",
+                    "Teacher Training",
+                    "Veterinary Science",
+                    "Water Management",
+                    "Water Science",
+                    "Writing",
+                    "Zoology"
+                ],
+                "Doctor'sDegrees": [
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "Educational Technology",
+                    "Higher Education",
+                    "Law",
+                    "Leadership",
+                    "Mathematics Education",
+                    "Nursing",
+                    "Pharmacy",
+                    "Psychiatry and Mental Health",
+                    "Teacher Training"
+                ],
+                "ResearchScholarship": [
+                    "Animal Husbandry",
+                    "Anthropology",
+                    "Biomedicine",
+                    "Botany",
+                    "Cell Biology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Curriculum",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Technology",
+                    "Electrical Engineering",
+                    "Entomology",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Geology",
+                    "Geophysics",
+                    "Literacy Education",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Meteorology",
+                    "Molecular Biology",
+                    "Neurosciences",
+                    "Petroleum and Gas Engineering",
+                    "Physics",
+                    "Physiology",
+                    "Psychology",
+                    "Soil Science",
+                    "Teacher Training",
+                    "Veterinary Science",
+                    "Water Management",
+                    "Water Science",
+                    "Zoology"
+                ],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2500 College Drive",
+                "City": "Rock Springs",
+                "Province": "Wyoming",
+                "PostCode": "82901",
+                "Website": "https://www.westernwyoming.edu",
+                "college_name": "Western Wyoming Community College",
+                "university_name": "Western (WWCC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1959 as Western Wyoming Community College (Western), acquired current title 1964",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Technology",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Healthcare Professions",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human and Public Service",
+                "FieldsOfStudy": [
+                    "Social and Community Services",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Manufacturing and Industry",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "STEM",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual and Performing Arts",
+                "FieldsOfStudy": [
+                    "Performing Arts",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Industrial Management",
+                    "Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

@@ -1,0 +1,1655 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "333 Gorge Road\nBox 6004",
+                "City": "Moncton",
+                "Province": "New Brunswick",
+                "PostCode": "NB E1C 9L7",
+                "Website": "http://www.crandallu.ca",
+                "college_name": "Crandall University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1949 as the United Baptist Bible Training School, both a Bible College and a High School. In transition as the emphasis changed to a post high school program, it became a Bible College and a Christian Junior Liberal Arts College 1968. Changed its name to Atlantic Baptist College 1970. Started offering Bachelor's degree in the early 1980s. Changed its name to Atlantic Baptist University 1996. Acquired present title 2009.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Communication Studies",
+                    "English",
+                    "History",
+                    "Management",
+                    "Psychology",
+                    "Religious Studies",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Certificate",
+                "FieldsOfStudy": [
+                    "Christian Religious Studies",
+                    "English",
+                    "Leadership"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Literacy Education",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Literacy Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Off-Site Study",
+                "FieldsOfStudy": [
+                    "American Studies",
+                    "Education",
+                    "Environmental Studies",
+                    "Film",
+                    "Latin American Studies",
+                    "Middle Eastern Studies",
+                    "Russian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education",
+                    "Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 5125\n26 Western Street",
+                "City": "Sussex",
+                "Province": "New Brunswick",
+                "PostCode": "E4E 1E6",
+                "Website": "http://www.kingswood.edu",
+                "college_name": "Kingswood University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1945 as Holiness Bible Institute. Became Bethany Bible College in 1947. Acquired present title and status 2011.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Biblical and Theological Studies",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "English",
+                    "History",
+                    "Natural Sciences",
+                    "Philosophy",
+                    "Psychology",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional Studies",
+                "FieldsOfStudy": [
+                    "Christian Religious Studies",
+                    "Missionary Studies",
+                    "Religious Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Pastoral Studies"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "62 York Street",
+                "City": "Sackville",
+                "Province": "New Brunswick",
+                "PostCode": "E4L 1E2",
+                "Website": "http://www.mta.ca",
+                "college_name": "Mount Allison University",
+                "university_name": "(MTA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1839 as Mount Allison Wesleyan Academy, became degree-granting Mount Allison Wesleyan College 1858, and acquired present status and title 1886. Although conducted on a non-sectarian basis, the University is a Church-related institution (United Church of Canada). As such, it is interested in the all-round development of students.",
+            "AcademicYear": "September to April (September-December; January-April)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "American Studies",
+                    "Ancient Civilizations",
+                    "Canadian Studies",
+                    "Classical Languages",
+                    "English",
+                    "Fine Arts",
+                    "French",
+                    "French Studies",
+                    "German",
+                    "Germanic Studies",
+                    "Greek (Classical)",
+                    "Hispanic American Studies",
+                    "History",
+                    "Japanese",
+                    "Latin",
+                    "Literature",
+                    "Modern Languages",
+                    "Music",
+                    "Music Education",
+                    "Music Theory and Composition",
+                    "Musical Instruments",
+                    "Philosophy",
+                    "Psychology",
+                    "Religious Studies",
+                    "Spanish",
+                    "Theatre",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Air Transport",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Cognitive Sciences",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Environmental Studies",
+                    "Geography",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Physics",
+                    "Psychology",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Science",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Business and Commerce",
+                    "Economics",
+                    "Environmental Studies",
+                    "Geography (Human)",
+                    "International Relations and Diplomacy",
+                    "Meteorology",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "8 Main Street",
+                "City": "St Stephen",
+                "Province": "New Brunswick",
+                "PostCode": "E3L 3E2",
+                "Website": "http://www.ssu.ca",
+                "college_name": "St. Stephen's University",
+                "university_name": "(SSU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1975.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "International Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liberal Arts",
+                "FieldsOfStudy": [
+                    "Ancient Civilizations",
+                    "Arts and Humanities",
+                    "History",
+                    "International Studies",
+                    "Literature",
+                    "Philosophy",
+                    "Psychology",
+                    "Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ministry",
+                "FieldsOfStudy": [
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Missionary Studies"
+                ],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "International Studies",
+                    "Psychology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Missionary Studies"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1 Dineen Drive",
+                "City": "Fredericton",
+                "Province": "New Brunswick",
+                "PostCode": "E3B 5G3",
+                "Website": "https://www.stu.ca",
+                "college_name": "St. Thomas University",
+                "university_name": "(STU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1910.",
+            "AcademicYear": "September to April (September-December; January-April)",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Catholic Theology",
+                    "Communication Arts",
+                    "Cultural Studies",
+                    "English",
+                    "Fine Arts",
+                    "Human Rights",
+                    "Journalism",
+                    "Literature",
+                    "Native American Studies",
+                    "Philosophy",
+                    "Religious Studies",
+                    "Romance Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Criminology",
+                    "Economics",
+                    "Environmental Studies",
+                    "Gender Studies",
+                    "Mathematics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sociology",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Social Work"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "371 Queen Street, Suite 101",
+                "City": "Fredericton",
+                "Province": "New Brunswick",
+                "PostCode": "E3B 1B1",
+                "Website": "http://www.ufred.ca",
+                "college_name": "University of Fredericton",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "The University of Fredericton is a completely online university .",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Professional Learning",
+                "FieldsOfStudy": [
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Industrial Design",
+                    "Leadership",
+                    "Rehabilitation and Therapy",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Occupational Health Specialties",
+                "FieldsOfStudy": [
+                    "Occupational Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Criminal Law",
+                    "Leadership"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus de Moncton\n18, avenue Antonine-Maillet",
+                "City": "Moncton",
+                "Province": "New Brunswick",
+                "PostCode": "E1A 3E9",
+                "Website": "http://www.umoncton.ca",
+                "college_name": "University of Moncton",
+                "university_name": "Universit\u00e9 de Moncton"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1864 as Saint Joseph College, acquired present status and title 1963. The University now has 3 campuses: Campus de Moncton, Campus d'Edmunston and Campus de Shippagan.",
+            "AcademicYear": "May to April (May-August; September-December; January-April)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Economics",
+                    "English",
+                    "French",
+                    "Geography",
+                    "German",
+                    "Gerontology",
+                    "Health Administration",
+                    "History",
+                    "Interior Design",
+                    "Linguistics",
+                    "Literature",
+                    "Music",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Religious Studies",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Spanish",
+                    "Theatre",
+                    "Translation and Interpretation",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry",
+                "FieldsOfStudy": [
+                    "Forestry"
+                ],
+                "Details": "Edmundston"
+            },
+            {
+                "College": "Health Sciences and Community Services",
+                "FieldsOfStudy": [
+                    "Family Studies",
+                    "Food Science",
+                    "Gerontology",
+                    "Health Sciences",
+                    "Leisure Studies",
+                    "Nursing",
+                    "Nutrition",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Psychology",
+                    "Social and Community Services",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Laboratory Techniques",
+                    "Mathematics",
+                    "Physics",
+                    "Radiology",
+                    "Respiratory Therapy",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Family Studies",
+                    "French",
+                    "History",
+                    "Law",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Nutrition",
+                    "Public Administration",
+                    "Social Work"
+                ],
+                "Doctor'sDegrees": [
+                    "Biological and Life Sciences",
+                    "Education",
+                    "French",
+                    "Linguistics",
+                    "Psychology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 4400",
+                "City": "Fredericton",
+                "Province": "New Brunswick",
+                "PostCode": "E3B 5A3",
+                "Website": "http://www.unb.ca",
+                "college_name": "University of New Brunswick",
+                "university_name": "(UNB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1785 as Provincial Academy of Liberal Arts and Sciences; incorporated by Royal Charter 1828 as King's College. Acquired present title 1859. Saint John campus founded 1964. New Brunswick Teachers College incorporated 1973.",
+            "AcademicYear": "September to April (September-December; January-April)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Statistics",
+                "FieldsOfStudy": [
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Coastal Studies and Aquaculture",
+                "FieldsOfStudy": [
+                    "Aquaculture",
+                    "Coastal Studies"
+                ],
+                "Details": "Saint John campus"
+            },
+            {
+                "College": "Construction Technology Centre Atlantic, Inc.",
+                "FieldsOfStudy": [
+                    "Construction Engineering"
+                ],
+                "Details": "CTCA"
+            },
+            {
+                "College": "Criminal Justice Studies",
+                "FieldsOfStudy": [
+                    "Criminal Law"
+                ],
+                "Details": "Saint John campus"
+            },
+            {
+                "College": "Early Childhood",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Administration",
+                "FieldsOfStudy": [
+                    "Educational Administration"
+                ],
+                "Details": "New Brunswick"
+            },
+            {
+                "College": "Electronic Commerce",
+                "FieldsOfStudy": [
+                    "E-Business/Commerce"
+                ],
+                "Details": "Saint John campus"
+            },
+            {
+                "College": "Electronic Text",
+                "FieldsOfStudy": [
+                    "Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Enhanced Teaching and Learning",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Geodetic Engineering",
+                "FieldsOfStudy": [
+                    "Surveying and Mapping"
+                ],
+                "Details": "CCGE"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "ITC"
+            },
+            {
+                "College": "International Business and Entrepreneurship",
+                "FieldsOfStudy": [
+                    "International Business",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management Development and Information",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "Saint John campus"
+            },
+            {
+                "College": "Nuclear Energy Research, Inc.",
+                "FieldsOfStudy": [
+                    "Nuclear Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Planetary and Space Science",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Promotion of Instructional Technology",
+                "FieldsOfStudy": [
+                    "Educational Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Property Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Second Language Education",
+                "FieldsOfStudy": [
+                    "Foreign Languages Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Study of War and Society",
+                "FieldsOfStudy": [
+                    "Peace and Disarmament"
+                ],
+                "Details": "Gregg"
+            },
+            {
+                "College": "Wood Science and Technology",
+                "FieldsOfStudy": [
+                    "Forest Products",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction Engineering and Management",
+                "FieldsOfStudy": [
+                    "Construction Engineering",
+                    "Management"
+                ],
+                "Details": "M. Patrick Gillin"
+            },
+            {
+                "College": "Environmental Design Engineering",
+                "FieldsOfStudy": [
+                    "Environmental Engineering"
+                ],
+                "Details": "NSERC"
+            },
+            {
+                "College": "Highway Construction and Pavement Research",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "D.C. Campbell"
+            },
+            {
+                "College": "Nuclear Engineering",
+                "FieldsOfStudy": [
+                    "Nuclear Engineering"
+                ],
+                "Details": "NSERC/NB Power/AECL"
+            },
+            {
+                "College": "Ocean Mapping",
+                "FieldsOfStudy": [
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Power Plant Engineering",
+                "FieldsOfStudy": [
+                    "Power Engineering"
+                ],
+                "Details": "NB Power"
+            },
+            {
+                "College": "Regional Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "Vaughan"
+            },
+            {
+                "College": "Technology Management and Entrepreneurship",
+                "FieldsOfStudy": [
+                    "Engineering Management"
+                ],
+                "Details": "J. Herbert Smith/ACOA"
+            },
+            {
+                "College": "Wildlife Ecology",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Wildlife"
+                ],
+                "Details": "NSERC/CWS Research"
+            },
+            {
+                "College": "Women and the Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "Mary Louise Lynch"
+            },
+            {
+                "College": "Extended Learning",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Adult Education",
+                    "Business Administration",
+                    "Education",
+                    "Film",
+                    "French",
+                    "Health Sciences",
+                    "Human Resources",
+                    "Leadership",
+                    "Management",
+                    "Nursing",
+                    "Rehabilitation and Therapy",
+                    "Social Problems",
+                    "Software Engineering",
+                    "Spanish",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Renaissance",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Leadership",
+                    "Philosophy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Saint John",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "English"
+                ],
+                "Details": "Saint John Campus"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Ancient Civilizations",
+                    "Anthropology",
+                    "Arabic",
+                    "Archaeology",
+                    "Chinese",
+                    "Classical Languages",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "Economics",
+                    "English",
+                    "Film",
+                    "French",
+                    "German",
+                    "Germanic Studies",
+                    "Greek (Classical)",
+                    "History",
+                    "Japanese",
+                    "Latin American Studies",
+                    "Law",
+                    "Literature",
+                    "Modern Languages",
+                    "Multimedia",
+                    "Music",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Russian",
+                    "Social Problems",
+                    "Sociology",
+                    "Spanish",
+                    "Theatre",
+                    "Women's Studies",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Clinical Psychology",
+                    "Communication Studies",
+                    "Comparative Literature",
+                    "Economics",
+                    "English",
+                    "French",
+                    "History",
+                    "Information Sciences",
+                    "Linguistics",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology",
+                    "Spanish",
+                    "Sports"
+                ],
+                "Details": "Saint John Campus"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "E-Business/Commerce",
+                    "Hotel and Restaurant",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "Saint John Campus"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Engineering Management",
+                    "Human Resources",
+                    "Public Administration",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Sciences",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Art Education",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education",
+                    "Literacy Education",
+                    "Mathematics Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Engineering Management",
+                    "Forestry",
+                    "Geological Engineering",
+                    "Management",
+                    "Mechanical Engineering",
+                    "Software Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry and Environmental Management",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Environmental Management",
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Kinesiology",
+                "FieldsOfStudy": [
+                    "Physical Therapy",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Geochemistry",
+                    "Geology",
+                    "Mathematics",
+                    "Physics",
+                    "Psychology",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science, Applied Science and Engineering",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Engineering",
+                    "Health Sciences",
+                    "Marine Biology",
+                    "Mathematics",
+                    "Nursing",
+                    "Statistics"
+                ],
+                "Details": "Saint John Campus"
+            },
+            {
+                "College": "Biomedical Engineering",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Canadian Rivers",
+                "FieldsOfStudy": [
+                    "Fredericton and Saint John campuses"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Micmac - Maliseet",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Acoustics and Vibration",
+                "FieldsOfStudy": [
+                    "Sound Engineering (Acoustics)"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Computational Research and ACEnet",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Machining",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Plastics Manufacturing",
+                "FieldsOfStudy": [
+                    "Polymer and Plastics Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architectural, Engineering and Construction Interactive Collaboration",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Construction Engineering",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Bio Signals",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Canadian Rivers Institute Research Facility",
+                "FieldsOfStudy": [
+                    "Saint John campus"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Applications",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Entomology",
+                "FieldsOfStudy": [
+                    "Entomology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Flow-Induced Vibration",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Fluid Mechanics",
+                "FieldsOfStudy": [
+                    "Mechanics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forest and Conservation Genomics and Biotechnology",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Forest Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forest Engineering/Geotechnical",
+                "FieldsOfStudy": [
+                    "Forestry",
+                    "Geological Engineering"
+                ],
+                "Details": "Gillan"
+            },
+            {
+                "College": "Geodetic Research",
+                "FieldsOfStudy": [
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geographic Information Systems",
+                "FieldsOfStudy": [
+                    "Surveying and Mapping"
+                ],
+                "Details": "GIS"
+            },
+            {
+                "College": "Heat Transfer",
+                "FieldsOfStudy": [
+                    "Heating and Refrigeration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "High-Resolution X-ray Microtomography",
+                "FieldsOfStudy": [
+                    "Micro-CT"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Integrated Forest Management",
+                "FieldsOfStudy": [
+                    "Forest Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Magnetic Resonance Imaging",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Manufacturing and Processing",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Motion Analysis",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Network Security",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Nuclear Radiation",
+                "FieldsOfStudy": [
+                    "Nuclear Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Robotics and Mechanisms",
+                "FieldsOfStudy": [
+                    "Robotics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Soils and Environmental Quality",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Soil Conservation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Stable Isotopes in Nature",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Thermal Analysis Unit",
+                "FieldsOfStudy": [
+                    "Thermal Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Threat-Material Detection",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Tree Physiology/Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Physiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Artificial Intelligence",
+                "FieldsOfStudy": [
+                    "Artificial Intelligence"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Atlantic Cooperative Wildlife Ecology Research Network",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Automated Reasoning",
+                "FieldsOfStudy": [
+                    "Electronics and Automation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "CADMI Microelectronics, Inc.",
+                "FieldsOfStudy": [
+                    "Microelectronics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Canadian observatory on the justice system response to intimate partner violence",
+                "FieldsOfStudy": [
+                    "SSHRC Cluster"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chronic Illness",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy Conversion Engineering",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment and Sustainable Development",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment and Sustainable Development",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Family Violence",
+                "FieldsOfStudy": [
+                    "Social Problems"
+                ],
+                "Details": "Muriel McQueen Fergusson"
+            },
+            {
+                "College": "Fish and Wildlife",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Forestry",
+                    "Wildlife"
+                ],
+                "Details": "NB Cooperative"
+            },
+            {
+                "College": "Forest Watershed",
+                "FieldsOfStudy": [
+                    "NEXFOR / BOWATER"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Greater Fundy Ecosystem Project",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Groundwater Studies",
+                "FieldsOfStudy": [
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Health Sciences"
+                ],
+                "Details": "HERG"
+            },
+            {
+                "College": "A Cultural and Environmental Inventory of Greater Saint John",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "SSHRC CURA"
+            },
+            {
+                "College": "Labour History in New Brunswick Project",
+                "FieldsOfStudy": [
+                    "SSHRC CURA"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Materials",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Noncommutative Geometry and Topology",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ocean Mapping Group",
+                "FieldsOfStudy": [
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Parallel/Distributed Processing",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Population Ecology",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Pulp and Paper Research and Education",
+                "FieldsOfStudy": [
+                    "Paper Technology"
+                ],
+                "Details": "Dr. Jack McKenzie Limerick"
+            },
+            {
+                "College": "Social Policy",
+                "FieldsOfStudy": [
+                    "Social Policy"
+                ],
+                "Details": "CRISP"
+            },
+            {
+                "College": "Sustainable Power",
+                "FieldsOfStudy": [
+                    "Power Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transportation",
+                "FieldsOfStudy": [
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "UNB/Bhutan Project",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Youth, Science, Teaching and Learning - CRYSTAL Atlantique",
+                "FieldsOfStudy": [
+                    "NSERC CRYSTAL"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [
+                    "Biology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Electrical Engineering",
+                    "English",
+                    "Surveying and Mapping"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1149 Smythe Street",
+                "City": "Fredericton",
+                "Province": "New Brunswick",
+                "PostCode": "E3B 3H4",
+                "Website": "http://www.yorkvilleu.ca",
+                "college_name": "Yorkville University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003. Acquired present status 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Behavioural Sciences",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Psychology",
+                    "Social Problems",
+                    "Toxicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Adult Education",
+                    "Psychology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

@@ -1,0 +1,5747 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Erdem Tower\nSukhbaatar Square 20/6",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://graduate.edu.mn",
+                "college_name": "Graduate University of Mongolia",
+                "university_name": "Mongol Ulsyn Erdmiin Ikh Surguuli"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2004 as the Graduate School of the University of the Humanities and acquired current title an status 2016",
+            "AcademicYear": "October to June",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Human Resources",
+                    "Management",
+                    "Public Administration",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International and Social Studies",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "International Relations and Diplomacy",
+                    "International Studies",
+                    "Social Sciences",
+                    "Social Welfare",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language and Culture",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Modern Languages",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Chinese",
+                    "English",
+                    "French",
+                    "German",
+                    "Human Resources",
+                    "Japanese",
+                    "Korean",
+                    "Law",
+                    "Management",
+                    "Russian",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Cultural Studies",
+                    "Educational Administration",
+                    "Family Studies",
+                    "Gender Studies",
+                    "International Relations and Diplomacy",
+                    "International Studies",
+                    "Journalism",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Management",
+                    "Mongolian",
+                    "Public Administration",
+                    "Social Welfare",
+                    "Social Work",
+                    "Water Management"
+                ],
+                "Doctor'sDegrees": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Educational Administration",
+                    "International Studies",
+                    "Law",
+                    "Linguistics",
+                    "Management",
+                    "Public Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Peace Avenue-11, Songino-Khairkhan district-18\nP.O. Box 37/503",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "18080",
+                "Website": "http://www.ach.edu.mn",
+                "college_name": "Ach Medical University",
+                "university_name": "ACH MU (AMU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Family Medicine and Medical Management",
+                "FieldsOfStudy": [
+                    "Community Health",
+                    "Health Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Science",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Internal Medicine and Neurology",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Neurology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Microbiology and Infectious Diseases",
+                "FieldsOfStudy": [
+                    "Microbiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Morphology",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Obstetrics and Gynecology",
+                "FieldsOfStudy": [
+                    "Obstetrics and Gynaecology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ophthalmology",
+                "FieldsOfStudy": [
+                    "Ophthalmology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Otorhinolaryngology",
+                "FieldsOfStudy": [
+                    "Otorhinolaryngology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pathology",
+                "FieldsOfStudy": [
+                    "Pathology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pediatrics",
+                "FieldsOfStudy": [
+                    "Paediatrics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physiology, Molecular Biology",
+                "FieldsOfStudy": [
+                    "Molecular Biology",
+                    "Physiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Surgery",
+                "FieldsOfStudy": [
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Traditional Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pediatrics",
+                "FieldsOfStudy": [
+                    "Paediatrics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Traditional Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Medicine",
+                    "Nursing",
+                    "Physiology",
+                    "Public Health",
+                    "Traditional Eastern Medicine"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Biological and Life Sciences",
+                    "Health Education",
+                    "Medicine",
+                    "Neurology",
+                    "Nursing",
+                    "Public Health",
+                    "Surgery"
+                ],
+                "Doctor'sDegrees": [
+                    "Health Education",
+                    "Medicine",
+                    "Public Health",
+                    "Traditional Eastern Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3rd khoroo, Chinggis avenue \"Giant\" college",
+                "City": "Ulaanbaatar",
+                "Province": "Khan-Uul",
+                "PostCode": "17042",
+                "Website": "https://avarga.edu.mn/deed",
+                "college_name": "Avarga Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Therapy",
+                "FieldsOfStudy": [
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports Coach",
+                "FieldsOfStudy": [
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Preschool Education",
+                    "Sports"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "7th khoroo\nSukhbaatar district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://biliggraduate.gate.mn",
+                "college_name": "Billig Institute, University of Humanities",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2000",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Modern Languages",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Asian Studies",
+                    "Foreign Languages Education",
+                    "International Economics",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Modern Languages",
+                    "Mongolian",
+                    "Native Language Education",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Law",
+                    "Modern Languages"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "J. Batmunkh street\nSukhbaatar district, 11th khoroolol\nChinggis Khaan's building in the 4th building of National University of Mongolia",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://chinggisuniversity.mn",
+                "college_name": "Chinggis Khaan University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1999, acquired current status 2011",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Training",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Chinese",
+                    "Economics",
+                    "English",
+                    "History",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Humanities and Social Science Education",
+                    "Industrial Management",
+                    "Information Technology",
+                    "Insurance",
+                    "International Economics",
+                    "International Relations and Diplomacy",
+                    "Japanese",
+                    "Korean",
+                    "Management",
+                    "Marketing",
+                    "Mathematics Education",
+                    "Mining Engineering",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Software Engineering",
+                    "Taxation",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Chinese",
+                    "Economics",
+                    "English",
+                    "History",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Humanities and Social Science Education",
+                    "Industrial Management",
+                    "Information Technology",
+                    "Insurance",
+                    "International Economics",
+                    "International Relations and Diplomacy",
+                    "Japanese",
+                    "Korean",
+                    "Management",
+                    "Marketing",
+                    "Mathematics Education",
+                    "Mining Engineering",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Software Engineering",
+                    "Taxation",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "History"
+                ],
+                "Doctor'sDegrees": [
+                    "History"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Denver street, 7th khoroo, Sukhbaatar district\nP.O. Box 20/231",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "14190",
+                "Website": "https://www.citi.edu.mn/en",
+                "college_name": "City University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture and Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Art",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Performing Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Beauty",
+                "FieldsOfStudy": [
+                    "Cosmetology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Criminal Law",
+                    "Law",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Architecture",
+                    "Chinese",
+                    "Computer Graphics",
+                    "Construction Engineering",
+                    "Cosmetology",
+                    "Dance",
+                    "English",
+                    "Fashion Design",
+                    "Foreign Languages Education",
+                    "Graphic Design",
+                    "Hotel and Restaurant",
+                    "Interior Design",
+                    "International Business",
+                    "Japanese",
+                    "Korean",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Music",
+                    "Nursing",
+                    "Preschool Education",
+                    "Printing and Printmaking",
+                    "Singing",
+                    "Software Engineering",
+                    "Teacher Training",
+                    "Textile Technology",
+                    "Theatre",
+                    "Tourism",
+                    "Translation and Interpretation",
+                    "Wood Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Cosmetology",
+                    "Fashion Design"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Dalaivan University, University of Humanities",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Economics",
+                    "Modern Languages"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "10th bagh, Kherlen sum",
+                "City": "Dornod",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://dornod.edu.mn",
+                "college_name": "Dornod Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Foreign Languages Education",
+                    "Modern Languages",
+                    "Native Language Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Social Work",
+                    "Teacher Training",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Education",
+                    "Information Technology",
+                    "Mathematics Education",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Information Technology",
+                    "Social Work"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Information Technology",
+                    "Social Work"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Education",
+                    "Educational Sciences",
+                    "Management",
+                    "Modern Languages",
+                    "Public Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sukhbaatar District, khoroo 8\nBeijing St. 29",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://etugen.edu.mn/en",
+                "college_name": "Etugen University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001 as Etugen College",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Biomedicine",
+                    "Business Administration",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Management",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Biomedical Engineering",
+                    "Computer Engineering",
+                    "Economics",
+                    "Food Science",
+                    "International Business",
+                    "Medical Technology",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy",
+                    "Service Trades",
+                    "Taxation",
+                    "Tourism",
+                    "Traditional Eastern Medicine"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Biomedicine",
+                    "Business Administration",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 24\nAmarsanaa Street-7, 4th microdistrict\n17th khoroo, Bayangol district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "16066",
+                "Website": "http://www.3erdene.edu.mn",
+                "college_name": "Gurvan Erdene Pedagogical University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Foreign Language Teachers",
+                "FieldsOfStudy": [
+                    "Foreign Languages Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mongolian Language Teachers - Professional Teachers",
+                "FieldsOfStudy": [
+                    "Native Language Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Preschool Education",
+                "FieldsOfStudy": [
+                    "Preschool Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Computer Education",
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education",
+                    "Mathematics Education",
+                    "Native Language Education",
+                    "Preschool Education",
+                    "Primary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Educational Sciences",
+                    "Humanities and Social Science Education",
+                    "Native Language Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Arkhangai aimag",
+                "City": "Tsetserleg",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.gurvantamir.edu.mn",
+                "college_name": "Gurvan Tamir College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1997, acquired current status and title 2000",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting and Research",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Academic",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Farm Management",
+                    "Fruit Production",
+                    "Hotel and Restaurant",
+                    "Management",
+                    "Tourism",
+                    "Veterinary Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Khasbaatar street, 11th khoroo\nMicro district, Bayangol district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.huree.edu.mn",
+                "college_name": "Huree University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture and Civil Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biotechnology and Food Science",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Food Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Information Technology",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Modern Languages and Mutlimedia",
+                "FieldsOfStudy": [
+                    "Modern Languages",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Biological and Life Sciences",
+                    "Biomedical Engineering",
+                    "Biotechnology",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "E-Business/Commerce",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "English",
+                    "Food Science",
+                    "Food Technology",
+                    "Information Technology",
+                    "Korean",
+                    "Multimedia",
+                    "Nutrition",
+                    "Software Engineering",
+                    "Structural Architecture"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "E-Business/Commerce",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Energy Engineering"
+                ],
+                "Doctor'sDegrees": [
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Electronics and Automation"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 349\n4 khoroo, B.Dorjiin street, Ikhzasag complex\nBayanzurkh District",
+                "City": "Ulanbataar",
+                "Province": "N/A",
+                "PostCode": "75000",
+                "Website": "http://ikhzasag.edu.mn",
+                "college_name": "Ikh Zasag International University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Royal",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Geology",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Mining Engineering",
+                    "Public Administration",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Erdem",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "History",
+                    "Law",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts, Design and Technology",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Fine Arts",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages and Cultural Studies",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Foreign Languages Education",
+                    "Modern Languages"
+                ],
+                "Details": "Jaesan-Chinggis Khaan"
+            },
+            {
+                "College": "International Relations",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "Chinggis-Sosei"
+            },
+            {
+                "College": "International School",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "National Engineering and Technology",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theatre and Art",
+                "FieldsOfStudy": [
+                    "Performing Arts",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Vocational Training",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "History",
+                    "Law",
+                    "Natural Sciences",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [
+                    "History",
+                    "Law"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bayangol district, 10th khoroolol\n5th khoroo, Enkhtaivan avenue - 90\n210526 p / h 389",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "16081",
+                "Website": "http://www.iet.edu.mn",
+                "college_name": "Institute of Engineering and Technology",
+                "university_name": "(IET)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2000 as a Technical and Technological College, acquired current status and title 2012",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Higher Education Training",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Automotive Engineering",
+                    "Bridge Engineering",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Electrical Engineering",
+                    "Food Technology",
+                    "Heating and Refrigeration",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Road Engineering",
+                    "Soil Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Automotive Engineering",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Electrical Engineering",
+                    "Food Technology",
+                    "Heating and Refrigeration",
+                    "Mechanical Engineering",
+                    "Road Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Bridge Engineering",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Industrial Engineering",
+                    "Road Engineering",
+                    "Soil Science"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "The downtown, University Street, 32 & 32A",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://ousds.mn/home",
+                "college_name": "Institute of International Studies",
+                "university_name": "(IIS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "International Relations and Diplomacy",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Undergraduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "International Relations and Diplomacy",
+                    "International Studies",
+                    "Journalism",
+                    "Law",
+                    "Management",
+                    "Political Sciences",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Economics",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Law",
+                    "Management",
+                    "Political Sciences",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Economics",
+                    "International Relations and Diplomacy",
+                    "Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Factory Street-26\n3rd khoroo, Khan-Uul district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "110000",
+                "Website": "http://www.itech.edu.mn",
+                "college_name": "Institute of Technology",
+                "university_name": "(ITECH)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1965",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Technology",
+                "FieldsOfStudy": [
+                    "Food Technology",
+                    "Hygiene"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Academic Education",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Economics",
+                    "English",
+                    "Physics",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Food Technology",
+                    "Mechanical Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Food Technology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 658\nNamyangjuu Street, 25th khorrlol, Bayangol District",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "210644",
+                "Website": "http://www.ubu.edu.mn",
+                "college_name": "International University of Ulaanbaatar",
+                "university_name": "(IUU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993 as Ulaanbaatar College, acquired current status 1999, renamed Ulaanbaatar University 2012 and UBU University 2014, acquired current title 2015",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Forestry",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Basic Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication and Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education Studies",
+                "FieldsOfStudy": [
+                    "Educational Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Family Studies",
+                "FieldsOfStudy": [
+                    "Family Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "Korean"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal Affairs",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Agricultural Engineering",
+                    "Banking",
+                    "Business Administration",
+                    "Child Care and Development",
+                    "Computer Graphics",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "English",
+                    "Family Studies",
+                    "Fashion Design",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Forest Products",
+                    "Graphic Design",
+                    "Industrial Design",
+                    "Industrial Management",
+                    "Information Technology",
+                    "Interior Design",
+                    "International Studies",
+                    "Korean",
+                    "Landscape Architecture",
+                    "Law",
+                    "Linguistics",
+                    "Marketing",
+                    "Mongolian",
+                    "Native Language Education",
+                    "Nursing",
+                    "Social Work",
+                    "Sociology",
+                    "Software Engineering",
+                    "Tourism",
+                    "Translation and Interpretation",
+                    "Wood Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "English",
+                    "Family Studies",
+                    "Floriculture",
+                    "Korean",
+                    "Landscape Architecture",
+                    "Law",
+                    "Mongolian",
+                    "Software Engineering"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "English",
+                    "Korean",
+                    "Mongolian"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Chinggis Avenue-193, 3rd khoroo",
+                "City": "Ulaanbaatar",
+                "Province": "Khan-Uul",
+                "PostCode": "hangaiinstitute@yahoo.com",
+                "Website": "http://1.hangai-university.com",
+                "college_name": "Khangai Institute",
+                "university_name": "Hangai Institute"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Information Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Jargalant sum, Khovd aimag",
+                "City": "Khovd",
+                "Province": "Khovd",
+                "PostCode": "84153",
+                "Website": "http://www.khu.edu.mn",
+                "college_name": "Khovd University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1979. Acquired present status 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Bayan-Ulgii Province",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Education",
+                    "Environmental Studies",
+                    "Eurasian and North Asian Languages",
+                    "History",
+                    "Literature",
+                    "Mathematics Education",
+                    "Music Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Social Sciences",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages and Culture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Chinese",
+                    "Design",
+                    "English",
+                    "Fine Arts",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Russian",
+                    "Social Work",
+                    "Teacher Training",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Applied Physics",
+                    "Biology",
+                    "Chemistry",
+                    "Ecology",
+                    "Environmental Studies",
+                    "Food Technology",
+                    "Geography",
+                    "Horticulture",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Physics",
+                    "Science Education",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Science and Humanities",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "German",
+                    "Health Sciences",
+                    "History",
+                    "Literature",
+                    "Management",
+                    "Mongolian",
+                    "Physical Education",
+                    "Social Sciences",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Applied Physics",
+                    "Architecture",
+                    "Art Education",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Construction Engineering",
+                    "Education",
+                    "Electrical Engineering",
+                    "Environmental Management",
+                    "Folklore",
+                    "Foreign Languages Education",
+                    "Forest Products",
+                    "Geology",
+                    "Humanities and Social Science Education",
+                    "Mathematics Education",
+                    "Mining Engineering",
+                    "Native Language Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Public Administration",
+                    "Science Education",
+                    "Singing",
+                    "Social Work",
+                    "Teacher Training",
+                    "Technology Education",
+                    "Tourism",
+                    "Translation and Interpretation",
+                    "Wood Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Biology",
+                    "Chemistry",
+                    "Ecology",
+                    "Education",
+                    "Geography",
+                    "History",
+                    "Linguistics",
+                    "Mathematics Education",
+                    "Mongolian",
+                    "Physics",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [
+                    "Biology",
+                    "Chemistry",
+                    "Geography",
+                    "History",
+                    "Linguistics",
+                    "Mongolian",
+                    "Philology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "11th district, Sukhbaatar district\n7th khoroo. UB-13, p / x-550",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.khel-irgenshil.edu.mn",
+                "college_name": "Language and Civilisation Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Chinese Language Teaching",
+                "FieldsOfStudy": [
+                    "Foreign Languages Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language Teaching",
+                "FieldsOfStudy": [
+                    "Foreign Languages Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Japanese Language Teaching",
+                "FieldsOfStudy": [
+                    "Foreign Languages Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mongolian Language and Literature Teaching",
+                "FieldsOfStudy": [
+                    "Humanities and Social Science Education",
+                    "Native Language Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Preschool Education",
+                "FieldsOfStudy": [
+                    "Preschool Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Primary Education",
+                "FieldsOfStudy": [
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education",
+                    "Native Language Education",
+                    "Preschool Education",
+                    "Primary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Labor Union Street-28\n29th Khoroo, Songino Khairkhan District",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://en.mandakh.edu.mn",
+                "college_name": "Mandakh University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1992, formerly known Mandakh-S Accounting Institute and later Mandakh Burtgel Institute",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Language",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "English",
+                    "Finance",
+                    "Information Technology",
+                    "Software Engineering",
+                    "Taxation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Finance"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bayangol district 18th khoroo\nDamdinbazar street 7/4th district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.altius.mn/Home",
+                "college_name": "Mon-Altius Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Training",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Physical Education",
+                    "Sports",
+                    "Sports Management",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Physical Education",
+                    "Sports",
+                    "Sports Management",
+                    "Teacher Training"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Educational Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "13th Khoroo, Bayanzurkh District\nP.O. 252, Post Office No. 51",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://miu.edu.mn",
+                "college_name": "Mongolia International University",
+                "university_name": "(MIU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Biotechnology and Food Science",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Food Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy Resource and Environment Technology",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Environmental Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Education",
+                "FieldsOfStudy": [
+                    "Foreign Languages Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fashion Design",
+                "FieldsOfStudy": [
+                    "Fashion Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel Management",
+                "FieldsOfStudy": [
+                    "Hotel Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business Management",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media and Communication",
+                "FieldsOfStudy": [
+                    "Mass Communication",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music Education",
+                "FieldsOfStudy": [
+                    "Music Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism Management",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Biotechnology",
+                    "Computer Science",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Fashion Design",
+                    "Food Science",
+                    "Foreign Languages Education",
+                    "Hotel Management",
+                    "International Business",
+                    "Mass Communication",
+                    "Media Studies",
+                    "Music Education",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Foreign Languages Education",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 38\nChingeltei District",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "484",
+                "Website": "N/A",
+                "college_name": "Mongolian Labour and Social Relations Institute",
+                "university_name": "(MLSRI)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Mongolian Labour and Social Relations Institute",
+                "FieldsOfStudy": [
+                    "Labour and Industrial Relations"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Labour and Industrial Relations"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Labour and Industrial Relations"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. box 511, branch 24\nRoom 605, MNU Building\n1 Bayangol District, 11th Khoroo",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "24-511",
+                "Website": "http://www.mnu.edu.mn",
+                "college_name": "Mongolian National University",
+                "university_name": "(MNU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 1998. Acquired current status 2012.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture and Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Business Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology and Graphic Design",
+                "FieldsOfStudy": [
+                    "Graphic Design",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Nursing",
+                    "Public Health",
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining and Engineering",
+                "FieldsOfStudy": [
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Land Management",
+                "FieldsOfStudy": [
+                    "Real Estate",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Architecture",
+                    "Banking",
+                    "Building Technologies",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Graphics",
+                    "Construction Engineering",
+                    "Dentistry",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Engineering Drawing and Design",
+                    "Environmental Management",
+                    "Fashion Design",
+                    "Finance",
+                    "Geology",
+                    "Graphic Design",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Interior Design",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Mechanical Engineering",
+                    "Mining Engineering",
+                    "Modern Languages",
+                    "Nursing",
+                    "Petroleum and Gas Engineering",
+                    "Public Health",
+                    "Real Estate",
+                    "Taxation",
+                    "Tourism",
+                    "Traditional Eastern Medicine"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Economics",
+                    "Law",
+                    "Linguistics",
+                    "Mining Engineering",
+                    "Modern Languages",
+                    "Software Engineering",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Law",
+                    "Mining Engineering"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 48/111\nNo.227, S. Zorig Street",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "14210",
+                "Website": "http://mnums.edu.mn/index.php",
+                "college_name": "Mongolian National University of Medical Sciences",
+                "university_name": "(MNUMS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1942 as the Medical Faculty of the Mongolian State University. Became independent of the Mongolian State University and re-named as the Mongolian State Medical Institute 1961. Reorganized as the National Medical University of Mongolia (NMUM) 1989. Restructured and organized as a multidisciplinary training and research center called The Health Sciences University of Mongolia (HSUM) 2003. Acquired current title 2014",
+            "AcademicYear": "September to July (September-January; February-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Gerchilgee) and entrance examination"
+            ],
+            "Languages": [
+                "Mongolian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Darkhan-Uul Medical College",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dornogobi Medical College",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Gobi Altai Medical College",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biomedicine",
+                "FieldsOfStudy": [
+                    "Biomedicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dental Hygiene",
+                    "Dental Technology",
+                    "Dentistry",
+                    "Forensic Medicine and Dentistry",
+                    "Oral Pathology",
+                    "Orthodontics",
+                    "Periodontics",
+                    "Speech Therapy and Audiology",
+                    "Stomatology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Acupuncture and Oriental Medicine",
+                    "Anaesthesiology",
+                    "Ayurvedic Medicine",
+                    "Cardiology",
+                    "Chiropractic",
+                    "Dermatology",
+                    "Diabetology",
+                    "Endocrinology",
+                    "Epidemiology",
+                    "Gastroenterology",
+                    "Gerontology",
+                    "Haematology",
+                    "Hepatology",
+                    "Homeopathic Medicine",
+                    "Medical Parasitology",
+                    "Medicine",
+                    "Nephrology",
+                    "Neurology",
+                    "Obstetrics and Gynaecology",
+                    "Oncology",
+                    "Ophthalmology",
+                    "Optometry",
+                    "Orthopaedics",
+                    "Osteopathy",
+                    "Otorhinolaryngology",
+                    "Paediatrics",
+                    "Paramedical Sciences",
+                    "Pathology",
+                    "Plastic Surgery",
+                    "Pneumology",
+                    "Podiatry",
+                    "Psychiatry and Mental Health",
+                    "Radiology",
+                    "Rehabilitation and Therapy",
+                    "Rheumatology",
+                    "Sports Medicine",
+                    "Surgery",
+                    "Traditional and Complementary Medicine and Therapy",
+                    "Traditional Eastern Medicine",
+                    "Tropical Medicine",
+                    "Urology",
+                    "Venereology"
+                ],
+                "Details": "Includes Institute of Traditional Medicine"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Medical Auxiliaries",
+                    "Medical Technology",
+                    "Midwifery",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Pharmacy",
+                    "Virology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Community Health",
+                    "Dietetics",
+                    "Health Administration",
+                    "Hygiene",
+                    "Occupational Health",
+                    "Social and Preventive Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Acupuncture and Oriental Medicine",
+                    "Biomedicine",
+                    "Dental Hygiene",
+                    "Dental Technology",
+                    "Dentistry",
+                    "Forensic Medicine and Dentistry",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Information Technology",
+                    "Medical Auxiliaries",
+                    "Medical Technology",
+                    "Medicine",
+                    "Midwifery",
+                    "Nursing",
+                    "Optometry",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Public Health",
+                    "Rehabilitation and Therapy",
+                    "Social Work",
+                    "Surgery",
+                    "Traditional and Complementary Medicine and Therapy",
+                    "Traditional Eastern Medicine",
+                    "Treatment Techniques"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Health Administration",
+                    "Medicine",
+                    "Nursing",
+                    "Occupational Health",
+                    "Pharmacy",
+                    "Public Health"
+                ],
+                "Doctor'sDegrees": [
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy",
+                    "Public Health"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sukhbaatar district, 7th khoroo\nYouth Avenue - 26",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Mongolian State Music and Dance Conservatory",
+                "university_name": "Mongolian Conservatory"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1937 as a School of Art, renamed Music and Dance College in 1996, acquired current title 2017",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Dance",
+                "FieldsOfStudy": [
+                    "Dance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Dance",
+                    "Music"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 46\nBaga Toyruu 26, Sukhbaatar District",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "210646",
+                "Website": "http://msuac.edu.mn",
+                "college_name": "Mongolian State University of Arts and Culture",
+                "university_name": "Mongol Ulsyn Soyel Urlagyn Ikh Surguuli (MSUAC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1959, acquired present status and title1990.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Music and Dance",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Music"
+                ],
+                "Details": "Zavkhan"
+            },
+            {
+                "College": "Short-term Training",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Language",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Language",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culture and Art Research Institute",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Broadcasting and Media Arts",
+                "FieldsOfStudy": [
+                    "Media Studies",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culture",
+                "FieldsOfStudy": [
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dance Arts",
+                "FieldsOfStudy": [
+                    "Dance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts and Design",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "High School of the Arts, Badmaarag",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music Arts",
+                "FieldsOfStudy": [
+                    "Music",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theatre Arts",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Acting",
+                    "Film",
+                    "Fine Arts",
+                    "Performing Arts",
+                    "Singing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Fine Arts"
+                ],
+                "Doctor'sDegrees": [
+                    "Fine Arts"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Baga Toiruu-14\nYiii Khoroo, Sukhbaatar District",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "210648",
+                "Website": "http://mnue.mn",
+                "college_name": "Mongolian State University of Education",
+                "university_name": "Mongol Ulsyn Bolovsroliin Ikh Surguuli (MSUE)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1951 as Teacher Training Institute, renamed Pedagogical University 1991. Formerly known as National Pedagogical University, Ulaanbaatar.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate and entrance examination"
+            ],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Educational Studies",
+                "FieldsOfStudy": [
+                    "Educational Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts and Technology",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Fine Arts",
+                    "Handicrafts",
+                    "Painting and Drawing",
+                    "Sculpture",
+                    "Technology",
+                    "Weaving"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "American Studies",
+                    "Asian Studies",
+                    "European Studies",
+                    "History",
+                    "History of Societies",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Social Policy",
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Applied Mathematics",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Preschool Education",
+                "FieldsOfStudy": [
+                    "Preschool Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Secondary Education",
+                "FieldsOfStudy": [
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teachers Education",
+                "FieldsOfStudy": [
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teachers Education, Arkhangai Province",
+                "FieldsOfStudy": [
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Design",
+                    "Educational Sciences",
+                    "Fine Arts",
+                    "Geography",
+                    "History",
+                    "Linguistics",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Mongolian",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physics",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Social Work",
+                    "Sports",
+                    "Technology",
+                    "Technology Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Design",
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "Fine Arts",
+                    "Geography",
+                    "History",
+                    "Linguistics",
+                    "Literature",
+                    "Mathematics",
+                    "Physical Education",
+                    "Physics",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Social Sciences",
+                    "Social Work",
+                    "Technology"
+                ],
+                "Doctor'sDegrees": [
+                    "Biology",
+                    "Chemistry",
+                    "Fine Arts",
+                    "Geography",
+                    "History",
+                    "Linguistics",
+                    "Literature",
+                    "Physics",
+                    "Social Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "11th khoroo, Khan-Uul district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "17024",
+                "Website": "http://muls.edu.mn",
+                "college_name": "Mongolian University of Life Sciences",
+                "university_name": "Khodoo Aj Akhuin Ikh Surguuli (MULS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1958. Known as Mongolian State University of Agriculture until 2014. Acquired current title 2014",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (gerchilgee) or equivalent, entrance examination"
+            ],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agroecology",
+                "FieldsOfStudy": [
+                    "Agronomy",
+                    "Biotechnology",
+                    "Crop Production",
+                    "Ecology",
+                    "Forestry",
+                    "Horticulture",
+                    "Soil Science",
+                    "Water Management",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Animal Science and Biotechnology",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Biotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ecology,Technology and Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Ecology",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Technology",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Machine Building",
+                    "Mechanical Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Hygiene",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Sanitary Engineering",
+                    "Surgery",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Agricultural Economics",
+                    "Agricultural Equipment",
+                    "Business Administration",
+                    "Crop Production",
+                    "Ecology",
+                    "Electrical Engineering",
+                    "Environmental Management",
+                    "Finance",
+                    "Food Technology",
+                    "Information Technology",
+                    "Landscape Architecture",
+                    "Machine Building",
+                    "Management",
+                    "Marketing",
+                    "Mechanical Engineering",
+                    "Natural Resources",
+                    "Software Engineering",
+                    "Statistics",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Business Administration",
+                    "Machine Building",
+                    "Mechanical Engineering",
+                    "Veterinary Science"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 46/520\n8th khoroo, Baga toiruu 34\nSukhbaatar district",
+                "City": "Ulaanbaatar",
+                "Province": "11-324-590",
+                "PostCode": "14191",
+                "Website": "http://must.edu.mn/eng",
+                "college_name": "Mongolian University of Science and Technology",
+                "university_name": "Mongol Ulsyn Shinkleh Ukhaan Tekhnologiin Ikh Surguuli (MUST)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Started with Civil and Industry Engineering courses, 1959. Established as Polytechnic Institute part of National University of Mongolia, 1969. Became an independent institution 1983, acquired present status 2001.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Gerchilgee)"
+            ],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "E-Open Institute",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Computer Engineering",
+                    "Construction Engineering",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Food Technology",
+                    "Geology",
+                    "Industrial Management",
+                    "Information Technology",
+                    "Mathematics",
+                    "Organic Chemistry",
+                    "Petroleum and Gas Engineering",
+                    "Public Administration",
+                    "Social Work",
+                    "Telecommunications Engineering",
+                    "Thermal Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "Asian Studies",
+                    "English",
+                    "European Languages",
+                    "Japanese",
+                    "Korean",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Mongolian",
+                    "Russian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Mathematics",
+                    "Physical Education",
+                    "Physics",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Cultural Studies",
+                    "Economics",
+                    "History",
+                    "Management",
+                    "Philosophy",
+                    "Social Work",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Architecture",
+                    "Bridge Engineering",
+                    "Building Technologies",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Ecology",
+                    "Heating and Refrigeration",
+                    "Hydraulic Engineering",
+                    "Natural Resources",
+                    "Road Engineering",
+                    "Sanitary Engineering",
+                    "Soil Science",
+                    "Town Planning",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geology and Mining Engineering",
+                "FieldsOfStudy": [
+                    "Geochemistry",
+                    "Geology",
+                    "Geophysics",
+                    "Mineralogy",
+                    "Mining Engineering",
+                    "Paleontology",
+                    "Petroleum and Gas Engineering",
+                    "Petrology",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Technology",
+                "FieldsOfStudy": [
+                    "Art Management",
+                    "Clothing and Sewing",
+                    "Computer Graphics",
+                    "Design",
+                    "Fashion Design",
+                    "Forestry",
+                    "Furniture Design",
+                    "Graphic Design",
+                    "Industrial Design",
+                    "Industrial Engineering",
+                    "Interior Design",
+                    "Printing and Printmaking",
+                    "Textile Design",
+                    "Textile Technology",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology and Telecommunication Engineering",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Electrical and Electronic Engineering",
+                    "Information Technology",
+                    "Library Science",
+                    "Postal Services",
+                    "Radio and Television Broadcasting",
+                    "Telecommunications Engineering",
+                    "Telecommunications Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering and Transportation",
+                "FieldsOfStudy": [
+                    "Air Transport",
+                    "Electronic Engineering",
+                    "Mechanical Engineering",
+                    "Metal Techniques",
+                    "Metallurgical Engineering",
+                    "Road Transport",
+                    "Transport Economics",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Power Engineering",
+                "FieldsOfStudy": [
+                    "Power Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Civil Engineering",
+                    "Food Technology",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Mathematics and Computer Science",
+                    "Mechanical Engineering"
+                ],
+                "Details": "Darkhan City"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Automotive Engineering",
+                    "Electronics and Automation",
+                    "Finance",
+                    "Human Resources",
+                    "Industrial Management",
+                    "Management",
+                    "Mining Engineering",
+                    "Occupational Health",
+                    "Production Engineering",
+                    "Technology"
+                ],
+                "Details": "Erdenet"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Geology",
+                    "Geophysics",
+                    "Human Resources",
+                    "Industrial Management",
+                    "Information Technology",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Mineralogy",
+                    "Natural Sciences",
+                    "Petroleum and Gas Engineering",
+                    "Public Administration",
+                    "Small Business",
+                    "Software Engineering",
+                    "Water Management",
+                    "Water Science"
+                ],
+                "Doctor'sDegrees": [
+                    "Building Technologies",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Construction Engineering",
+                    "Geological Engineering",
+                    "Geology",
+                    "Management",
+                    "Mineralogy",
+                    "Petroleum and Gas Engineering",
+                    "Road Engineering",
+                    "Software Engineering",
+                    "Systems Analysis"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Chinggis avenue, 36\nKhan-Uul district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "210136",
+                "Website": "http://www.mnue.edu.mn",
+                "college_name": "National Institute of Economics",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1999",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Development",
+                "FieldsOfStudy": [
+                    "Archiving",
+                    "Banking",
+                    "Chinese",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Ecology",
+                    "Economics",
+                    "English",
+                    "History",
+                    "Literature",
+                    "Mathematics",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Insurance",
+                    "International Business",
+                    "International Economics",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Public Administration",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bayangol district\nChingunjav Street-78/1\nleft of the 25th Pharmacy",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://utis.edu.mn",
+                "college_name": "National Technical University",
+                "university_name": "(NTU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2012",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction Engineering",
+                "FieldsOfStudy": [
+                    "Construction Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining Operation Technology",
+                "FieldsOfStudy": [
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Road Construction Engineering",
+                "FieldsOfStudy": [
+                    "Construction Engineering",
+                    "Road Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Thermal Power Plant Engineering",
+                "FieldsOfStudy": [
+                    "Power Engineering",
+                    "Thermal Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism Management",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Automotive Engineering",
+                    "Chinese",
+                    "Computer Education",
+                    "Construction Engineering",
+                    "Electrical Engineering",
+                    "English",
+                    "Finance",
+                    "Heating and Refrigeration",
+                    "Japanese",
+                    "Korean",
+                    "Management",
+                    "Mathematics Education",
+                    "Power Engineering",
+                    "Thermal Engineering",
+                    "Tourism",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Construction Engineering",
+                    "Electrical Engineering",
+                    "Finance",
+                    "Heating and Refrigeration",
+                    "Management",
+                    "Power Engineering",
+                    "Road Engineering",
+                    "Thermal Engineering"
+                ],
+                "Doctor'sDegrees": [
+                    "Construction Engineering",
+                    "Electrical Engineering"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ikh Surguuliin gudamj -1\nP.O.Box -46A/523",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "210646",
+                "Website": "http://num.edu.mn",
+                "college_name": "National University of Mongolia",
+                "university_name": "Mongol Ulsyn Ikh Surguuli (NUM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1942 as a State institution.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (gerchilgee)"
+            ],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Zavkhan School",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Arts and Humanities",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "American Studies",
+                    "Anthropology",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "Asian Studies",
+                    "Biology",
+                    "Chemistry",
+                    "Economics",
+                    "Education",
+                    "English Studies",
+                    "European Studies",
+                    "Geography",
+                    "Geology",
+                    "Geophysics",
+                    "History",
+                    "Journalism",
+                    "Linguistics",
+                    "Literature",
+                    "Mathematics",
+                    "Mongolian",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Relations",
+                    "Religion",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Applied Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Applied Mathematics",
+                    "Bioengineering",
+                    "Chemical Engineering",
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Environmental Engineering",
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Erdenet School",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "Modern Languages",
+                    "Mongolian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Relations and Public Administration",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "International Law",
+                    "Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Agricultural Engineering",
+                    "Anthropology",
+                    "Applied Chemistry",
+                    "Applied Mathematics",
+                    "Archaeology",
+                    "Archiving",
+                    "Arts and Humanities",
+                    "Banking",
+                    "Bioengineering",
+                    "Biology",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Computer Science",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Energy Engineering",
+                    "Environmental Studies",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Forestry",
+                    "Geography",
+                    "Geology",
+                    "Geophysics",
+                    "History",
+                    "Humanities and Social Science Education",
+                    "Information Technology",
+                    "Insurance",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Management",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Meteorology",
+                    "Mongolian",
+                    "Nanotechnology",
+                    "Natural Resources",
+                    "Nuclear Engineering",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Administration",
+                    "Real Estate",
+                    "Regional Planning",
+                    "Regional Studies",
+                    "Religion",
+                    "Science Education",
+                    "Social Work",
+                    "Statistics",
+                    "Surveying and Mapping",
+                    "Telecommunications Engineering",
+                    "Tourism",
+                    "Town Planning",
+                    "Translation and Interpretation",
+                    "Water Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Agriculture",
+                    "Anthropology",
+                    "Applied Chemistry",
+                    "Applied Mathematics",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "Biochemistry",
+                    "Bioengineering",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Biophysics",
+                    "Biotechnology",
+                    "Botany",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Demography and Population",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Energy Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Forestry",
+                    "Geography",
+                    "Geology",
+                    "Geophysics",
+                    "History",
+                    "Humanities and Social Science Education",
+                    "Industrial Chemistry",
+                    "Information Management",
+                    "Information Technology",
+                    "Inorganic Chemistry",
+                    "International Business",
+                    "International Economics",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Meteorology",
+                    "Microbiology",
+                    "Modern Languages",
+                    "Mongolian",
+                    "Multimedia",
+                    "Nanotechnology",
+                    "Nuclear Engineering",
+                    "Organic Chemistry",
+                    "Petrology",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Real Estate",
+                    "Regional Planning",
+                    "Regional Studies",
+                    "Religion",
+                    "Science Education",
+                    "Social Work",
+                    "Sociology",
+                    "Software Engineering",
+                    "Statistics",
+                    "Surveying and Mapping",
+                    "Taxation",
+                    "Telecommunications Engineering",
+                    "Tourism",
+                    "Town Planning",
+                    "Translation and Interpretation",
+                    "Water Science",
+                    "Zoology"
+                ],
+                "Doctor'sDegrees": [
+                    "Anthropology",
+                    "Applied Mathematics",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Energy Engineering",
+                    "Environmental Management",
+                    "Foreign Languages Education",
+                    "Forestry",
+                    "Geography",
+                    "Geology",
+                    "Geophysics",
+                    "History",
+                    "International Economics",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Linguistics",
+                    "Literature",
+                    "Management",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Meteorology",
+                    "Modern Languages",
+                    "Mongolian",
+                    "Nuclear Engineering",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Regional Studies",
+                    "Religion",
+                    "Science Education",
+                    "Social Work",
+                    "Sociology",
+                    "Software Engineering",
+                    "Surveying and Mapping",
+                    "Translation and Interpretation"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Songinokhairkhan-20 Sonsgolon-Bator-5",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ncm.edu.mn",
+                "college_name": "New Medical University",
+                "university_name": "(NCM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2000",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Clinical Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Family Medicine",
+                "FieldsOfStudy": [
+                    "Community Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Academic Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Morpho-physiology",
+                "FieldsOfStudy": [
+                    "Physiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "NCM Medical Department",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Reincarnation",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Traditional Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacology",
+                    "Traditional Eastern Medicine"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 176\nChinggis Avenue 36",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "210136",
+                "Website": "http://www.orkhon.edu.mn",
+                "college_name": "Orkhon University",
+                "university_name": "(OU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1992. Acquired present status 1997. Previously known as Orkhon Institute",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "International Business",
+                    "International Economics",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "English",
+                    "Foreign Languages Education",
+                    "French",
+                    "German",
+                    "Japanese",
+                    "Korean",
+                    "Mongolian",
+                    "Russian",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Economics",
+                    "Law",
+                    "Modern Languages"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Education",
+                    "Law",
+                    "Linguistics",
+                    "Public Administration",
+                    "Social Work"
+                ],
+                "Doctor'sDegrees": [
+                    "Accountancy",
+                    "Education",
+                    "Linguistics"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 35, Post office 51\nJukov street, Enkhtaivan Avenue\nBayanzurkh district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "210351",
+                "Website": "http://www.otgontenger.edu.mn",
+                "college_name": "Otgontenger University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991, acquired current status 1999",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Certificate and score of general examination"
+            ],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economic and Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Air Transport",
+                    "Arts and Humanities",
+                    "Banking",
+                    "Business Administration",
+                    "Chinese",
+                    "Computer Engineering",
+                    "English",
+                    "Foreign Languages Education",
+                    "German",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Japanese",
+                    "Journalism",
+                    "Law",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Psychology",
+                    "Tourism",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Education",
+                    "Finance",
+                    "Insurance",
+                    "Journalism",
+                    "Law",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Political Sciences"
+                ],
+                "Doctor'sDegrees": [
+                    "Education",
+                    "Law"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "B.Dorj street, Co-op camp town\nMUSTS Moja Datsan\nBayanzurkh district, 2nd khoroo",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "13361",
+                "Website": "http://otoch.edu.mn",
+                "college_name": "Otoch Manramba University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "General Physician of Traditional Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nurse in Traditional Medicine",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing",
+                    "Traditional Eastern Medicine"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Amarsana Street, 17th khoroo\nBayangol district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://san.edu.mn",
+                "college_name": "San University",
+                "university_name": "San Institute"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking Economics",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Management",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Human Resources"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "University street-1\n6th khoroo, Sukhbaatar district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "14200",
+                "Website": "http://shihihutug.edu.mn/index.php/en_khutug",
+                "college_name": "Shihihutug University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Commercial Law",
+                "FieldsOfStudy": [
+                    "Commercial Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Lawyer Training",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Commercial Law",
+                    "Law"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Law"
+                ],
+                "Doctor'sDegrees": [
+                    "Law"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "United Nations Street, 6",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.nci.edu.mn",
+                "college_name": "Shine Irgenshil Institute",
+                "university_name": "New Civilization Institute (NCI)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2000",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Banking and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Finance",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Academic Education",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "History",
+                    "Korean",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Mongolian",
+                    "Philosophy",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Hotel and Restaurant",
+                    "Management",
+                    "Modern Languages",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Taxation",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Cultural Studies",
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "Management",
+                    "Mongolian"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 44-88\nSukhbaatar district, I khoroo\nOlympic street \"Culture\" Erdem school building",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.soyolerdem.com",
+                "college_name": "Soyol-Erdem College",
+                "university_name": "Soyol-Erdem Institute"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Computer and Software Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Journalism",
+                "FieldsOfStudy": [
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Japanese Language",
+                "FieldsOfStudy": [
+                    "Japanese",
+                    "Teacher Training",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nature Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism Management",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Economics",
+                    "International Studies",
+                    "Japanese",
+                    "Journalism",
+                    "Software Engineering",
+                    "Tourism",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Japanese",
+                    "Translation and Interpretation"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Peace Avenue, 38\nBayanzurkh district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.sutai.edu.mn",
+                "college_name": "Sutai University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Law"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Peace Avenue 44\nBayangol district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.insttrans.mn",
+                "college_name": "Transportation Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1953",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Railway Transport",
+                "FieldsOfStudy": [
+                    "Railway Transport"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Railway Transport"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Railway Transport"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "West of Bayanzurkh district\n3th khoroo",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.management.edu.mn",
+                "college_name": "Tsetsee Goun Management Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer and Software Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Management",
+                "FieldsOfStudy": [
+                    "Educational Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Teacher and Translator",
+                "FieldsOfStudy": [
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance Management",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Management",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Japanese Teacher and Translator",
+                "FieldsOfStudy": [
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing Management",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Educational Administration",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Human Resources",
+                    "Humanities and Social Science Education",
+                    "Management",
+                    "Marketing",
+                    "Public Administration",
+                    "Software Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 982\nUniversity Street\nSukhbaatar district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "210646",
+                "Website": "http://tushee.mn",
+                "college_name": "Tushee Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996, acquired current status 2005",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Banking",
+                    "Finance",
+                    "Insurance",
+                    "Law"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "13343, Luvsantseveen's street\n5th khoroo, 15th khoroolol\nBayanzurkh district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://usu.edu.mn/en",
+                "college_name": "Ulaanbaatar State University",
+                "university_name": "(USU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Archaeology",
+                "FieldsOfStudy": [
+                    "Archaeology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese",
+                "FieldsOfStudy": [
+                    "Chinese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Eastern Studies",
+                "FieldsOfStudy": [
+                    "Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Japanese",
+                "FieldsOfStudy": [
+                    "Japanese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Korean",
+                "FieldsOfStudy": [
+                    "Korean"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Software",
+                "FieldsOfStudy": [
+                    "Mathematics",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mongolian, Literature and Journalism",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Literature",
+                    "Mongolian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics and Electronics",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Analytical Chemistry",
+                    "Archaeology",
+                    "Asian Studies",
+                    "Biochemistry",
+                    "Biology",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Chinese",
+                    "Computer Graphics",
+                    "Computer Networks",
+                    "Economics",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Geophysics",
+                    "Graphic Design",
+                    "Heritage Preservation",
+                    "History",
+                    "Japanese",
+                    "Journalism",
+                    "Korean",
+                    "Literature",
+                    "Mathematics",
+                    "Mineralogy",
+                    "Modern Languages",
+                    "Pharmacology",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Regional Planning",
+                    "Safety Engineering",
+                    "Social Sciences",
+                    "Sociology",
+                    "Software Engineering",
+                    "Tourism",
+                    "Town Planning",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Computer Science",
+                    "History",
+                    "Literature",
+                    "Mathematics",
+                    "Mongolian",
+                    "Physics",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [
+                    "Biology",
+                    "Chemistry",
+                    "History",
+                    "Literature",
+                    "Mongolian"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Chingeltei duureg, 4-r khoroo\nbaga toiruu, Ylaltiin talbain zuun khoino",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.uberdem.edu.mn/en",
+                "college_name": "Ulaanbaatar-Erdem University",
+                "university_name": "(UBEU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Engineering",
+                    "Journalism",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Science",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Business Computing",
+                    "Chinese",
+                    "Computer Engineering",
+                    "Computer Graphics",
+                    "Economics",
+                    "Electrical Engineering",
+                    "English",
+                    "Finance",
+                    "Graphic Design",
+                    "Human Resources",
+                    "Industrial Management",
+                    "International Business",
+                    "International Economics",
+                    "Japanese",
+                    "Journalism",
+                    "Korean",
+                    "Management",
+                    "Mining Engineering",
+                    "Psychology",
+                    "Social Work",
+                    "Taxation",
+                    "Tourism",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Journalism",
+                    "Social Work"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 49\n13381 Peace Avenue-5\nBayanzurkh District",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "13381",
+                "Website": "https://www.ufe.edu.mn",
+                "college_name": "University of Finance and Economics",
+                "university_name": "Sankhuu Ediin Zasgiin Ikh Surguuli (UFE)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1924. Acquired present status 1996. Formerly known as Institute of Finance and Economics, acquired current title 2016",
+            "AcademicYear": "Fall semester: September \u2013 December; Spring semester: February to June",
+            "AdmissionRequirements": [
+                "Undergraduate: 12 year high school diploma with a scoring up to 620 from the general exam depending on major of study;\nGraduate: Bachelor degree with minimum 2",
+                "75 GPA, interview, minimum 2 years' work experience, upper intermediate English"
+            ],
+            "Languages": [
+                "Mongolian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Econometrics",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial Management",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance",
+                    "Insurance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fundamental Sciences",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "History",
+                    "Mongolian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Systems Management",
+                "FieldsOfStudy": [
+                    "Information Management",
+                    "Information Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Interdisciplinary Studies",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Economics",
+                    "International Business",
+                    "Law",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Criminal Law",
+                    "International Law",
+                    "Private Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "English",
+                    "Japanese",
+                    "Korean",
+                    "Russian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Global Economics Research",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Tourism Studies and Research",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional Institute of International Accountancy and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration"
+                ],
+                "Details": "Offers professional accounting qualifications (ACCA, CGMA, CAT, CFA)"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Entrepreneurship",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Information Technology",
+                    "Insurance",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Entrepreneurship",
+                    "Finance",
+                    "Information Sciences",
+                    "Management",
+                    "Public Administration",
+                    "Regional Studies"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Ulanbataar",
+                "Province": "N/A",
+                "PostCode": "210332",
+                "Website": "http://www.leu.gov.mn",
+                "college_name": "University of Law Enforcement",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Formerly known as University of Internal Affairs. Acquired present title 2012.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Law",
+                    "Police Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Law"
+                ],
+                "Doctor'sDegrees": [
+                    "Law"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Mongolia Sonsgolon Road-5\nSonginokhairkhan District",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "18130",
+                "Website": "http://www.monos.edu.mn",
+                "college_name": "University of Pharmaceutical Science",
+                "university_name": "Monos University"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2000 as Monos College, acquired current status and renamed Monos University 2004, acquired current title 2015",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Training",
+                "FieldsOfStudy": [
+                    "Pharmacology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Traditional Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Undergraduate Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Traditional Eastern Medicine"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Pharmacology",
+                    "Traditional Eastern Medicine"
+                ],
+                "Doctor'sDegrees": [
+                    "Pharmacology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O Box 210646/53\nGrand Chinggis Khaan Square\u201320\n8th Khoroo, Sukhbaatar District",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "210646",
+                "Website": "https://humanities.edu.mn",
+                "college_name": "University of the Humanities",
+                "university_name": "Humuunlegiin Uhaanii Ih Surguuli"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1979 as the Institute of Liberal Arts (Russian Language).",
+            "AcademicYear": "September to June (Sept-Dec; Jan-June)",
+            "AdmissionRequirements": [
+                "High school certificate"
+            ],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information and Communication",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology",
+                    "Journalism",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Relations and Social Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language and Culture",
+                "FieldsOfStudy": [
+                    "English",
+                    "European Languages",
+                    "Japanese",
+                    "Korean"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Chinese",
+                    "Computer Networks",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "French",
+                    "German",
+                    "Graphic Design",
+                    "Information Technology",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Japanese",
+                    "Journalism",
+                    "Korean",
+                    "Management",
+                    "Marketing",
+                    "Psychology",
+                    "Software Engineering",
+                    "Tourism",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Management",
+                    "Marketing",
+                    "Modern Languages"
+                ],
+                "Doctor'sDegrees": [
+                    "Educational Administration",
+                    "International Studies",
+                    "Journalism",
+                    "Linguistics",
+                    "Public Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3th Khoroo, 12th Khoroolol\nBaynzurkh District",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "13381",
+                "Website": "http://www.zasagtkhan.edu.mn",
+                "college_name": "Zasagt Khan Institute",
+                "university_name": "Zasagt Khan Deed Surguuli"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1999",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Successful completion of secondary school; entrance exam (min score 400)"
+            ],
+            "Languages": [
+                "Mongolian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Public Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sansar XII district, Ikh Toiruu 57/1\nBayanzurkh district",
+                "City": "Ulaanbaatar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.zokhiomj.mn",
+                "college_name": "Zokhiomj University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1999, acquired status 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Mongolian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Performing Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Studies",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Acting",
+                    "Arts and Humanities",
+                    "Banking",
+                    "Business Administration",
+                    "Film",
+                    "Finance",
+                    "International Business",
+                    "Journalism",
+                    "Management",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Public Administration",
+                    "Radio and Television Broadcasting",
+                    "Secondary Education",
+                    "Singing",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Journalism"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

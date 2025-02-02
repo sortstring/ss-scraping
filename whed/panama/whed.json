@@ -1,0 +1,2995 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Torre de las Am\u00e9ricas, Mezzanine\nPunta Pac\u00edfica",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://adenuniversity.edu.pa",
+                "college_name": "ADEN University",
+                "university_name": "ADEN University Campus Panam\u00e1 (ADENU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2006 as Universidad Alta Direcci\u00f3n, acquired current title 2018. Is part of the Grupo Educativo ADEN",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Government",
+                "FieldsOfStudy": [
+                    "Government"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Area Bancaria\nCalle Ricardo Arias y Ave 3ra Sur",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://uam.edu.pa",
+                "college_name": "American University",
+                "university_name": "Universidad Americana (UAM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Finance",
+                    "Higher Education Teacher Training",
+                    "International Business",
+                    "Law",
+                    "Maritime Law",
+                    "Service Trades"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Health Sciences",
+                "FieldsOfStudy": [
+                    "English",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ciudad Universitaria - El Cabrero",
+                "City": "David",
+                "Province": "Provincia de Chiriqu\u00ed",
+                "PostCode": "N/A",
+                "Website": "http://www.unachi.ac.pa",
+                "college_name": "Autonomous University of Chiriqu\u00ed",
+                "university_name": "Universidad Aut\u00f3noma de Chiriqu\u00ed (UNACHI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1994, acquired present status and title 1995",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate and entrance examination"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Aserr\u00edo Sub-Location",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Bar\u00fa Regional Centre",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Economics",
+                    "Education",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Boquete Extension",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Chiriqu\u00ed Oriente Regional Centre (Alto Caballero Sub-Headquarters)",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Economics",
+                    "Education",
+                    "Law",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Llano \u00d1opo Sub-Location",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Volc\u00e1n Regional Centre (Sereno Sub-Headquarters)",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Agricultural Business",
+                    "Banking",
+                    "Business Administration",
+                    "Business Computing",
+                    "Education",
+                    "English",
+                    "Finance",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business Computing",
+                    "Finance",
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Information Technology",
+                    "Statistics",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "Preschool Education",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Ecology",
+                    "English",
+                    "Foreign Languages Education",
+                    "French",
+                    "Geography (Human)",
+                    "History",
+                    "Hotel and Restaurant",
+                    "Literature",
+                    "Music",
+                    "Natural Resources",
+                    "Performing Arts",
+                    "Physical Education",
+                    "Psychology",
+                    "Sociology",
+                    "Spanish",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural and Exact Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Dietetics",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Food Technology",
+                    "Mathematics",
+                    "Medical Technology",
+                    "Natural Resources",
+                    "Natural Sciences",
+                    "Nutrition",
+                    "Pharmacy",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Human Resources",
+                    "International Relations and Diplomacy",
+                    "Public Administration",
+                    "Secretarial Studies",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Communication",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Journalism",
+                    "Mass Communication",
+                    "Media Studies",
+                    "Public Relations",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Educational Sciences",
+                    "History"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Calle Omega, Carretera Panamericana\nVista Alegre",
+                "City": "Arraij\u00e1n",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ucp.ac.pa",
+                "college_name": "Christian University of Panama",
+                "university_name": "Universidad Cristiana de Panama (UCP)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001 as Universidad Cristiana de Panam\u00e1. Especializada en Ciencias Administrativas y Tecnol\u00f3gicas. Autonomy granted 2003. Acquired current title 2012",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration, Human Resources and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Human Resources",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Criminal Law",
+                    "Higher Education Teacher Training",
+                    "Human Resources",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Edificio Vigamar, Avenida Justo Arosemena y Calle 39",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://columbus.edu",
+                "college_name": "Columbus University",
+                "university_name": "Universidad Columbus"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Administrative Sciences, Economics and Commerce",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Insurance",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences and Linguistics",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Foreign Languages Education",
+                    "Primary Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Marine Engineering",
+                    "Marine Transport",
+                    "Mechanical Engineering",
+                    "Nautical Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Health Sciences",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Higher Education Teacher Training",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology, Social and Information Sciences",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bella Vista - El Cangrejo\nCalle Eric del Valle, E-8\nApartado 0816 07932, Zona 1",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://ganexa.edu.pa",
+                "college_name": "GANEXA University of Arts",
+                "university_name": "Universidad del Arte GANEXA"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1980 as Academia de Bellas Artes Ganexa. Acquired current status and title 2000",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Plastic Arts",
+                "FieldsOfStudy": [
+                    "Painting and Drawing",
+                    "Sculpture",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Audiovisual Arts",
+                "FieldsOfStudy": [
+                    "Photography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Fashion Design",
+                    "Graphic Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Gastronomy",
+                "FieldsOfStudy": [
+                    "Cooking and Catering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida Ricardo J. Alfaro\nTumba Muerto",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://uip.edu.pa",
+                "college_name": "Interamerican University of Panam\u00e1",
+                "university_name": "Universidad Interamericana de Panam\u00e1 (UIP)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1992, started operating 1994 . Merged with Universidad Latinoamericana de Ciencias y Tecnologia (ULACIT) 2014",
+            "AcademicYear": "January to December",
+            "AdmissionRequirements": [
+                "Secondary school certificate or equivalent"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Administrative Sciences, Maritime Transport and Port Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Marine Transport",
+                    "Transport and Communications",
+                    "Transport Engineering",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering, Architecture and Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Design",
+                    "Engineering",
+                    "Graphic Design",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Dietetics",
+                    "Medicine",
+                    "Nursing",
+                    "Nutrition",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality, Gastronomy and Tourism",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "La Boca, corregimiento de Anc\u00f3n\nEdificio 1033",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "0843-03561",
+                "Website": "https://www.umip.ac.pa",
+                "college_name": "International Maritime University of Panama",
+                "university_name": "Universidad Mar\u00edtima Internacional de Panam\u00e1 (UMIP)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2005",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "Maritime"
+            },
+            {
+                "College": "Marine Sciences",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Environmental Management",
+                    "Marine Biology",
+                    "Marine Science and Oceanography",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Maritime Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Environmental Engineering",
+                    "Marine Engineering",
+                    "Naval Architecture",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Maritime Transport",
+                "FieldsOfStudy": [
+                    "Marine Engineering",
+                    "Marine Transport",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nautical Sciences",
+                "FieldsOfStudy": [
+                    "Electrical and Electronic Equipment and Maintenance",
+                    "Marine Transport",
+                    "Nautical Science",
+                    "Naval Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Maritime Technical Institute (ITEMAR)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Edificio ISAE Universidad, V\u00eda Ricardo J. Alfaro, entrada de urbanizaci\u00f3n Linda Vista",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.isaeuniversidad.ac.pa",
+                "college_name": "ISAE University",
+                "university_name": "ISAE Universidad"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Changuinola, Bocas del Toro",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Chitr\u00e9, Herrera",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "David, Chiriqu\u00ed",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "La Chorrera, Panam\u00e1 Oeste",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Metet\u00ed, Dari\u00e9n",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Penonom\u00e9, Cocl\u00e9",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Santiago, Veraguas",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "English",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and Technologies",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology",
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Edificio 106, Ciudad del Saber\nClayton",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.isthmus.edu.pa",
+                "college_name": "ISTHMUS - School of Architecture and Design in Latin America and the Caribbean",
+                "university_name": "Escuela de Arquitectura y Dise\u00f1o de Am\u00e9rica Latina y El Caribe - ISTHMUS \u2013 ISTHMUS - Escuela de Arquitectura y Dise\u00f1o (ISTHMUS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2000. Is part of the City of Knowledge (Ciudad del Saber)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Bioclimatic Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "Postgraduate"
+            },
+            {
+                "College": "Industrial Design",
+                "FieldsOfStudy": [
+                    "Industrial Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Interior Architecture",
+                "FieldsOfStudy": [
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Service Design and Innovation",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Service Trades"
+                ],
+                "Details": "Postgraduate"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "El Cangrejo, Calle F\nal lado del Antiguo Teatro la C\u00fapula",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://ulacex.edu.pa",
+                "college_name": "Latin American University of International Business",
+                "university_name": "Universidad Latinoamericana de Comercio Exterior (ULACEX)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1999, started operating 2000",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 87-0887\nV\u00eda Ricardo J. Alfaro, Calle Arag\u00f3n\nUrbanizaci\u00f3n Castilla",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "87-877",
+                "Website": "https://ulatina.edu.pa",
+                "college_name": "Latin University of Panam\u00e1",
+                "university_name": "Universidad Latina de Panam\u00e1 (ULAT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1989. Acquired present status 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "High school diploma"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Human Resources",
+                    "International Business",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Sciences",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences and Human Development",
+                "FieldsOfStudy": [
+                    "Education",
+                    "English",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Medicine"
+                ],
+                "Details": "Dr. William C. Gorgas"
+            },
+            {
+                "College": "Law and Political Science",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Business Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Edificio Fundadores\nv\u00eda Sim\u00f3n Bol\u00edvar Edificio bajo el puente elevado\nal lado de Caf\u00e9 Dur\u00e1n",
+                "City": "Rianjo",
+                "Province": "N/A",
+                "PostCode": "264-9908",
+                "Website": "https://umecit.edu.pa",
+                "college_name": "Metropolitan University of Education, Science and Technology",
+                "university_name": "Universidad Metropolitana de Educaci\u00f3n, Ciencia y Tecnolog\u00eda (UMECIT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002. Formerly known as Universidad Metropolitana de Ciencia y Tecnolog\u00eda",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Service Trades",
+                    "Small Business",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Health Sciences",
+                    "Information Technology",
+                    "Occupational Health",
+                    "Physical Therapy",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Educational Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Computer Education",
+                    "Development Studies",
+                    "Educational Administration",
+                    "Educational Research",
+                    "Educational Sciences",
+                    "Educational Testing and Evaluation",
+                    "Higher Education Teacher Training",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Social Work",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Forensic Sciences",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "Forensic Medicine and Dentistry",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nautical Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Marine Transport",
+                    "Nautical Science",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology, Construction and Environment",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Electrical Engineering",
+                    "Environmental Management",
+                    "Graphic Design",
+                    "Radio and Television Broadcasting",
+                    "Systems Analysis",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Virtual Mode Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Development Studies",
+                    "Educational Administration",
+                    "Finance",
+                    "Health Administration",
+                    "Higher Education Teacher Training",
+                    "Human Resources",
+                    "Information Technology",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Physical Education",
+                    "Psychology",
+                    "Small Business",
+                    "Social and Community Services",
+                    "Social Work",
+                    "Sports",
+                    "Telecommunications Engineering",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Educational Administration",
+                    "Educational Testing and Evaluation",
+                    "Higher Education"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Calle 39 Este, entre Avda. Cuba y Per\u00fa edificio UNADP 5-57",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "0823-03130",
+                "Website": "https://unadp.ac.pa",
+                "college_name": "Open and Distance University of Panam\u00e1",
+                "university_name": "Universidad Abierta y a Distancia de Panam\u00e1 (UNADP)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Finance",
+                    "Health Administration",
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Education",
+                    "Educational Psychology",
+                    "Higher Education Teacher Training",
+                    "Media Studies",
+                    "Secondary Education",
+                    "Social Psychology",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Edificio Plaza Oteima\nCalle D. Norte entre Ave. 1era y 2da Este",
+                "City": "David",
+                "Province": "Provincia de Chiriqu\u00ed",
+                "PostCode": "N/A",
+                "Website": "https://www.oteima.ac.pa",
+                "college_name": "OTEIMA Technological University",
+                "university_name": "Universidad Tecnol\u00f3gica OTEIMA"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1987. Acquired present status 2005",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Educational Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and Technologies",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Calle 45, Bella Vista\nentre Avenida Justo Arosemena y V\u00eda Espa\u00f1a",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://qlu.ac.pa",
+                "college_name": "Quality Leadership University",
+                "university_name": "Universidad de Louisville - Panama (QLU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration (Spanish Language)",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Sciences",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Construction Engineering",
+                    "Engineering",
+                    "Human Resources",
+                    "Linguistics",
+                    "Marketing",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Business Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 0819-08550\nV\u00eda Ricardo J. Alfaro",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://usma.ac.pa",
+                "college_name": "Santa Mar\u00eda La Antigua Catholic University",
+                "university_name": "Universidad Cat\u00f3lica Santa Mar\u00eda La Antigua (USMA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1965 with the Archbishop of Panam\u00e1 as Grand Chancellor of the University. Reorganized 1973",
+            "AcademicYear": "January to December (January- April; May-August; September-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate and admission course"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture and Design",
+                "FieldsOfStudy": [
+                    "Fashion Design",
+                    "Graphic Design",
+                    "Interior Design",
+                    "Marketing",
+                    "Structural Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "International Business",
+                    "Marketing",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Technology",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Industrial Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Religious Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Mass Communication",
+                    "Psychology",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Clinical Psychology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Av. Colombia entre calle 44 y 45 edificio Universidad Santander, frente al Parque Urraca",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.usantander.edu.pa",
+                "college_name": "Santander University - Panama",
+                "university_name": "Universidad de Santander - Panam\u00e1"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Universidad de Santander was founded in 2000(Not to be confused with the entity operating under the English name \u201cUniversity of Santander\u201d \u2013 not accredited by CONEAUPA, also located in Panama)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Administrative Sciences, Economics and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication, Art and Design",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Fine Arts",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Health Sciences",
+                    "Nursing",
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Juridical and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Economics",
+                    "Education",
+                    "Engineering",
+                    "Finance"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Direcci\u00f3n V\u00eda Espa\u00f1a, frente a Galer\u00edas Obarrio, Edificio Cromos, Piso N\u00ba 2 y N\u00b0 3",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://unescpa.ac.pa",
+                "college_name": "Specialized University of Authorized Public Accountancy",
+                "university_name": "Universidad Especializada del Contador P\u00fablico Autorizado (UNESCPA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Corregimiento de Anc\u00f3n, Albrook\nPaseo Di\u00f3genes de la Rosa\n(antiguo Paseo Andrews) Edificios: 806 - 808 - 809 - 830- 850",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.udelas.ac.pa",
+                "college_name": "Specialized University of the Americas",
+                "university_name": "Universidad Especializada de Las Am\u00e9ricas (UDELAS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Biosciences and Public Health",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Nutrition",
+                    "Occupational Health",
+                    "Parks and Recreation",
+                    "Physical Education",
+                    "Public Health",
+                    "Safety Engineering",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical and Clinical Sciences",
+                "FieldsOfStudy": [
+                    "Medical Auxiliaries",
+                    "Medical Technology",
+                    "Medicine",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Optometry",
+                    "Physical Therapy",
+                    "Respiratory Therapy",
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Education and Human Development",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "Educational Psychology",
+                    "Gerontology",
+                    "Maintenance Technology",
+                    "Protective Services",
+                    "Psychology",
+                    "Social Work",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Special Education and Pedagogy",
+                "FieldsOfStudy": [
+                    "Bilingual and Bicultural Education",
+                    "Educational and Student Counselling",
+                    "Educational Technology",
+                    "Foreign Languages Education",
+                    "Pedagogy",
+                    "Secondary Education",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Behavioural Sciences",
+                    "Educational Sciences",
+                    "Health Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida Ricardo J. Alfaro\nCampus Metropolitano Dr. V\u00edctor Levi Sasso",
+                "City": "Panam\u00e1",
+                "Province": "560-3252",
+                "PostCode": "0819-07289",
+                "Website": "https://utp.ac.pa",
+                "college_name": "Technological University of Panam\u00e1",
+                "university_name": "Universidad Tecnol\u00f3gica de Panam\u00e1 (UTP)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1941 as Department of Engineering of the University of Panam\u00e1, became Polytechnic Institute 1975, and acquired present status and title 1981",
+            "AcademicYear": "March to December",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato) obtained in a five year or more study plan"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Azuero Regional Centre",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Bocas del Toro Regional Centre",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chiriqu\u00ed Regional Centre",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cocl\u00e9 Regional Centre",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Col\u00f3n Regional Centre",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Panam\u00e1 Oeste Regional Centre",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veraguas",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Systems Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Engineering",
+                "FieldsOfStudy": [
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical, Mechanical and Industrialy Research and Innovation",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "CINEMI"
+            },
+            {
+                "College": "Experimental Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "Experimental Engineering Research Centre"
+            },
+            {
+                "College": "Hydraulic and Hydrotechnical Research",
+                "FieldsOfStudy": [
+                    "Hydraulic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Innovation and Technology Transfer",
+                "FieldsOfStudy": [
+                    "CITT"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Production and Agroindustry Research",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Research, Development and Innovation in Information Technology and Communications",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "CIDITIC"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Biological and Life Sciences",
+                    "Biotechnology",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Physics"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ciudad Universitaria\nEstafeta Universitaria\nApartado 3366",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.up.ac.pa",
+                "college_name": "University of Panam\u00e1",
+                "university_name": "Universidad de Panam\u00e1 (UP)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1935. Autonomy granted by decree 1946. The institution falls under the jurisdiction of the Ministry of Education. Reorganized 1981",
+            "AcademicYear": "April to January (April-September; September-January)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato) or recognized equivalent"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Curundu Harmodio Arias Madrid",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Engineering",
+                    "Fine Arts",
+                    "Physical Education",
+                    "Psychology",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Octavio M\u00e9ndez Pereira",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Architecture",
+                    "Arts and Humanities",
+                    "Computer Science",
+                    "Dentistry",
+                    "Design",
+                    "Economics",
+                    "Educational Sciences",
+                    "Electronic Engineering",
+                    "Law",
+                    "Mass Communication",
+                    "Mathematics and Computer Science",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Pharmacy",
+                    "Political Sciences",
+                    "Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Cooking and Catering",
+                    "Family Studies",
+                    "Natural Resources",
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture and Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Architecture and Planning",
+                    "Design",
+                    "Fashion Design",
+                    "Fine Arts",
+                    "Graphic Design",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Information Technology",
+                    "Insurance",
+                    "Marketing",
+                    "Small Business",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science, Electronics and Communication",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Research",
+                    "Educational Sciences",
+                    "Educational Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Air Transport",
+                    "Civil Engineering",
+                    "Earth Sciences",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Geography",
+                    "Geological Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Meteorology",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Fine Arts",
+                    "Music",
+                    "Performing Arts",
+                    "Theatre",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English",
+                    "French",
+                    "Geography (Human)",
+                    "History",
+                    "Library Science",
+                    "Philosophy",
+                    "Physical Education",
+                    "Sociology",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Criminal Law",
+                    "Criminology",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biochemistry",
+                    "Community Health",
+                    "Dietetics",
+                    "Embryology and Reproduction Biology",
+                    "Histology",
+                    "Laboratory Techniques",
+                    "Medical Technology",
+                    "Medicine",
+                    "Microbiology",
+                    "Neurosciences",
+                    "Nutrition",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Public Health",
+                    "Social and Preventive Medicine",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural, Exact Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Analytical Chemistry",
+                    "Biochemistry",
+                    "Biology",
+                    "Botany",
+                    "Chemistry",
+                    "Environmental Studies",
+                    "Genetics",
+                    "Inorganic Chemistry",
+                    "Limnology",
+                    "Marine Biology",
+                    "Mathematics",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Organic Chemistry",
+                    "Parasitology",
+                    "Physical Chemistry",
+                    "Physics",
+                    "Physiology",
+                    "Statistics",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Clinical Psychology",
+                    "Educational Psychology",
+                    "Industrial and Organizational Psychology",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Public Administration",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Communication",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Communication Studies",
+                    "Journalism",
+                    "Mass Communication",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Science",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Analysis",
+                "FieldsOfStudy": [
+                    "Laboratory Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Central American Institute for Administration and Supervision of Education",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Educational Research",
+                    "Higher Education"
+                ],
+                "Details": "ICASE"
+            },
+            {
+                "College": "Criminology",
+                "FieldsOfStudy": [
+                    "Criminology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Sciences and Biodiversity",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "ICAB"
+            },
+            {
+                "College": "Ethnic and Cultural Tradition Studies",
+                "FieldsOfStudy": [
+                    "Ethnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Science and Nutrition",
+                "FieldsOfStudy": [
+                    "Food Science",
+                    "Nutrition"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geosciences",
+                "FieldsOfStudy": [
+                    "Earth Sciences",
+                    "Geology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Livestock Improvement",
+                "FieldsOfStudy": [
+                    "Animal Husbandry"
+                ],
+                "Details": "PROMEGA"
+            },
+            {
+                "College": "National Studies",
+                "FieldsOfStudy": [
+                    "Ethics",
+                    "Human Rights",
+                    "International Relations and Diplomacy",
+                    "Labour Law",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Negotiation, Conciliation, Mediation and Arbitration",
+                "FieldsOfStudy": [
+                    "Peace and Disarmament"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Panama Canal Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Women's Studies",
+                "FieldsOfStudy": [
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Accountancy",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "History",
+                    "Nursing",
+                    "Public Health",
+                    "Social and Preventive Medicine",
+                    "Social Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Corregimiento de Crist\u00f3bal\nSector Arco Iris, Avenida Randolph",
+                "City": "Ciudad de Col\u00f3n",
+                "Province": "Provincia de Col\u00f3n",
+                "PostCode": "N/A",
+                "Website": "https://www.up.ac.pa",
+                "college_name": "University of Panam\u00e1 \u2013 Col\u00f3n Regional Centre",
+                "university_name": "Universidad de Panam\u00e1 \u2013 Centro Regional Universitario de Col\u00f3n"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1979",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science, Electronics and Communication",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Performing Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural, Exact Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Distrito de Chepo\nCarretera Panamericana, frente a la estaci\u00f3n de la Polic\u00eda Nacional de Chepo",
+                "City": "Chepo",
+                "Province": "Panam\u00e1",
+                "PostCode": "N/A",
+                "Website": "https://crupanamaeste.up.ac.pa",
+                "college_name": "University of Panam\u00e1 \u2013 East Panama Regional Centre",
+                "university_name": "Universidad de Panam\u00e1 \u2013 Centro Regional Universitario de Panam\u00e1 Este (CRUPE)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2015 through transformation of the Extensi\u00f3n Universitaria de Chepo (founded 2000)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science, Electronics and Communication",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural, Exact Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Distrito de La Chorrera\nLomas de Mastranto al lado del COIF de la Policia Nacional",
+                "City": "Barrio Col\u00f3n",
+                "Province": "Provincia de Panam\u00e1",
+                "PostCode": "N/A",
+                "Website": "https://crupanamaoeste.up.ac.pa",
+                "college_name": "University of Panam\u00e1 \u2013 West Panama Regional Centre",
+                "university_name": "Universidad de Panam\u00e1 \u2013 Centro Regional Universitario de Panam\u00e1 Oeste"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1993 through transformation of Extensi\u00f3n Universitaria de La Chorrera, founded 1981",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Management and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science, Electronics and Communication",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Educational Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural, Exact Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Communication",
+                "FieldsOfStudy": [
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "V\u00eda Interamericana\nCorregimiento de El Cristo\nDistrito de Aguadulce",
+                "City": "Cerro Morado",
+                "Province": "Cocl\u00e9",
+                "PostCode": "N/A",
+                "Website": "https://extaguadulce.up.ac.pa",
+                "college_name": "University of Panam\u00e1 \u2013 University Extension of Aguadulce",
+                "university_name": "Universidad de Panam\u00e1 \u2013 Extensi\u00f3n Universitaria de Aguadulce"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Sciences",
+                "FieldsOfStudy": [
+                    "Aquaculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science, Electronics and Communication",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Science",
+                    "E-Business/Commerce",
+                    "Educational Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida Justo Arosemena entre Calle 40 y 41\nBella Vista (antiguo Colegio Mar\u00eda Inmaculada)",
+                "City": "Panam\u00e1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.udelistmo.edu",
+                "college_name": "University of the Isthmus",
+                "university_name": "Universidad del Istmo (UDI)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1963",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Administrative and Financial Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Air Transport",
+                    "Business Administration",
+                    "Finance",
+                    "Health Administration",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marine Transport",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Social Sciences",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Educational Research",
+                    "English",
+                    "Foreign Languages Education",
+                    "Higher Education Teacher Training",
+                    "Journalism",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Information Technologies",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Media Studies",
+                    "Safety Engineering",
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Education",
+                    "Educational Research"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

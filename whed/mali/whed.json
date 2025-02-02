@@ -1,0 +1,1656 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 3737\nHamadallaye ACI 2000, rue 396, Porte 92",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "African Institute of Management",
+                "university_name": "Institut Africain de Management \u2013 IAM Mali (IAM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Branch of AIM Group",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Auditing and Management Control",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 2599 \nKalaban-Coura ACI rue 268 - Porte 276",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://esc-mali.com",
+                "college_name": "ESC Mali School Of Management",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Human and Society Sciences",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages, Literature and Fine Arts",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal, Political and Administration Sciences",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Communication Arts",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP E 2341 \nBaco-djicoroni Golf ACI Adeken Rue 882, Port N\u00b07",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.universitegeminimanagement.sitew.com",
+                "college_name": "Gemini International Management Group",
+                "university_name": "Groupe Gemini Management International \u2013 Universit\u00e9 Gemini Management (GGMI)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer System Management and Telecommunication Networks",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Industry Management",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Logistics and Transports",
+                "FieldsOfStudy": [
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management Science",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining and Petroleum Industry Management",
+                "FieldsOfStudy": [
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Show Business and Broadcast Media Management",
+                "FieldsOfStudy": [
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Solar Energy and Sustainable Development",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Environmental Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agriculture",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Energy Engineering",
+                    "Environmental Management",
+                    "Hotel Management",
+                    "Information Technology",
+                    "Mass Communication",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP E 3123\nACI 2000 Hamdallaye 1",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Higher Institute of Applied Technologies",
+                "university_name": "Institut Sup\u00e9rieur de Technologies Appliqu\u00e9es \u2013 Technolab-ISTA"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Technical Fields",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Energy Engineering",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tertiary Sector",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Banking",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Energy Engineering",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Public Relations",
+                    "Software Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP E 475",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Higher Institute of Training and Applied Research",
+                "university_name": "Institut sup\u00e9rieur de Formation et de Recherche appliqu\u00e9e (ISFRA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Teacher Training",
+                "FieldsOfStudy": [
+                    "Higher Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP E 5671",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.intec-sup.com",
+                "college_name": "Institute of Economics, Accountancy and Commerce",
+                "university_name": "Institut Sup\u00e9rieur des Techniques Economiques, Comptables et Commerciales (INTEC-SUP)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Created 2011",
+            "AcademicYear": "October to July",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Communication and Journalism",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Marketing",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economic and Management Science",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Economics",
+                    "Human Resources",
+                    "Management",
+                    "Secretarial Studies",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information and Technology",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Science",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Business Computing",
+                    "Commercial Law",
+                    "Finance",
+                    "Human Resources",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Management",
+                    "Marketing",
+                    "Private Law",
+                    "Public Law",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 763",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ispric.com",
+                "college_name": "Institute of Political Science, International Relations and Communication",
+                "university_name": "Institut des Sciences Politiques, des Relations internationales et de la Communication (ISPRIC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1999.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at) or Brevet de Technicien"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Journalism",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Communication Studies",
+                    "Journalism"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "03 BP 121",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "03",
+                "Website": "http://www.groupbk.org",
+                "college_name": "International Institute of Management of Bamako",
+                "university_name": "Institut International de Management de Bamako (I.I.M.-BKO)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Audit and Business Finance",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Law and Management",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Management",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication in Politics",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Management",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing and Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Project Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Finance"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "410 avenue Van Vollenhoven\nBP 242",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.eni-abt.ml",
+                "college_name": "National School of Engineering",
+                "university_name": "Ecole nationale d'Ingenieur \u2013 Ecole nationale d'Ingenieur Abderhamane Baba Tour\u00e9 (ENI-ABT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 1939 as Ecole des Travaux Publics, became Ecole Nationale d\u2019Ing\u00e9nieurs in 1962 and acquired current titl 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Hydraulic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geology",
+                "FieldsOfStudy": [
+                    "Geology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Surveying and Mapping",
+                "FieldsOfStudy": [
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Geology",
+                    "Hydraulic Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Surveying and Mapping",
+                    "Telecommunications Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sotuba ACI",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.universiteahmedbaba.com",
+                "college_name": "Private University Ahmed Baba",
+                "university_name": "Universit\u00e9 Priv\u00e9e Ahmed Baba \u2013 UPAB"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Business Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Transport Economics",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal and Political Sciences",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Human Rights",
+                    "International Relations and Diplomacy",
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Communication",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Journalism",
+                    "Mass Communication",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining and Petroleum",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Geology",
+                    "Geophysics",
+                    "Industrial and Production Economics",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Petrology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Polytechnic",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Environmental Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Sanitary Engineering",
+                    "Telecommunications Engineering",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Civil Engineering",
+                    "Commercial Law",
+                    "Communication Arts",
+                    "Computer Science",
+                    "Economics",
+                    "Electrical and Electronic Engineering",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Finance",
+                    "Geology",
+                    "Geophysics",
+                    "Human Resources",
+                    "Human Rights",
+                    "Industrial and Production Economics",
+                    "Industrial Engineering",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Management",
+                    "Marketing",
+                    "Mass Communication",
+                    "Mechanical Engineering",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Petrology",
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Law",
+                    "Radio and Television Broadcasting",
+                    "Sanitary Engineering",
+                    "Telecommunications Engineering",
+                    "Transport Economics",
+                    "Transport Management",
+                    "Water Science"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP E 3529\nImmeuble EX-Cin\u00e9ma ABC - Badalian II\nRue Soundata Keita",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Schoof of Management",
+                "university_name": "Ecole Sup\u00e9rieure de Gestion (ESG)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy, Management Control, Audit",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "School of Advanced Technological and Commercial Studies",
+                "university_name": "Ecole Sup\u00e9rieure des Hautes Etudes Technologiques et Commerciales (HETEC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication and Human Resources Management",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information System Network and Telecommunication",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing and Sales",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Communication Arts",
+                    "Computer Networks",
+                    "Finance",
+                    "Human Resources",
+                    "Information Technology",
+                    "Marketing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rue 466 Porte 28 Badialan I",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://esiau-mali.com",
+                "college_name": "School of Engineering, Urban Planning and Architecture",
+                "university_name": "Ecole Sup\u00e9rieure d'Ing\u00e9nierie, d'Urbanisme et d'Architecture (ESIAU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Urban Planning",
+                "FieldsOfStudy": [
+                    "Regional Planning",
+                    "Rural Planning",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Regional Planning",
+                    "Rural Planning",
+                    "Town Planning"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP E 4895\nBadalabougou",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "School of Management, Computer Science and Accountancy",
+                "university_name": "Ecole Sup\u00e9rieure de Gestion, d'Informatique et de Comptabilit\u00e9 (ESGIC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Finance"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Quartier HippodromeRue 214 Porte 297BP E 5533",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.supmanagement.ml",
+                "college_name": "Sup' Management Mali",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Diplomacy",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business and Commerce",
+                    "Communication Arts",
+                    "Finance",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Political Sciences",
+                    "Telecommunications Engineering",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rue du 22 octobre 1946\nBP 241",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Teacher Training School",
+                "university_name": "Ecole normale sup\u00e9rieure (ENSup)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2010 to train teachers, carry out research and professional training for qualified teachers.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Licence"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Teacher Training",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education",
+                    "Mathematics Education",
+                    "Native Language Education",
+                    "Science Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Education"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rue 311, Porte 445/449\nHamdallaye ACI 2000",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://enetp.edu.ml",
+                "college_name": "Technical and Professional Teachers Training School",
+                "university_name": "Ecole Normale d\u2019Enseignement Technique et Professionnel (ENETP)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrotechnical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical and Electronic Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Civil Engineering",
+                    "Electrical and Electronic Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP E 4850\nRue 252, Porte 163, Douadabougou",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Training and Consulting Centre for Local Development",
+                "university_name": "Centre de Formation et d'Appui Conseil pour le D\u00e9veloppement Local \u2013 Delta-C"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Citizenship, Governance and Human Right",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Project Evaluation, Polititc and Development Program",
+                "FieldsOfStudy": [
+                    "Development Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Development Studies",
+                    "Law"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Baco Djicoroni ACI\nRue 627 Porte 83, BP E 2528",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ulshb.edu.ml",
+                "college_name": "University of Humanities and Social Sciences of Bamako",
+                "university_name": "Universit\u00e9 des Lettres et Sciences Humaines de Bamako \u2013 Bamako III (ULSHB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2011 after the University of Bamako was divided into 4 institutions.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Letters, Languages, and Linguistics",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English",
+                    "Linguistics",
+                    "Modern Languages"
+                ],
+                "Details": "FLLSL"
+            },
+            {
+                "College": "Social Sciences and Education Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Educational Psychology",
+                    "Ethnology",
+                    "Industrial and Organizational Psychology",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "FSHSE"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Library Science"
+                ],
+                "Details": "Institut Universitaire de Technologie (IUT)"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Psychology",
+                    "Sociology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP E2528\nCampus universitaire de Badalabougou",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://usjpb.edu.ml/site",
+                "college_name": "University of Law and Political Sciences of Bamako",
+                "university_name": "Universit\u00e9 des Sciences Juridiques et Politiques de Bamako \u2013 Bamako IV (USJPB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Political and Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Private Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Commercial Law",
+                    "Criminal Law",
+                    "Private Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Law",
+                "FieldsOfStudy": [
+                    "Fiscal Law",
+                    "Human Rights",
+                    "International Law",
+                    "Public Administration",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Commercial Law",
+                    "Human Rights",
+                    "Private Law",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "S\u00e9gou",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Segou",
+                "university_name": "Universit\u00e9 de S\u00e9gou"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2012.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agronomy and Veterinary Science",
+                "FieldsOfStudy": [
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Environmental Studies",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Earth Sciences",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Mechanical Engineering",
+                    "Meteorology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Pharmacy",
+                    "Stomatology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History",
+                    "Modern Languages",
+                    "Public Law",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional  Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Crafts and Trades",
+                    "Engineering",
+                    "Finance",
+                    "Hotel Management",
+                    "Modern Languages",
+                    "Secretarial Studies",
+                    "Small Business",
+                    "Technology",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP E 2575",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Social Sciences and Management of Bamako",
+                "university_name": "Universit\u00e9 des Sciences Sociales et de Gestion de Bamako \u2013 Bamako II (USSGB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2011 after the University of Bamako was divided into 4 institutions.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Entrepreneurship",
+                    "Human Resources",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Geography",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Art History",
+                    "Geography",
+                    "Heritage Preservation",
+                    "History"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Entrepreneurship",
+                    "Human Resources",
+                    "Logistics Management",
+                    "Marketing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP E 2528",
+                "City": "Bamako",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.usttb.edu.ml",
+                "college_name": "University of the Sciences, Techniques and Technologies of Bamako",
+                "university_name": "Universit\u00e9 des Sciences, des Techniques et des Technologies de Bamako \u2013 Bamako I (USTTB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1993 as Universit\u00e9 du Mali. Renamed Universit\u00e9 de Bamako 2002.",
+            "AcademicYear": "October to July",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Baccalaur\u00e9at) or equivalent"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine and Stomatology",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Stomatology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Geology",
+                    "Mathematics",
+                    "Microbiology",
+                    "Natural Sciences",
+                    "Physics"
+                ],
+                "Details": "FAST"
+            },
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Applied Chemistry",
+                    "Bioengineering",
+                    "Computer Engineering",
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Applied Mathematics",
+                    "Biochemistry",
+                    "Chemistry",
+                    "Information Technology",
+                    "Mathematics",
+                    "Microbiology",
+                    "Physics"
+                ],
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

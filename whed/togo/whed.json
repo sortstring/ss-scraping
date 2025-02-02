@@ -1,0 +1,2212 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 8619\nAvenue de la Victoire Attikoum\u00e9",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://iaectogo.wordpress.com",
+                "college_name": "African Institute of Administration and Business Studies",
+                "university_name": "Institut africain d\u2019Administration et d\u2019Etudes Commerciales (IAEC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1986.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applications Development",
+                "FieldsOfStudy": [
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking and Finance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commercial and Financial Management",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Maintenance",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Maintenance Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Networks",
+                "FieldsOfStudy": [
+                    "Computer Networks"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Corporate Communication",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronic Engineering",
+                "FieldsOfStudy": [
+                    "Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Studies",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Insurance",
+                "FieldsOfStudy": [
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing and Communication Studies",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sales Techniques",
+                "FieldsOfStudy": [
+                    "Sales Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Software Engineering",
+                "FieldsOfStudy": [
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Telecommunications Engineering",
+                "FieldsOfStudy": [
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Telecommunications Engineering and Computer Networks",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Leisure",
+                "FieldsOfStudy": [
+                    "Leisure Studies",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Electronic Engineering",
+                    "Finance",
+                    "Human Resources",
+                    "Insurance",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Political Sciences",
+                    "Public Relations",
+                    "Telecommunications Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 2067\n422, rue des Balises, Tokoin Doumass\u00e9ss\u00e9",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.eamau.org",
+                "college_name": "African School of Architecture and Town Planning",
+                "university_name": "Ecole africaine des M\u00e9tiers de l'Architecture et de l'Urbanisme \u2013 Escuela Africana de Architectura y Urbanismo (EAMAU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1975.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School certificate (baccalaur\u00e9at)",
+                ""
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Town Planning",
+                "FieldsOfStudy": [
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Urban Studies",
+                "FieldsOfStudy": [
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Town Planning",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "08 BP 8185\nRoute de Mission Tov\u00e9",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://agata-carelli.org",
+                "college_name": "Agata Carelli Institute",
+                "university_name": "Institut sup\u00e9rieur Agata Carelli (ISAC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Finance",
+                    "Human Resources",
+                    "Insurance",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "01 BP 1502\n383 Bd de la Paix",
+                "City": "Lom\u00e9 1",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ucao-uut.tg",
+                "college_name": "Catholic University of Western Africa - Academic Unit of Togo",
+                "university_name": "Universit\u00e9 catholique de l\u2019Afrique de l\u2019Ouest - Unit\u00e9 Universitaire du Togo (UCAO-UUT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Econometrics",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and Technologies",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Energy Engineering",
+                    "Engineering Management",
+                    "Environmental Management",
+                    "Information Management",
+                    "Information Technology",
+                    "Mathematics and Computer Science",
+                    "Multimedia",
+                    "Operations Research",
+                    "Safety Engineering",
+                    "Software Engineering",
+                    "Statistics",
+                    "Telecommunications Engineering",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Demography and Population",
+                    "Economics",
+                    "Education",
+                    "English",
+                    "Environmental Studies",
+                    "Finance",
+                    "French",
+                    "History",
+                    "Human Resources",
+                    "Information Sciences",
+                    "Insurance",
+                    "Law",
+                    "Management",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Psychology",
+                    "Religion",
+                    "Sociology",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [
+                    "Administration",
+                    "Arts and Humanities",
+                    "Economics",
+                    "Education",
+                    "Law",
+                    "Modern Languages",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 9141\nAvenue Mobutu Sese Seko",
+                "City": "Lom\u00e9 (Port)",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ispshdblome.com",
+                "college_name": "Don Bosco Institute of Philosophy and Human Sciences",
+                "university_name": "Institut sup\u00e9rieur de Philosophie et des Sciences Humaines Don Bosco (ISPSH - DON BOSCO)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1987.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Communication Studies",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Multimedia",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "Educational Testing and Evaluation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Development Studies",
+                    "Philosophy"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "689, rue Djabl\u00e9 sis au quartier super-Taco, derri\u00e8re la BTCI annexe",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://esatogo.net",
+                "college_name": "ESA Business School",
+                "university_name": "Ecole sup\u00e9rieure des Affaires (ESA Togo)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2010.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Aquaculture",
+                    "Econometrics",
+                    "Leadership",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Undergraduate",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Banking",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Networks",
+                    "Electrical Engineering",
+                    "Finance",
+                    "Information Sciences",
+                    "International Business",
+                    "Journalism",
+                    "Library Science",
+                    "Marketing",
+                    "Public Relations",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Administration",
+                    "Agricultural Business",
+                    "Aquaculture",
+                    "Banking",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Development Studies",
+                    "Econometrics",
+                    "Electrical Engineering",
+                    "Environmental Management",
+                    "Finance",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Information Sciences",
+                    "Insurance",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Marketing",
+                    "Public Relations",
+                    "Social Sciences",
+                    "Software Engineering",
+                    "Telecommunications Engineering",
+                    "Tourism",
+                    "Transport Economics"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "01 BP 3518\nRue de la gare routi\u00e8re d'Agbal\u00e9p\u00e9dogan prolong\u00e9e vers Ago\u00e8nyiv\u00e9 Assiy\u00e9y\u00e9",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.esiba-iua.tg",
+                "college_name": "ESIBA Business School",
+                "university_name": "Ecole sup\u00e9rieure d'Informatique de Business et d'Administration (ESIBA-IS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1990. Groupe ESIBA Business School is composed of ESIBA (Enseignement Sup\u00e9rieur d\u2019Informatique, de Business et d\u2019Administration) and IUA (Institut Universitaire d\u2019Ago\u00e8nyiv\u00e9).",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Assistant Manager",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Computing",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Networks",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Telecommunications Engineering",
+                "FieldsOfStudy": [
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Finance",
+                    "Management",
+                    "Small Business",
+                    "Software Engineering",
+                    "Telecommunications Engineering",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "11 BP 149\nBvd de l'Oti, face Eglise Catholique Maria Goretti de B\u00e8-Kpota",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.esig.tg",
+                "college_name": "ESIG Global Success",
+                "university_name": "\u00c9cole sup\u00e9rieure d'informatique et de gestion Global Success"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Electrical Engineering",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Agricultural Management",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Journalism",
+                    "Library Science",
+                    "Management",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Banking",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Finance",
+                    "Insurance",
+                    "Management",
+                    "Marketing",
+                    "Software Engineering",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 20436",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://prosport.guru/formatec/index.php",
+                "college_name": "FORMATEC University Institute",
+                "university_name": "Institut universitaire FORMATEC"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2012.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Environmental Engineering",
+                    "Finance",
+                    "Human Resources",
+                    "Hydraulic Engineering",
+                    "Information Technology",
+                    "Journalism",
+                    "Management",
+                    "Public Relations",
+                    "Sanitary Engineering",
+                    "Secretarial Studies",
+                    "Software Engineering",
+                    "Surveying and Mapping",
+                    "Town Planning"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 3002\n10, avenue Grunitzky",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.esamecole.fr",
+                "college_name": "Higher School of Audit and Management",
+                "university_name": "Ecole sup\u00e9rieure d\u2019Audit et de Management (ESAM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Baccalaur\u00e9at"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Computer Engineering",
+                    "Human Resources",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Notary Studies",
+                    "Private Law",
+                    "Public Law",
+                    "Telecommunications Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "378, Rue BEKPO Quartier Tokoin H\u00f4pital, non loin de l\u2019ancien H\u00f4tel AGNI",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.iheris.net",
+                "college_name": "Institute of Advanced Study of International and Strategic Relations",
+                "university_name": "Institut des hautes Etudes des Relations internationales et strat\u00e9giques (IHERIS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2011.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Government and Regional Planning",
+                "FieldsOfStudy": [
+                    "Government",
+                    "Regional Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "01 BP 1514 \nAv. Pya \u00e0 cot\u00e9 d\u2019ECOBANK Totsi",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.jumau-ita.com",
+                "college_name": "JUMAU-ITA",
+                "university_name": "JUMAU-ITA Institut des Technologies avanc\u00e9es"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2010.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Business",
+                "FieldsOfStudy": [
+                    "Agricultural Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Executive Leadership and Management",
+                "FieldsOfStudy": [
+                    "Leadership",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Management",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing and Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Institutional Administration",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Environmental Studies",
+                    "Finance",
+                    "Human Resources",
+                    "Leadership",
+                    "Management",
+                    "Marketing",
+                    "Secretarial Studies"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 3618\nAdidogome non loin du Lyc\u00e9e Moderne",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "La Maitrise School",
+                "university_name": "Groupe Scolaire La Maitrise"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Studies",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Communication Studies",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 12895 \nRoute de Kpalim\u00e9, quartier Avenou",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ecoledescadrestogo.com",
+                "college_name": "Management Training School",
+                "university_name": "Ecole des Cadres"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1997.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Business Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commercial and Industrial Technology",
+                "FieldsOfStudy": [
+                    "Industrial Engineering",
+                    "Sales Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication and Multimedia",
+                "FieldsOfStudy": [
+                    "Mass Communication",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Corporate Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance and Banking",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality and Tourism Management",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Management",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Marketing",
+                "FieldsOfStudy": [
+                    "International Business",
+                    "Marketing"
+                ],
+                "Details": "Postgraduate"
+            },
+            {
+                "College": "International Trade",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Logistics and Transportation",
+                "FieldsOfStudy": [
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management - Small Business",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing, Finance and Insurance",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Insurance",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sales Techniques",
+                "FieldsOfStudy": [
+                    "Sales Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Small Business",
+                "FieldsOfStudy": [
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Small Business Administration Assistant",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "International Business",
+                    "Management",
+                    "Marine Transport",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 8019\n52, bd des arm\u00e9es",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://esagnde.org/index.php/lecole/",
+                "college_name": "Notre Dame de l\u2019Eglise Higher School of Administration and Management",
+                "university_name": "Ecole sup\u00e9rieure d\u2019Administration et de Gestion Notre Dame de l\u2019Eglise (ESAG-NDE)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2000.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Administration and Trilingual Secretarial Assistant",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Modern Languages",
+                    "Secretarial Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking and Insurance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Community and Regional Planning",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Economics",
+                    "Information Technology",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "Postgraduate"
+            },
+            {
+                "College": "Computer Science and Management",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Communication Studies",
+                    "Computer Networks",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Modern Languages",
+                    "Sales Techniques",
+                    "Secretarial Studies",
+                    "Small Business",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Banking",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Information Technology",
+                    "Insurance",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport Management",
+                "FieldsOfStudy": [
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economic and Finance Policy",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Information Technology",
+                    "Insurance",
+                    "Management",
+                    "Marketing",
+                    "Social Policy",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 13517\n8, Rue Agnes Gaba Kodjoviakope",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.esgis.org",
+                "college_name": "School of Management of Informatics and Sciences",
+                "university_name": "Ecole sup\u00e9rieure de Gestion d'Informatique et Sciences (ESGIS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking and Finance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Marketing",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Management",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Management",
+                "FieldsOfStudy": [
+                    "International Business",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Relations",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "International Law",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Peace and Disarmament",
+                    "Software Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Quartier de Noukafou\nBoulevard Jean-Paul II",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://rusta-usttg.org",
+                "college_name": "Science and Technology University of Togo",
+                "university_name": "Universit\u00e9 des Sciences et Technologies du Togo (USTTG)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2012.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Earth Sciences",
+                    "Geography",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law, Administration and Political Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Modern Languages, Arts and Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Modern Languages",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "IUT"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Administration",
+                    "Anthropology",
+                    "Banking",
+                    "Bioengineering",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Econometrics",
+                    "Economics",
+                    "Educational Sciences",
+                    "Electronic Engineering",
+                    "English",
+                    "Finance",
+                    "Geography",
+                    "German",
+                    "Health Administration",
+                    "History",
+                    "Industrial and Production Economics",
+                    "Law",
+                    "Management",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Natural Sciences",
+                    "Notary Studies",
+                    "Philosophy",
+                    "Physics",
+                    "Private Law",
+                    "Psychology",
+                    "Public Law",
+                    "Sociology",
+                    "Telecommunications Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "22 BP 191\nAv. Ak\u00e9\u00ef, Novissi",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://ifordd.org",
+                "college_name": "Sustainable Developmement Institute for Training and Research",
+                "university_name": "Institut de Formation et de Recherche pour le D\u00e9veloppement Durable (IFORDD)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2012.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Sustainable Development",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Finance",
+                    "Government",
+                    "Regional Planning",
+                    "Social and Community Services",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Environmental Studies",
+                    "Finance",
+                    "Government",
+                    "Public Administration",
+                    "Regional Planning",
+                    "Social and Community Services",
+                    "Town Planning"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 43\nRoute de l'ex ENI",
+                "City": "Kara",
+                "Province": "N/A",
+                "PostCode": "404",
+                "Website": "http://www.unikara.org",
+                "college_name": "University of Kara",
+                "university_name": "Universit\u00e9 de Kara (UK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1999. Acquired present status 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Baccalaur\u00e9at or equivalent"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "English",
+                    "Geography",
+                    "History",
+                    "Linguistics",
+                    "Literature",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "FLESH"
+            },
+            {
+                "College": "Economic Sciences and Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "FASEG"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Administrative Law",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Communication Studies",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "Criminology",
+                    "Economic History",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "Fiscal Law",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Labour Law",
+                    "Law",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Sociology"
+                ],
+                "Details": "FDSP"
+            },
+            {
+                "College": "Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "FAST"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "African Studies",
+                    "Anthropology",
+                    "Commercial Law",
+                    "Contemporary History",
+                    "Development Studies",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "Geography",
+                    "Human Resources",
+                    "Law",
+                    "Linguistics",
+                    "Marketing",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Private Law",
+                    "Public Law",
+                    "Sociology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 1515",
+                "City": "Lom\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.univ-lome.tg",
+                "college_name": "University of Lom\u00e9",
+                "university_name": "Universit\u00e9 de Lom\u00e9 (UL)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1970 as University of Benin replacing former Centre d'Enseignement sup\u00e9rieur, established 1962 with sections in Dahomey and Togo under an agreement between the Governments of the two countries and Government of France. Acquired present name 2001.",
+            "AcademicYear": "October to July (October-February; March-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at) or equivalent"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Information Technology",
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "CIC-CAFMICRO"
+            },
+            {
+                "College": "Arts and Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "FSHS"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "FASEG"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Epidemiology",
+                    "Health Sciences",
+                    "Medicine",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Pharmacy",
+                    "Public Health",
+                    "Surgery",
+                    "Water Science"
+                ],
+                "Details": "Former  Faculty of Medicine and Pharmacy (FMMP)"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Commercial Law",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "FDD"
+            },
+            {
+                "College": "Modern Languages and Arts",
+                "FieldsOfStudy": [
+                    "African Languages",
+                    "Arabic",
+                    "Arts and Humanities",
+                    "English",
+                    "Geography",
+                    "German",
+                    "Linguistics",
+                    "Literature",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Portuguese",
+                    "Russian",
+                    "Spanish"
+                ],
+                "Details": "FLLA"
+            },
+            {
+                "College": "Sciences",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Biochemistry",
+                    "Biology",
+                    "Botany",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Ecology",
+                    "Environmental Studies",
+                    "Geology",
+                    "Mathematics",
+                    "Microbiology",
+                    "Natural Sciences",
+                    "Parasitology",
+                    "Physics",
+                    "Physiology",
+                    "Zoology"
+                ],
+                "Details": "FDS"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Teacher Training"
+                ],
+                "Details": "INSE"
+            },
+            {
+                "College": "Information and Communication Sciences and Arts",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Information Sciences"
+                ],
+                "Details": "ISICA"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "IUT-G"
+            },
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Food Technology",
+                    "Rural Studies"
+                ],
+                "Details": "ESA"
+            },
+            {
+                "College": "Biological and Food Techniques",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Cell Biology",
+                    "Earth Sciences",
+                    "Environmental Studies",
+                    "Food Technology",
+                    "Physiology"
+                ],
+                "Details": "ESTBA"
+            },
+            {
+                "College": "Medical Assistants",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "EAM"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "ENSI"
+            },
+            {
+                "College": "Secretarial Studies",
+                "FieldsOfStudy": [
+                    "Secretarial Studies"
+                ],
+                "Details": "ESSD"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agricultural Management",
+                    "Archaeology",
+                    "Civil Engineering",
+                    "Clinical Psychology",
+                    "Commercial Law",
+                    "Contemporary History",
+                    "Economics",
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "Electrical Engineering",
+                    "Environmental Management",
+                    "Ethics",
+                    "Geography",
+                    "Health Sciences",
+                    "History",
+                    "Industrial and Organizational Psychology",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Natural Resources",
+                    "Philosophy",
+                    "Private Law",
+                    "Psychology",
+                    "Public Law",
+                    "Sociology",
+                    "Town Planning"
+                ],
+                "Doctor'sDegrees": [
+                    "Agricultural Economics",
+                    "Archaeology",
+                    "Biochemistry",
+                    "Biology",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Clinical Psychology",
+                    "Contemporary History",
+                    "Economics",
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "Engineering",
+                    "English",
+                    "Entomology",
+                    "Environmental Studies",
+                    "Ethics",
+                    "Geography",
+                    "German",
+                    "Health Sciences",
+                    "History",
+                    "Industrial and Organizational Psychology",
+                    "Linguistics",
+                    "Literature",
+                    "Marketing",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Natural Resources",
+                    "Physiology",
+                    "Private Law",
+                    "Public Law",
+                    "Sociology",
+                    "Town Planning",
+                    "Water Science",
+                    "Women's Studies"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

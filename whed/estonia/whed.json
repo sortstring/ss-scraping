@@ -1,0 +1,1004 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P\u00f5hja puiestee 7",
+                "City": "Tallinn",
+                "Province": "N/A",
+                "PostCode": "10412",
+                "Website": "https://www.artun.ee",
+                "college_name": "Estonian Academy of Arts",
+                "university_name": "Eesti Kunstiakadeemia (EKA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1914 as the Tallinn Industrial Art School of the Estonian Society of Art, became Art University 1989 and acquired present title 1996.",
+            "AcademicYear": "September to May (September-December; January-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (keskkooli l\u00f5putunnistus)"
+            ],
+            "Languages": [
+                "Estonian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Interior Design",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Art and Culture",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Art History",
+                    "Cultural Studies",
+                    "Film",
+                    "Heritage Preservation",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Ceramic Art",
+                    "Fashion Design",
+                    "Glass Art",
+                    "Industrial Design",
+                    "Jewellery Art",
+                    "Leather Techniques",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Graphic Arts",
+                    "Media Studies",
+                    "Painting and Drawing",
+                    "Photography",
+                    "Sculpture"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tatari 13",
+                "City": "Tallinn",
+                "Province": "N/A",
+                "PostCode": "10116",
+                "Website": "https://eamt.ee",
+                "college_name": "Estonian Academy of Music and Theatre",
+                "university_name": "Eesti Muusika-ja Teatriakadeemia (EMTA/EAMT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1919.",
+            "AcademicYear": "August to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (keskkooli l\u00f5putunnistus)"
+            ],
+            "Languages": [
+                "Estonian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Brass and Woodwind",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chamber Music",
+                "FieldsOfStudy": [
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Composition",
+                "FieldsOfStudy": [
+                    "Music Theory and Composition"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Conducting",
+                "FieldsOfStudy": [
+                    "Conducting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cultural Management and Humanities",
+                "FieldsOfStudy": [
+                    "Art Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Jazz Music",
+                "FieldsOfStudy": [
+                    "Jazz and Popular Music",
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Musicology",
+                "FieldsOfStudy": [
+                    "Musicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Piano",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Strings",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Voice",
+                "FieldsOfStudy": [
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music Education",
+                "FieldsOfStudy": [
+                    "Music Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Musical Performance Teacher Training",
+                "FieldsOfStudy": [
+                    "Music Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Drama",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Lennu 40, Reola",
+                "City": "Tartu",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.eava.ee",
+                "college_name": "Estonian Aviation Academy",
+                "university_name": "Eesti Lennuakadeemia (ELA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1993 as Tartu Lennukolled\u017e. Acquired present status and title 2008. A State institution.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Air Traffic Management",
+                "FieldsOfStudy": [
+                    "Air Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aircraft Engineering",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aircraft Piloting",
+                "FieldsOfStudy": [
+                    "Air Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aviation Management",
+                "FieldsOfStudy": [
+                    "Air Transport",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Lauteri 3",
+                "City": "Tallinn",
+                "Province": "N/A",
+                "PostCode": "10114",
+                "Website": "https://www.ebs.ee",
+                "college_name": "Estonian Business School",
+                "university_name": "(EBS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1988, acquired university status 1995, and accredited by the Estonian Government 1997.",
+            "AcademicYear": "September to June (September-December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Keskkooli l\u00f5putunnistus) or equivalent"
+            ],
+            "Languages": [
+                "Estonian",
+                "English",
+                "Russian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Helsinki",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Entrepreneurship",
+                    "International Business"
+                ],
+                "Details": "EBS Helsinki"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Information Technology",
+                    "International Business",
+                    "Leadership",
+                    "Management",
+                    "Modern Languages",
+                    "Public Administration"
+                ],
+                "Details": "Full-time and Master Studies"
+            },
+            {
+                "College": "Accounting and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Entrepreneurship",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Ethics",
+                    "Finance",
+                    "Leadership",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Behavioural Sciences",
+                    "Economics",
+                    "Information Technology",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Suur-S\u00f5jam\u00e4e 10A",
+                "City": "Tallinn",
+                "Province": "N/A",
+                "PostCode": "11415",
+                "Website": "https://www.eek.ee",
+                "college_name": "Estonian Entrepreneurship University of Applied Sciences",
+                "university_name": "Eesti Ettev\u00f5tlusk\u00f5rgkool Mainor (EUAS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1992 as Mainori Majanduskool. Acquired present title and status 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Estonian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Graphic Design",
+                    "Interior Design",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Entrepreneurship",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kreutzwaldi 64",
+                "City": "Tartu",
+                "Province": "N/A",
+                "PostCode": "51014",
+                "Website": "http://www.emu.ee",
+                "college_name": "Estonian University of Life Sciences",
+                "university_name": "Eesti Maa\u00fclikool (EM\u00dc)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1951. Acquired present status and title 1991.",
+            "AcademicYear": "September to August (September-January; January-August)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Keskkooli l\u00f5putunnistus)"
+            ],
+            "Languages": [
+                "Estonian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Science Studies",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "Karl Ernst von Baer House"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural and Environmental Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Social Sciences",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry and Rural Engineering",
+                "FieldsOfStudy": [
+                    "Forestry",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine and Animal Husbandry",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Dairy",
+                    "Food Technology",
+                    "Meat and Poultry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Narva mnt. 25",
+                "City": "Tallinn",
+                "Province": "N/A",
+                "PostCode": "10120",
+                "Website": "https://www.tlu.ee",
+                "college_name": "Tallinn University",
+                "university_name": "Tallinna \u00dclikool (TU (TL\u00dc))"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2005 following a parliamentary decision by the Republic of Estonia consolidated several Tallinn universities and institutes into a single institution.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Copy of a secondary education certificate/Bachelor\u2019s degree certificate or equivalent/Master\u2019s degree certificate or equivalent; Transcript of Records; Proof of English Proficiency"
+            ],
+            "Languages": [
+                "Estonian",
+                "Russian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Haapsalu College",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Handicrafts",
+                    "Social and Community Services",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Digital Technologies",
+                "FieldsOfStudy": [
+                    "Artificial Intelligence",
+                    "Computer Graphics",
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Special Education",
+                    "Teacher Training",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Film and Media",
+                "FieldsOfStudy": [
+                    "Cinema and Television",
+                    "Film",
+                    "Journalism",
+                    "Mass Communication",
+                    "Public Relations",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "Baltic School"
+            },
+            {
+                "College": "Governance, Law and Society",
+                "FieldsOfStudy": [
+                    "Demography and Population",
+                    "Government",
+                    "Human Rights",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Social Studies",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Cultural Studies",
+                    "Film",
+                    "History",
+                    "Linguistics",
+                    "Literature",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences and Health",
+                "FieldsOfStudy": [
+                    "Art Therapy",
+                    "Community Health",
+                    "Natural Sciences",
+                    "Physical Education",
+                    "Psychology",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ehitajate tee 5",
+                "City": "Tallinn",
+                "Province": "N/A",
+                "PostCode": "19086",
+                "Website": "http://www.ttu.ee",
+                "college_name": "Tallinn University of Technology",
+                "university_name": "Tallinna Tehnika\u00fclikool"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1918 as Engineering College, acquired University status 1936. Name changed to Tallinn Polytechnical Institute 1989. Under the supervision of the Ministry of Education.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "State examination and secondary school certificate (Keskkooli l\u00f5putunnistus)"
+            ],
+            "Languages": [
+                "Estonian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Chemicals and Materials Technology",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Environmental Engineering",
+                    "Food Technology",
+                    "Inorganic Chemistry",
+                    "Materials Engineering",
+                    "Polymer and Plastics Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Environmental Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Automotive Engineering",
+                    "Mechanical Engineering",
+                    "Metal Techniques",
+                    "Power Engineering",
+                    "Production Engineering",
+                    "Thermal Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Power Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Geological Engineering",
+                    "Mining Engineering",
+                    "Power Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Applied Physics",
+                    "Genetics",
+                    "Mathematics",
+                    "Molecular Biology",
+                    "Organic Chemistry",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Psychology",
+                    "Public Administration",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Banking",
+                    "Business and Commerce",
+                    "Economics",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "\u00dclikooli 18",
+                "City": "Tartu",
+                "Province": "N/A",
+                "PostCode": "50090",
+                "Website": "https://www.ut.ee",
+                "college_name": "University of Tartu",
+                "university_name": "Tartu \u00dclikool (T\u00dc)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1802 as Universitas Dorpantensis by Alexander I, with German as the language of instruction but tracing its origins to the Academy founded by Gustav II Adolphus of Sweden in 1632. German was replaced by Russian in 1893, when the University was renamed Universitas Iurievensis. Acquired present title 1919. Has incorporated the Institute of Law, Tallinn, and Tartu Teacher Training College.",
+            "AcademicYear": "September to July (September-January; February-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Keskkooli l\u00f5putunnistus) and entrance examination (Sisseastumiseksamid)"
+            ],
+            "Languages": [
+                "Estonian",
+                "Russian",
+                "English",
+                "German"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Ancient Languages",
+                    "Arts and Humanities",
+                    "Baltic Languages",
+                    "Cultural Studies",
+                    "English",
+                    "Ethnology",
+                    "European Languages",
+                    "European Studies",
+                    "Folklore",
+                    "Foreign Languages Education",
+                    "German",
+                    "Heritage Preservation",
+                    "History",
+                    "Linguistics",
+                    "Literature",
+                    "Management",
+                    "Music",
+                    "Native Language Education",
+                    "Performing Arts",
+                    "Philology",
+                    "Philosophy",
+                    "Religious Studies",
+                    "Romance Languages",
+                    "Russian",
+                    "Scandinavian Languages",
+                    "Slavic Languages",
+                    "Sound Engineering (Acoustics)",
+                    "Technology Education",
+                    "Theatre",
+                    "Theology",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Nursing",
+                    "Nutrition",
+                    "Pharmacy",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Public Health",
+                    "Sports Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Analytical Chemistry",
+                    "Bioengineering",
+                    "Biomedicine",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Computer Education",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Cybersecurity",
+                    "Data Processing",
+                    "Earth Sciences",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Genetics",
+                    "Geography",
+                    "Geology",
+                    "Information Technology",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Measurement and Precision Engineering",
+                    "Molecular Biology",
+                    "Physics",
+                    "Robotics",
+                    "Science Education",
+                    "Software Engineering",
+                    "Statistics",
+                    "Surveying and Mapping",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Asian Studies",
+                    "Behavioural Sciences",
+                    "Bilingual and Bicultural Education",
+                    "Business Administration",
+                    "Central European Studies",
+                    "Communication Studies",
+                    "Community Development",
+                    "Eastern European Studies",
+                    "Economics",
+                    "Educational Sciences",
+                    "Educational Technology",
+                    "Entrepreneurship",
+                    "European Studies",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Human Rights",
+                    "Information Management",
+                    "Information Technology",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Law",
+                    "Leisure Studies",
+                    "Management",
+                    "Marketing",
+                    "Middle Eastern Studies",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Regional Studies",
+                    "Science Education",
+                    "Social Sciences",
+                    "Social Welfare",
+                    "Social Work",
+                    "Special Education",
+                    "Speech Therapy and Audiology",
+                    "Teacher Training",
+                    "Tourism",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

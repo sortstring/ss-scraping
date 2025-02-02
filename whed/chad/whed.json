@@ -1,0 +1,709 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 1173 Route de N'Djamena",
+                "City": "Ab\u00e9ch\u00e9",
+                "Province": "Ouadda\u00ef",
+                "PostCode": "N/A",
+                "Website": "http://univ-abeche.com",
+                "college_name": "Adam Barka University of Ab\u00e9ch\u00e9",
+                "university_name": "Universit\u00e9 Adam Barka d'Ab\u00e9ch\u00e9 (UNABA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2003.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "FALASH"
+            },
+            {
+                "College": "Law and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law"
+                ],
+                "Details": "FADSE"
+            },
+            {
+                "College": "Science and Techniques",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Geology",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 582",
+                "City": "N'Djam\u00e9na",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "King Faisal University",
+                "university_name": "Universit\u00e9 Roi Fay\u00e7al (URF)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1992.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Modern Languages",
+                "FieldsOfStudy": [
+                    "Arabic"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Science and Technology",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering and Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 206",
+                "City": "Moundou",
+                "Province": "Logone Occidental",
+                "PostCode": "N/A",
+                "Website": "http://univ-moundou.org",
+                "college_name": "Moundou University",
+                "university_name": "Universit\u00e9 de Moundou (UDM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2002. Formely named 'Institut Universitaire des Techniques d'Entreprise de Moundou' (IUTEM). Acquired present title and status 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "Philosophy"
+                ],
+                "Details": "FLASH"
+            },
+            {
+                "College": "Business Techniques and Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Human Resources",
+                    "Management"
+                ],
+                "Details": "FASTE"
+            },
+            {
+                "College": "Exact and Applied Sciences",
+                "FieldsOfStudy": [
+                    "Applied Chemistry",
+                    "Computer Networks"
+                ],
+                "Details": "FASEA"
+            },
+            {
+                "College": "Law and Social Sciences",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Law"
+                ],
+                "Details": "FADSS"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 60",
+                "City": "N'Djam\u00e9na",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.enstp.td",
+                "college_name": "National High School of Civil Engineering",
+                "university_name": "Ecole nationale Sup\u00e9rieure des Travaux publics (ENSTP)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1965. Formerly \"Ecole Nationale des Travaux Publics\" (ENTP). Acquired present status 2012.",
+            "AcademicYear": "October to June",
+            "AdmissionRequirements": [
+                "Baccalaur\u00e9at (scientific sections: C, D, E, F)"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Bridge Engineering",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Road Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Civil Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 105\nRoute de Bangui",
+                "City": "Sarh",
+                "Province": "Moyen Chari",
+                "PostCode": "N/A",
+                "Website": "http://uds.td",
+                "college_name": "Sarh University",
+                "university_name": "Universit\u00e9 de Sarh (UDS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1997. Acquired present title and status 2010. Formely named 'Institut des Sciences Agronomiques et de l'Environnement de Sarh', now a faculty of the University.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Art and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Techniques",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Geology",
+                    "Mathematics and Computer Science",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural and Environmental Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Agronomy",
+                    "Environmental Studies"
+                ],
+                "Details": "IUSAES"
+            },
+            {
+                "College": "Development of Fishery Resources",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Aquaculture",
+                    "Fishery"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 206",
+                "City": "N'Djam\u00e9na",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://ens-ndj.org",
+                "college_name": "Teacher Training School",
+                "university_name": "Ecole Normale Sup\u00e9rieure de N'Djam\u00e9na (ENS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992. Formerly 'Institut sup\u00e9rieur des Sciences de l'Education (ISSED)'. Acquired present status and title 2011.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Primary Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Educational Psychology",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Secondary Education",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Arabic",
+                    "Biology",
+                    "Chemistry",
+                    "Curriculum",
+                    "Education",
+                    "Educational Technology",
+                    "English",
+                    "French",
+                    "Geography",
+                    "Geology",
+                    "History",
+                    "Mathematics",
+                    "Physics",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher Trainers Education",
+                "FieldsOfStudy": [
+                    "Teacher Trainers Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical and Professional Education",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 6077",
+                "City": "Ab\u00e9ch\u00e9",
+                "Province": "Ouadda\u00ef",
+                "PostCode": "N/A",
+                "Website": "http://iusta.lescigales.org/index.html",
+                "college_name": "University Institute of Science and Technology of Ab\u00e9ch\u00e9",
+                "university_name": "Institut universitaire des Sciences et Techniques d'Ab\u00e9ch\u00e9 (IUSTA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1997.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at) and entrance examination",
+                ""
+            ],
+            "Languages": [
+                "French",
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Biomedical and Pharmaceutical Sciences",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical and Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fundamental Sciences",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Computing and Management",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Industrial Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Livestock Techniques",
+                "FieldsOfStudy": [
+                    "Cattle Breeding"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Animal Husbandry",
+                    "Electrical Engineering",
+                    "Health Sciences",
+                    "Mechanical Engineering",
+                    "Public Health",
+                    "Veterinary Science"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 1117, avenue Mobutu",
+                "City": "N'Djam\u00e9na",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.univ-ndjamena.org",
+                "college_name": "University of N'Djamena",
+                "university_name": "Universit\u00e9 de N'Djam\u00e9na (UNDJ/UNDT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1971 as University of Chad comprising institutions that were formerly part of the Fondation de l'Enseignement sup\u00e9rieur en Afrique Centrale. Acquired present status and title 1994.",
+            "AcademicYear": "October to June (October-February; March-June).",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at)",
+                ""
+            ],
+            "Languages": [
+                "Arabic",
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "English",
+                    "Geography",
+                    "History",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Exact and Applied Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Geology",
+                    "Hydraulic Engineering",
+                    "Mathematics",
+                    "Paleontology",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Medicine",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Public Health",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law",
+                    "Management",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rural Planning",
+                "FieldsOfStudy": [
+                    "Natural Resources",
+                    "Rural Planning",
+                    "Social Sciences",
+                    "Soil Management"
+                ],
+                "Details": "Observatoire Foncier du Tchad"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Law",
+                    "Natural Sciences"
+                ],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 4377\nRoute d'Aboud\u00e9a",
+                "City": "Mongo",
+                "Province": "Guera",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University Polytechnic Institute of Mongo",
+                "university_name": "Institut universitaire polytechnique de Mongo (IUPM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Basic Sciences",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemical Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geology",
+                "FieldsOfStudy": [
+                    "Geology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Engineering",
+                "FieldsOfStudy": [
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

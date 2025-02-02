@@ -1,0 +1,191 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "University Drive\nP. O. Box N-4912",
+                "City": "Nassau",
+                "Province": "New Providence",
+                "PostCode": "N/A",
+                "Website": "http://www.ub.edu.bs",
+                "college_name": "University of the Bahamas",
+                "university_name": "(UB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1974 as the College of the Bahamas after merger between The Bahamas Teachers\u2019 College, San Salvador Teachers\u2019 College, C.R. Walker Technical College and the sixth form programme of the Government High School. Acquired current name and status in November 2016 by Act of Parliament of the Commonwealth of The Bahamas",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Continuing Education and Lifelong Learning",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Hospitality and Tourism Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Computer Science",
+                    "Cooking and Catering",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Information Technology",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liberal and Fine Arts",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Design",
+                    "English",
+                    "Fine Arts",
+                    "Journalism",
+                    "Literature",
+                    "Mass Communication",
+                    "Modern Languages",
+                    "Performing Arts",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pure and Applied Sciences",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Chemistry",
+                    "Earth Sciences",
+                    "Environmental Studies",
+                    "Health Sciences",
+                    "Mathematics",
+                    "Nursing",
+                    "Physics",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Educational Studies",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Government",
+                    "History",
+                    "Law",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Secondary Education",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Confucius",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Government and Public Policy",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Oral History",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Gerace Research Institute (GRI)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Architecture",
+                    "Art Education",
+                    "Arts and Humanities",
+                    "Banking",
+                    "Biology",
+                    "Business Administration",
+                    "Business Education",
+                    "Chemistry",
+                    "Computer Education",
+                    "Computer Science",
+                    "Economics",
+                    "Electrical Engineering",
+                    "English",
+                    "Film",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "French",
+                    "Geography (Human)",
+                    "History",
+                    "Home Economics Education",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Humanities and Social Science Education",
+                    "Information Technology",
+                    "Island Studies",
+                    "Journalism",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Media Studies",
+                    "Modern Languages",
+                    "Music",
+                    "Music Education",
+                    "Nursing",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Religious Education",
+                    "Science Education",
+                    "Secondary Education",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Spanish",
+                    "Theatre",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Leadership",
+                    "Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

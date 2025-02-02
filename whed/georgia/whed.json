@@ -1,0 +1,3997 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kakutsa Cholokashvili Ave 3/5",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0162",
+                "Website": "https://iliauni.edu.ge",
+                "college_name": "Ilia State University",
+                "university_name": "Ilia Sakhelmtsipo Universiteti (ILIAUNI/ISU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Ilia State University (ISU) is a flagship public research and comprehensive university in Georgia, located in its capital, Tbilisi. It was established in 2006 as a merger of six different institutions, each having a long history and a diverse institutional profile. Shortly afterwards it transformed itself into a multi-profile university with its significant research outputs visible at the national and international levels.\nISU\u2019s four faculties - the Faculty of Arts and Sciences, the Faculty of Natural Sciences and Medicine, the Faculty of Business, Technology and Education, and the School of Law - offer a variety of unique academic programs, including joint and double degree programs in their respective disciplines. Along with 47 large and small-scale Research Institutes, Laboratories and Centers, Ilia State University creates in-depth research opportunities in Arts, Social Sciences, Education, Humanities, Business, Law, Medicine, Public Health, Life Sciences, Basic Sciences, Earth Sciences, Engineering and Architecture",
+            "AcademicYear": "October to July",
+            "AdmissionRequirements": [
+                "National: Unified National Exams\nInternational: Secondary School Certificate, Subject Exams, Language Requirements, Interview"
+            ],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Education",
+                    "European Studies",
+                    "Foreign Languages Education",
+                    "History",
+                    "International Relations and Diplomacy",
+                    "Music",
+                    "Natural Sciences",
+                    "Philosophy",
+                    "Psychology",
+                    "Public Relations",
+                    "Religious Studies",
+                    "Social Work",
+                    "Sociology",
+                    "Speech Therapy and Audiology",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business, Technology and Education",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Banking",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Finance",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Nanotechnology",
+                    "Primary Education",
+                    "Software Engineering",
+                    "Special Education",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences and Medicine",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science",
+                    "Biochemistry",
+                    "Biology",
+                    "Ecology",
+                    "Energy Engineering",
+                    "Food Science",
+                    "Genetics",
+                    "Medicine",
+                    "Molecular Biology",
+                    "Natural Resources",
+                    "Neurology",
+                    "Physics",
+                    "Public Health",
+                    "Sustainable Development"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Criminal Law",
+                    "Law",
+                    "Private Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1, Ilia Tchavtchavadze Avenue\nAcademic Building I, 0179",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0179",
+                "Website": "https://www.tsu.ge",
+                "college_name": "Ivane Javakhishvili Tbilisi State University",
+                "university_name": "Ivane javazishvilis sakhelobis tbilisis sakhelmts\u2019ipo universit\u2019et\u2019i (TSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "The first-ever national university in the Caucasus was founded and opened in Tbilisi in 1918 laying the foundation for a European-type higher school in Georgia, based on Georgian educational traditions. The idea of foundation of an university first emerged as far back as the early 19th century amid intensification of the struggle for liberation from Russian empire. The first-ever national University in the Caucasus was opened on 26 January 1918, the day of commemoration of King David the Builder (new style 8 February). Upon the nomination of Ivane Javakhishvili, the Council of Professors elected Petre Melikishvili as the first rector of the university. Ivane Javakhishvili took charge of the faculty of philosophy. Tbilisi State University is one of the largest higher educational institutions in the South Caucasus",
+            "AcademicYear": "September to June (September-February; February-June)",
+            "AdmissionRequirements": [
+                "Competitive entrance examination following general or special secondary school certificate"
+            ],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Exact and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Geography",
+                    "Geology",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Ancient Languages",
+                    "History",
+                    "Literature",
+                    "Modern Languages",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology and Educational Sciences",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Political Sciences",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Mass Communication",
+                    "Political Sciences",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "11, Nodar Bokhua Street",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0159",
+                "Website": "https://newvision.ge",
+                "college_name": "New Vision University",
+                "university_name": "(NVU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "New Vision University is a civic, non-profit private institution founded in 2013. NVU mission is to expand human vision through promotion of education, research and innovation. The university inspires individuals to advance and share knowledge, skills and values to contribute to the well-being of the society. NVU is committed to social responsibility and promotes equal access to education to students from around the world. NVU is aspired to create open, innovative and collaborative environment to ensure student engagement and serve the society on a national and international scale",
+            "AcademicYear": "September to June (Fall Semester: September - February; Spring Semester: February - June)",
+            "AdmissionRequirements": [
+                "- Bachelor programmes: School Leaving Certificate or equivalent\n- Master programmes: Bachelor degree or equivalent (Bachelor degree in Law for Master\u2019s program in Law)\n- One-cycle programs (Medicine, Dentistry): School Leaving Certificate or equivalent\n- PhD programmes: Master's degree (Master\u2019s Degree in Law for PhD program in Law; MD for PhD in Medicine)\n- Proof of proficiency in English at B2 Level for Bachelor\u2019s and Master\u2019s degree programs, including one-cycle programs of Medicine and Dentistry",
+                "In case of PhD programmes - C1 level, it can be any other European (German, French) language"
+            ],
+            "Languages": [
+                "English",
+                "Georgian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and IT",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Comparative Law",
+                    "International Law",
+                    "Private Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Health Administration",
+                    "Medicine",
+                    "Nursing",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Politics and Diplomacy",
+                "FieldsOfStudy": [
+                    "International Studies",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kakha Bendukidze University Campus\n240 David Aghmashenebeli Alley",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0159",
+                "Website": "http://www.agruni.edu.ge/en",
+                "college_name": "Agricultural University of Georgia",
+                "university_name": "Saqartvelos Sakhelmtsipo Agraruli Universiteti (AUG)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1919 as faculty of Tbilisi State University, became Georgian Agricultural Institute 1929, and acquired present status and title 1991",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agrarian Studies",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Studies",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Doctoral Studies",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Technology",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tamar Mepe, 59",
+                "City": "Kutaisi",
+                "Province": "Imereti",
+                "PostCode": "4600",
+                "Website": "http://www.atsu.edu.ge/index_eng.php",
+                "college_name": "Akaki Tsereteli State University",
+                "university_name": "Akaki \u010ceretlis Sakhelobis Sakhelmtsipo Universiteti (KSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1933 as State Pedagogical Institute, Tbilisi. Acquired present status and title 2006 following merger of Kutiasi Akaki Tsereteli State University and Kutaisi N. Muskhelishvili State Technical University",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Sashualo Skolis Atestati)"
+            ],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agrarian Studies",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "English",
+                    "French",
+                    "German",
+                    "Modern Languages",
+                    "Native Language",
+                    "Oriental Studies",
+                    "Philology",
+                    "Slavic Languages",
+                    "Western European Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business, Law and Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "History",
+                    "Journalism",
+                    "Law",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Exact and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Geography",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Maritime Transport",
+                "FieldsOfStudy": [
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy",
+                "FieldsOfStudy": [
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Food Technology",
+                    "Industrial Engineering",
+                    "Textile Design",
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technological Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Machine Building",
+                    "Mechanical Engineering",
+                    "Mechanics",
+                    "Safety Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "University St. N2",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0177",
+                "Website": "https://alte.edu.ge",
+                "college_name": "Alte University",
+                "university_name": "Alte Universiteti"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Created 2002 as Tbilisis Ghia Universiteti (Tbilisi Open Teaching University) and first accredited in 2005. Acquired current title in 2021. A fully accredited institution with 20 years of experience in the Georgian educational sphere, with some 2,100 students from 17 countries. The University currently offers 12 academic programs, both undergraduate and graduate.\nIts mission is to give students the full knowledge and all the skills they need to create added value in the long run, both for themselves and for the community in which they live.\nAlte University's vision is to be one of the best educational institutions for quality education, scientific research, and professional skills development, both in the country and in the region, and to become a centre not only for Georgian students, but also for international students. Its values are:\nEntrepreneurship\nInnovation\nHonesty\nStriving for perfection",
+            "AcademicYear": "September - June",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business School",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Medical School",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "School of Humanitarian and Social Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "School of Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "School of Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Dental Studies",
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "22 Gribojedov st.",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0108",
+                "Website": "http://www.art.edu.ge",
+                "college_name": "Apolon Kutateladze Tbilisi State Academy of Arts",
+                "university_name": "Tbilisis Apolon Qutateladzis Sakhelobis Sakhelmtsipo Samkhatvro Akademia"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1922 as Georgian Academy of Arts.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Certificate"
+            ],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Architecture",
+                    "Civil Engineering",
+                    "Interior Design",
+                    "Landscape Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Ceramic Art",
+                    "Design",
+                    "Fashion Design",
+                    "Glass Art",
+                    "Industrial Design",
+                    "Interior Design",
+                    "Jewellery Art",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Painting and Drawing",
+                    "Sculpture",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media Arts",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Graphic Design",
+                    "Media Studies",
+                    "Photography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Restoration/Art History and Theory",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Art History",
+                    "Cultural Studies",
+                    "Fine Arts",
+                    "Heritage Preservation",
+                    "Restoration of Works of Art"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "14 Kazbegi Avenue",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0160",
+                "Website": "http://bog.edu.ge",
+                "college_name": "Bank of Georgia University",
+                "university_name": "Sakartvelos Bankis Universiteti \u2013 Bank of Georgia Teaching University (BOG)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2014",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Banking",
+                "FieldsOfStudy": [
+                    "Banking"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informatics",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "L. Asatiani Street \u2116 37",
+                "City": "Batumi",
+                "Province": "N/A",
+                "PostCode": "6004",
+                "Website": "http://www.batu.edu.ge",
+                "college_name": "Batumi Art Teaching University",
+                "university_name": "Batumis Khelovnebis Sastsavlo Universiteti (BATU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1995 as State Institute of Art. Acquired present status 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Education, Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Art Criticism",
+                    "Art History",
+                    "Art Management",
+                    "Cultural Studies",
+                    "Journalism",
+                    "Mass Communication",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Conducting",
+                    "Musical Instruments",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual, Theatre and Film-TV Arts",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Architecture",
+                    "Cinema and Television",
+                    "Fashion Design",
+                    "Fine Arts",
+                    "Interior Design",
+                    "Painting and Drawing",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tamar Mefe Ave. 38\nMakhindjauri",
+                "City": "Batumi",
+                "Province": "Adjara",
+                "PostCode": "N/A",
+                "Website": "http://www.bntu.edu.ge",
+                "college_name": "Batumi Navigation Teaching University",
+                "university_name": "Batumis Navigaciis Sastsavlo Universiteti (BNTU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1999 as Batumi Maritime College. Acquired present status and title 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "International Maritime Training",
+                "FieldsOfStudy": [
+                    "Marine Engineering",
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Logistic",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Maritime Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Marine Engineering",
+                    "Transport Engineering",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ninoshvili/Rustaveli str. 35/32",
+                "City": "Batumi",
+                "Province": "Adjara",
+                "PostCode": "6010",
+                "Website": "http://www.bsu.ge",
+                "college_name": "Batumi Shota Rustaveli State University",
+                "university_name": "\u0160ota Rustavelis Sakhelobis Sakhelmtsipo Universiteti (BSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1935. Acquired present status 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate, entrance examination"
+            ],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "European Studies",
+                    "Finance",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences and Healthcare",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics and Mathematics and Computer Sciences",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Political Sciences",
+                "FieldsOfStudy": [
+                    "Political Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Industrial Engineering",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Technology",
+                    "Telecommunications Engineering",
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agrarian and Membrane Technologies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Niko Berdzenishvili",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Phitopathology and Biodiversity",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rustaveli str. \u211653",
+                "City": "Batumi",
+                "Province": "Adjara",
+                "PostCode": "6010",
+                "Website": "http://www.bsma.edu.ge/index.php?lang=en",
+                "college_name": "Batumi State Maritime Academy",
+                "university_name": "Batumis Sakhelmtsipo Sazghvao Akademia (BSMA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian",
+                "Russian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Management",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "International Business",
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Navigation",
+                "FieldsOfStudy": [
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Iris Borchashvili Health Center Medina, 237\nFridon Khalvashi ST",
+                "City": "Batumi",
+                "Province": "N/A",
+                "PostCode": "6010",
+                "Website": "https://bauinternational.edu.ge",
+                "college_name": "BAU International University",
+                "university_name": "International University Batumi"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2015",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "I. Chavchavadze Avenue N82",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0162",
+                "Website": "https://btu.edu.ge",
+                "college_name": "Business and Technology University",
+                "university_name": "Biznesisa da Teknologiebis Universiteti (BTU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 2016",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Technology",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Engineering",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Chargali Str. 73",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0141",
+                "Website": "http://www.ciu.edu.ge",
+                "college_name": "Caucasus International University",
+                "university_name": "Kavkasiis Saerta\u0161oriso Universiteti (CIU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1995",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian",
+                "Russian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Pharmacy",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Viticulture-Winemaking",
+                "FieldsOfStudy": [
+                    "Viticulture"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Paata Saakadze street 1",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0102",
+                "Website": "http://www.cu.edu.ge",
+                "college_name": "Caucasus University",
+                "university_name": "Kavkasiis Universiteti (CU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Created in 1998 as Caucasus School of Business in partnership with Georgia State University, USA. Acquired current title and status 2004",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "High School Certifiate; sufficient scores in the Unified National Exam"
+            ],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "New Westminster",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "International Relations and Diplomacy",
+                    "Leadership"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Health Administration",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cinema",
+                "FieldsOfStudy": [
+                    "Cinema and Television"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Governance",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "History",
+                    "Philology",
+                    "Psychology",
+                    "Regional Studies",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media Studies",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Healthcare",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "International Business",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Vake, I.Chavchavadze N25",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0179",
+                "Website": "http://www.sdasu.edu.ge",
+                "college_name": "David Aghmashenebeli University of Georgia",
+                "university_name": "Saqartvelos Davit Agma\u0161eneblis Sakhelobis Universiteti (SDASU/DAUG)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1992",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Care",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biology",
+                    "Chemistry",
+                    "Dentistry",
+                    "Dermatology",
+                    "Forensic Medicine and Dentistry",
+                    "Hygiene",
+                    "Medicine",
+                    "Microbiology",
+                    "Neurology",
+                    "Obstetrics and Gynaecology",
+                    "Ophthalmology",
+                    "Paediatrics",
+                    "Physiology",
+                    "Rehabilitation and Therapy",
+                    "Stomatology",
+                    "Surgery",
+                    "Urology",
+                    "Venereology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English",
+                    "Journalism",
+                    "Philology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Studies",
+                "FieldsOfStudy": [
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2/6 Ljubljana Street",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0159",
+                "Website": "http://dtmu.ge",
+                "college_name": "David Tvildiani Medical University",
+                "university_name": "Davit Tvildianis Sameditsino Universiteti (DTMU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1991 as AIETI Medical School, acquired present title 2011",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "Sa\u0161ualo Skolis Atestati",
+                "Unified Entrance Examinations",
+                "For foreign citizens: permission of Ministry of Education and Science of Georgia"
+            ],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Cell Biology",
+                    "Medicine",
+                    "Molecular Biology",
+                    "Pathology",
+                    "Social Sciences",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "4 Shatili str.",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://eeu.edu.ge",
+                "college_name": "East European University",
+                "university_name": "Aghmosavlet Evropis Universiteti (EEU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 2012",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Architecture",
+                    "Business Administration",
+                    "Educational Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Teacher Training",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Healthcare Sciences",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Social Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Psychology",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Guramishvili Avenue 76",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0141",
+                "Website": "https://eu.edu.ge/en",
+                "college_name": "European University",
+                "university_name": "(EU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1992, acquired current status 2011",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Technologies",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Computer Networks",
+                    "Finance",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law, Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "English Studies",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kakha Bendukidze University Campus\n240 David Aghmashenebeli Alley",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0159",
+                "Website": "http://www.freeuni.edu.ge",
+                "college_name": "Free University of Tbilisi",
+                "university_name": "Tbilisis Tavisufali Universiteti \u2013 Tbilisi Independent University"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Established 2007 through the merger of two higher education schools, the European School of Management (ESM-Tbilisi) and the Tbilisi Institute of Asia and Africa (TIAA).",
+            "AcademicYear": "September-January; March -June",
+            "AdmissionRequirements": [
+                "Unifies State Exam"
+            ],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arab countries and the Islamic World",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Law",
+                "FieldsOfStudy": [
+                    "National"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Asia and Africa",
+                "FieldsOfStudy": [
+                    "African Studies",
+                    "Asian Studies",
+                    "East Asian Studies",
+                    "International Relations and Diplomacy",
+                    "Middle Eastern Studies",
+                    "Oriental Languages",
+                    "Oriental Studies",
+                    "South Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Confucius",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Rights",
+                "FieldsOfStudy": [
+                    "National"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cognitive Neuroscience",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "ESM"
+            },
+            {
+                "College": "Doctoral Studies",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Relations",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Social Sciences",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Computer Science",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Mathematics and Computer Science",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual Arts and Design",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "16, Ketevan Tsamebuli Street",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0103",
+                "Website": "http://www.ssu.edu.ge",
+                "college_name": "Georgian Aviation University",
+                "university_name": "Saqartvelos Saaviatsio Universiteti \u2013 Aviation University of Georgia (SSU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1992 as Aviation Institute of Georgian Technical University (GTU)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Air Transport",
+                    "Business Administration",
+                    "International Economics",
+                    "Management",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Flight Training",
+                "FieldsOfStudy": [
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ietim Gurji \n9",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0105",
+                "Website": "https://gipa.ge",
+                "college_name": "Georgian Institute of Public Affairs",
+                "university_name": "Saqartvelos Sazogadoebriv Sakmeta Instituti (GIPA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994 as Institute of Public Administration. Acquired present title 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Government",
+                "FieldsOfStudy": [
+                    "Government",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Media Management",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Media Studies"
+                ],
+                "Details": "Caucasus"
+            },
+            {
+                "College": "Law and Politics",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "9 Tsinandali str.",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.seu.edu.ge",
+                "college_name": "Georgian National University SEU",
+                "university_name": "Saqartvelos Erovnuli Universiteti (SEU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "49, \u010cav\u010dadze Avenue",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "380062",
+                "Website": "http://www.sportuni.ge",
+                "college_name": "Georgian State Teaching University of Physical Education and Sport",
+                "university_name": "Saqartvelos Sakhelmtsipo Pizkuri Agzrdisa da Sport Akademia"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1938, acquired present status 1994",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Coaching",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Medicine and Rehabilitation",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Computer Engineering",
+                    "Eurasian and North Asian Languages",
+                    "Hygiene",
+                    "Modern Languages",
+                    "Pedagogy",
+                    "Physical Therapy",
+                    "Physiology",
+                    "Psychology",
+                    "Rehabilitation and Therapy",
+                    "Sociology",
+                    "Sports Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "77, Kostava Street",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0175",
+                "Website": "http://www.gtu.ge",
+                "college_name": "Georgian Technical University",
+                "university_name": "Saqartvelos Teqnikuri Universiteti (GTU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1922 as Polytechnic Faculty of Tbilisi State University. Became Polytechnic Institute 1936 and acquired present title 2007",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Competitive entrance examination following general or special secondary school certificate"
+            ],
+            "Languages": [
+                "Georgian",
+                "Russian",
+                "English",
+                "French",
+                "German"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture, Urban Planning and Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business-Engineering",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Communication Studies",
+                    "Economics",
+                    "German",
+                    "Law",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemical Technology and Metallurgy",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Chemical Engineering",
+                    "Metal Techniques",
+                    "Metallurgical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Hydraulic Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer and Control Systems",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Instrument Making",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining and Geology",
+                "FieldsOfStudy": [
+                    "Geological Engineering",
+                    "Geology",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Power Engineering and Telecommunications",
+                "FieldsOfStudy": [
+                    "Electrical and Electronic Engineering",
+                    "Hydraulic Engineering",
+                    "Mechanical Engineering",
+                    "Power Engineering",
+                    "Telecommunications Engineering",
+                    "Thermal Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transportation and Machine Building",
+                "FieldsOfStudy": [
+                    "Machine Building",
+                    "Road Engineering",
+                    "Transport and Communications",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction, Special Systems and Engineering Maintenance",
+                "FieldsOfStudy": [
+                    "Construction Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Diagnosis and Expertise",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Landscape Architecture",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aviation",
+                "FieldsOfStudy": [
+                    "Air Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Polytechnic",
+                "FieldsOfStudy": [
+                    "Batumi"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Merab Aleksidze st. 10",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0160",
+                "Website": "https://www.gau.edu.ge",
+                "college_name": "Georgian-American University",
+                "university_name": "SH.P.S. Qartul-Amerikuli Universiteti (GAU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Created 2005. Western-style education system designed for the Georgian environment",
+            "AcademicYear": "September to February; February to June; June to August",
+            "AdmissionRequirements": [
+                "Secondary school certificate; UNE exam for Georgian students; university entrance exam for non-Georgian and transfer students",
+                ""
+            ],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "English",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "German",
+                    "Native Language"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informatics and Engineering",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law, Social Sciences and Diplomacy",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Civics",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "International Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "53 Chavchavadze Ave",
+                "City": "Gori",
+                "Province": "Shida Kartli",
+                "PostCode": "N/A",
+                "Website": "http://www.gu.edu.ge/en",
+                "college_name": "Gori State Teaching University",
+                "university_name": "(GU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Established 2007 following merger of Gori State University and Tskhinvali State University. Acquired present title 2012",
+            "AcademicYear": "September - July",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Law",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Educational Administration",
+                    "Finance",
+                    "Hotel Management",
+                    "Journalism",
+                    "Law",
+                    "Management",
+                    "Public Administration",
+                    "Taxation",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education, Exact and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Education",
+                    "Geography",
+                    "Information Technology",
+                    "Mathematics",
+                    "Preschool Education",
+                    "Sports",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "English",
+                    "German",
+                    "History",
+                    "Literature",
+                    "Philology",
+                    "Russian"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "6, Jano Bagrationi Street",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0160",
+                "Website": "http://www.gruni.edu.ge",
+                "college_name": "Grigol Robakidze University",
+                "university_name": "Grigol Robakidzis Sakhelobis Universiteti 'Alma Mater' (GRU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1992",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Georgian",
+                "English",
+                "German"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Criminology",
+                "FieldsOfStudy": [
+                    "Criminal Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Journalism",
+                    "Mass Communication",
+                    "Philology",
+                    "Philosophy",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "European Union Law",
+                    "Government",
+                    "Labour Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration and Politics",
+                "FieldsOfStudy": [
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "5 Samghereti Street",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0101",
+                "Website": "http://www.tbuniver.edu.ge",
+                "college_name": "Guram Tavartkiladze Tbilisi Teaching University",
+                "university_name": "Guram tavartkiladze Tbilisis Sakhelmtsipo Universiteti \u2013 Guram Tavartkiladze Teaching University (GTTU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Social Sciences",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Insurance",
+                    "International Business",
+                    "Journalism",
+                    "Law",
+                    "Mass Communication",
+                    "Psychology",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Law",
+                    "Private Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N1, Kartuli Universiteti Str.",
+                "City": "Telavi",
+                "Province": "Kakheti",
+                "PostCode": "2200",
+                "Website": "http://www.tesau.edu.ge",
+                "college_name": "Iakob Gogebashvili Telavi State University",
+                "university_name": "Telavis Iakob Gogeba\u0161vilis' Sakhelobis Sakhelmtsipo Universiteti (TeSaU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1939 as Pedagogical Institute, acquired present status 2001",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Atestati) and national examination"
+            ],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agrarian Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Chemistry",
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Pedagogy",
+                    "Physical Education",
+                    "Primary Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Exact and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Data Processing",
+                    "Ecology",
+                    "Geography",
+                    "Information Technology",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "German",
+                    "History",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Literature",
+                    "Native Language",
+                    "Russian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences, Business and Law",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Journalism",
+                    "Law",
+                    "Social Sciences",
+                    "Sociology",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "David Agmashenebeli Alley 13km, 2",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0131",
+                "Website": "http://www.ibsu.edu.ge",
+                "college_name": "International Black Sea University",
+                "university_name": "\u0160avi Zgvis Saerta\u0161oriso Universiteti (IBSU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1995. A joint Georgian-Turkish Educational Establishment",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "Competitive entrance examination following general or special secondary school certificate"
+            ],
+            "Languages": [
+                "English",
+                "Georgian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Technology",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Architecture",
+                    "Business Administration",
+                    "Computer Science",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences, Humanities and Education Sciences",
+                "FieldsOfStudy": [
+                    "American Studies",
+                    "Economics",
+                    "English",
+                    "Government",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Law",
+                    "Public Administration",
+                    "Russian",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Educational Administration",
+                    "English",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "13, Tsereteli Street",
+                "City": "Kutaisi",
+                "Province": "Imereti",
+                "PostCode": "4601",
+                "Website": "http://www.unik.edu.ge",
+                "college_name": "Kutaisi University",
+                "university_name": "Kutaisis Universiteti (UNIK)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1991 as Kutaisi Institute of Law and Economics. Acquired present title 2010",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Examination held by National Assessment and Examination Centre"
+            ],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Economics",
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "K.Tsamebuli 51/2",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0179",
+                "Website": "http://www.tma.edu.ge",
+                "college_name": "Petre Shotadze Tbilisi Medical Academy",
+                "university_name": "Petre \u0160otadzis Sakhelobis Tbilisis Samedicino Akademia (TMA)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1992. Acquired present title 1999",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Cardiology",
+                    "Dermatology",
+                    "Ethics",
+                    "Medicine",
+                    "Obstetrics and Gynaecology",
+                    "Physiology",
+                    "Radiology",
+                    "Rehabilitation and Therapy",
+                    "Sports Medicine",
+                    "Surgery",
+                    "Virology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ilia Chavchavadze Ave. 53a",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0179",
+                "Website": "http://www.sangu.ge",
+                "college_name": "Saint Andrew the First-Called Georgian University of the Patriarchate of Georgia",
+                "university_name": "Saqartvelos Sapatriarqos Tsmida Andria Pirveltsodebulis Sakhelobis Qartuli Universiteti \u2013 St. Andrews Georgian University (SANGU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business, Computing and Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanitarian Science and Law",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "68 D. Uznadze str.",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.king-tamar.net",
+                "college_name": "Saint King Tamar University of Patriarchate of Georgia",
+                "university_name": "Tamar Mepis Universiteti"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2005 as St. King Tamar College of Sisters of Mercy, became St. King Tamar Institute of Social Medicine 2006, and St. King Tamar Medical Institute of Patriarchate of Georgia 2009, renamed the St. King Tamar Educational University of Patriarchate of Georgia and acquired current status 2010, acquired current title 2015",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Health Care",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "No. 106 Rustaveli street",
+                "City": "Akhaltsikhe",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.sjuni.edu.ge",
+                "college_name": "Samtskhe-Javakheti State University",
+                "university_name": "Samtskhe-javakhetis Sakhelmtsipo Universiteti (SJUNI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1990 as Akhaltsikhe Branch of Ivane Javakhishvili Tbilisi State University, renamed as Meskheti Branch of Ivane Javakhishvili Tbilisi State University 2002, gained autonomy as Public Law Akhaltsikhe Institute 2007, became Akhaltsikhe State Teaching University 2009, reorganized into Samtskhe-Javakheti State Teaching University 2013, acquired current status and title 2014",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education, Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering, Agrarian and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Engineering",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Jana\u0161ia 14",
+                "City": "Zugdidi",
+                "Province": "N/A",
+                "PostCode": "2100",
+                "Website": "http://www.zssu.ge",
+                "college_name": "Shota Meskhia State Teaching University of Zugdidi",
+                "university_name": "\u0160ota Meskia Zugdidis Sakhelmtsipo Sastsavlo Universiteti \u2013 Shota Meskhia Zugdidi State University (ZSSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2007 as higher education institute, acquired current status and title 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Social Sciences and Health",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Health Sciences",
+                    "Law",
+                    "Pharmacy",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "19, Rustavili Avenue",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0118",
+                "Website": "http://www.tafu.edu.ge",
+                "college_name": "Shota Rustaveli Theatre and Film Georgia State University",
+                "university_name": "Saqartvelos '\u0160ota Rustavelis' Sakhelobis Teatrisa da Kinos Sakhelmtsipo Universiteti"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1923, acquired present status 1992.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Drama",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Dance",
+                    "Display and Stage Design",
+                    "Film",
+                    "Music",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Film and TV Media",
+                "FieldsOfStudy": [
+                    "Cinema and Television",
+                    "Film"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Georgian Folk Music and Choreography",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Jazz and Popular Music",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities, Social Sciences, Business and Management",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Journalism",
+                    "Management",
+                    "Mass Communication",
+                    "Media Studies",
+                    "Radio and Television Broadcasting",
+                    "Theatre",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "61 Politkovskaya street",
+                "City": "Sukhumi",
+                "Province": "Abkhazeti",
+                "PostCode": "0186",
+                "Website": "http://www.sou.edu.ge",
+                "college_name": "Sokhumi State University",
+                "university_name": "Sokhumis Sakhelmtsipo Universiteti (SOU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1932 as Sokhumi Pedagogical Institute. Reorganized 1979 into Abkhazian State University. Acquired present status and title 2008. Under the jurisdiction of the Ministry of People's Education of Georgia",
+            "AcademicYear": "September to July (September-December; February-July)",
+            "AdmissionRequirements": [
+                "Competitive entrance examination following general or special secondary school certificate"
+            ],
+            "Languages": [
+                "Abkhazian",
+                "Georgian",
+                "Russian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English",
+                    "German",
+                    "History",
+                    "Law",
+                    "Literature",
+                    "Native Language",
+                    "Oriental Languages",
+                    "Philology",
+                    "Turkish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Diplomacy",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences, Mathematics, Technologies and Pharmacy",
+                "FieldsOfStudy": [
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Pharmacy",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3 Kalistrate Qutateladze St",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0186",
+                "Website": "http://www.sabauni.edu.ge",
+                "college_name": "Sulkhan-Saba Orbeliani University",
+                "university_name": "Sulkhan-Saba Orbeliani Teaching University (SABAUNI)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 2001 as Sulkhan Saba Orbeliani Institute of Philosophy, Theology, History and Culture. Acquired present title and status 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Tourism",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Ethics",
+                    "Modern Languages",
+                    "Religious Art",
+                    "Religious Practice",
+                    "Social Sciences",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Khichauri",
+                "City": "Shuakhevi",
+                "Province": "Adjara",
+                "PostCode": "N/A",
+                "Website": "http://www.tbeli.ge",
+                "college_name": "Tbel Abuserisdze Teaching University of Georgian Patriarchate",
+                "university_name": "Tbel Abuserisdzis Sakhelobis Sastsavlo Universiteti \u2013 Tbel Teaching University (TBELI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agrarian Sciences and Business Administration",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Education",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Public Administration",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Heath Care",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rustavi Highway, N 18-22",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.tdasu.edu.ge",
+                "college_name": "Tbilisi David Agmashenebeli Teaching University",
+                "university_name": "Tbilisis Davit Aghmasheneblis Qastsavlo Universiteti (TDASU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Higher Education",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Dentistry",
+                    "English",
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Dentistry"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3, Sandro Euli Street",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0186",
+                "Website": "http://www.thu.edu.ge",
+                "college_name": "Tbilisi Humanitarian Teaching University",
+                "university_name": "Tbilisis Humanitaruli Universiteti (THU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1992",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian",
+                "Russian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics, Business and Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Care",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "European Studies",
+                    "History",
+                    "Literature",
+                    "Modern Languages",
+                    "Philology",
+                    "Slavic Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Dentistry"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "IV building of the University\n33, Vaja-Pshavela Ave.",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0186",
+                "Website": "http://www.tsmu.edu",
+                "college_name": "Tbilisi State Medical University",
+                "university_name": "Tbilisis Sakhelmtsipo Samedicino Universiteti (TSMU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1918, acquired present status 1992",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian",
+                "Russian",
+                "English",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Clinical Anatomy and Skills",
+                "FieldsOfStudy": [
+                    "Anatomy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Family Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Interventional Radiology",
+                "FieldsOfStudy": [
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language Teaching",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Strategic Development and Research in Medical Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dental Technology",
+                    "Dentistry",
+                    "Orthodontics",
+                    "Stomatology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biology",
+                    "Biophysics",
+                    "Cell Biology",
+                    "Embryology and Reproduction Biology",
+                    "Genetics",
+                    "Histology",
+                    "Immunology",
+                    "Medicine",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Parasitology",
+                    "Pathology",
+                    "Physics",
+                    "Physiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Applied Chemistry",
+                    "Cosmetology",
+                    "Pharmacy",
+                    "Toxicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Medicine and Rehabilitation",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Cardiology",
+                    "Gerontology",
+                    "Neurosciences",
+                    "Oncology",
+                    "Pathology",
+                    "Physical Therapy",
+                    "Rehabilitation and Therapy",
+                    "Respiratory Therapy",
+                    "Sports Medicine",
+                    "Urology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Behavioural Sciences",
+                    "Biochemistry",
+                    "Biology",
+                    "Biophysics",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Community Health",
+                    "Dermatology",
+                    "Embryology and Reproduction Biology",
+                    "Epidemiology",
+                    "Forensic Medicine and Dentistry",
+                    "Genetics",
+                    "Health Administration",
+                    "Histology",
+                    "Hygiene",
+                    "Immunology",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Nutrition",
+                    "Ophthalmology",
+                    "Otorhinolaryngology",
+                    "Parasitology",
+                    "Pathology",
+                    "Pharmacology",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physics",
+                    "Physiology",
+                    "Public Health",
+                    "Radiology",
+                    "Rehabilitation and Therapy",
+                    "Social and Preventive Medicine",
+                    "Sociology",
+                    "Sports Medicine",
+                    "Surgery",
+                    "Toxicology",
+                    "Venereology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Medical Studies and Continuous Medical Education",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Cardiology",
+                    "Forensic Medicine and Dentistry",
+                    "Medicine",
+                    "Neurology",
+                    "Obstetrics and Gynaecology",
+                    "Oncology",
+                    "Ophthalmology",
+                    "Orthopaedics",
+                    "Otorhinolaryngology",
+                    "Paediatrics",
+                    "Parasitology",
+                    "Pathology",
+                    "Psychiatry and Mental Health",
+                    "Radiology",
+                    "Stomatology",
+                    "Surgery",
+                    "Urology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "4 King Solomon II str.",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0114",
+                "Website": "http://geosis.edu.ge",
+                "college_name": "Teaching University Geomedi",
+                "university_name": "Sastsavlo Universiteti Geomedi"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Care Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Health Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Medicine and Rehabilitation",
+                "FieldsOfStudy": [
+                    "Physical Therapy",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "77a M. Kostava str.",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0171",
+                "Website": "https://www.ug.edu.ge",
+                "college_name": "University of Georgia",
+                "university_name": "Sakartvelos Universiteti (UG)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 2004 as Georgian University of Social Sciences",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Architecture",
+                    "Design",
+                    "Educational Administration",
+                    "English",
+                    "Fine Arts",
+                    "History",
+                    "Native Language",
+                    "Oriental Studies",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Administrative Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Public Administration",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Health Administration",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy",
+                    "Public Health"
+                ],
+                "Details": "Dental programme in English"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Mass Communication",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "8-10 Griboedov st.",
+                "City": "Tbilisi",
+                "Province": "N/A",
+                "PostCode": "0108",
+                "Website": "http://www.conservatoire.edu.ge",
+                "college_name": "Vano Sarajishvili Tbilisi State Conservatoire",
+                "university_name": "Tbilisis Vano Saraji\u0161vilis Sakhelobis Sakhelmtsipo Konservatoria \u2013 Tbilisi Vano Sarajishvili State Conservatoire (TSC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1917",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Georgian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Composition and Music Theory",
+                "FieldsOfStudy": [
+                    "Folklore",
+                    "Music Theory and Composition",
+                    "Religious Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Performing",
+                "FieldsOfStudy": [
+                    "Conducting",
+                    "Musical Instruments",
+                    "Opera",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

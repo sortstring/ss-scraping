@@ -1,0 +1,899 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Level 2, The Business Centre\n1 Triq Nikol Musat",
+                "City": "Mosta",
+                "Province": "N/A",
+                "PostCode": "1870",
+                "Website": "https://ideaeducation.com.mt",
+                "college_name": "IDEA Academy",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Created 2005 as IDEA Leadership and Management Institute, a training institute. Acquired current title and status in 2014 and accredited by the Malta Further and Higher Education Authority.",
+            "AcademicYear": "Various intakes throughout the year mainly in March/April and October/November",
+            "AdmissionRequirements": [
+                "Undergraduate programmes a qualification at EQF Level 4 or equivalent is required; Postgraduate programmes, a Bachelor\u2019s qualification at EQF Level 6 or equivalent is required or a Higher Diploma at EQF Level 5 or equivalent with several years of experience"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Air Transport",
+                    "Artificial Intelligence",
+                    "Finance",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Hotel Management",
+                    "Industrial Management",
+                    "Management",
+                    "Nursing",
+                    "Retailing and Wholesaling"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Undergraduate Studies",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Finance",
+                    "Health Sciences",
+                    "Hotel Management",
+                    "Management",
+                    "Nursing",
+                    "Public Administration",
+                    "Surveying and Mapping",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Human Resources",
+                    "Management",
+                    "Nursing",
+                    "Surveying and Mapping"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Air Transport",
+                    "Artificial Intelligence",
+                    "Computer Science",
+                    "Finance",
+                    "Health Administration",
+                    "Hotel Management",
+                    "Industrial Management",
+                    "Management",
+                    "Nursing",
+                    "Retailing and Wholesaling"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 31",
+                "City": "Msida",
+                "Province": "MSD",
+                "PostCode": "1000",
+                "Website": "https://imli.org",
+                "college_name": "IMO International Maritime Law Institute",
+                "university_name": "(IMLI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1988.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "International Maritime Law",
+                "FieldsOfStudy": [
+                    "International Law",
+                    "Maritime Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Aviation Park, Aviation Avenue",
+                "City": "\u0126al Luqa",
+                "Province": "N/A",
+                "PostCode": "LQA 9023",
+                "Website": "https://www.its.edu.mt",
+                "college_name": "Institute of Tourism Studies",
+                "university_name": "(ITS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1987",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Maltese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Bars and Restaurant operations",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culinary Arts",
+                "FieldsOfStudy": [
+                    "Cooking and Catering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Events Management",
+                "FieldsOfStudy": [
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality Events Management",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality Management",
+                "FieldsOfStudy": [
+                    "Hotel Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality Marketing and E-business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "E-Business/Commerce",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality Trades",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel Operations",
+                "FieldsOfStudy": [
+                    "Hotel Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel Operations specializing in Food and Beverage or Rooms Division",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant",
+                    "Hotel Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rooms Division Operations",
+                "FieldsOfStudy": [
+                    "Hotel Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports and Active Leisure",
+                "FieldsOfStudy": [
+                    "Leisure Studies",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports Tourism and Active Leisure",
+                "FieldsOfStudy": [
+                    "Leisure Studies",
+                    "Sports",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tour Guiding",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism Studies",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Portomaso Business Centre\nPortomaso PTM 01",
+                "City": "St. Julian's",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://smceducation.com",
+                "college_name": "Signum Magnum College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 1985 as SMC Education Group and acquired current title in March 2024.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Finance",
+                    "Leadership",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Economy",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Science",
+                "FieldsOfStudy": [
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Business Administration"
+                ],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Information Technology",
+                    "Law",
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Msida",
+                "Province": "N/A",
+                "PostCode": "MSD 2080",
+                "Website": "https://www.um.edu.mt",
+                "college_name": "University of Malta",
+                "university_name": "L-Universit\u00e0 ta' Malta (UM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1592 by the Jesuits as Collegium Melitense and reconstituted as a public university by Grandmaster Pinto 1769. The University is a self-accrediting institution.",
+            "AcademicYear": "October to July (October-January; February-June)",
+            "AdmissionRequirements": [
+                "Matriculation Certificate, including 2 subjects taken at Advanced Level and 3 at Intermediate Level, together with Systems of Knowledge, or equivalent qualifications; passes in the Secondary Education Certificate at Grade 5 or better in Maltese, English Language and Mathematics",
+                "Enquiries to University Registrar or Director, International and EU Office",
+                ""
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Diplomatic Studies",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Gozo",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Valletta",
+                "FieldsOfStudy": [
+                    "Valletta - International Master's programme"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biomedical Cybernetics",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education Resilience and Socio-Emotional Health",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Health Sciences"
+                ],
+                "Details": "European"
+            },
+            {
+                "College": "Educational Research",
+                "FieldsOfStudy": [
+                    "International and Comparative Education",
+                    "Mediterranean Studies"
+                ],
+                "Details": "Euro-Mediterranean"
+            },
+            {
+                "College": "English Language Proficiency",
+                "FieldsOfStudy": [
+                    "English",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Entrepreneurship and Business incubation",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Education and research",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Labour Studies",
+                "FieldsOfStudy": [
+                    "Labour and Industrial Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liberal arts and sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Literacy Education",
+                "FieldsOfStudy": [
+                    "Literacy Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Molecular Medicine and Biobanking",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Art History",
+                    "Arts and Humanities",
+                    "Classical Languages",
+                    "English",
+                    "French",
+                    "Geography",
+                    "German",
+                    "History",
+                    "International Relations and Diplomacy",
+                    "Italian",
+                    "Maltese",
+                    "Oriental Studies",
+                    "Philosophy",
+                    "Sociology",
+                    "Spanish",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Built Environment",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Architectural Restoration",
+                    "Architecture",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Heritage Preservation",
+                    "Structural Architecture",
+                    "Town Planning",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dental Surgery",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics, Management and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Public Administration",
+                    "Social Policy",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Education",
+                    "Educational Sciences",
+                    "Foreign Languages Education",
+                    "Mathematics Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Science Education",
+                    "Technology Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Metallurgical Engineering",
+                    "Power Engineering",
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Food Science",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Midwifery",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Physical Therapy",
+                    "Podiatry",
+                    "Radiology",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information and Communication Technology",
+                "FieldsOfStudy": [
+                    "Artificial Intelligence",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Information Technology",
+                    "Microelectronics",
+                    "Nanotechnology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Laws",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Commercial Law",
+                    "Communication Studies",
+                    "Comparative Law",
+                    "Criminal Law",
+                    "Environmental Studies",
+                    "European Union Law",
+                    "International Law",
+                    "Law",
+                    "Media Studies",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media and Knowledge Sciences",
+                "FieldsOfStudy": [
+                    "Archiving",
+                    "Cognitive Sciences",
+                    "Communication Studies",
+                    "Information Management",
+                    "Information Sciences",
+                    "Library Science",
+                    "Mass Communication",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Surgery",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biochemistry",
+                    "Community Health",
+                    "Medicine",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Physiology",
+                    "Psychiatry and Mental Health",
+                    "Public Health",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Materials Engineering",
+                    "Operations Research",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Wellbeing",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "Family Studies",
+                    "Gender Studies",
+                    "Gerontology",
+                    "Psychology",
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Canon Law",
+                    "Greek (Classical)",
+                    "Hebrew",
+                    "History of Religion",
+                    "Holy Writings",
+                    "Pastoral Studies",
+                    "Philosophy",
+                    "Religious Practice",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aerospace technologies",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Anglo-Italian Studies",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "English Studies",
+                    "Italian",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Baroque Studies",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Confucius",
+                "FieldsOfStudy": [
+                    "Asian Studies",
+                    "Chinese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design and Development of Thinking",
+                "FieldsOfStudy": [
+                    "Cognitive Sciences"
+                ],
+                "Details": "Edward de Bono"
+            },
+            {
+                "College": "Digital Games",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Earth Systems",
+                "FieldsOfStudy": [
+                    "Coastal Studies",
+                    "Earth Sciences",
+                    "Environmental Management",
+                    "Food Science",
+                    "Geography",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "European studies",
+                "FieldsOfStudy": [
+                    "European Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Islands and Small States",
+                "FieldsOfStudy": [
+                    "Geography (Human)",
+                    "Island Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Linguistics",
+                "FieldsOfStudy": [
+                    "Bilingual and Bicultural Education",
+                    "Linguistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Maltese Studies",
+                "FieldsOfStudy": [
+                    "Maltese",
+                    "Mediterranean Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mediterranean",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Dance",
+                    "Geography",
+                    "History",
+                    "Mediterranean Studies",
+                    "Music",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education and Sport",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration and Management",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Space sciences and astronomy",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sustainable Development",
+                "FieldsOfStudy": [
+                    "Development Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sustainable Energy",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism, Travel and Culture",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [
+                    "Accountancy",
+                    "Agriculture",
+                    "Art History",
+                    "Biology",
+                    "Communication Studies",
+                    "Dentistry",
+                    "Economics",
+                    "Education",
+                    "Engineering",
+                    "English",
+                    "Geography",
+                    "Information Technology",
+                    "Italian",
+                    "Law",
+                    "Maltese",
+                    "Management",
+                    "Medicine",
+                    "Music",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physiology",
+                    "Sociology",
+                    "Surgery",
+                    "Theatre",
+                    "Theology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

@@ -1,0 +1,3616 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kalpaka boulevard 13",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1050",
+                "Website": "http://www.lma.lv",
+                "college_name": "Art Academy of Latvia",
+                "university_name": "Latvijas M\u0101kslas akad\u0113mija (LMA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1919.",
+            "AcademicYear": "October to May (October-January; February-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or equivalent; Entrance examination"
+            ],
+            "Languages": [
+                "Latvian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Audio-visual Media",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Display and Stage Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Theory of Art",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Arts and Humanities",
+                    "Restoration of Works of Art"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual Arts (2D)",
+                "FieldsOfStudy": [
+                    "Graphic Design",
+                    "Painting and Drawing",
+                    "Textile Design",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual Plastic Arts (3D)",
+                "FieldsOfStudy": [
+                    "Ceramic Art",
+                    "Fashion Design",
+                    "Glass Art",
+                    "Sculpture",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "K. Valdemara street 161",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1013",
+                "Website": "https://www.ba.lv",
+                "college_name": "BA School of Business and Finance",
+                "university_name": "Banku augstskola (BASBF)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Banking College under the Bank of Latvia in 1992. Acquired present title and accreditation status in 1997.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Latvian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Entrepreneurship and IT",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Information Technology",
+                    "Insurance",
+                    "International Business",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "German",
+                    "Grammar",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Sciences",
+                "FieldsOfStudy": [
+                    "Information Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Lomonosova street 4",
+                "City": "R\u012bga",
+                "Province": "N/A",
+                "PostCode": "LV-1003",
+                "Website": "http://bsa.edu.lv",
+                "college_name": "Baltic International Academy",
+                "university_name": "Baltijas Starptautisk\u0101 akad\u0113mija \u2013 BSA University of Applied Sciences (BSA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded as Baltijas Krievu Instit\u016bts (Baltic Russian Institute) in 1992. Acquired present status in 1999. Acquired present title in 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate; Certificate of Residence; Certificate of English proficiency; Medical certificate; Background check; Letter of Motivation"
+            ],
+            "Languages": [
+                "Latvian",
+                "English",
+                "Russian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Foreign Language Learning",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "German",
+                    "Russian",
+                    "Spanish",
+                    "Swedish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Management and Administration",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business Administration",
+                    "English",
+                    "Russian"
+                ],
+                "Details": "Postgraduate Professional Education"
+            },
+            {
+                "College": "Computer Design",
+                "FieldsOfStudy": [
+                    "Computer Graphics",
+                    "Computer Science",
+                    "Graphic Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Microelectronics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cultural Management",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Computer Graphics",
+                    "Design"
+                ],
+                "Details": "Postgraduate Professional Education"
+            },
+            {
+                "College": "Entrepreneurship",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "International Business",
+                    "Management"
+                ],
+                "Details": "Professional Education"
+            },
+            {
+                "College": "Environmental Design",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Communication Arts",
+                    "Interior Design",
+                    "Visual Arts"
+                ],
+                "Details": "Professional Education"
+            },
+            {
+                "College": "European Studies",
+                "FieldsOfStudy": [
+                    "English",
+                    "European Studies",
+                    "Russian",
+                    "Social Studies"
+                ],
+                "Details": "Postgraduate"
+            },
+            {
+                "College": "European Studies",
+                "FieldsOfStudy": [
+                    "Baltic Languages",
+                    "English",
+                    "European Studies",
+                    "International Relations and Diplomacy",
+                    "Political Sciences",
+                    "Russian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial Management",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Management",
+                "FieldsOfStudy": [
+                    "Human Resources",
+                    "Management"
+                ],
+                "Details": "Interuniversity Postgraduate Professional Education"
+            },
+            {
+                "College": "Jurisprudence (Law)",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "Professional Education"
+            },
+            {
+                "College": "Private Law",
+                "FieldsOfStudy": [
+                    "Private Law"
+                ],
+                "Details": "Postgraduate Professional Education"
+            },
+            {
+                "College": "Public Relations",
+                "FieldsOfStudy": [
+                    "Baltic Languages",
+                    "Marketing",
+                    "Public Relations",
+                    "Russian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Regional Economics and Economic Policy",
+                "FieldsOfStudy": [
+                    "Economic and Finance Policy",
+                    "Economics",
+                    "English",
+                    "Russian"
+                ],
+                "Details": "International Doctoral Studies"
+            },
+            {
+                "College": "Small and Medium Business Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management",
+                    "Small Business",
+                    "Tourism"
+                ],
+                "Details": "Professional Education"
+            },
+            {
+                "College": "Tourism and Hospitality Management",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Translation and Interpretation",
+                "FieldsOfStudy": [
+                    "Baltic Languages",
+                    "English",
+                    "Russian",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "13 Vien\u012bbas Street",
+                "City": "Daugavpils",
+                "Province": "N/A",
+                "PostCode": "LV-5401",
+                "Website": "https://du.lv",
+                "college_name": "Daugavpils University",
+                "university_name": "Daugavpils universit\u0101te (DU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Daugavpils State Teachers\u2019 Institute (1921 \u2013 1952). Acquired present status and title in 2001.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school leaving certificate; Certificate of English language proficiency"
+            ],
+            "Languages": [
+                "Latvian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Innovative Microscopy",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "G. Liberts'"
+            },
+            {
+                "College": "Oral History",
+                "FieldsOfStudy": [
+                    "History",
+                    "Regional Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Management",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Psychology",
+                    "Management",
+                    "Pedagogy",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Social Work",
+                    "Vocational Counselling",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Baltic Languages",
+                    "Cultural Studies",
+                    "English",
+                    "Foreign Languages Education",
+                    "French",
+                    "German",
+                    "History",
+                    "Humanities and Social Science Education",
+                    "Linguistics",
+                    "Literature",
+                    "Philology",
+                    "Polish",
+                    "Russian",
+                    "Secondary Education",
+                    "Slavic Languages",
+                    "Social Sciences",
+                    "Spanish",
+                    "Swedish",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music and Arts",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Art History",
+                    "Art Management",
+                    "Computer Graphics",
+                    "Conducting",
+                    "Design",
+                    "Fine Arts",
+                    "Graphic Arts",
+                    "Music",
+                    "Music Education",
+                    "Musical Instruments",
+                    "Secondary Education",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences and Mathematics",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Chemistry",
+                    "Computer Education",
+                    "Computer Science",
+                    "Environmental Studies",
+                    "Geography",
+                    "Information Technology",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Natural Sciences",
+                    "Physical Therapy",
+                    "Physics",
+                    "Physiology",
+                    "Science Education",
+                    "Secondary Education",
+                    "Solid State Physics",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law",
+                    "Psychology",
+                    "Social Psychology",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Comparative Studies",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ecology",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Environmental Studies",
+                    "Forest Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Latgale Region Research",
+                "FieldsOfStudy": [
+                    "Regional Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Investigation",
+                "FieldsOfStudy": [
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sustainable Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systematic Biology",
+                "FieldsOfStudy": [
+                    "Biology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Lomonosova 1",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1019",
+                "Website": "https://www.augstskola.lv",
+                "college_name": "EKA University of Applied Sciences",
+                "university_name": "Ekonomikas un kult\u016bras augstskola EKA \u2013 The University of Economics and Culture UCEC"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1998.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school leaving certificate; Entrance examination"
+            ],
+            "Languages": [
+                "Latvian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Cultural Management",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Interior Design",
+                    "Management",
+                    "Marketing",
+                    "Parks and Recreation",
+                    "Sales Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "Modern Languages",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1 Lomonosova street, building 7",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1019",
+                "Website": "http://www.isma.lv",
+                "college_name": "ISMA University of Applied Sciences",
+                "university_name": "Inform\u0101cijas Sist\u0113mu Mened\u017ementa Augstskola (ISMA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Established in 1994.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate; Language proficiency certificate aligned with program standards"
+            ],
+            "Languages": [
+                "Latvian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Communications Department",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "English",
+                    "German",
+                    "Grammar",
+                    "Spanish",
+                    "Translation and Interpretation",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Technologies and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Artificial Intelligence",
+                    "Business Administration",
+                    "Business Computing",
+                    "Chemistry",
+                    "Computer Engineering",
+                    "Computer Graphics",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Data Processing",
+                    "Design",
+                    "E-Business/Commerce",
+                    "Electronic Engineering",
+                    "Information Management",
+                    "Information Technology",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Operations Research",
+                    "Physics",
+                    "Software Engineering",
+                    "Statistics",
+                    "Telecommunications Engineering",
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cultural Studies",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Art History",
+                    "Computer Graphics",
+                    "Cultural Studies",
+                    "Ethics",
+                    "Graphic Design",
+                    "Interior Design",
+                    "Marketing",
+                    "Photography",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Civil Law",
+                    "Civil Security",
+                    "Commercial Law",
+                    "European Union Law",
+                    "Fiscal Law",
+                    "Information Technology",
+                    "Insurance",
+                    "Labour Law",
+                    "Law",
+                    "Marketing",
+                    "Protective Services",
+                    "Psychology",
+                    "Real Estate",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Economics",
+                    "Environmental Studies",
+                    "Finance",
+                    "Information Sciences",
+                    "Management",
+                    "Marketing",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Marketing",
+                "FieldsOfStudy": [
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Safety Engineering",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "K. Barona street 1",
+                "City": "R\u012bga",
+                "Province": "N/A",
+                "PostCode": "LV-1050",
+                "Website": "http://www.jvlma.lv",
+                "college_name": "J\u0101zeps V\u012btols Latvian Academy of Music",
+                "university_name": "J\u0101zepa V\u012btola Latvijas M\u016bzikas akad\u0113mija (JVLMA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1919 as Conservatoire, acquired present status and title 1991.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school leaving certificate; Admission examination"
+            ],
+            "Languages": [
+                "Latvian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accompanists",
+                "FieldsOfStudy": [
+                    "Music",
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chamber Ensemble and Piano Accompaniment",
+                "FieldsOfStudy": [
+                    "Music",
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Choir Conducting",
+                "FieldsOfStudy": [
+                    "Conducting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Choreography",
+                "FieldsOfStudy": [
+                    "Dance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Composition",
+                "FieldsOfStudy": [
+                    "Music Theory and Composition"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Compulsory Piano",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Early Music",
+                "FieldsOfStudy": [
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Jazz Music",
+                "FieldsOfStudy": [
+                    "Jazz and Popular Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music Education",
+                "FieldsOfStudy": [
+                    "Music Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music Technology",
+                "FieldsOfStudy": [
+                    "Music",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Musicology",
+                "FieldsOfStudy": [
+                    "Musicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Orchestra Conducting",
+                "FieldsOfStudy": [
+                    "Conducting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Piano",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Research",
+                "FieldsOfStudy": [
+                    "Musicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Strings",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Vocal Music",
+                "FieldsOfStudy": [
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Wind Instruments",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2 Liela Street",
+                "City": "Jelgava",
+                "Province": "N/A",
+                "PostCode": "LV-3001",
+                "Website": "https://www.lbtu.lv/lv",
+                "college_name": "Latvia University of Life Sciences and Technologies",
+                "university_name": "Latvijas Lauksaimniec\u012bbas universit\u0101te (LLU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Department of Riga Polytechnical Institute in 1863. Became the Jelgava Academy of Agriculture in 1936. Acquired present status in 2001. Earned title in 2018.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school leaving certificate; Certificate of English proficiency or interview; Entrance examination; Letter of recommendation"
+            ],
+            "Languages": [
+                "English",
+                "German",
+                "Latvian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Crop Production",
+                    "Horticulture",
+                    "Plant and Crop Protection",
+                    "Soil Management",
+                    "Soil Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Art Education",
+                    "Educational Technology",
+                    "Engineering",
+                    "Machine Building",
+                    "Pedagogy",
+                    "Technology",
+                    "Vocational Counselling",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Technology",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Food Science",
+                    "Food Technology",
+                    "Hotel and Restaurant",
+                    "Hotel Management",
+                    "Nutrition"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Ecology",
+                    "Forest Biology",
+                    "Forest Economics",
+                    "Forest Products",
+                    "Forestry",
+                    "Safety Engineering",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electronics and Automation",
+                    "Information Technology",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rural Engineering",
+                "FieldsOfStudy": [
+                    "Architecture and Planning",
+                    "Civil Engineering",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Landscape Architecture",
+                    "Regional Planning",
+                    "Surveying and Mapping",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Public Administration",
+                    "Public Relations",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Food Science",
+                    "Hygiene",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "24 Ludzas Street",
+                "City": "R\u012bga",
+                "Province": "N/A",
+                "PostCode": "LV-1003",
+                "Website": "http://www.lka.edu.lv",
+                "college_name": "Latvian Academy of Culture",
+                "university_name": "Latvijas Kult\u016bras akad\u0113mija (LKA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1990. An autonomous Institution financed by the State.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school leaving certificate; Entrance examination"
+            ],
+            "Languages": [
+                "Latvian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Cultural Theory and History",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Folklore",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Intercultural Communication and Foreign Languages",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Danish",
+                    "English",
+                    "French",
+                    "German",
+                    "History",
+                    "International Relations and Diplomacy",
+                    "Italian",
+                    "Literature",
+                    "Modern Languages",
+                    "Norwegian",
+                    "Polish",
+                    "Spanish",
+                    "Swedish",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology and Management of Culture",
+                "FieldsOfStudy": [
+                    "Art Management",
+                    "Cultural Studies",
+                    "Museum Management",
+                    "Museum Studies",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theatre and Audiovisual Arts",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Cinema and Television",
+                    "Dance",
+                    "Film",
+                    "Theatre",
+                    "Video"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Br\u012bv\u012bbas gatve 333",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1006",
+                "Website": "http://www.lspa.lv",
+                "college_name": "Latvian Academy of Sport Education",
+                "university_name": "Latvijas Sporta pedagogijas akad\u0113mija (LASE)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as the Latvian Institute of Physical Education in 1921. Acquired present title in 1991. Acquired present status in 1998.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate; Knowledge of Latvian or English language; Entrance examination; Admissions interview"
+            ],
+            "Languages": [
+                "English",
+                "Latvian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Anatomy",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biochemistry",
+                    "Physiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Gymnastics",
+                "FieldsOfStudy": [
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Heavy Athletics",
+                "FieldsOfStudy": [
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informatics",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Computer Science",
+                    "Mechanics",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Skiing",
+                "FieldsOfStudy": [
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sport Management",
+                "FieldsOfStudy": [
+                    "Social Sciences",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports Games",
+                "FieldsOfStudy": [
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports Medicine",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Physical Therapy",
+                    "Rehabilitation and Therapy",
+                    "Sports Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Swimming",
+                "FieldsOfStudy": [
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theory",
+                "FieldsOfStudy": [
+                    "Pedagogy",
+                    "Physical Education",
+                    "Psychology",
+                    "Sports",
+                    "Sports Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Vien\u012bbas 23",
+                "City": "J\u016brmala",
+                "Province": "N/A",
+                "PostCode": "LV-2010",
+                "Website": "http://www.kra.lv",
+                "college_name": "Latvian Christian Academy",
+                "university_name": "Latvijas Krist\u012bg\u0101 akad\u0113mija (LCA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1993. Acquired present status in 1997.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school leaving certificate; Letter of motivation"
+            ],
+            "Languages": [
+                "Latvian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Biblical Arts",
+                "FieldsOfStudy": [
+                    "Religious Art"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Relations",
+                "FieldsOfStudy": [
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "12 k-1, Flotes Street",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1016",
+                "Website": "http://www.latja.lv",
+                "college_name": "Latvian Maritime Academy",
+                "university_name": "Latvijas J\u016bras akad\u0113mija (LMA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as department of Maritime Studies of Kaliningrad Technical Fishery Institute (Riga) in 1989. Acquired present status and title in 1993.",
+            "AcademicYear": "September to September",
+            "AdmissionRequirements": [
+                "Secondary school certificate; Entrance examination"
+            ],
+            "Languages": [
+                "Latvian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "LMA Research and Development",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Marine Transport",
+                    "Metal Techniques",
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "LMA Training",
+                "FieldsOfStudy": [
+                    "Marine Transport"
+                ],
+                "Details": "TC"
+            },
+            {
+                "College": "Practical Training",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Metal Techniques",
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Engineering",
+                "FieldsOfStudy": [
+                    "Marine Engineering",
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Transport",
+                "FieldsOfStudy": [
+                    "Marine Transport",
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Transportation - Marine Electrical Automation",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Human Resources",
+                    "Marine Transport",
+                    "Power Engineering",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Studies",
+                "FieldsOfStudy": [
+                    "Marine Engineering",
+                    "Marine Science and Oceanography",
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "14 Liel\u0101 street",
+                "City": "Liep\u0101ja",
+                "Province": "N/A",
+                "PostCode": "LV-3401",
+                "Website": "http://www.liepu.lv",
+                "college_name": "Liepaja University",
+                "university_name": "Liep\u0101jas universit\u0101te (LPA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1954. Acquired present title and status 2008.",
+            "AcademicYear": "September to June (September-December; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate; Entrance examination"
+            ],
+            "Languages": [
+                "Latvian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Adult Education",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Education",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Baltic Languages",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Design",
+                    "English",
+                    "European Languages",
+                    "European Studies",
+                    "French",
+                    "German",
+                    "Linguistics",
+                    "Media Studies",
+                    "Philology",
+                    "Russian",
+                    "Translation and Interpretation",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Industrial and Organizational Psychology",
+                    "Management",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy and Social Work",
+                "FieldsOfStudy": [
+                    "Art Therapy",
+                    "Dance",
+                    "Education",
+                    "Musical Instruments",
+                    "Pedagogy",
+                    "Rehabilitation and Therapy",
+                    "Secondary Education",
+                    "Singing",
+                    "Social Psychology",
+                    "Social Welfare",
+                    "Social Work",
+                    "Sports",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Engineering",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Engineering",
+                    "Mathematics",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ezermalas street 6/8",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1014",
+                "Website": "https://www.naa.mil.lv/",
+                "college_name": "National Defence Academy of Latvia",
+                "university_name": "Latvijas Nacion\u0101l\u0101 aizsardz\u012bbas akad\u0113mija (NAA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Latvian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Military Science",
+                "FieldsOfStudy": [
+                    "Military Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Atbr\u012bvo\u0161anas aleja 90",
+                "City": "R\u0113zekne",
+                "Province": "N/A",
+                "PostCode": "LV-4601",
+                "Website": "http://www.ru.lv",
+                "college_name": "Rezekne Academy of Technologies",
+                "university_name": "R\u0113zeknes Tehnolo\u0123iju akad\u0113mija \u2013 R\u0113zeknes augstskola (RTA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded from the branches of the University of Latvia and Riga Technical University in 1993. Earned present status and title in 2016.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Latvian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Commercial Law",
+                    "Economics",
+                    "Finance",
+                    "Hotel Management",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Design",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Business Education",
+                    "Design",
+                    "Education",
+                    "Foreign Languages Education",
+                    "Household Management",
+                    "Humanities and Social Science Education",
+                    "Interior Design",
+                    "Pedagogy",
+                    "Rehabilitation and Therapy",
+                    "Science Education",
+                    "Special Education",
+                    "Teacher Training",
+                    "Translation and Interpretation",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "E-Business/Commerce",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Law",
+                "FieldsOfStudy": [
+                    "Archiving",
+                    "Arts and Humanities",
+                    "Baltic Languages",
+                    "Geography",
+                    "History",
+                    "Literature",
+                    "Philology",
+                    "Religious Education",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Me\u017ekalnu Street 9",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1058",
+                "Website": "http://www.rai.lv",
+                "college_name": "Riga Aeronautical Institute",
+                "university_name": "R\u012bgas Aeronavig\u0101cijas instit\u016bts (RAI)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1942, acquired present status 1992.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Latvian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Aviation Engineering",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Air Transport",
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Maintenance Technology",
+                    "Power Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronics",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport Management",
+                "FieldsOfStudy": [
+                    "Air Transport",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Str\u0113lnieku street 4 k-2",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1010",
+                "Website": "https://www.rgsl.edu.lv",
+                "college_name": "Riga Graduate School of Law",
+                "university_name": "R\u012bgas Juridisk\u0101 augstkola (RGSL)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "A specialized law school founded in 1998.",
+            "AcademicYear": "August to June",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "EU Law and Policy",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "European Studies",
+                    "European Union Law",
+                    "International Law",
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "International and EU Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "European Union Law",
+                    "Human Rights",
+                    "International Law",
+                    "Public Law"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Law and Business",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Comparative Law",
+                    "Constitutional Law",
+                    "Demography and Population",
+                    "Economics",
+                    "English",
+                    "Ethics",
+                    "Finance",
+                    "French",
+                    "German",
+                    "Human Rights",
+                    "Information Management",
+                    "International Economics",
+                    "International Law",
+                    "Law",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Diplomacy",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Comparative Politics",
+                    "Economics",
+                    "English",
+                    "French",
+                    "German",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Commercial Law",
+                    "Economics",
+                    "Finance",
+                    "International Law",
+                    "Law",
+                    "Taxation"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Legal Linguistics",
+                "FieldsOfStudy": [
+                    "Comparative Law",
+                    "European Union Law",
+                    "Law",
+                    "Linguistics",
+                    "Philology",
+                    "Terminology",
+                    "Translation and Interpretation"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Public International Law and Human Rights",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Criminal Law",
+                    "Human Rights",
+                    "International Law",
+                    "Public Law"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Transborder Commercial Law",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Commercial Law",
+                    "International Business",
+                    "International Law"
+                ],
+                "Details": "Graduate"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Dzirciema iela 16",
+                "City": "R\u012bga",
+                "Province": "N/A",
+                "PostCode": "LV-1007",
+                "Website": "http://www.rsu.lv",
+                "college_name": "Riga Stradi\u0146\u0161 University",
+                "university_name": "R\u012bgas Stradi\u0146a universit\u0101te (RSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Riga Medical Institute in 1950. Became Latvian Academy of Medicine in 1990. Acquired present status and title in 2002.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary education or secondary medical education (Dokuments par vid\u00e9jo izglitibu)"
+            ],
+            "Languages": [
+                "Latvian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Liepaja",
+                "FieldsOfStudy": [
+                    "Medical Auxiliaries",
+                    "Midwifery",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communications",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Communication Studies",
+                    "English",
+                    "French",
+                    "German",
+                    "Journalism",
+                    "Management",
+                    "Psychology",
+                    "Public Relations",
+                    "Sociology",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Cardiology",
+                    "Dentistry",
+                    "Dermatology",
+                    "Endocrinology",
+                    "Forensic Medicine and Dentistry",
+                    "Gastroenterology",
+                    "Medicine",
+                    "Ophthalmology",
+                    "Orthopaedics",
+                    "Paediatrics",
+                    "Radiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dental Hygiene",
+                    "Dental Technology",
+                    "Dentistry",
+                    "Oral Pathology",
+                    "Orthodontics",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Doctoral Studies",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Medicine",
+                    "Pharmacy",
+                    "Political Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "European Studies",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Business Administration",
+                    "Communication Studies",
+                    "Economics",
+                    "European Studies",
+                    "European Union Law",
+                    "Government",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Marketing",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "European Union Law",
+                    "International Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Midwifery",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Arts and Humanities",
+                    "Biochemistry",
+                    "Epidemiology",
+                    "Ethics",
+                    "Microbiology",
+                    "Philosophy",
+                    "Physiology",
+                    "Psychology",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rehabilitation",
+                "FieldsOfStudy": [
+                    "Art Therapy",
+                    "Dental Technology",
+                    "Nutrition",
+                    "Occupational Therapy",
+                    "Orthodontics",
+                    "Physical Therapy",
+                    "Rehabilitation and Therapy",
+                    "Social Work",
+                    "Speech Therapy and Audiology",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1 Kalku Street",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1658",
+                "Website": "http://www.rtu.lv",
+                "college_name": "Riga Technical University",
+                "university_name": "R\u012bgas Tehnisk\u0101 universit\u0101te (RTU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1862 as Riga Polytechnical Institute. Became part of Latvia University 1919. Renamed Riga Polytechnical Institute 1958. Acquired present status and title 1990.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Centralized examinations when graduating from secondary education"
+            ],
+            "Languages": [
+                "Latvian",
+                "Russian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "C\u0113sis",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Environmental Studies",
+                    "Heating and Refrigeration",
+                    "Materials Engineering",
+                    "Power Engineering",
+                    "Real Estate"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Daugavpils",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Engineering",
+                    "Heating and Refrigeration",
+                    "Information Technology",
+                    "Machine Building",
+                    "Mechanics",
+                    "Power Engineering",
+                    "Railway Transport",
+                    "Road Transport",
+                    "Safety Engineering",
+                    "Transport Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liepaja",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Construction Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Heating and Refrigeration",
+                    "Human Resources",
+                    "Machine Building",
+                    "Management",
+                    "Mechanics",
+                    "Metallurgical Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Power Engineering",
+                    "Production Engineering",
+                    "Telecommunications Engineering",
+                    "Transport Management",
+                    "Waste Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ventspils",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Engineering",
+                    "Information Sciences",
+                    "Machine Building",
+                    "Management",
+                    "Mechanics",
+                    "Power Engineering",
+                    "Safety Engineering",
+                    "Taxation",
+                    "Telecommunications Engineering",
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "BALTECH Study",
+                "FieldsOfStudy": [
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Distance Education",
+                "FieldsOfStudy": [
+                    "Air Transport",
+                    "Automotive Engineering",
+                    "Construction Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Heating and Refrigeration",
+                    "Hydraulic Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Railway Engineering",
+                    "Surveying and Mapping",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture and Town Planning",
+                "FieldsOfStudy": [
+                    "Architectural Restoration",
+                    "Architecture",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "Fine Arts",
+                    "Interior Design",
+                    "Landscape Architecture",
+                    "Textile Design",
+                    "Town Planning"
+                ],
+                "Details": "FAUP"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Bridge Engineering",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Geological Engineering",
+                    "Heating and Refrigeration",
+                    "Industrial Design",
+                    "Materials Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Road Engineering",
+                    "Structural Architecture",
+                    "Surveying and Mapping",
+                    "Transport Engineering",
+                    "Water Science"
+                ],
+                "Details": "FCE"
+            },
+            {
+                "College": "Computer Science and Information Technology",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Computer Graphics",
+                    "Computer Science",
+                    "Electronics and Automation",
+                    "Information Management",
+                    "Information Technology",
+                    "Mathematics",
+                    "Software Engineering",
+                    "Statistics"
+                ],
+                "Details": "FCSIT"
+            },
+            {
+                "College": "E-Learning Technologies and Humanities",
+                "FieldsOfStudy": [
+                    "Applied Linguistics",
+                    "Arts and Humanities",
+                    "Distance Education",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronics and Telecommunications",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "FET"
+            },
+            {
+                "College": "Engineering Economics and Management",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Occupational Health",
+                    "Real Estate",
+                    "Transport Management"
+                ],
+                "Details": "FEEM"
+            },
+            {
+                "College": "Materials Science and Applied Chemistry",
+                "FieldsOfStudy": [
+                    "Applied Chemistry",
+                    "Chemical Engineering",
+                    "Materials Engineering",
+                    "Organic Chemistry",
+                    "Physics",
+                    "Polymer and Plastics Technology",
+                    "Textile Design"
+                ],
+                "Details": "FMSAC"
+            },
+            {
+                "College": "Power and Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical and Electronic Engineering",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Heating and Refrigeration",
+                    "Power Engineering"
+                ],
+                "Details": "FPEE"
+            },
+            {
+                "College": "Transport and Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Biomedical Engineering",
+                    "Mechanical Engineering",
+                    "Mechanics",
+                    "Nanotechnology",
+                    "Railway Transport",
+                    "Road Transport",
+                    "Safety Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "FTME"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Pedagogy",
+                    "Philosophy",
+                    "Sociology",
+                    "Sports",
+                    "Teacher Training",
+                    "Vocational Education"
+                ],
+                "Details": "IH"
+            },
+            {
+                "College": "Languages",
+                "FieldsOfStudy": [
+                    "Baltic Languages",
+                    "English",
+                    "German",
+                    "Modern Languages",
+                    "Translation and Interpretation"
+                ],
+                "Details": "IL"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "Riga - RBS"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3 Me\u017ea Street",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1048",
+                "Website": "https://www.riseba.lv",
+                "college_name": "RISEBA University of Applied Sciences",
+                "university_name": "Biznesa, m\u0101kslas un tehnolo\u0123iju augstskola RISEBA (RISEBA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1992. Acquired present status in 2000.",
+            "AcademicYear": "September to June (September - January; January - June)",
+            "AdmissionRequirements": [
+                "Application form; Valid passport copy; High School completion certificate and\ntranscript of records; English language certificate (IELTS 5",
+                "5); Admission test (online)"
+            ],
+            "Languages": [
+                "Latvian",
+                "Russian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Architecture",
+                    "Media Studies",
+                    "Structural Architecture"
+                ],
+                "Details": "Undergraduate Studies"
+            },
+            {
+                "College": "Audiovisual Media Arts",
+                "FieldsOfStudy": [
+                    "Aesthetics",
+                    "Art History",
+                    "Art Management",
+                    "Cinema and Television",
+                    "Communication Arts",
+                    "English",
+                    "Film",
+                    "Journalism",
+                    "Law",
+                    "Philosophy",
+                    "Psychology",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "Undergraduate Studies"
+            },
+            {
+                "College": "Business Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Economics",
+                    "Finance",
+                    "Information Technology",
+                    "Management",
+                    "Marketing",
+                    "Psychology"
+                ],
+                "Details": "Postgraduate Studies"
+            },
+            {
+                "College": "Business Management and Administration of Organizations",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business Administration",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Modern Languages",
+                    "Operations Research",
+                    "Safety Engineering"
+                ],
+                "Details": "Doctoral programme"
+            },
+            {
+                "College": "Business Psychology",
+                "FieldsOfStudy": [
+                    "Industrial and Organizational Psychology"
+                ],
+                "Details": "Undergraduate Studies"
+            },
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Data Processing",
+                    "English",
+                    "European Union Law",
+                    "Finance",
+                    "Human Resources",
+                    "Information Technology",
+                    "International Business",
+                    "International Economics",
+                    "International Law",
+                    "Labour Law",
+                    "Management",
+                    "Marketing",
+                    "Social Psychology",
+                    "Statistics",
+                    "Transport Management"
+                ],
+                "Details": "Undergraduate Studies"
+            },
+            {
+                "College": "E- Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business Computing",
+                    "Computer Graphics",
+                    "E-Business/Commerce",
+                    "European Union Law",
+                    "Information Technology",
+                    "Marketing",
+                    "Multimedia",
+                    "Social Psychology",
+                    "Statistics"
+                ],
+                "Details": "Undergraduate Studies"
+            },
+            {
+                "College": "European Business Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Communication Studies",
+                    "Economics",
+                    "European Studies",
+                    "Finance",
+                    "Information Technology",
+                    "Law",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "Undergraduate Studies"
+            },
+            {
+                "College": "Human Resource Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "European Union Law",
+                    "Human Resources",
+                    "Labour Law",
+                    "Management",
+                    "Occupational Health",
+                    "Social Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Relations and Advertising Management",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Marketing",
+                    "Mass Communication",
+                    "Psychology",
+                    "Public Relations"
+                ],
+                "Details": "Undergraduate Studies"
+            },
+            {
+                "College": "RISEBA MBA",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "Postgraduate Studies"
+            },
+            {
+                "College": "Work Safety",
+                "FieldsOfStudy": [
+                    "Occupational Health",
+                    "Safety Engineering"
+                ],
+                "Details": "Foundation Degree"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Strelnieku street 4a",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1010",
+                "Website": "http://www.sseriga.edu",
+                "college_name": "Stockholm School of Economics in Riga",
+                "university_name": "(SSE Riga)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded by the Stockholm School of Economics and the Latvian Government in 1994.",
+            "AcademicYear": "August to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate; Entrance examination"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Anthropology",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Development Studies",
+                    "Ethics",
+                    "Leadership",
+                    "Management",
+                    "Mathematics",
+                    "Philosophy",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Econometrics",
+                    "Economics",
+                    "Finance",
+                    "International Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages",
+                "FieldsOfStudy": [
+                    "Baltic Languages",
+                    "English",
+                    "French",
+                    "German",
+                    "Russian",
+                    "Spanish",
+                    "Swedish"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Lomonosova Street 1",
+                "City": "R\u012bga",
+                "Province": "N/A",
+                "PostCode": "LV-1019",
+                "Website": "http://www.tsi.lv",
+                "college_name": "Transport and Telecommunication Institute",
+                "university_name": "Transporta un Sakaru Instit\u016bts \u2013 Hochschule f\u00fcr Transport und Telekommunikation (TSI)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded as School of Aviation Technicians and Mechanics in 1919. Acquired present status in 1999. Operates Latgalian branch in Daugavpils since 2003.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school leaving certificate; Certificate of English proficiency"
+            ],
+            "Languages": [
+                "Latvian",
+                "Russian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "TTI IT",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Latgalian",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Economics",
+                    "Information Management",
+                    "Information Sciences",
+                    "Management",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Telecommunications",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport and Logistics",
+                "FieldsOfStudy": [
+                    "Air Transport",
+                    "Maintenance Technology",
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "68 Graudu Street",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1058",
+                "Website": "http://www.turiba.lv",
+                "college_name": "Tur\u012bba University",
+                "university_name": "Biznesa augstskola Tur\u012bba (SBAT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1993.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate; Certificate of English proficiency; Entrance examination"
+            ],
+            "Languages": [
+                "Latvian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Business Administration",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Tourism",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Leisure Studies",
+                    "Public Relations",
+                    "Tourism"
+                ],
+                "Details": "Tourism and Hospitality Management"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Raina boulevard 19",
+                "City": "Riga",
+                "Province": "N/A",
+                "PostCode": "LV-1586",
+                "Website": "https://www.lu.lv",
+                "college_name": "University of Latvia",
+                "university_name": "Latvijas universit\u0101te (UL)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1919. Acquired present status 1990.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Competitive entrance according to the results of the centralized examination following general or special secondary school certificate"
+            ],
+            "Languages": [
+                "Latvian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Baltic Studies",
+                "FieldsOfStudy": [
+                    "Baltic Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Studies and Management",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "European and Transition Studies",
+                "FieldsOfStudy": [
+                    "European Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Family Health Education",
+                "FieldsOfStudy": [
+                    "Health Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Gender Studies",
+                "FieldsOfStudy": [
+                    "Gender Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Judaic Studies",
+                "FieldsOfStudy": [
+                    "Judaic Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "Baltic Languages",
+                    "Chinese",
+                    "English",
+                    "French",
+                    "German",
+                    "Italian",
+                    "Japanese",
+                    "Russian",
+                    "Spanish",
+                    "Swedish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Lithuanistics",
+                "FieldsOfStudy": [
+                    "Baltic Languages",
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "North American Studies",
+                "FieldsOfStudy": [
+                    "American Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pre-Studies Training",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "P. Stradi\u0146\u0161 Medical College - LU PSK",
+                "FieldsOfStudy": [
+                    "Aesthetics",
+                    "Medicine",
+                    "Nursing",
+                    "Podiatry",
+                    "Public Health",
+                    "Social and Preventive Medicine"
+                ],
+                "Details": "https://www.psk.lu.lv"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Biotechnology",
+                    "Botany",
+                    "Ecology",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Physiology",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry",
+                "FieldsOfStudy": [
+                    "Analytical Chemistry",
+                    "Chemistry",
+                    "Environmental Studies",
+                    "Food Technology",
+                    "Inorganic Chemistry",
+                    "Organic Chemistry",
+                    "Physical Chemistry",
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing",
+                "FieldsOfStudy": [
+                    "Computer Education",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Information Technology",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Demography and Population",
+                    "E-Business/Commerce",
+                    "Economics",
+                    "Environmental Management",
+                    "European Studies",
+                    "Finance",
+                    "Insurance",
+                    "International Business",
+                    "International Economics",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Safety Engineering",
+                    "Statistics",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education, Psychology and Art",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Art Education",
+                    "Computer Education",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "Foreign Languages Education",
+                    "Handicrafts",
+                    "Health Education",
+                    "Home Economics",
+                    "Humanities and Social Science Education",
+                    "Literature",
+                    "Native Language Education",
+                    "Pedagogy",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Special Education",
+                    "Sports",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geography and Earth Sciences",
+                "FieldsOfStudy": [
+                    "Earth Sciences",
+                    "Environmental Studies",
+                    "Geography",
+                    "Geography (Human)",
+                    "Geology",
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Philosophy",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Contemporary History",
+                    "History",
+                    "Logic",
+                    "Medieval Studies",
+                    "Modern History",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Asian Studies",
+                    "Baltic Languages",
+                    "Classical Languages",
+                    "Cultural Studies",
+                    "English",
+                    "English Studies",
+                    "Finnish",
+                    "French",
+                    "German",
+                    "Hungarian",
+                    "Linguistics",
+                    "Oriental Languages",
+                    "Philology",
+                    "Romance Languages",
+                    "Russian",
+                    "Scandinavian Languages",
+                    "Slavic Languages",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "European Union Law",
+                    "History of Law",
+                    "Human Rights",
+                    "International Law",
+                    "Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Histology",
+                    "Medicine",
+                    "Nursing",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacy",
+                    "Social and Preventive Medicine",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics and Mathematics",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Astronomy and Space Science",
+                    "Astrophysics",
+                    "Atomic and Molecular Physics",
+                    "Computer Science",
+                    "Laser Engineering",
+                    "Mathematics",
+                    "Mechanics",
+                    "Optics",
+                    "Optometry",
+                    "Physics",
+                    "Polymer and Plastics Technology",
+                    "Science Education",
+                    "Statistics",
+                    "Thermal Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Cognitive Sciences",
+                    "Communication Studies",
+                    "Information Sciences",
+                    "Library Science",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Ethics",
+                    "History of Religion",
+                    "Religion",
+                    "Religious Education",
+                    "Religious Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Social and Political Sciences",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Information Sciences",
+                    "International Relations and Diplomacy",
+                    "Media Studies",
+                    "Political Sciences",
+                    "Regional Studies",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Astronomy",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Atomic Physics and Spectroscopy",
+                "FieldsOfStudy": [
+                    "Atomic and Molecular Physics",
+                    "Optics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Botany",
+                    "Ecology",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Natural Resources",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cardiology",
+                "FieldsOfStudy": [
+                    "Cardiology",
+                    "Epidemiology",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Educational Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Experimental and Clinical Medicine",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Cell Biology",
+                    "Diabetology",
+                    "Endocrinology",
+                    "Medicine",
+                    "Oncology",
+                    "Physiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geodesy and Geo-informatics",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Geophysics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History of Latvia",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Ethnology",
+                    "History",
+                    "Medieval Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Latvian Language",
+                "FieldsOfStudy": [
+                    "Grammar",
+                    "Linguistics",
+                    "Native Language",
+                    "Terminology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Literature, Folklore and Art",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Comparative Literature",
+                    "Folklore",
+                    "Literature",
+                    "Musicology",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Computer Science",
+                "FieldsOfStudy": [
+                    "Artificial Intelligence",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Mathematics and Computer Science",
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Microbiology and Biotechnology",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Cell Biology",
+                    "Food Technology",
+                    "Microbiology",
+                    "Physiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy",
+                "FieldsOfStudy": [
+                    "Computer Education",
+                    "Continuing Education",
+                    "Distance Education",
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy and Sociology",
+                "FieldsOfStudy": [
+                    "Philosophy",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Mechanics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Polymer Mechanics",
+                "FieldsOfStudy": [
+                    "Materials Engineering",
+                    "Mechanics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Solid State Physics",
+                "FieldsOfStudy": [
+                    "Materials Engineering",
+                    "Optometry",
+                    "Physics",
+                    "Radiophysics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "In\u017eenieru 101",
+                "City": "Ventspils",
+                "Province": "N/A",
+                "PostCode": "LV-3601",
+                "Website": "http://www.venta.lv",
+                "college_name": "Ventspils University of Applied Sciences",
+                "university_name": "Ventspils augstskola (VUAS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1999. Received the status of scientific institution in 2013.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Latvian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Social Sciences",
+                    "Transport Management"
+                ],
+                "Details": "FEBA"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Information Technology",
+                    "Mathematics",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "FIT"
+            },
+            {
+                "College": "Translation Studies",
+                "FieldsOfStudy": [
+                    "Baltic Languages",
+                    "English",
+                    "German",
+                    "Linguistics",
+                    "Russian",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "C\u0113su Street 4",
+                "City": "Valmiera",
+                "Province": "N/A",
+                "PostCode": "LV-4201",
+                "Website": "http://www.va.lv",
+                "college_name": "Vidzeme University of Applied Sciences",
+                "university_name": "Vidzemes augstskola (ViA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1996. Acquired status as a state university in 2001.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate, Certificate of English proficiency"
+            ],
+            "Languages": [
+                "Latvian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Language Study and Examination",
+                "FieldsOfStudy": [
+                    "Baltic Languages",
+                    "English",
+                    "French",
+                    "German",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Data Processing",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Information Management",
+                    "Information Technology",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Society and Science",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Government",
+                    "Journalism",
+                    "Media Studies",
+                    "Political Sciences",
+                    "Public Relations",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Socio-technical Systems Engineering",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

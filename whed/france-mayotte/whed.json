@@ -1,0 +1,74 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "8 ,rue de l'Universit\u00e9 \nIloni - BP 53",
+                "City": "Dembeni",
+                "Province": "N/A",
+                "PostCode": "97660",
+                "Website": "https://www.univ-mayotte.fr",
+                "college_name": "Mayotte University Center",
+                "university_name": "Centre Universitaire Mayotte \u2013 Centre universitaire de formation et de recherche de Mayotte"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 2011",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Education Sciences",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Literacy Education",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Teacher Training",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education",
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

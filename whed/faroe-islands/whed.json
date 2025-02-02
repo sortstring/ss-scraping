@@ -1,0 +1,132 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "J.C.Svabos g\u00f8ta 14\nP.O. Box 272",
+                "City": "T\u00f3rshavn",
+                "Province": "N/A",
+                "PostCode": "100",
+                "Website": "https://www.setur.fo",
+                "college_name": "University of the Faroe Islands",
+                "university_name": "Fr\u00f3\u00f0skaparsetur F\u00f8roya"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 1965 as an academy by the Faroese Parliament. Reorganised as a university in 1987",
+            "AcademicYear": "August to July",
+            "AdmissionRequirements": [
+                "Upper secondary school for Bachelor degrees; Bachelor-level education for Master degrees"
+            ],
+            "Languages": [
+                "Faroese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Educational and Student Counselling",
+                    "Pedagogy",
+                    "Primary Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Faroese Language and Literature",
+                "FieldsOfStudy": [
+                    "Linguistics",
+                    "Literature",
+                    "Native Language",
+                    "Scandinavian Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Social Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Economics",
+                    "History",
+                    "Law",
+                    "Management",
+                    "Management Systems",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Ecology",
+                    "Energy Engineering",
+                    "Information Technology",
+                    "Marine Biology",
+                    "Molecular Biology",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Biology",
+                    "Ecology",
+                    "Economics",
+                    "Energy Engineering",
+                    "History",
+                    "Literature",
+                    "Marine Biology",
+                    "Molecular Biology",
+                    "Native Language",
+                    "Nursing",
+                    "Pedagogy",
+                    "Political Sciences",
+                    "Software Engineering",
+                    "Teacher Training"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "History",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Management Systems",
+                    "Native Language",
+                    "Nordic Studies",
+                    "Political Sciences",
+                    "Public Health"
+                ],
+                "Doctor'sDegrees": [
+                    "Biology",
+                    "Energy Engineering",
+                    "History",
+                    "Information Technology",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Native Language",
+                    "Political Sciences",
+                    "Social Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

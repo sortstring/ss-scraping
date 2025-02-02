@@ -1,0 +1,159 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus d'Outumaoro - B.P. 6570",
+                "City": "Punaauia",
+                "Province": "Tahiti",
+                "PostCode": "98702",
+                "Website": "http://www.upf.pf",
+                "college_name": "French Polynesia University",
+                "university_name": "Universit\u00e9 de la Polyn\u00e9sie fran\u00e7aise"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1987. Acquired present status 1999.",
+            "AcademicYear": "September to June (September-December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at) and entrance examination"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Law, Economics  and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Economics",
+                    "Law",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Literature, Languages, Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "Development Studies",
+                    "English",
+                    "French",
+                    "Geography",
+                    "History",
+                    "Island Studies",
+                    "Literature",
+                    "Spanish",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences, Technology and Health Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Health Sciences",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Physical Engineering",
+                    "Physics",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Confucious",
+                "FieldsOfStudy": [
+                    "Chinese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher Training (INSPE)",
+                "FieldsOfStudy": [
+                    "Teacher Trainers Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Educational Sciences",
+                    "Environmental Studies",
+                    "Law",
+                    "Management",
+                    "Regional Studies",
+                    "Social Sciences",
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus d'Outumaoro - Punaauia - B.P. 6570",
+                "City": "Faa'a",
+                "Province": "N/A",
+                "PostCode": "98702",
+                "Website": "http://inspe.upf.pf",
+                "college_name": "French Polynesia University \u2013 Insp\u00e9 Polynesia",
+                "university_name": "Universit\u00e9 de la Polyn\u00e9sie fran\u00e7aise \u2013 Insp\u00e9 Polyn\u00e9sie \u2013 Institut sup\u00e9rieur du professorat et de l'\u00e9ducation"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded and accredited by Order of September 16, 2014",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Teacher training",
+                "FieldsOfStudy": [
+                    "Teacher Trainers Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education",
+                    "Teacher Trainers Education",
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

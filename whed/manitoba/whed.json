@@ -1,0 +1,2395 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "447 Webb Place",
+                "City": "Winnipeg",
+                "Province": "Manitoba",
+                "PostCode": "R3B 2P2",
+                "Website": "http://www.boothuc.ca",
+                "college_name": "Booth University College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 1982 as William and Catherine Booth College. Acquired current title and status 2010.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Behavioural Sciences",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Christian Studies",
+                "FieldsOfStudy": [
+                    "Christian Religious Studies"
+                ],
+                "Details": "Certificate Programme"
+            },
+            {
+                "College": "English and Film",
+                "FieldsOfStudy": [
+                    "English",
+                    "Film"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Studies",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liberal Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "Certificate Programme"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Religion",
+                "FieldsOfStudy": [
+                    "Religion"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Behavioural Sciences",
+                    "Business Administration",
+                    "English",
+                    "Film",
+                    "Psychology",
+                    "Religion",
+                    "Social Work"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "270 18th Street",
+                "City": "Brandon",
+                "Province": "Manitoba",
+                "PostCode": "R7A 6A9",
+                "Website": "http://www.brandonu.ca",
+                "college_name": "Brandon University",
+                "university_name": "(BU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1899 as Brandon College, affiliated with the University of Manitoba, acquired present status and title 1967.",
+            "AcademicYear": "September to April (September-December; January-April). Also Spring/Summer Session (May-August)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent, including International Baccalaureate"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Business Administration",
+                    "Ceramic Art",
+                    "Classical Languages",
+                    "Design",
+                    "Economics",
+                    "English",
+                    "French",
+                    "Gender Studies",
+                    "German",
+                    "Greek (Classical)",
+                    "History",
+                    "Indigenous Studies",
+                    "Italian",
+                    "Latin",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Native Language",
+                    "Painting and Drawing",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Religion",
+                    "Rural Planning",
+                    "Sociology",
+                    "Spanish",
+                    "Theatre",
+                    "Visual Arts",
+                    "Women's Studies",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Music Education",
+                    "Physical Education",
+                    "Special Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Music",
+                    "Nursing",
+                    "Rural Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Studies",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing",
+                    "Psychiatry and Mental Health",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Jazz and Popular Music",
+                    "Music",
+                    "Music Education",
+                    "Music Theory and Composition",
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Astronomy and Space Science",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Dentistry",
+                    "Environmental Studies",
+                    "Geography",
+                    "Geology",
+                    "Mathematics and Computer Science",
+                    "Medicine",
+                    "Optometry",
+                    "Pharmacy",
+                    "Physics",
+                    "Psychology",
+                    "Safety Engineering",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Education"
+                ],
+                "Master'sDegree": [
+                    "Education",
+                    "Environmental Studies",
+                    "Music",
+                    "Nursing",
+                    "Rural Studies"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "500 Shaftsbury Boulevard",
+                "City": "Winnipeg",
+                "Province": "Manitoba",
+                "PostCode": "R3P 2N2",
+                "Website": "http://www.cmu.ca",
+                "college_name": "Canadian Mennonite University",
+                "university_name": "(CMU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998 through the amalgamation of three colleges: Mennonite Brethren Bible College/Concord College (est. 1944); Canadian Mennonite Bible College (est. 1947); and Menno Simons College (est. 1989). CMU is affiliated withThe University of Winnipeg.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Menno Simons",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Development Studies",
+                    "International Studies",
+                    "Peace and Disarmament"
+                ],
+                "Details": "http://www.mscollege.ca/. Menno Simons College is located on the campus of The University of Winnipeg"
+            },
+            {
+                "College": "Biblical and Theological Studies",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Christian Religious Studies",
+                    "Religion",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Physiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Physical Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communications and Media",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Graphic Design",
+                    "Journalism",
+                    "Mass Communication",
+                    "Media Studies",
+                    "Political Sciences",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Counselling Studies",
+                "FieldsOfStudy": [
+                    "Psychology",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "International Business",
+                    "International Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English",
+                    "Literature",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geography",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Geography",
+                    "Geography (Human)"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Christian Religious Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Intercultural Studies",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Development Studies",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Economics",
+                    "Religion",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages",
+                "FieldsOfStudy": [
+                    "French",
+                    "German",
+                    "Greek",
+                    "Hebrew",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Art Therapy",
+                    "Music",
+                    "Musical Instruments",
+                    "Musicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music Therapy",
+                "FieldsOfStudy": [
+                    "Art Therapy",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Peace and Conflict Transformation Studies",
+                "FieldsOfStudy": [
+                    "Peace and Disarmament"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Metaphysics",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Studies",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "History",
+                    "Human Rights",
+                    "Media Studies",
+                    "Philosophy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Preprofessional Studies",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Dentistry",
+                    "Ecology",
+                    "Education",
+                    "Law",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy",
+                    "Physical Education",
+                    "Rehabilitation and Therapy",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Social and Community Services",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology",
+                "FieldsOfStudy": [
+                    "Media Studies",
+                    "Philosophy",
+                    "Social Welfare",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theatre, Film, and Art",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Film",
+                    "Literature",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Organizational Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Leadership",
+                    "Management",
+                    "Small Business"
+                ],
+                "Details": "Redekop"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": "N/A",
+                "Master'sDegree": [
+                    "Theology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "10 College Crescent",
+                "City": "Otterburne",
+                "Province": "Manitoba",
+                "PostCode": "R0A 1G0",
+                "Website": "http://www.providenceuc.ca",
+                "college_name": "Providence University College and Theological Seminary",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1925 as Winnipeg Bible School. Became Winnipeg Bible Institute and College of Theology 1949. Formed Theological Seminary 1972. Became Providence College and Theological Seminary 1992. Acquired present title and Status 2011.",
+            "AcademicYear": "September to June (September-December; January-June)",
+            "AdmissionRequirements": [
+                "High School Certificate or equivalent with 28 credits",
+                ""
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Aviation",
+                "FieldsOfStudy": [
+                    "Air Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Church Ministries",
+                "FieldsOfStudy": [
+                    "Christian Religious Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communications and Media",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Mass Communication",
+                    "Media Studies",
+                    "Photography",
+                    "Radio and Television Broadcasting",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Field Education",
+                "FieldsOfStudy": [
+                    "Christian Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Bible",
+                    "English",
+                    "History",
+                    "Music",
+                    "Music Theory and Composition",
+                    "Musical Instruments",
+                    "Musicology",
+                    "Philosophy",
+                    "Theatre",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Integrative Vocational Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Intercultural Studies",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Cultural Studies",
+                    "Protestant Theology",
+                    "Religion",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Art Therapy",
+                    "Jazz and Popular Music",
+                    "Music",
+                    "Music Education",
+                    "Musical Instruments",
+                    "Religious Music",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pre-Professional Studies",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Architecture",
+                    "Dental Hygiene",
+                    "Dentistry",
+                    "Ecology",
+                    "Education",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Fine Arts",
+                    "Law",
+                    "Management",
+                    "Medicine",
+                    "Music",
+                    "Natural Resources",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Pharmacy",
+                    "Physical Education",
+                    "Rehabilitation and Therapy",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Seminary",
+                "FieldsOfStudy": [
+                    "Christian Religious Studies",
+                    "Foreign Languages Education",
+                    "Psychology",
+                    "Religion",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Bible",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology",
+                "FieldsOfStudy": [
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teaching English to Speakers of Other Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "Foreign Languages Education"
+                ],
+                "Details": "TESOL"
+            },
+            {
+                "College": "Theatre",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Worship Studies",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Communication Studies",
+                    "Fine Arts",
+                    "Leadership",
+                    "Music",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Youth Leadership",
+                "FieldsOfStudy": [
+                    "Leadership"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biblical and Theological Studies",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "ELI"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Christian Religious Studies",
+                    "Education",
+                    "Missionary Studies",
+                    "Pastoral Studies",
+                    "Theology"
+                ],
+                "Doctor'sDegrees": [
+                    "Pastoral Studies"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "515 Portage Avenue",
+                "City": "Winnipeg",
+                "Province": "Manitoba",
+                "PostCode": "R3B 2E9",
+                "Website": "https://uwinnipeg.ca",
+                "college_name": "The University of Winnipeg",
+                "university_name": "(UWINNIPEG)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1871 as Manitoba College by the Presbyterian Church and Wesley College by the Methodist Church 1877. Merged and became United Colleges 1938. Acquired present status and title 1967.",
+            "AcademicYear": "September to August (September-December; January-April; May-August)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Pastoral Studies",
+                    "Religion",
+                    "Theology"
+                ],
+                "Details": "United Centre for Theological Studies (UCTS)"
+            },
+            {
+                "College": "Pre-Professional Studies",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Chiropractic",
+                    "Dental Hygiene",
+                    "Dentistry",
+                    "Engineering",
+                    "Journalism",
+                    "Law",
+                    "Medical Technology",
+                    "Medicine",
+                    "Occupational Therapy",
+                    "Optometry",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Respiratory Therapy",
+                    "Social Work",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Art Management",
+                    "Business Computing",
+                    "Chinese",
+                    "Computer Science",
+                    "Data Processing",
+                    "Education",
+                    "French",
+                    "German",
+                    "Hindi",
+                    "Human Resources",
+                    "Indigenous Studies",
+                    "Information Technology",
+                    "Italian",
+                    "Japanese",
+                    "Korean",
+                    "Leadership",
+                    "Management",
+                    "Marketing",
+                    "Portuguese",
+                    "Public Relations",
+                    "Russian",
+                    "Software Engineering",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Classical Languages",
+                    "Communication Studies",
+                    "Criminal Law",
+                    "Cultural Studies",
+                    "East Asian Studies",
+                    "English",
+                    "Film",
+                    "French",
+                    "Gender Studies",
+                    "German",
+                    "Greek (Classical)",
+                    "History",
+                    "Indigenous Studies",
+                    "Italian",
+                    "Latin",
+                    "Literature",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Physical Therapy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religion",
+                    "Sociology",
+                    "Spanish",
+                    "Sports",
+                    "Theatre",
+                    "Women's Studies",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Business Education",
+                    "Education",
+                    "Natives Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Geography",
+                    "Mathematics",
+                    "Physics",
+                    "Psychology",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "Environmental Studies",
+                    "Family Studies",
+                    "Indigenous Studies",
+                    "Political Sciences",
+                    "Social Problems",
+                    "Theology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "55 UCN Drive",
+                "City": "Thompson",
+                "Province": "Manitoba",
+                "PostCode": "R8N 1L7",
+                "Website": "http://www.ucn.ca",
+                "college_name": "University College of the North",
+                "university_name": "(UCN)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Adult Learning",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts, Business and Science",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Preschool Education"
+                ],
+                "Details": "Kenanow"
+            },
+            {
+                "College": "Health",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Trades and Technology",
+                "FieldsOfStudy": [
+                    "Electrical and Electronic Equipment and Maintenance",
+                    "Industrial Maintenance",
+                    "Maintenance Technology",
+                    "Mechanical Equipment and Maintenance",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "66 Chancellors Circle",
+                "City": "Winnipeg",
+                "Province": "Manitoba",
+                "PostCode": "R3T 2N2",
+                "Website": "https://www.umanitoba.ca",
+                "college_name": "University of Manitoba",
+                "university_name": "(UM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1877 on the model of the University of London, as an examining and degree-conferring body. Appointed the first Professors 1904.",
+            "AcademicYear": "September to April, Regular Session; May to June, Intersession; July to August, Summer-Day Session; May to July, Summer-Evening Session",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Aging",
+                "FieldsOfStudy": [
+                    "Gerontology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agri-food Research in Health and Medicine",
+                "FieldsOfStudy": [
+                    "Food Science"
+                ],
+                "Details": "Canadian"
+            },
+            {
+                "College": "Architectural Structures and Technology",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "C.A.S.T."
+            },
+            {
+                "College": "Breast Cancer Research and Diagnosis",
+                "FieldsOfStudy": [
+                    "Oncology"
+                ],
+                "Details": "Great-West Life Manitoba"
+            },
+            {
+                "College": "Cell Biology",
+                "FieldsOfStudy": [
+                    "Cell Biology"
+                ],
+                "Details": "Manitoba"
+            },
+            {
+                "College": "Defence and Security Studies",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Earth Observation Science",
+                "FieldsOfStudy": [
+                    "Earth Sciences"
+                ],
+                "Details": "CEOS"
+            },
+            {
+                "College": "Functional Foods and Nutraceuticals",
+                "FieldsOfStudy": [
+                    "Food Science"
+                ],
+                "Details": "RCFFN"
+            },
+            {
+                "College": "Global Public Health",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Globalization and Cultural Studies",
+                "FieldsOfStudy": [
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Policy",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "Manitoba"
+            },
+            {
+                "College": "Hellenic Civilization",
+                "FieldsOfStudy": [
+                    "Ancient Civilizations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Models of Disease",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Internet Innovation",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Livestock and the Environment",
+                "FieldsOfStudy": [
+                    "Animal Husbandry"
+                ],
+                "Details": "Manitoba"
+            },
+            {
+                "College": "Nursing and Health Research",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing"
+                ],
+                "Details": "MCNHR"
+            },
+            {
+                "College": "Professional and Applied Ethics",
+                "FieldsOfStudy": [
+                    "Ethics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Proteomics and Systems Biology",
+                "FieldsOfStudy": [
+                    "Biology"
+                ],
+                "Details": "Manitoba"
+            },
+            {
+                "College": "Research and Treatment of Atherosclerosis",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Biochemistry",
+                    "Cell Biology",
+                    "Clinical Psychology",
+                    "Community Health",
+                    "Genetics",
+                    "Health Education",
+                    "Immunology",
+                    "Medicine",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Ophthalmology",
+                    "Otorhinolaryngology",
+                    "Paediatrics",
+                    "Pharmacology",
+                    "Physiology",
+                    "Psychiatry and Mental Health",
+                    "Radiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing",
+                    "Oncology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "University 1",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Agricultural Business",
+                    "Agriculture",
+                    "Anthropology",
+                    "Applied Mathematics",
+                    "Architectural and Environmental Design",
+                    "Architecture",
+                    "Art History",
+                    "Arts and Humanities",
+                    "Asian Studies",
+                    "Astronomy and Space Science",
+                    "Biological and Life Sciences",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Canadian Studies",
+                    "Catholic Theology",
+                    "Chemistry",
+                    "Classical Languages",
+                    "Computer Science",
+                    "Dental Hygiene",
+                    "Dentistry",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Engineering",
+                    "English",
+                    "Entomology",
+                    "Environmental Studies",
+                    "Family Studies",
+                    "Film",
+                    "Fine Arts",
+                    "Food Science",
+                    "French",
+                    "Gender Studies",
+                    "Genetics",
+                    "Geography",
+                    "Geology",
+                    "Geophysics",
+                    "German",
+                    "Greek (Classical)",
+                    "Health Sciences",
+                    "History",
+                    "Hungarian",
+                    "Icelandic",
+                    "Indigenous Studies",
+                    "Italian",
+                    "Jewish Studies",
+                    "Labour and Industrial Relations",
+                    "Latin",
+                    "Law",
+                    "Leisure Studies",
+                    "Linguistics",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Medicine",
+                    "Microbiology",
+                    "Music",
+                    "Native Language",
+                    "Natural Resources",
+                    "Nursing",
+                    "Nutrition",
+                    "Occupational Therapy",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Physics",
+                    "Polish",
+                    "Political Sciences",
+                    "Portuguese",
+                    "Psychology",
+                    "Religion",
+                    "Respiratory Therapy",
+                    "Russian",
+                    "Slavic Languages",
+                    "Social Work",
+                    "Sociology",
+                    "Spanish",
+                    "Statistics",
+                    "Textile Design",
+                    "Theatre",
+                    "Veterinary Science",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Extended Education",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Architecture",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Earth Sciences",
+                    "Ecology",
+                    "Engineering",
+                    "English",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Geology",
+                    "Indigenous Studies",
+                    "Management",
+                    "Modern Languages",
+                    "Music",
+                    "Native Language Education",
+                    "Natural Resources",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Nutrition",
+                    "Physics",
+                    "Slavic Languages",
+                    "Social Work",
+                    "Sports",
+                    "Sports Management",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural and Food Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Bioengineering",
+                    "Biomedicine",
+                    "Botany",
+                    "Entomology",
+                    "Environmental Engineering",
+                    "Food Science",
+                    "Soil Science",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Architecture",
+                    "Design",
+                    "Interior Design",
+                    "Landscape Architecture",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Asian Studies",
+                    "Canadian Studies",
+                    "Catholic Theology",
+                    "Central European Studies",
+                    "Classical Languages",
+                    "Criminology",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "Eastern European Studies",
+                    "Economics",
+                    "English",
+                    "Film",
+                    "French",
+                    "Gender Studies",
+                    "German",
+                    "Greek (Classical)",
+                    "History",
+                    "Icelandic",
+                    "Indigenous Studies",
+                    "Italian",
+                    "Jewish Studies",
+                    "Judaic Religious Studies",
+                    "Labour and Industrial Relations",
+                    "Labour Law",
+                    "Latin",
+                    "Latin American Studies",
+                    "Leadership",
+                    "Linguistics",
+                    "Medieval Studies",
+                    "Modern History",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religion",
+                    "Slavic Languages",
+                    "Sociology",
+                    "Spanish",
+                    "Theatre",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Community Health",
+                    "Dental Hygiene",
+                    "Dentistry",
+                    "Oral Pathology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Continuing Education",
+                    "Education",
+                    "Foreign Languages Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Bioengineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Design",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment, Earth, and Resources",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Geography",
+                    "Geology",
+                    "Geophysics",
+                    "Natural Resources"
+                ],
+                "Details": "Clayton H. Riddell"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Anatomy",
+                    "Animal Husbandry",
+                    "Anthropology",
+                    "Architectural and Environmental Design",
+                    "Architecture and Planning",
+                    "Astronomy and Space Science",
+                    "Biochemistry",
+                    "Bioengineering",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Botany",
+                    "Canadian Studies",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Classical Languages",
+                    "Community Health",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Curriculum",
+                    "Dentistry",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Psychology",
+                    "Electrical Engineering",
+                    "English",
+                    "Entomology",
+                    "Environmental Studies",
+                    "Family Studies",
+                    "Film",
+                    "Fine Arts",
+                    "Food Science",
+                    "French",
+                    "Genetics",
+                    "Geography",
+                    "Geology",
+                    "German",
+                    "Greek",
+                    "Health Sciences",
+                    "History",
+                    "Icelandic",
+                    "Immunology",
+                    "Indigenous Studies",
+                    "Interior Design",
+                    "Italian",
+                    "Landscape Architecture",
+                    "Latin",
+                    "Law",
+                    "Linguistics",
+                    "Management",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Mechanical Engineering",
+                    "Medical Auxiliaries",
+                    "Microbiology",
+                    "Music",
+                    "Natural Resources",
+                    "Nursing",
+                    "Nutrition",
+                    "Occupational Therapy",
+                    "Oncology",
+                    "Orthodontics",
+                    "Pathology",
+                    "Peace and Disarmament",
+                    "Periodontics",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Therapy",
+                    "Physics",
+                    "Physiology",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Rehabilitation and Therapy",
+                    "Religion",
+                    "Slavic Languages",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Soil Science",
+                    "Spanish",
+                    "Statistics",
+                    "Surgery",
+                    "Textile Design",
+                    "Theatre",
+                    "Town Planning",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Ecology",
+                "FieldsOfStudy": [
+                    "Family Studies",
+                    "Nutrition",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Kinesiology and Recreation Management",
+                "FieldsOfStudy": [
+                    "Leisure Studies",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "History of Law",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "Robson Hall"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Jazz and Popular Music",
+                    "Music",
+                    "Music Education",
+                    "Music Theory and Composition",
+                    "Musical Instruments",
+                    "Singing"
+                ],
+                "Details": "Marcel A. Desautels"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Astronomy and Space Science",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Genetics",
+                    "Mathematics",
+                    "Microbiology",
+                    "Physics",
+                    "Psychology",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cardiovascular Sciences",
+                "FieldsOfStudy": [
+                    "Cardiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Mathematical Sciences",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal Research",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theoretical Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "with University of Winnipeg"
+            },
+            {
+                "College": "Transport",
+                "FieldsOfStudy": [
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Electromagnetics",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Structural Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "W.R. McQuade"
+            },
+            {
+                "College": "Aboriginal Health",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aquatic Biology",
+                "FieldsOfStudy": [
+                    "Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Community Acquired Infections",
+                "FieldsOfStudy": [
+                    "Community Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Composite Materials and Structures",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Data",
+                "FieldsOfStudy": [
+                    "Data Processing"
+                ],
+                "Details": "Manitoba"
+            },
+            {
+                "College": "Developmental Health",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Grain Storage",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "Canadian Wheat  Board"
+            },
+            {
+                "College": "Health, Leisure and Human Performance",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Leisure Studies",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Higher Education and Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Higher Education"
+                ],
+                "Details": "CHERD"
+            },
+            {
+                "College": "Mood and Anxiety Disorders",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychiatric Neuroimaging",
+                "FieldsOfStudy": [
+                    "Psychiatry and Mental Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "RESOLVE",
+                "FieldsOfStudy": [
+                    "Family Studies",
+                    "Social Problems"
+                ],
+                "Details": "Prairie Research Network on Family Violence"
+            },
+            {
+                "College": "Spinal Cord",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Crop Production",
+                    "Fruit Production",
+                    "Horticulture",
+                    "Landscape Architecture",
+                    "Vegetable Production"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Art",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Ceramic Art",
+                    "Fine Arts",
+                    "Graphic Design",
+                    "Painting and Drawing",
+                    "Photography",
+                    "Printing and Printmaking",
+                    "Sculpture",
+                    "Video"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Small Business"
+                ],
+                "Details": "I.H. Asper"
+            },
+            {
+                "College": "Dental Hygiene",
+                "FieldsOfStudy": [
+                    "Dental Hygiene"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Rehabilitation",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Occupational Therapy",
+                    "Physical Therapy",
+                    "Rehabilitation and Therapy",
+                    "Respiratory Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aerospace Materials Engineering Facility",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Crystallography and Mineralogy Research Facility",
+                "FieldsOfStudy": [
+                    "Crystallography",
+                    "Mineralogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Digital Image Analysis Facility",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Nuclear Magnetic Resonance (NMR) Facility",
+                "FieldsOfStudy": [
+                    "Nuclear Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Regional Materials and Surface Characterization Facility",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "Manitoba"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": "N/A",
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [
+                    "Anatomy",
+                    "Astronomy and Space Science",
+                    "Botany",
+                    "Cell Biology",
+                    "Civil Engineering",
+                    "Community Health",
+                    "Computer Engineering",
+                    "Economics",
+                    "Education",
+                    "Electrical Engineering",
+                    "English",
+                    "Entomology",
+                    "Film",
+                    "Food Science",
+                    "French",
+                    "Geography",
+                    "Geology",
+                    "Health Sciences",
+                    "History",
+                    "Immunology",
+                    "Indigenous Studies",
+                    "Linguistics",
+                    "Management",
+                    "Mechanical Engineering",
+                    "Microbiology",
+                    "Natural Resources",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Nutrition",
+                    "Peace and Disarmament",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Physics",
+                    "Physiology",
+                    "Psychology",
+                    "Religion",
+                    "Social Work",
+                    "Sociology",
+                    "Soil Science",
+                    "Spanish",
+                    "Statistics",
+                    "Theatre",
+                    "Zoology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "29 Dysart Road",
+                "City": "Winnipeg",
+                "Province": "Manitoba",
+                "PostCode": "R3T 2M7",
+                "Website": "https://umanitoba.ca/st-andrews-college",
+                "college_name": "University of Manitoba \u2013 St. Andrew's College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "St. Andrew\u2019s College is an institution of the Ukrainian Orthodox Church of Canada.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Religion",
+                    "Religious Music",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Theology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "92 Dysart Road",
+                "City": "Winnipeg",
+                "Province": "Manitoba",
+                "PostCode": "R3T 2M5",
+                "Website": "https://umanitoba.ca/st-johns-college",
+                "college_name": "University of Manitoba \u2013 St. John's College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1866.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Anthropology",
+                "FieldsOfStudy": [
+                    "Anthropology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Studies",
+                "FieldsOfStudy": [
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology",
+                "FieldsOfStudy": [
+                    "Indigenous Studies",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture, Interior Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment, Earth, and Resources",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Geography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Religion",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Anglican Ministry",
+                "FieldsOfStudy": [
+                    "Protestant Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Art",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Performing Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "70 Dysart Road",
+                "City": "Winnipeg",
+                "Province": "Manitoba",
+                "PostCode": "R3T 2M6",
+                "Website": "https://umanitoba.ca/st-pauls-college",
+                "college_name": "University of Manitoba \u2013 St. Paul's College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1926.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Catholic Studies",
+                "FieldsOfStudy": [
+                    "Catholic Theology",
+                    "Christian Religious Studies"
+                ],
+                "Details": "Jesuit"
+            },
+            {
+                "College": "Peace and Justice",
+                "FieldsOfStudy": [
+                    "Peace and Disarmament"
+                ],
+                "Details": "Arthur V. Mauro"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "200, avenue de la Cath\u00e9drale",
+                "City": "Saint-Boniface",
+                "Province": "Manitoba",
+                "PostCode": "R2H 0H7",
+                "Website": "http://www.ustboniface.ca",
+                "college_name": "University of Saint-Boniface",
+                "university_name": "Universit\u00e9 de Saint-Boniface (CUSB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1818. An affiliated college of the University of Manitoba.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "French",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Distance Education",
+                "FieldsOfStudy": [
+                    "Canadian Studies",
+                    "Computer Science",
+                    "Education",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Canadian Studies",
+                    "Economics",
+                    "English",
+                    "French",
+                    "Geography (Human)",
+                    "German",
+                    "History",
+                    "Literature",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religious Studies",
+                    "Social Sciences",
+                    "Sociology",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Human Resources",
+                    "International Business",
+                    "Labour and Industrial Relations",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Literacy Education",
+                    "Native Language Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Chemistry",
+                    "Computer Science",
+                    "Mathematics",
+                    "Microbiology",
+                    "Physics",
+                    "Statistics",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Services",
+                "FieldsOfStudy": [
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical and Professional",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Health Sciences",
+                    "Multimedia",
+                    "Nursing",
+                    "Preschool Education",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Translation",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Canadian Studies",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Literacy Education",
+                    "Special Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

@@ -1,0 +1,3199 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "30 Arch. Kyprianos Street",
+                "City": "Limassol",
+                "Province": "N/A",
+                "PostCode": "3036",
+                "Website": "https://www.cut.ac.cy/?languageId=1",
+                "college_name": "Cyprus University of Technology",
+                "university_name": "(CUT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2003. Admitted its first students 2007",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "French",
+                    "German",
+                    "Greek",
+                    "Italian",
+                    "Russian",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural Sciences, Biotechnology and Food Science",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Biotechnology",
+                    "Crop Production",
+                    "Fishery",
+                    "Food Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering and Geomatics",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce, Finance and Shipping",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Economics",
+                    "Finance",
+                    "Marine Transport",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication and Internet Studies",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Information Management",
+                    "Information Technology",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering, Computer Engineering and Informatics",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Science and Technology",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel and Tourism Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering and Material Science and Engineering",
+                "FieldsOfStudy": [
+                    "Materials Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Multimedia and Graphic Arts",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Fine Arts",
+                    "Graphic Arts",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rehabilitation Sciences",
+                "FieldsOfStudy": [
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental and Public Health",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "International"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1 Panepistimiou Avenue\nUniversity House \"Anastasios G. Leventis\"\nP.O. Box 20537, Aglatzia",
+                "City": "Nicosia",
+                "Province": "N/A",
+                "PostCode": "2109",
+                "Website": "https://www.ucy.ac.cy",
+                "college_name": "University of Cyprus",
+                "university_name": "Panepist\u00edmio K\u00edprou \u2013 Panepistimio Kyprou (UCY)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "University of Cyprus (UCY) was the first university to be established on the island, in 1989, accepting its first students in 1992. Based in the capital of Cyprus, Nicosia, UCY is globally networked and actively contributes to European and international scientific developments",
+            "AcademicYear": "September to May (September-December; January-May)",
+            "AdmissionRequirements": [
+                "Master and PhD students: Applicants must have a University degree awarded by an accredited institution in the country where it operates, or a degree evaluated as equivalent to a University degree by the Cyprus Council for the Recognition of Higher Education Qualifications (KY",
+                "S",
+                "A",
+                "T",
+                "S)",
+                "Individuals who will be awarded a University degree or Graduation certificate fulfilling the necessary criteria by the end of the week that precedes registration week, are also eligible to submit an application\nIn accordance with the Cyprus Agency of Quality Assurance and Accreditation in Higher Education (CYQAA), for admission to programs of study taught in the English language at postgraduate levels at universities, candidate students should provide a certificate of their knowledge of English\nFor programs of study at the postgraduate level candidate students are required to have certification for \u201cVery Good Knowledge\u201d of English at level B2-C1 of the Common European Framework of Reference for Languages (CEFR)\nCommon European Framework of Reference for Languages (CEFR) corresponds to the following specific reference frameworks for international examinations, according to the official pages of the organizations offering these examinations",
+                "Indicatively, a score of 5",
+                "5 \u2013 6",
+                "5 corresponds to knowledge of level B2 (Lower), while score 8",
+                "5-9 is level C2 (Proficiency)"
+            ],
+            "Languages": [
+                "Turkish",
+                "Greek"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Neuroscience",
+                "FieldsOfStudy": [
+                    "Neurosciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking and Financial Research",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biomedical Engineering Research (BERC)",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "EMPHASIS Research",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Microwaves",
+                    "Nanotechnology"
+                ],
+                "Details": "Research Centre"
+            },
+            {
+                "College": "FOSS Research for Sustainable Energy",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Sustainable Development"
+                ],
+                "Details": "Research Centre"
+            },
+            {
+                "College": "Gender Studies",
+                "FieldsOfStudy": [
+                    "Gender Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "KIOS Research and Innovation",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "Centre of Excellence"
+            },
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medieval Arts and Rituals (CeMAR)",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Medieval Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Molecular Medicine Research - Cy-Biobank",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Molecular Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nireas International Water Research",
+                "FieldsOfStudy": [
+                    "Water Management"
+                ],
+                "Details": "Research Centre"
+            },
+            {
+                "College": "Oceanography",
+                "FieldsOfStudy": [
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "French",
+                    "Mechanical Engineering",
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English Studies",
+                    "European Studies",
+                    "French Studies",
+                    "Middle Eastern Studies",
+                    "Modern Languages",
+                    "Turkish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Letters",
+                "FieldsOfStudy": [
+                    "Ancient Civilizations",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "Classical Languages",
+                    "Greek",
+                    "History",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pure and Applied Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Mathematics",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Law",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Archaeological  (ARU)",
+                "FieldsOfStudy": [
+                    "Ancient Civilizations",
+                    "Mediterranean Studies"
+                ],
+                "Details": "Research Unit"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Archaeology",
+                    "Architecture",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Classical Languages",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Economics",
+                    "Electrical Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "European Studies",
+                    "Finance",
+                    "French",
+                    "Greek",
+                    "Greek (Classical)",
+                    "History",
+                    "International Studies",
+                    "Journalism",
+                    "Literature",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Oriental Studies",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Production Engineering",
+                    "Psychology",
+                    "Public Administration",
+                    "Sociology",
+                    "Statistics",
+                    "Turkish"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Eleftheria Avenue 116\nP.O. Box 36118",
+                "City": "Deryneia",
+                "Province": "N/A",
+                "PostCode": "5386",
+                "Website": "https://www.akc.ac.cy",
+                "college_name": "ACC Akademia College",
+                "university_name": "(AKC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel Administration",
+                "FieldsOfStudy": [
+                    "Hotel Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Hotel Management"
+                ],
+                "Bachelor'sDegree": [
+                    "Business Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "81, Agion Omologiton, 1081",
+                "City": "Nicosia",
+                "Province": "N/A",
+                "PostCode": "1080",
+                "Website": "http://www.aigaia.com.cy",
+                "college_name": "Aigaia School of Art and Design",
+                "university_name": "Aigaia Sxoli Kalon ke Efarmosmenon"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2005",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Arts and Design",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Fashion Design",
+                    "Graphic Design",
+                    "Industrial Design",
+                    "Jewellery Art",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Ceramic Art",
+                    "Fine Arts",
+                    "Painting and Drawing",
+                    "Performing Arts",
+                    "Photography",
+                    "Printing and Printmaking",
+                    "Sculpture",
+                    "Video",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Fashion Design",
+                    "Fine Arts",
+                    "Photography",
+                    "Textile Design",
+                    "Visual Arts"
+                ],
+                "Bachelor'sDegree": [
+                    "Visual Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 45081 \n2 Artas Street",
+                "City": "Aradippou",
+                "Province": "Larnaca",
+                "PostCode": "7102",
+                "Website": "http://www.alexander.ac.cy",
+                "college_name": "Alexander College",
+                "university_name": "(ACC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Greek"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Creative Industries",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Law",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Fashion Design",
+                    "Finance",
+                    "Graphic Design",
+                    "Hotel and Restaurant",
+                    "Interior Design",
+                    "Law",
+                    "Management",
+                    "Photography"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3 Omirou Avenue",
+                "City": "Nicosia",
+                "Province": "N/A",
+                "PostCode": "1097",
+                "Website": "http://www.ac.ac.cy",
+                "college_name": "American College",
+                "university_name": "(AC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1975. A private institution",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business Computing",
+                    "Computer Science",
+                    "Human Resources",
+                    "International Business",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel Management",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Business Computing",
+                    "Computer Science",
+                    "Cooking and Catering",
+                    "Hotel Management",
+                    "Human Resources",
+                    "International Business",
+                    "Marketing",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Anastasiou Leventi 34\u201336",
+                "City": "Nicosia",
+                "Province": "N/A",
+                "PostCode": "1097",
+                "Website": "http://www.artemusic.org",
+                "college_name": "ARTE Music Academy",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Music"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "40, 1st April street",
+                "City": "Liopetri",
+                "Province": "N/A",
+                "PostCode": "5326",
+                "Website": "http://www.atlantiscollege.com",
+                "college_name": "Atlantis College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate; English language proficiency"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2, Evagorou Ave. Eleftherias Square",
+                "City": "Nicosia",
+                "Province": "N/A",
+                "PostCode": "1515",
+                "Website": "http://www.cdacollege.ac.cy",
+                "college_name": "C.D.A. College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1976. Acquired status with restructuring and expansion in 1978",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate; Background check"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Beauty Therapy",
+                "FieldsOfStudy": [
+                    "Cosmetology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Police Studies and Criminology",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "Police Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Travel and Tourism Management",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Cosmetology",
+                    "Criminology",
+                    "Finance",
+                    "Hotel Management",
+                    "Police Studies",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3 Jean Moreas Street",
+                "City": "Nicosia",
+                "Province": "N/A",
+                "PostCode": "1075",
+                "Website": "http://www.casacollege.ac.cy",
+                "college_name": "Casa College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1961",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate; Certificate of English proficiency; Medical certificates"
+            ],
+            "Languages": [
+                "English",
+                "Greek"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel Administration",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Secretarial Studies",
+                "FieldsOfStudy": [
+                    "English",
+                    "Secretarial Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Hotel Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "19 Stasinou Street",
+                "City": "Nicosia",
+                "Province": "N/A",
+                "PostCode": "2404",
+                "Website": "http://cityu.ac.cy",
+                "college_name": "City Unity College Nicosia",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded as White City College 2012. Acquired present title 2014",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent; English language proficiency; Personal statement"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Finance",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality and Tourism Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Psychology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "29 Onasagorou Street",
+                "City": "Nicosia",
+                "Province": "N/A",
+                "PostCode": "1011",
+                "Website": "http://www.cothm.ac.cy",
+                "college_name": "College of Tourism and Hotel Management",
+                "university_name": "Kollegio Tourismou kai Dieuthynsis Xenodochion"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1987",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent; Entrance examination"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Events Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel Administration",
+                "FieldsOfStudy": [
+                    "Hotel Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business Studies",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Leisure Management",
+                "FieldsOfStudy": [
+                    "Leisure Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Travel and Tourism Administration",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 28069",
+                "City": "Limassol",
+                "Province": "N/A",
+                "PostCode": "3077",
+                "Website": "http://www.ctleuro.ac.cy",
+                "college_name": "CTL Eurocollege",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded as the CTL Academy in 1966. Acquired present status and title in 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent; English language proficiency"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "E-Business/Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality and Tourism",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Office Administration",
+                "FieldsOfStudy": [
+                    "Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Hotel Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "55 Gladstonos Street",
+                "City": "Limassol",
+                "Province": "Pentadromos",
+                "PostCode": "3040",
+                "Website": "http://caa.ac.cy",
+                "college_name": "Cyprus Academy of Arts",
+                "university_name": "(CAA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "A partner institution of The University for the Creative Arts, UK",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Art, Media & Design",
+                "FieldsOfStudy": [
+                    "Graphic Design",
+                    "Photography",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Graphic Design",
+                    "Photography",
+                    "Visual Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "6, Diogenous Street",
+                "City": "Lefkosia",
+                "Province": "Engomi",
+                "PostCode": "1516",
+                "Website": "http://www.cycollege.ac.cy",
+                "college_name": "Cyprus College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1961",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate"
+            ],
+            "Languages": [
+                "Greek"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Limassol",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nicosia",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Cosmetology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Business Administration",
+                    "Computer Networks",
+                    "Cosmetology",
+                    "E-Business/Commerce",
+                    "Electrical and Electronic Equipment and Maintenance",
+                    "Marketing",
+                    "Mass Communication",
+                    "Medical Auxiliaries",
+                    "Secretarial Studies",
+                    "Technology"
+                ],
+                "Bachelor'sDegree": [
+                    "Cosmetology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "6 Diogenis Street",
+                "City": "Nicosia-Cyprus",
+                "Province": "Engomi",
+                "PostCode": "2404",
+                "Website": "http://www.euc.ac.cy",
+                "college_name": "European University Cyprus",
+                "university_name": "(EUC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1961 as Cyprus College. Acquired present status and title 2007",
+            "AcademicYear": "From October to July (October-January, January-May, June-July)",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Education Sciences",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Computer Science",
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "Educational Technology",
+                    "Graphic Design",
+                    "Music",
+                    "Music Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Industrial Management",
+                    "Management",
+                    "Marketing",
+                    "Sports Management"
+                ],
+                "Details": "Ioannis Gregoriou"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Clinical Psychology",
+                    "Educational and Student Counselling",
+                    "English",
+                    "Mass Communication",
+                    "Psychology",
+                    "Public Administration",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "International Law",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Dietetics",
+                    "Electrical and Electronic Engineering",
+                    "Information Technology",
+                    "Mathematics",
+                    "Midwifery",
+                    "Nursing",
+                    "Occupational Health",
+                    "Pharmacy",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Public Health",
+                    "Speech Therapy and Audiology",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Biological and Life Sciences",
+                    "Business and Commerce",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Dietetics",
+                    "Economics",
+                    "Electrical and Electronic Engineering",
+                    "English",
+                    "Finance",
+                    "Graphic Design",
+                    "Hotel and Restaurant",
+                    "Industrial Management",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Mass Communication",
+                    "Mathematics",
+                    "Medicine",
+                    "Music",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Pharmacy",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Social Work",
+                    "Speech Therapy and Audiology",
+                    "Sports Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "7, Y. Frederickou Street",
+                "City": "Nicosia",
+                "Province": "Palouriotissa",
+                "PostCode": "1036",
+                "Website": "http://www.fit.ac.cy",
+                "college_name": "Frederick Institute of Technology",
+                "university_name": "(FIT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1965",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate from a recognised six-form secondary school (high school) with an average grade of 75% (Greek Cypriot secondary schools) or a grade of \"C\" or its equivalent; English language proficiency"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Limassol",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Radio and Television Broadcasting"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "7, Yiannis Frederickou Street",
+                "City": "Nicosia",
+                "Province": "Pallouriotissa",
+                "PostCode": "1036",
+                "Website": "http://www.frederick.ac.cy",
+                "college_name": "Frederick University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded as Frederick Institute of Technology in 1965. Acquired present status and title in 2007",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate; Certificate of proficiency in English; Background check"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture, Fine and Applied Arts",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Fine Arts",
+                    "Graphic Design",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Preschool Education",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Applied Sciences",
+                "FieldsOfStudy": [
+                    "Automotive Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Journalism",
+                    "Social Sciences",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Education",
+                    "Finance",
+                    "Journalism",
+                    "Law",
+                    "Mechanical Engineering",
+                    "Pharmacy",
+                    "Social Work"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "245 Eleonon Street",
+                "City": "Nicosia",
+                "Province": "Strovolos",
+                "PostCode": "2048",
+                "Website": "http://www.globalcollege.ac.cy",
+                "college_name": "Global College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1972",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Automotive Engineering",
+                "FieldsOfStudy": [
+                    "Electronics and Automation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Studies",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Information Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "8 Markou Drakou Street",
+                "City": "Nicosia",
+                "Province": "Engomi",
+                "PostCode": "2409",
+                "Website": "http://www.intercollege.ac.cy",
+                "college_name": "Intercollege",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1980",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent; English language proficiency",
+                ""
+            ],
+            "Languages": [
+                "Greek",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Larnaka",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Limassol",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Hotel Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Information Technology",
+                "FieldsOfStudy": [
+                    "Business Computing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graphic and Digital Design",
+                "FieldsOfStudy": [
+                    "Graphic Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel Management",
+                "FieldsOfStudy": [
+                    "Hotel Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pre-Primary Education",
+                "FieldsOfStudy": [
+                    "Preschool Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports Science",
+                "FieldsOfStudy": [
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Cooking and Catering",
+                    "Cosmetology",
+                    "Hotel Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "4 Griva Digeni Avenue\nP.O. Box 35004",
+                "City": "Sotira",
+                "Province": "N/A",
+                "PostCode": "5390",
+                "Website": "http://www.internapa.ac.cy",
+                "college_name": "InterNapa College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Established as G. Takkas Educational College in 2003. Earned present title in 2007. Offering programs in Hospitality & Tourism Management and Culinary Arts",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent; English language proficiency",
+                ""
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese",
+                "FieldsOfStudy": [
+                    "Chinese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food and Agribusiness Management",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Food Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality and Tourism Management",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agricultural Business",
+                    "Business Administration",
+                    "Hotel Management",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "5 Kallipoleos Avenue",
+                "City": "Nicosia",
+                "Province": "N/A",
+                "PostCode": "1055",
+                "Website": "http://www.kes.ac.cy",
+                "college_name": "KES College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1971",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent; English language proficiency"
+            ],
+            "Languages": [
+                "English",
+                "Greek"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Administration Studies",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Computer Science",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Secretarial Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culinary, Hospitality and Tourism",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Hotel and Restaurant",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Studies",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Studies",
+                "FieldsOfStudy": [
+                    "Cosmetology",
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Media Studies",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Media Studies",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Cooking and Catering",
+                    "Cosmetology",
+                    "Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Mehmet Ali 75",
+                "City": "Larnaca",
+                "Province": "N/A",
+                "PostCode": "6015",
+                "Website": "http://www.larnacacollege.ac.cy",
+                "college_name": "Larnaca College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate; English language proficiency"
+            ],
+            "Languages": [
+                "English",
+                "Greek"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hospitality",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Hotel Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "13 Lankada Street",
+                "City": "Nicosia",
+                "Province": "Strovolos",
+                "PostCode": "2023",
+                "Website": "http://www.ledra.ac.cy",
+                "college_name": "Ledra College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent; English language proficiency"
+            ],
+            "Languages": [
+                "English",
+                "Greek"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Digital Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mobile and Web Applications Development",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Finance",
+                    "Marketing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "77 Kallipoleos Avenue, POBox 20536",
+                "City": "Nicosia",
+                "Province": "N/A",
+                "PostCode": "1679",
+                "Website": "http://www.mim.ac.cy",
+                "college_name": "Mediterranean Institute of Management",
+                "university_name": "Mesogeiako Instituto Diefthinsis (MIM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1976. Earned status as a public institution of tertiary education in 2013. A state institution",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate; Entrance examination and/or admissions interview; Greek and English language proficiency"
+            ],
+            "Languages": [
+                "English",
+                "Greek"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Marketing",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3-5-7 Dimostheni Mitsi",
+                "City": "Limassol",
+                "Province": "N/A",
+                "PostCode": "3022",
+                "Website": "http://www.mesoyios.ac.cy",
+                "college_name": "Mesoyios College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 1998 as the Mesoyios Institute of Career Advancement. Acquired current title and status 2013. Offering a range of academic degrees in Hospitality Studies, BSc in Computer Science, BA in Business Administration as well as vocational certificates and diplomas",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent; English or Greek language proficiency"
+            ],
+            "Languages": [
+                "English",
+                "Greek"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Economics",
+                    "Educational Sciences",
+                    "Human Resources",
+                    "Management",
+                    "Public Relations",
+                    "Secretarial Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality and Culinary Arts",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Hotel and Restaurant",
+                    "Hotel Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Information Technology",
+                    "Mass Communication",
+                    "Petroleum and Gas Engineering",
+                    "Production Engineering",
+                    "Robotics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2 Danais Avenue",
+                "City": "Paphos",
+                "Province": "N/A",
+                "PostCode": "8042",
+                "Website": "http://www.nup.ac.cy",
+                "college_name": "Neapolis University Pafos",
+                "university_name": "(NUP)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Operating since 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy, Banking, and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture and Environmental Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Environmental Studies"
+                ],
+                "Details": "Undergraduate"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction Management",
+                "FieldsOfStudy": [
+                    "Construction Engineering",
+                    "Management"
+                ],
+                "Details": "Postgraduate"
+            },
+            {
+                "College": "Educational Psychology",
+                "FieldsOfStudy": [
+                    "Educational Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "Postgraduate"
+            },
+            {
+                "College": "Real Estate",
+                "FieldsOfStudy": [
+                    "Real Estate"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Real Estate, Valuation and Development",
+                "FieldsOfStudy": [
+                    "Real Estate"
+                ],
+                "Details": "Undergraduate"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architectural and Environmental Design",
+                    "Business Administration",
+                    "Economic and Finance Policy",
+                    "Psychology",
+                    "Real Estate"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "33 Yiannou Kranidioti Avenue",
+                "City": "Nicosia",
+                "Province": "Latsia",
+                "PostCode": "2220",
+                "Website": "https://www.ouc.ac.cy",
+                "college_name": "Open University of Cyprus",
+                "university_name": "Anikt\u00f3 Panepist\u00edmio K\u00edprou \u2013 Anoikto Panepistimio Kyprou (OUC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 2002 as the second public University of Cyprus and the only University devoted entirely to open and distance learning education at all levels (undergraduate, postgraduate and doctoral)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent; Admission requirements subject to program requisites"
+            ],
+            "Languages": [
+                "Greek",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "European Union Law",
+                    "Health Administration",
+                    "Management Systems",
+                    "Police Studies"
+                ],
+                "Details": "Banking and Finance"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Continuing Education",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "Greek",
+                    "Information Management",
+                    "Journalism",
+                    "Performing Arts",
+                    "Social Sciences",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pure and Applied Sciences",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Environmental Management",
+                    "Information Technology",
+                    "Medical Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Cultural Studies",
+                    "Finance",
+                    "Police Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 40763",
+                "City": "Larnaca",
+                "Province": "N/A",
+                "PostCode": "6307",
+                "Website": "http://www.pacollege.ac.cy",
+                "college_name": "P.A. College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Operating since 1983",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent; English language proficiency"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Computing",
+                "FieldsOfStudy": [
+                    "Business Computing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Business Computing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "4-6 Lamias Street\nP.O.Box 28008, 2090 Strovolos",
+                "City": "Nicosia",
+                "Province": "N/A",
+                "PostCode": "2090",
+                "Website": "https://philipsuni.ac.cy",
+                "college_name": "Philips University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1978 as the Philips College. Acquired status 2000. Acquired current title 2018",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate or equivalent; English language proficiency; Medical examination; Background check"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Real Estate"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Information Technology",
+                    "Modern Languages",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language Studies and Communications",
+                "FieldsOfStudy": [
+                    "European Languages",
+                    "Journalism",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Law",
+                    "Nursing",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Communication Studies",
+                    "Computer Science",
+                    "European Languages",
+                    "Finance",
+                    "Information Technology",
+                    "Law",
+                    "Nursing",
+                    "Primary Education",
+                    "Public Relations"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "10 Tagmatarchou Pouliou Street\nP.O. Box 51147",
+                "City": "Limasol",
+                "Province": "N/A",
+                "PostCode": "3502",
+                "Website": "http://www.susini.ac.cy",
+                "college_name": "Susini College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1982. Specialising in Aesthetics & Beauty Therapy and Professional Make Up",
+            "AcademicYear": "September to May (September - January; January - May)",
+            "AdmissionRequirements": [
+                "Secondary School Leaving Certificate"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Aesthetics and Beauty Therapy",
+                "FieldsOfStudy": [
+                    "Cosmetology",
+                    "Rehabilitation and Therapy",
+                    "Traditional and Complementary Medicine and Therapy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Cosmetology"
+                ],
+                "Bachelor'sDegree": [
+                    "Cosmetology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "20 Konstantinou Kavafi Street",
+                "City": "Nicosia",
+                "Province": "Aglantzia",
+                "PostCode": "2121",
+                "Website": "http://www.cyi.ac.cy",
+                "college_name": "The Cyprus Institute",
+                "university_name": "(CyI)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2005. Programmes commenced 2010-2011. A research institute offering postgraduate programmes",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Greek"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Computational Sciences",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Digital Cultural Heritage",
+                "FieldsOfStudy": [
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment and Atmospheric Sciences",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computation-based Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology in Archaeology",
+                "FieldsOfStudy": [
+                    "Archaeology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "25 Zannettos Street",
+                "City": "Nicosia",
+                "Province": "N/A",
+                "PostCode": "1100",
+                "Website": "http://www.cima.ac.cy",
+                "college_name": "The Cyprus Institute of Marketing",
+                "university_name": "(CIM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1978",
+            "AcademicYear": "January to June (January-September; October-June)",
+            "AdmissionRequirements": [
+                "Secondary School Certificate or equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Banking",
+                "FieldsOfStudy": [
+                    "Banking"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Insurance",
+                    "International Business",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "European Studies",
+                "FieldsOfStudy": [
+                    "European Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial and Computers Studies",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Finance",
+                    "Information Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Insurance",
+                "FieldsOfStudy": [
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Shipping",
+                "FieldsOfStudy": [
+                    "Marine Transport",
+                    "Maritime Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism Management",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business and Commerce"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2-4 Pasikratous Street",
+                "City": "Limassol",
+                "Province": "N/A",
+                "PostCode": "3085",
+                "Website": "https://www.tlc.ac.cy",
+                "college_name": "The Limassol College - T.L.C.",
+                "university_name": "Rea School of Beauty (TLC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1986 under the name \"Rea School of Beauty.\" Earned registration status as a private institution in 1991. Acquired present title in 2012",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Greek"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Aesthetics and Cosmetology",
+                "FieldsOfStudy": [
+                    "Cosmetology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dietetics and Nutrition",
+                "FieldsOfStudy": [
+                    "Dietetics",
+                    "Nutrition"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Cosmetology",
+                    "Dietetics",
+                    "Nutrition"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "12-14 University Avenue Pyla",
+                "City": "Larnaca",
+                "Province": "N/A",
+                "PostCode": "7080",
+                "Website": "https://www.uclancyprus.ac.cy",
+                "college_name": "University of Central Lancashire - Cyprus",
+                "university_name": "(UCLAN-Cyprus)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2012",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Applied Linguistics",
+                    "Business Administration",
+                    "Educational Administration",
+                    "English",
+                    "Finance",
+                    "Hotel Management",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Mathematics",
+                    "Psychology",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "English",
+                    "Hotel Management",
+                    "Law",
+                    "Mathematics",
+                    "Psychology",
+                    "Sports"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "46 Makedonitissas Avenue",
+                "City": "Nicosia",
+                "Province": "N/A",
+                "PostCode": "1700",
+                "Website": "http://www.unic.ac.cy",
+                "college_name": "University of Nicosia",
+                "university_name": "(UNIC)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "University of Nicosia was founded in 1980 as Intercollege. In 2007, following changes in the relevant local legislation and a comprehensive accreditation; the University of Nicosia emerged. Through its five schools, the University offers a diverse range of academic programmes of study, at both the undergraduate and postgraduate levels (Bachelor, Master and PhD degrees). Intercollege remains an associate institution, complementing the University\u2019s study offerings through its vocational and shorter duration programmes, and through a variety of joint programmes in partnership with UK universities",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Undergraduate Admission: The general admission requirement for entry to an undergraduate programme of study is a High School Leaving Certificate or equivalent qualification",
+                "Post-Graduate Admission:The minimum requirement for admission into a post-graduate degree programme is a Bachelor\u2019s Degree",
+                "The University of Nicosia welcomes transfer students from other accredited colleges and universities and accepts courses which are of the same quality and equivalency as courses offered on its campus",
+                ""
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Advertising and Publicity",
+                    "Agricultural Business",
+                    "Agricultural Management",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "E-Business/Commerce",
+                    "Economics",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Information Management",
+                    "Institutional Administration",
+                    "International Business",
+                    "Leadership",
+                    "Leisure Studies",
+                    "Management",
+                    "Management Systems",
+                    "Marketing",
+                    "Public Administration",
+                    "Public Relations",
+                    "Real Estate",
+                    "Sports Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Distance Education",
+                    "Education",
+                    "Education of the Handicapped",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Research",
+                    "Educational Sciences",
+                    "Educational Technology",
+                    "Educational Testing and Evaluation",
+                    "English",
+                    "Humanities and Social Science Education",
+                    "Jazz and Popular Music",
+                    "Literature",
+                    "Mathematics Education",
+                    "Music",
+                    "Music Education",
+                    "Music Theory and Composition",
+                    "Pedagogy",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Special Education",
+                    "Teacher Trainers Education",
+                    "Teacher Training",
+                    "Vocational Education",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities, Social Sciences and Law",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Architecture and Planning",
+                    "Arts and Humanities",
+                    "Civil Law",
+                    "Clinical Psychology",
+                    "Communication Arts",
+                    "Communication Studies",
+                    "Comparative Politics",
+                    "Criminology",
+                    "English",
+                    "European Studies",
+                    "European Union Law",
+                    "Fine Arts",
+                    "Graphic Arts",
+                    "Graphic Design",
+                    "History of Law",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "International Studies",
+                    "Labour Law",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Marketing",
+                    "Modern Languages",
+                    "Multimedia",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Law",
+                    "Public Relations",
+                    "Social and Community Services",
+                    "Social Problems",
+                    "Social Psychology",
+                    "Social Sciences",
+                    "Social Studies",
+                    "Social Work",
+                    "Speech Studies",
+                    "Vocational Counselling"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Health Sciences",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and Engineering",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Artificial Intelligence",
+                    "Biology",
+                    "Civil Engineering",
+                    "Computer Education",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Dietetics",
+                    "Electrical and Electronic Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Health Education",
+                    "Limnology",
+                    "Mathematics",
+                    "Nursing",
+                    "Orthopaedics",
+                    "Petroleum and Gas Engineering",
+                    "Pharmacy",
+                    "Physical Education",
+                    "Sports",
+                    "Sports Management",
+                    "Sports Medicine",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Administration",
+                    "Advertising and Publicity",
+                    "Architecture",
+                    "Art Education",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Computer Graphics",
+                    "Computer Science",
+                    "Dance",
+                    "Dietetics",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "Electrical and Electronic Engineering",
+                    "Electrical Engineering",
+                    "Engineering Management",
+                    "English",
+                    "Environmental Engineering",
+                    "Finance",
+                    "Fine Arts",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Information Technology",
+                    "Interior Design",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Literature",
+                    "Management",
+                    "Management Systems",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Media Studies",
+                    "Multimedia",
+                    "Music",
+                    "Music Education",
+                    "Nursing",
+                    "Orthopaedics",
+                    "Physical Therapy",
+                    "Power Engineering",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Relations",
+                    "Real Estate",
+                    "Science Education",
+                    "Social Work",
+                    "Software Engineering",
+                    "Special Education",
+                    "Sports",
+                    "Sports Management",
+                    "Statistics",
+                    "Technology Education",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

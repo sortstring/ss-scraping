@@ -1,0 +1,289 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Roma 180",
+                "City": "Maseru",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.nul.ls",
+                "college_name": "National University of Lesotho",
+                "university_name": "(NUL)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1945 as Pius XII College, became University of Basutoland, Bechuanaland Protectorate and Swaziland 1966; part of the trinational University of Botswana, Lesotho and Swaziland 1966. Acquired present status 1975.",
+            "AcademicYear": "July to June (July -December; January-June)",
+            "AdmissionRequirements": [
+                "Cambridge Overseas School Certificate or equivalent, with credit in English"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Computer Science",
+                    "Crop Production",
+                    "Dairy",
+                    "Ecology",
+                    "Farm Management",
+                    "Food Science",
+                    "Food Technology",
+                    "Genetics",
+                    "Irrigation",
+                    "Soil Science",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Agricultural Education",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Research",
+                    "Educational Technology",
+                    "Environmental Studies",
+                    "Higher Education",
+                    "Mathematics Education",
+                    "Primary Education",
+                    "Science Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Health Sciences",
+                    "Midwifery",
+                    "Nursing",
+                    "Nutrition",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "African Languages",
+                    "Arts and Humanities",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "English",
+                    "Ethics",
+                    "French",
+                    "Heritage Preservation",
+                    "History",
+                    "Information Sciences",
+                    "Library Science",
+                    "Linguistics",
+                    "Literature",
+                    "Pastoral Studies",
+                    "Philosophy",
+                    "Psychology",
+                    "Religious Studies",
+                    "Theology",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Labour Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Biotechnology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Environmental Studies",
+                    "Geography",
+                    "Information Technology",
+                    "Mathematics",
+                    "Physics",
+                    "Regional Planning",
+                    "Statistics",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Anthropology",
+                    "Business Administration",
+                    "Demography and Population",
+                    "Development Studies",
+                    "Economics",
+                    "Geography (Human)",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Social Work",
+                    "Sociology",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Education",
+                    "Educational Research",
+                    "Educational Testing and Evaluation",
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Extra-Mural Studies",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Business Administration",
+                    "Education",
+                    "Management",
+                    "Mass Communication"
+                ],
+                "Details": "IEMS"
+            },
+            {
+                "College": "Southern African Studies",
+                "FieldsOfStudy": [
+                    "African Studies",
+                    "Labour and Industrial Relations"
+                ],
+                "Details": "ISAS"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Adult Education",
+                    "Business Administration",
+                    "Engineering",
+                    "Management",
+                    "Natural Sciences",
+                    "Primary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Adult Education",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Chemistry",
+                    "Crop Production",
+                    "Economics",
+                    "Education",
+                    "Law",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Social Work",
+                    "Sociology",
+                    "Soil Science"
+                ],
+                "Doctor'sDegrees": [
+                    "African Languages",
+                    "Development Studies",
+                    "Education",
+                    "History",
+                    "Linguistics",
+                    "Literature",
+                    "Modern Languages",
+                    "Philosophy"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 1507\nBlock A (LNDC)\nDevelopment House",
+                "City": "Maseru",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Lesotho Institute of Public Administration and Management",
+                "university_name": "(LIPAM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "N/A",
+            "AcademicYear": "From August to May",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Human Resource Management",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Labour Laws",
+                "FieldsOfStudy": [
+                    "Labour Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Leadership and Strategy",
+                "FieldsOfStudy": [
+                    "Leadership"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Human Resources"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Labour Law",
+                    "Leadership"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

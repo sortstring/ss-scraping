@@ -1,0 +1,592 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 2713",
+                "City": "Doha",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.qu.edu.qa",
+                "college_name": "Qatar University",
+                "university_name": "(QU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1973 as Faculties of Education, acquired present status and title 1977. A State institution with academic and financial autonomy. Financially supported by the government",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Thanawiya Aama) or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Biomedical Research Center",
+                "FieldsOfStudy": [
+                    "Biomedicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Centre for Advanced Materials",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Studies",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Gas Processing",
+                "FieldsOfStudy": [
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "KINDI Center for Computing Research",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Information Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Laboratory Animal Research Center",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Qatar Transportation and Traffic Safety Center",
+                "FieldsOfStudy": [
+                    "Road Transport",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Earth Sciences",
+                    "Information Sciences",
+                    "Mass Communication",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Physics",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "Information Technology",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Sciences",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Structural Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Nutrition",
+                    "Physical Therapy",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sharia and Islamic Studies",
+                "FieldsOfStudy": [
+                    "Islamic Law",
+                    "Islamic Studies",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Economic Survey Research Institute",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "SESRI"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Special Education"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Administration",
+                    "Arabic",
+                    "Architecture",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Biomedicine",
+                    "Biotechnology",
+                    "Business Computing",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Development Studies",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "English",
+                    "Finance",
+                    "History",
+                    "Industrial Engineering",
+                    "International Studies",
+                    "Islamic Law",
+                    "Islamic Studies",
+                    "Law",
+                    "Management",
+                    "Marine Science and Oceanography",
+                    "Marketing",
+                    "Mass Communication",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Medicine",
+                    "Nutrition",
+                    "Pharmacy",
+                    "Psychology",
+                    "Public Health",
+                    "Rehabilitation and Therapy",
+                    "Social Work",
+                    "Sociology",
+                    "Sports",
+                    "Statistics"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Arabic",
+                    "Biomedicine",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Curriculum",
+                    "Educational Administration",
+                    "Electrical Engineering",
+                    "Engineering Management",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Islamic Law",
+                    "Islamic Studies",
+                    "Koran",
+                    "Marketing",
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Pharmacy",
+                    "Private Law",
+                    "Public Health",
+                    "Public Law",
+                    "Regional Studies",
+                    "Special Education",
+                    "Statistics",
+                    "Town Planning"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "C Ring Campus\nPO Box 7344, C-Ring",
+                "City": "Doha",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ccq.edu.qa",
+                "college_name": "Community College of Qatar",
+                "university_name": "(CCQ)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Bachelor Studies",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Electrical Engineering",
+                    "Human Resources",
+                    "Logistics Management",
+                    "Management",
+                    "Mechanical Engineering",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Computer Networks",
+                    "Electrical Engineering",
+                    "Human Resources",
+                    "Logistics Management",
+                    "Management",
+                    "Mechanical Engineering",
+                    "Public Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Al Tarfa Street, Zone 70\nPO Box 200592\nAl Daayan-Wadi Al Banaat",
+                "City": "Doha",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.dohainstitute.edu.qa",
+                "college_name": "Doha Institute for Graduate Studies",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2011 by the Arab Center for Research and Policy Studies as a result of the need to prepare a new generation of enlightened young Arab scholars, critical thinkers, and future leaders. First student intake in 2015. A graduate institute.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Conflict and Humanitarian Studies",
+                "FieldsOfStudy": [
+                    "Civil Security",
+                    "Peace and Disarmament"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Doctoral Studies",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Comparative Literature",
+                    "Economics",
+                    "History",
+                    "International Relations and Diplomacy",
+                    "Linguistics",
+                    "Media Studies",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics, Administration and Public Policy",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Public Administration",
+                    "Social Policy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Humanities",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arabic",
+                    "Comparative Literature",
+                    "Cultural Studies",
+                    "History",
+                    "Human Rights",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Linguistics",
+                    "Literature",
+                    "Media Studies",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Anthropology",
+                    "Arabic",
+                    "Civil Security",
+                    "Comparative Literature",
+                    "Cultural Studies",
+                    "Economics",
+                    "History",
+                    "Human Rights",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Linguistics",
+                    "Peace and Disarmament",
+                    "Philosophy",
+                    "Psychology",
+                    "Public Administration",
+                    "Social Policy",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 34110\nEducation City",
+                "City": "Doha",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://hbku.edu.qa",
+                "college_name": "Hamad Bin Khalifa University",
+                "university_name": "(HBKU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2010 by Qatar Foundation for Education, Science, and Community Development. Offers mostly postgraduate education.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Health and Life Science",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Biomedicine",
+                    "Genetics",
+                    "Neurosciences",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Studies",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Information Management",
+                    "Translation and Interpretation",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Islamic Studies",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Finance",
+                    "Fine Arts",
+                    "Islamic Studies",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "International Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Policy",
+                "FieldsOfStudy": [
+                    "Social Policy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Health Administration",
+                    "Information Sciences",
+                    "Logistics Management",
+                    "Sports Management",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Qatar Biomedical Research Institute",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Biomedicine"
+                ],
+                "Details": "QBRI"
+            },
+            {
+                "College": "Qatar Computing Research Institute",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "QCRI"
+            },
+            {
+                "College": "Qatar Environment and Energy Research Institute",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Environmental Management"
+                ],
+                "Details": "QEERI"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Computer Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Finance",
+                    "Islamic Studies"
+                ],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Biological and Life Sciences",
+                    "Biomedicine",
+                    "Commercial Law",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Finance",
+                    "Genetics",
+                    "Health Administration",
+                    "Information Management",
+                    "International Law",
+                    "Islamic Studies",
+                    "Logistics Management",
+                    "Psychology",
+                    "Social Policy",
+                    "Sports",
+                    "Sports Management",
+                    "Translation and Interpretation",
+                    "Women's Studies"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

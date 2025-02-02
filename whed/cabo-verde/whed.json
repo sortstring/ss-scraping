@@ -1,0 +1,846 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus do Palmarejo Grande, C.P. 379-C",
+                "City": "Praia",
+                "Province": "Santiago",
+                "PostCode": "7943-010",
+                "Website": "https://www.unicv.edu.cv",
+                "college_name": "University of Cape Verde",
+                "university_name": "Universidade de Cabo Verde \u2013 Universit\u00e9 du Cap-Vert (Uni-CV)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2006. Incorporated the Instituto Superior de Educa\u00e7\u00e3o (ISE), the Instituto Superior de Engenharia e Ci\u00eancias do Mar (ISECMAR) and the Instituto Nacional de Administra\u00e7\u00e3o e Gest\u00e3o (INAG) 2008",
+            "AcademicYear": "September to June (September-December; January-March; April-June)",
+            "AdmissionRequirements": [
+                "High school diploma and entrance examination"
+            ],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education and Sport",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Education",
+                    "Educational Administration",
+                    "Humanities and Social Science Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Science Education",
+                    "Teacher Training",
+                    "Technology Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Biomedical Engineering",
+                    "Biomedicine",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Demography and Population",
+                    "Electrical and Electronic Engineering",
+                    "Food Science",
+                    "Gerontology",
+                    "Industrial Engineering",
+                    "Laboratory Techniques",
+                    "Mathematics",
+                    "Medical Auxiliaries",
+                    "Medical Technology",
+                    "Orthopaedics",
+                    "Physical Engineering",
+                    "Physics",
+                    "Psychiatry and Mental Health",
+                    "Public Health",
+                    "Statistics",
+                    "Teacher Training",
+                    "Treatment Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Humanities",
+                "FieldsOfStudy": [
+                    "African Studies",
+                    "Anthropology",
+                    "Art History",
+                    "Communication Studies",
+                    "Comparative Literature",
+                    "Cultural Studies",
+                    "Education",
+                    "Educational Sciences",
+                    "English",
+                    "European Studies",
+                    "French",
+                    "History",
+                    "Linguistics",
+                    "Literature",
+                    "Modern Languages",
+                    "Music",
+                    "Philosophy",
+                    "Portuguese",
+                    "Psychology",
+                    "Social Sciences",
+                    "Teacher Training",
+                    "Translation and Interpretation",
+                    "Writing"
+                ],
+                "Details": "DCSH"
+            },
+            {
+                "College": "Agricultural and Environmental Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment",
+                    "Agricultural Management",
+                    "Animal Husbandry",
+                    "Computer Science",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Forestry",
+                    "Mathematics",
+                    "Regional Planning",
+                    "Rural Planning",
+                    "Social Work",
+                    "Statistics",
+                    "Tropical Agriculture",
+                    "Water Science"
+                ],
+                "Details": "ECAA"
+            },
+            {
+                "College": "Business and Government",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Human Rights",
+                    "Labour Law",
+                    "Management",
+                    "Marketing",
+                    "Mass Communication",
+                    "Private Law",
+                    "Public Law",
+                    "Real Estate",
+                    "Secretarial Studies",
+                    "Social Work",
+                    "Statistics",
+                    "Teacher Training",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Zona Industrial Tira-Chap\u00e9u",
+                "City": "Praia",
+                "Province": "N/A",
+                "PostCode": "131",
+                "Website": "https://www.iscee.edu.cv",
+                "college_name": "Higher Institute of Economics and Business",
+                "university_name": "Instituto Superior de Ci\u00eancias Econ\u00f3micas e Empresariais (ISCEE)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Commerce",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Entrepreneurship",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida. Cidade de Lisboa\nFazenda",
+                "City": "Praia",
+                "Province": "S\u00e3o Tiago",
+                "PostCode": "212",
+                "Website": "http://www.iscjs.edu.cv",
+                "college_name": "Institute of Law and Social Sciences",
+                "university_name": "Instituto Superior de Ci\u00eancias Jur\u00eddicas e Sociais (ISCJS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Political Sciences and Public Administration",
+                "FieldsOfStudy": [
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Criminology and Public Security",
+                "FieldsOfStudy": [
+                    "Civil Security",
+                    "Criminology",
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Relations and Diplomacy",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing and Public Relations",
+                "FieldsOfStudy": [
+                    "Marketing",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Caixa Postal 775\nCampus Universit\u00e1rio da Cidade da Pra\u00eda\nPalmarejo Grande",
+                "City": "Praia",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.unipiaget.edu.cv",
+                "college_name": "Jean Piaget University of Cape Verde",
+                "university_name": "Universidade Jean Piaget de Cabo Verde \u2013 UniPiaget"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001.",
+            "AcademicYear": "October-July (October-February; March-July)",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Communication Studies",
+                    "Education",
+                    "Educational Sciences",
+                    "Portuguese",
+                    "Primary Education",
+                    "Psychology",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Translation and Interpretation"
+                ],
+                "Details": "UCHSA"
+            },
+            {
+                "College": "Environmental, Natural and Life Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Development Studies",
+                    "Ecology",
+                    "Environmental Studies",
+                    "Food Technology",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Public Health",
+                    "Treatment Techniques"
+                ],
+                "Details": "UCNVA"
+            },
+            {
+                "College": "Exact Sciences, Technology and Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Business Computing",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Natural Sciences",
+                    "Systems Analysis",
+                    "Technology"
+                ],
+                "Details": "UCETE"
+            },
+            {
+                "College": "Law, Economics and Political Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Hotel Management",
+                    "Law",
+                    "Management",
+                    "Public Administration",
+                    "Tourism"
+                ],
+                "Details": "UCEJP"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ch\u00e3 de Cricket, Ex-Zona Militar",
+                "City": "Mindelo",
+                "Province": "S\u00e3o Vicente",
+                "PostCode": "N/A",
+                "Website": "https://www.ulusofona.edu.cv",
+                "college_name": "Lusophone University of Cape Verde",
+                "university_name": "Universidade Lusofona de Cabo Verde (ULCV)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy, Administration and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Banking",
+                    "Insurance",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture and Town Planning",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Sciences",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Digital Ecionomy",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Administration",
+                "FieldsOfStudy": [
+                    "Health Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Modern Languages",
+                "FieldsOfStudy": [
+                    "Modern Languages",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Municipal Management and Local Development",
+                "FieldsOfStudy": [
+                    "Community Development",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Performing Arts",
+                "FieldsOfStudy": [
+                    "Performing Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Safety Management",
+                "FieldsOfStudy": [
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hotel Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "CP: 2210 S\u00e3o Vicente\nMadeiralzinho (Social Center Square)",
+                "City": "Mindelo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://uta.cv",
+                "college_name": "Technical University of the Atlantic",
+                "university_name": "Universidade T\u00e9cnica do Atl\u00e2ntico (UTA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2019. Integration of M_EIA as an Organic Unit of UTA in 2024.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Aeronautics and Tourism",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural Sciences and Technologies",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Environmental Studies",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts, Technologies and Culture",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Engineering and Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Biological and Life Sciences",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Earth Sciences",
+                    "Electrical Engineering",
+                    "Marine Engineering",
+                    "Marine Science and Oceanography",
+                    "Mechanical Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "CP 648\nRua Patrice Lumumba",
+                "City": "Mindelo - S\u00e3o Vicente",
+                "Province": "2110",
+                "PostCode": "N/A",
+                "Website": "https://um.edu.cv",
+                "college_name": "University of Mindelo",
+                "university_name": "Universidade do Mindelo (Uni-Mindelo)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003. Acquired present title and status 2010. Formerly named 'Instituto de Ensino Superior Isidoro da Gra\u00e7a' (IESIG).",
+            "AcademicYear": "September to July (September-February; March-July)",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities, Law and Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Criminology",
+                    "Education",
+                    "English",
+                    "Hotel Management",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Modern Languages",
+                    "Political Sciences",
+                    "Portuguese",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Economics",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Marine Resources",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Energy Engineering",
+                    "Marine Science and Oceanography",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Healh Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing",
+                    "Ophthalmology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "CP 4\nAvenida Bolanha",
+                "City": "Assomada",
+                "Province": "Ilha de Santiago",
+                "PostCode": "N/A",
+                "Website": "https://us.edu.cv",
+                "college_name": "University of Santiago",
+                "university_name": "Universidade de Santiago (US)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Economics",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Public Administration",
+                    "Public Relations",
+                    "Secretarial Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences, Philosophy, and Modern Languages",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Educational Sciences",
+                    "English",
+                    "French",
+                    "Journalism",
+                    "Modern Languages",
+                    "Pedagogy",
+                    "Portuguese",
+                    "Primary Education",
+                    "Science Education"
+                ],
+                "Details": "DCEFL"
+            },
+            {
+                "College": "Health and Environmental Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Community Health",
+                    "Computer Engineering",
+                    "Environmental Management",
+                    "Food Science",
+                    "Health Sciences",
+                    "Information Technology",
+                    "Marketing",
+                    "Multimedia",
+                    "Nursing",
+                    "Nutrition",
+                    "Psychiatry and Mental Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Social Sciences",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Communication Studies",
+                    "Community Development",
+                    "Labour Law",
+                    "Law",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

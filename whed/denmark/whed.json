@@ -1,0 +1,3113 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Universitetsvej 1\nPostboks 260",
+                "City": "Roskilde",
+                "Province": "N/A",
+                "PostCode": "4000",
+                "Website": "https://ruc.dk",
+                "college_name": "Roskilde University",
+                "university_name": "Roskilde Universitet (RUC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1972 by Government decree. A State Institution employing new teaching and learning methods based on an 'integrated' approach to higher education and placing emphasis on group work",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (studentereksamen), or appropriate educational level reached through formal or non-formal education"
+            ],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Communication and Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "People and Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Design",
+                    "Information Technology",
+                    "Management",
+                    "Sociology",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Environment",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Mathematics",
+                    "Molecular Biology",
+                    "Natural Sciences",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Development Studies",
+                    "International Studies",
+                    "Leadership",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Doctoral School of Communication and Arts",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Doctoral School of People and Technology",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Information Technology",
+                    "Social Psychology",
+                    "Sociology",
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Doctoral School of Science and Environment",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Ecology",
+                    "Environmental Management",
+                    "Mathematics",
+                    "Molecular Biology",
+                    "Physics",
+                    "Physiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Doctoral School of Social Sciences and Business",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "International Studies",
+                    "Public Administration",
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Design",
+                    "Environmental Management",
+                    "Information Technology",
+                    "International Studies",
+                    "Mathematics",
+                    "Physics",
+                    "Sociology",
+                    "Town Planning"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Krystalgade 25",
+                "City": "K\u00f8benhavn",
+                "Province": "N/A",
+                "PostCode": "1172",
+                "Website": "https://www.ku.dk",
+                "college_name": "University of Copenhagen",
+                "university_name": "K\u00f8benhavns Universitet (KU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1479. Acquired present status 2007 following the merger between the former Den Kgl. Veterin\u00e6r- og Landboh\u00f8jskole (The Royal Veterinary and Agricultural University) and the Danmarks Farmaceutiske Universitet (The Danish University of Pharmaceutical Sciences). Financed by the State",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (studentereksamen), or foreign equivalent, and entrance examination in Danish language",
+                "Bachelor\u2019s degree for admission into Master's programmes",
+                "Foreign exchange and guest students should be enrolled at a University in their home country or elsewhere abroad during their proposed stay at the University of Copenhagen"
+            ],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Health and Medical Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Pharmacology",
+                    "Public Health",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Cultural Studies",
+                    "English",
+                    "Germanic Languages",
+                    "Information Sciences",
+                    "Library Science",
+                    "Linguistics",
+                    "Media Studies",
+                    "Nordic Studies",
+                    "Regional Studies",
+                    "Romance Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Mathematics",
+                    "Nanotechnology",
+                    "Natural Resources",
+                    "Natural Sciences",
+                    "Nutrition",
+                    "Physics",
+                    "Science Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Economics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "African Studies",
+                    "Religious Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Health Sciences",
+                    "Law",
+                    "Medical Science",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Social Sciences",
+                    "Theology",
+                    "Veterinary Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Health Sciences",
+                    "Law",
+                    "Medical Science",
+                    "Natural Sciences",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Theology",
+                    "Veterinary Science"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Postboks 159\nFredrik Bajers vej 5",
+                "City": "Aalborg",
+                "Province": "N/A",
+                "PostCode": "9100",
+                "Website": "https://www.aau.dk",
+                "college_name": "Aalborg University",
+                "university_name": "Aalborg Universitet (AAU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1974. A State Institution incorporating previously established Centres of Education in Aalborg and employing new teaching and learning methods based on an 'integrated' approach to higher education, with emphasis on project work in groups. Financed by the State. The University has Departments in Esbjerg and Copenhagen",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (studentereksamen) or H\u00f8jere-Forberedelseseksamen (HF), H\u00f8jere, Handelseksamen, (HHX) or H\u00f8jere Teknisk eksamen (HTX), or recognized equivalent"
+            ],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering and Science",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Biotechnology",
+                    "Building Technologies",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Design",
+                    "Development Studies",
+                    "Education",
+                    "Electrical and Electronic Engineering",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Health Sciences",
+                    "Industrial Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Nanotechnology",
+                    "Natural Sciences",
+                    "Pedagogy",
+                    "Physics",
+                    "Production Engineering",
+                    "Surveying and Mapping",
+                    "Technology"
+                ],
+                "Details": "Copenhagen Institute of Technology;  Esberg Institute of Technology"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Education",
+                    "History",
+                    "International Studies",
+                    "Modern Languages",
+                    "Pedagogy",
+                    "Philosophy",
+                    "Philosophy of Education",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Cultural Studies",
+                    "Education",
+                    "International Studies",
+                    "Law",
+                    "Management",
+                    "Pedagogy",
+                    "Philosophy of Education",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Social Studies",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Building",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Building Technologies",
+                    "Communication Studies",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Management"
+                ],
+                "Details": "Danish"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Engineering",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N\u00f8rreport 20",
+                "City": "Aarhus C",
+                "Province": "N/A",
+                "PostCode": "8000",
+                "Website": "https://aarch.dk",
+                "college_name": "Aarhus School of Architecture",
+                "university_name": "Arkitektskolen Aarhus"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1965",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Studentereksamen) or recognized equivalent"
+            ],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architectural Heritage",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Urbanism and Landscape",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Landscape Architecture",
+                    "Town Planning",
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Inge Lehmanns Gade 10",
+                "City": "Aarhus C",
+                "Province": "N/A",
+                "PostCode": "8000",
+                "Website": "https://www.aams.dk",
+                "college_name": "Aarhus School of Marine and Technical Engineering",
+                "university_name": "Aarhus Maskinmesterskole"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Aarhus Mechanical School, 1896. Acquired present title and status 1968",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Marine Engineering",
+                "FieldsOfStudy": [
+                    "Marine Engineering",
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Marine Engineering",
+                    "Marine Transport"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Nordre Ringgade 1",
+                "City": "Aarhus",
+                "Province": "N/A",
+                "PostCode": "8000",
+                "Website": "https://www.au.dk",
+                "college_name": "Aarhus University",
+                "university_name": "\u00c5rhus Universitet"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1928 by municipal authorities, recognized by Parliament 1931, and awarded Government grant. Achieved full University status 1934. Became State Institution 1970 under the supervision of the Ministry of Education",
+            "AcademicYear": "September to June (September-December; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (studentereksamen) or equivalent"
+            ],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Aesthetics and Communication",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Cultural Studies",
+                    "Fine Arts",
+                    "Mass Communication",
+                    "Modern Languages",
+                    "Musicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agroecology",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Ecology",
+                    "Environmental Management",
+                    "Natural Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Animal Science",
+                "FieldsOfStudy": [
+                    "Veterinary Science",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biomedicine",
+                "FieldsOfStudy": [
+                    "Biomedicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Bioscience",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Communication",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Clinical Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culture and Society",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arabic",
+                    "Archaeology",
+                    "Chinese",
+                    "Eastern European Studies",
+                    "History",
+                    "Japanese",
+                    "Philosophy",
+                    "Religion",
+                    "South Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Science",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Natural Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Science",
+                "FieldsOfStudy": [
+                    "Food Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forensic Medicine",
+                "FieldsOfStudy": [
+                    "Forensic Medicine and Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geoscience",
+                "FieldsOfStudy": [
+                    "Earth Sciences",
+                    "Geology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Molecular Biology and Genetics",
+                "FieldsOfStudy": [
+                    "Genetics",
+                    "Molecular Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics and Astronomy",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Science and Government",
+                "FieldsOfStudy": [
+                    "Government",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology and Behavioural Sciences",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Mechanical Engineering",
+                    "Power Engineering"
+                ],
+                "Details": "Previously independant school - merged with the university in 2012."
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Economics",
+                    "Engineering",
+                    "Food Science",
+                    "Health Sciences",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agriculture",
+                    "Arts and Humanities",
+                    "Dentistry",
+                    "Education",
+                    "Engineering",
+                    "Health Sciences",
+                    "Information Sciences",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Philosophy",
+                    "Public Health",
+                    "Sports"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "S\u00f8nderh\u00f8j 30",
+                "City": "Viby J",
+                "Province": "N/A",
+                "PostCode": "8260",
+                "Website": "https://www.baaa.dk",
+                "college_name": "Business Academy Aarhus",
+                "university_name": "Erhvervsakademi Aarhus"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded \t2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Technology",
+                "FieldsOfStudy": [
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Data Processing",
+                    "Information Technology",
+                    "Multimedia",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Landscape Architecture",
+                "FieldsOfStudy": [
+                    "Landscape Architecture"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Landscape Architecture"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Solbjerg Plads 3",
+                "City": "Frederiksberg",
+                "Province": "N/A",
+                "PostCode": "2000",
+                "Website": "https://www.cbs.dk",
+                "college_name": "Copenhagen Business School",
+                "university_name": "Copenhagen Business School - Handelsh\u00f8jskolen i K\u00f8benhavn (CBS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1917 as a private Institution, integrated into the national system, thus becoming self-governing 1965. Acquired present status 2003",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school leaving certificate (studentereksamen) or H\u00f8jere Forberedelseseksamen, H\u00f8jere Handelseksamen, H\u00f8jere Teknisk eksamen or recognized equivalent"
+            ],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Management Studies",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Art and Leadership",
+                "FieldsOfStudy": [
+                    "Leadership"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Asian Research",
+                "FieldsOfStudy": [
+                    "Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biotech Business",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Development and Management Technology",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business History",
+                "FieldsOfStudy": [
+                    "Economic History",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Corporate Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Corporate Values and Responsibility",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "East European Studies",
+                "FieldsOfStudy": [
+                    "Eastern European Studies"
+                ],
+                "Details": "Frederiksberg"
+            },
+            {
+                "College": "Electronic Commerce",
+                "FieldsOfStudy": [
+                    "E-Business/Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Finance",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospital Management and Organization",
+                "FieldsOfStudy": [
+                    "Institutional Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Dynamics",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Innovation and Entrepreneurship",
+                "FieldsOfStudy": [
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "IT in Policy Organizations",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Knowledge Governance",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law, Economics and Finance",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management, Organization and Competence",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Market Economics",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing Communication",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Study of the Americas",
+                "FieldsOfStudy": [
+                    "American Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Accounting and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "Frederiksberg"
+            },
+            {
+                "College": "Business and Politics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "International Economics",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Assisted Linguistics",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Linguistics"
+                ],
+                "Details": "Frederiksberg"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Translation and Interpretation"
+                ],
+                "Details": "Frederiksberg"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Insurance"
+                ],
+                "Details": "Frederiksberg"
+            },
+            {
+                "College": "French, German, Italian, Russian and Spanish",
+                "FieldsOfStudy": [
+                    "French",
+                    "German",
+                    "Italian",
+                    "Linguistics",
+                    "Russian",
+                    "Spanish",
+                    "Translation and Interpretation"
+                ],
+                "Details": "Frederiksberg"
+            },
+            {
+                "College": "Innovation and Organizational Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Industrial Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Intercultural Communication and Management",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Management"
+                ],
+                "Details": "Frederiksberg"
+            },
+            {
+                "College": "International Culture and Communication Studies",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Modern Languages",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Economics and Management",
+                "FieldsOfStudy": [
+                    "International Economics",
+                    "Management"
+                ],
+                "Details": "Frederiksberg"
+            },
+            {
+                "College": "International Languages Studies and Computational Linguistics",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Modern Languages",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "IT Management",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "E-Business/Commerce",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "European Union Law",
+                    "International Law",
+                    "Labour Law",
+                    "Law"
+                ],
+                "Details": "International Law related to Business with focus on Law as a Management Tool, Frederiksberg"
+            },
+            {
+                "College": "Management, Politics and Philosophy",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Philosophy",
+                    "Political Sciences"
+                ],
+                "Details": "Copenhagen"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "Frederiksberg"
+            },
+            {
+                "College": "Operations Management",
+                "FieldsOfStudy": [
+                    "Industrial Management",
+                    "Management"
+                ],
+                "Details": "Frederiksberg"
+            },
+            {
+                "College": "Organization",
+                "FieldsOfStudy": [
+                    "Human Resources",
+                    "Industrial Management",
+                    "Management",
+                    "Sociology"
+                ],
+                "Details": "Frederiksberg"
+            },
+            {
+                "College": "Strategic Management and Globalisation",
+                "FieldsOfStudy": [
+                    "International Business",
+                    "Management"
+                ],
+                "Details": "Frederiksberg"
+            },
+            {
+                "College": "Economics and Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages, Communication and Cultural Studies",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Modern Languages"
+                ],
+                "Details": "Frederiksberg"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Economics",
+                    "European Studies",
+                    "Mathematics"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business Computing",
+                    "Commercial Law",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Akademivej 56, Bygn. 358",
+                "City": "Kgs. Lyngby",
+                "Province": "N/A",
+                "PostCode": "2800",
+                "Website": "https://www.msk.dk",
+                "college_name": "Copenhagen School of Marine Engineering and Technology Management",
+                "university_name": "Maskinmesterskolen K\u00f8benhavn"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 1906",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Marine Engineering and Technology Management",
+                "FieldsOfStudy": [
+                    "Marine Engineering",
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Marine Engineering",
+                    "Marine Transport"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Islandsgade 2",
+                "City": "Odense",
+                "Province": "C",
+                "PostCode": "5000",
+                "Website": "https://www.sdmk.dk",
+                "college_name": "Danish National Academy of Music",
+                "university_name": "Syddansk Musikkonservatorium (SMKS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1929 as a private institution, Det Fynske Musikkonservatorium became a government institution under the supervision of the Ministry of Cultural Affairs 1972. Reorganised and merged with the Academic of Music and Music Communication in Esberg, and the Acting school in Odense, 2010, to become The Academy of Music and Dramatic Arts, Southern Denmark (Syddansk Musikkonservatorium og Skuespillerskole). Acquired current title 2015",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Audition in the respective major instrument/academic area, plus minors (ear training, piano, music theory)"
+            ],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Jazz and Popular Music",
+                    "Music",
+                    "Music Theory and Composition",
+                    "Religious Music"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Music"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Music"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Olof Palmes All\u00e9 11",
+                "City": "\u00c5rhus N",
+                "Province": "N/A",
+                "PostCode": "8200",
+                "Website": "http://www.dmjx.dk",
+                "college_name": "Danish School of Media and Journalism",
+                "university_name": "Danmarks Medie- og Journalisth\u00f8jskole"
+            },
+            "InstitutionFunding": "Public",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Media and Journalism",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Graphic Design",
+                    "Journalism",
+                    "Media Studies",
+                    "Photography",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Journalism",
+                    "Media Studies",
+                    "Radio and Television Broadcasting"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "\u00c5gade 10",
+                "City": "Kolding",
+                "Province": "N/A",
+                "PostCode": "6000",
+                "Website": "https://www.designskolenkolding.dk",
+                "college_name": "Design School Kolding",
+                "university_name": "Designskolen Kolding \u2013 Design School Kolding"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1967 as Kunsth\u00e5ndv\u00e6rkerskole (Arts and Crafts School). In 1998, the school changed its name to Kolding School of Design. Acquired present status 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accessory Design",
+                "FieldsOfStudy": [
+                    "Handicrafts",
+                    "Jewellery Art"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Design",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Graphic Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fashion and Textile Design",
+                "FieldsOfStudy": [
+                    "Fashion Design",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Design",
+                "FieldsOfStudy": [
+                    "Industrial Design"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Design"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Fashion Design",
+                    "Graphic Design",
+                    "Industrial Design",
+                    "Interior Design",
+                    "Textile Design"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "K\u00f8bmagergade 86",
+                "City": "Fredericia",
+                "Province": "N/A",
+                "PostCode": "7000",
+                "Website": "http://www.fms.dk",
+                "college_name": "Fredericia School of Technology Management and Marine Engineering",
+                "university_name": "Fredericia Maskinmesterskole"
+            },
+            "InstitutionFunding": "Public",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Marine Engineering and Transport",
+                "FieldsOfStudy": [
+                    "Marine Engineering",
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Marine Engineering",
+                    "Marine Transport"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Jernbanegade 13",
+                "City": "Odense",
+                "Province": "C",
+                "PostCode": "5000",
+                "Website": "https://detfynskekunstakademi.dk",
+                "college_name": "Funen Art Academy",
+                "university_name": "Det Fynske Kunstakademi"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1978",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Fine Arts"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Havneparken 1,",
+                "City": "Kolding",
+                "Province": "N/A",
+                "PostCode": "6000",
+                "Website": "https://www.iba.dk",
+                "college_name": "IBA International Business Academy",
+                "university_name": "IBA Erhvervsakademi Kolding"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991. Recognised as higher education institution since 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Sales and Marketing",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "E-Business/Commerce",
+                    "Finance",
+                    "International Business",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing Management",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Multimedia Design and Communication",
+                "FieldsOfStudy": [
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Web Development",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Computer Science",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "International Business"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rued Langgards Vej 7",
+                "City": "K\u00f8benhavn S",
+                "Province": "N/A",
+                "PostCode": "2300",
+                "Website": "https://itu.dk",
+                "college_name": "IT University of Copenhagen",
+                "university_name": "IT-Universitetet i K\u00f8benhavn (ITU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1999 as faculty hosted by the Copenhagen Business School. Acquired present status 2003",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Bachelor Degree"
+            ],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Computer Graphics",
+                    "Design",
+                    "E-Business/Commerce",
+                    "Information Technology",
+                    "Media Studies",
+                    "Software Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Information Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Information Technology",
+                    "Software Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Mejlgade 32-34",
+                "City": "Aarhus",
+                "Province": "C",
+                "PostCode": "8000",
+                "Website": "http://www.djk.nu",
+                "college_name": "Jutland Art Academy",
+                "university_name": "Det Jyske Kunstakademi"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 1959",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "H\u00e5nb\u00e6kvej 54",
+                "City": "Frederikshavn",
+                "Province": "N/A",
+                "PostCode": "9900",
+                "Website": "https://www.martec.dk",
+                "college_name": "MARTEC - Maritime and Polytechnic University College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created in 1929. The college was stabled as the result of a merger of Frederikshavn Marine Engineer School and Frederikshavn Maritime Academy which were the oldest maritime schools in Denmark having established in 1929 and 1948 respectively.. In 2017, MARTEC merged with the Skagen Skipper School",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Marine Engineering",
+                "FieldsOfStudy": [
+                    "Marine Engineering",
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Marine Engineering",
+                    "Marine Transport"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Theodor Christensens Plads 1",
+                "City": "K\u00f8benhavn",
+                "Province": "K",
+                "PostCode": "1437",
+                "Website": "https://www.filmskolen.dk",
+                "college_name": "National Film School of Denmark",
+                "university_name": "Den Danske Filmskole"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 1966",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Film",
+                "FieldsOfStudy": [
+                    "Film"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Television",
+                "FieldsOfStudy": [
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Video Production",
+                "FieldsOfStudy": [
+                    "Video"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Film"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Leo Mathisens Vej 1",
+                "City": "K\u00f8benhavn",
+                "Province": "K",
+                "PostCode": "1437",
+                "Website": "https://rmc.dk",
+                "college_name": "Rhythmic Music Conservatory",
+                "university_name": "Rytmisk Musikkonservatorium"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1986",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music",
+                    "Music Education",
+                    "Music Theory and Composition"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Music",
+                    "Music Theory and Composition"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Music"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Philip De Langes All\u00e9 10",
+                "City": "K\u00f8benhavn",
+                "Province": "K",
+                "PostCode": "1435",
+                "Website": "https://kadk.dk",
+                "college_name": "Royal Danish Academy of Fine Arts, Schools of Architecture, Design and Conservation",
+                "university_name": "Det Kongelige Danske Kunstakademis Skoler for Arkitektur, Design og Konservering (KADK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1973. Acquired present status following merger between the Royal Danish Academy of Fine Arts, School of Architecture and the Danish Design School",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Upper secondary school leaving certificate (Studentereksamen), Higher preparatory examination (H\u00f8jere Forberedelseseksamen, HF) or equivalent"
+            ],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Fine Arts and Conservation",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Design",
+                    "Fine Arts",
+                    "Graphic Arts",
+                    "Heritage Preservation",
+                    "Sculpture"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Art Management",
+                    "Design"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Art Management",
+                    "Design"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rosen\u00f8rns All\u00e9 22",
+                "City": "Frederiksberg",
+                "Province": "C",
+                "PostCode": "1970",
+                "Website": "https://www.dkdm.dk",
+                "college_name": "Royal Danish Academy of Music",
+                "university_name": "Det Kongelige Danske Musikkonservatorium (DKDM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1867 as a private institution. Became a State institution under the jurisdiction of the Ministry of Cultural Affairs 1949",
+            "AcademicYear": "September to June (September-December; January-June)",
+            "AdmissionRequirements": [
+                "Entrance examination"
+            ],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Brass, Percussion and Orchestra Conducting",
+                "FieldsOfStudy": [
+                    "Conducting",
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Church Music",
+                "FieldsOfStudy": [
+                    "Religious Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Composition/Theory",
+                "FieldsOfStudy": [
+                    "Music Theory and Composition"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Theory",
+                "FieldsOfStudy": [
+                    "Music Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Piano, Guitar and Accordion",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Recording",
+                "FieldsOfStudy": [
+                    "Sound Engineering (Acoustics)"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Singing",
+                "FieldsOfStudy": [
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Strings",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Woodwind and Harp",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Music"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Music"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Graaesvej 27",
+                "City": "Svendborg",
+                "Province": "N/A",
+                "PostCode": "5700",
+                "Website": "https://simac.dk",
+                "college_name": "SIMAC - Svendborg International Maritime Academy",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2001 following a merger of Kogtved Seafaring School, A.P. M\u00f8ller Maersk Training school, Svendborg School of Marine Engineering, and Svendborg Navigation School",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Marine Engineering",
+                "FieldsOfStudy": [
+                    "Marine Engineering",
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Marine Engineering",
+                    "Marine Transport",
+                    "Nautical Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Anker Engelundsvej 1\nBygning 101A",
+                "City": "Kgs. Lyngby",
+                "Province": "N/A",
+                "PostCode": "2800",
+                "Website": "https://www.dtu.dk",
+                "college_name": "Technical University of Denmark",
+                "university_name": "Danmarks Tekniske Universitet"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1829 as a State Institution under the supervision of the Ministry of Education. Departments restructured 1996. Acquired present status 2001. Merged with Copenhagen University College of Engineering (IHK) in 2013",
+            "AcademicYear": "September to July (September-January; February-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (studentereksamen) or foreign equivalent with defined levels of education in mathematics, physics and chemistry"
+            ],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Mathematics and Computer Science",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemical Engineering",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Chemical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Sound Engineering (Acoustics)"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy Conversion and Storage",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Environmental Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Engineering",
+                "FieldsOfStudy": [
+                    "Environmental Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management Engineering",
+                "FieldsOfStudy": [
+                    "Engineering Management",
+                    "Industrial Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Micro- and Nanotechnology",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Photonics Engineering",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Information Technology",
+                    "Physical Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems Biology",
+                "FieldsOfStudy": [
+                    "Bioengineering",
+                    "Biological and Life Sciences",
+                    "Biotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport",
+                "FieldsOfStudy": [
+                    "Bridge Engineering",
+                    "Railway Engineering",
+                    "Road Engineering",
+                    "Transport Engineering",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Wind Energy",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aquatic Resources",
+                "FieldsOfStudy": [
+                    "Aquaculture",
+                    "Marine Science and Oceanography",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Technology",
+                "FieldsOfStudy": [
+                    "Brewing",
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "National Space Institute",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Astronomy and Space Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "National Veterinary Institute",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Engineering",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Applied Chemistry",
+                    "Aquaculture",
+                    "Architecture",
+                    "Biological and Life Sciences",
+                    "Biotechnology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Design",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Engineering Management",
+                    "Environmental Engineering",
+                    "Food Technology",
+                    "Industrial Design",
+                    "Petroleum and Gas Engineering",
+                    "Physics",
+                    "Production Engineering",
+                    "Sound Engineering (Acoustics)",
+                    "Telecommunications Engineering",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Per Knutzons Vej 5, Holmen",
+                "City": "K\u00f8benhavn",
+                "Province": "K",
+                "PostCode": "1437",
+                "Website": "https://ddsks.dk",
+                "college_name": "The Danish National School of Performing Arts",
+                "university_name": "Den Danske Scenekunstskole (DDSKS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Statens Scenekunstskole -The State Performing Arts School. (Also Known as Statens Teaterskole/National Theatre School of Denmark). Became part of The Danish National School of Performing Arts (DDSKS) after merger of Det Danske Musicalakademi i Fredericia (The Danish Musical Academy in Fredericia), Skuespilleruddannelsen ved Aarhus Teater (The Acting School at Aarhus Theatre); Skuespillerskolen i Odense (The Acting School in Odense); Dramatikeruddannelsen ved Aarhus Teater (School of Playwriting at Aarhus Theatre)Det Danske Musicalakademi i Fredericia (The Danish Musical Academy in Fredericia) 2015",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Dance",
+                "FieldsOfStudy": [
+                    "Dance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theatre",
+                "FieldsOfStudy": [
+                    "Performing Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Dance",
+                    "Theatre"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Dance",
+                    "Fine Arts",
+                    "Performing Arts"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Skovgaardsgade 2C",
+                "City": "Aarhus",
+                "Province": "C",
+                "PostCode": "8000",
+                "Website": "https://musikkons.dk",
+                "college_name": "The Royal Academy of Music",
+                "university_name": "Det Jyske Musikkonservatorium"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1927. The Academy of Music, Aalborg, and The Royal Academy of Music, Aarhus merged in 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music",
+                    "Music Education",
+                    "Music Theory and Composition",
+                    "Musical Instruments",
+                    "Religious Music"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Music"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Music"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kongens Nytorv 1",
+                "City": "K\u00f8benhavn",
+                "Province": "K",
+                "PostCode": "1050",
+                "Website": "https://kunstakademiet.dk",
+                "college_name": "The Royal Danish Academy of Fine Arts, School of Visual Arts",
+                "university_name": "Det Kongelige Danske Kunstakademi, Billedkunstskolerne \u2013 Kunstakademiets Billedkunstskoler"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1754 on the same lines as the Acad\u00e9mie des Beaux Arts in France, and later acquired the status of a modern School of Art",
+            "AcademicYear": "October to June (October-December; January-June)",
+            "AdmissionRequirements": [
+                "Entrance competition"
+            ],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Art Theory",
+                "FieldsOfStudy": [
+                    "Art Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graphic Arts",
+                "FieldsOfStudy": [
+                    "Graphic Arts",
+                    "Printing and Printmaking",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media Arts",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Media Studies",
+                    "Video"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Painting",
+                "FieldsOfStudy": [
+                    "Painting and Drawing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sculpture",
+                "FieldsOfStudy": [
+                    "Sculpture",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual Arts",
+                "FieldsOfStudy": [
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Fine Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Fine Arts"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Niels Bohrs All\u00e9 1",
+                "City": "Odense",
+                "Province": "M",
+                "PostCode": "5230",
+                "Website": "https://www.ucl.dk",
+                "college_name": "UCL University College Lilleb\u00e6lt",
+                "university_name": "UCL Erhvervsakademi og Professionsh\u00f8jskole (UCL)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2018 after the merger between Business Academy Lillebaelt and University College Lillebaelt",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education and Social Sciences",
+                "FieldsOfStudy": [
+                    "Primary Education",
+                    "Public Administration",
+                    "Social and Community Services",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Laboratory Techniques",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Physical Therapy",
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Primary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Slagelsevej 7",
+                "City": "Sor\u00f8",
+                "Province": "N/A",
+                "PostCode": "4180",
+                "Website": "https://phabsalon.dk",
+                "college_name": "University College Absalon",
+                "university_name": "Professionsh\u00f8jskolen Absalon"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2007 as University College Sj\u00e6lland (University College Zealand). Acquired current title 2017",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Primary Education",
+                    "Social and Community Services",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Social Sciences",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Leisure Studies",
+                    "Nursing",
+                    "Nutrition",
+                    "Occupational Therapy",
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Primary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Humletorvet 3",
+                "City": "K\u00f8benhavn",
+                "Province": "V",
+                "PostCode": "1799",
+                "Website": "https://www.kp.dk",
+                "college_name": "University College Copenhagen",
+                "university_name": "K\u00f8benhavns Professionsh\u00f8jskole \u2013 Copenhagen University of Applied Sciences (KP)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Professionsh\u00f8jskolen UCC (UCC University College) and Professionsh\u00f8jskolen Metropol (Metropolitan University College) have been merged and become Copenhagen's Professional College, 2018",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Welfare and Education",
+                "FieldsOfStudy": [
+                    "Primary Education",
+                    "Secondary Education",
+                    "Social and Community Services",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Primary Education",
+                    "Secondary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 38",
+                "City": "Aalborg",
+                "Province": "N/A",
+                "PostCode": "9100",
+                "Website": "https://www.ucn.dk",
+                "college_name": "University College of Northern Denmark",
+                "university_name": "Professionsh\u00f8jskolen University College Nordjylland \u2013 Professionsh\u00f8jskolen UCN (UCN)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education and Social Studies",
+                "FieldsOfStudy": [
+                    "Pedagogy",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Studies",
+                "FieldsOfStudy": [
+                    "Midwifery",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Physical Therapy",
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology and Business Studies",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Building Technologies",
+                    "Business and Commerce",
+                    "Engineering Management",
+                    "Finance",
+                    "Heritage Preservation",
+                    "Management",
+                    "Marketing",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Primary Education",
+                    "Secondary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Degnevej 16",
+                "City": "Esbjerg \u00d8",
+                "Province": "N/A",
+                "PostCode": "6705",
+                "Website": "https://www.ucsyd.dk",
+                "college_name": "University College South Denmark",
+                "university_name": "UC SYD - University College Syddanmark"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2011 following the merger of Professionsh\u00f8jskolen University College Vest and Professionsh\u00f8jskolen Syd University College",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Ergotherapy",
+                    "Midwifery",
+                    "Nursing",
+                    "Nutrition",
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Preschool Education",
+                "FieldsOfStudy": [
+                    "Preschool Education",
+                    "Primary Education",
+                    "Social and Community Services",
+                    "Social Work",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Communication",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Design",
+                    "Graphic Design",
+                    "Marketing",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Primary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campusvej 55",
+                "City": "Odense M",
+                "Province": "N/A",
+                "PostCode": "5230",
+                "Website": "https://www.sdu.dk",
+                "college_name": "University of Southern Denmark",
+                "university_name": "Syddansk Universitet"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1966 through a merger involving Odense University, the Southern Denmark School of Business and Engineering and South Jutland University Centre",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (studentereksamen) or H\u00f8jere-Forberedelseseksamen or Handelseksamen, or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "Danish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Social Sciences",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Economics",
+                    "European Studies",
+                    "Journalism",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Engineering",
+                    "Mechanics",
+                    "Robotics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Chiropractic",
+                    "Health Sciences",
+                    "Medicine",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "American Studies",
+                    "Arts and Humanities",
+                    "Classical Languages",
+                    "Comparative Literature",
+                    "Danish",
+                    "English",
+                    "French",
+                    "German",
+                    "History",
+                    "Hotel and Restaurant",
+                    "Marine Science and Oceanography",
+                    "Mass Communication",
+                    "Middle Eastern Studies",
+                    "Nordic Studies",
+                    "Philosophy",
+                    "Religion",
+                    "Spanish",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Engineering",
+                    "Health Sciences",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Engineering",
+                    "Health Sciences",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Skejbyvej 1",
+                "City": "Risskov",
+                "Province": "N/A",
+                "PostCode": "8240",
+                "Website": "http://www.via.dk",
+                "college_name": "VIA University College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded from the merger of CVU Midt-Vest, CVU Vita, Jysk Center for Videreg\u00e5ende Uddannelse, CVU Vitus Bering, CVU Alpha,TEKO, 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Danish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education and Social Studies",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Education",
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Dietetics",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business, Technology and Creative Industries",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Business and Commerce",
+                    "Design",
+                    "Engineering",
+                    "Engineering Management",
+                    "Industrial Design",
+                    "Marketing",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Engineering Management",
+                    "Nursing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

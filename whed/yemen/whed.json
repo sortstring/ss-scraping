@@ -1,0 +1,2288 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 50341",
+                "City": "Mukalla",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ahgaff.edu",
+                "college_name": "Al-Ahgaff University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Commercial Sciences and Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Engineering",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Health Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sharia",
+                "FieldsOfStudy": [
+                    "Islamic Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Women",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Computer Science",
+                    "Islamic Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Engineering",
+                    "Fine Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 16621",
+                "City": "Sana'a",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Applied and Social Sciences University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded as University of Applied Sciences.",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "Secondary School Certificate"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Higher Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Education",
+                    "Humanities and Social Science Education",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Education, Arts and Humanities",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Information Technology",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Health Science",
+                "FieldsOfStudy": [
+                    "Laboratory Techniques",
+                    "Medical Technology",
+                    "Medicine",
+                    "Pharmacology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Dentistry",
+                    "Education",
+                    "Engineering",
+                    "Health Sciences",
+                    "Law"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Fuwa",
+                "City": "Mukalla",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://hu.edu.ye/en",
+                "college_name": "Hadhramout University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1993 as Hadhramout University of Science and Technology",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Sciences (Al Mahra)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education (Al Mahrah)",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education (Socotra)",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Petroleum",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Sciences and Marine Biology",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Marine Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Open Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Women\u2019s Education (Mukalla)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Administration",
+                    "Arabic",
+                    "Architectural and Environmental Design",
+                    "Biology",
+                    "Biomedicine",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Education",
+                    "Educational Sciences",
+                    "Electronic Engineering",
+                    "English",
+                    "Environmental Studies",
+                    "Fine Arts",
+                    "Food Technology",
+                    "Geography",
+                    "Geography (Human)",
+                    "History",
+                    "Humanities and Social Science Education",
+                    "Islamic Studies",
+                    "Journalism",
+                    "Law",
+                    "Marine Biology",
+                    "Mathematics",
+                    "Media Studies",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Petroleum and Gas Engineering",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physics",
+                    "Preschool Education",
+                    "Psychology",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Sports",
+                    "Structural Architecture",
+                    "Surgery",
+                    "Telecommunications Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Community Health",
+                    "Educational Sciences",
+                    "English",
+                    "Geography",
+                    "History",
+                    "Islamic Studies",
+                    "Philosophy",
+                    "Physical Education",
+                    "Public Health",
+                    "Sociology",
+                    "Sports"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 3114",
+                "City": "Hodeidah",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.hoduniv.edu.ye",
+                "college_name": "Hodeida University",
+                "university_name": "Jama't Al Hodeidah (HU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1996. Originally known as the Faculty of Education (established 1986 and affiliated to Sana'a University).",
+            "AcademicYear": "September to July (September-February; March-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce and Economy",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Arts and Humanities",
+                    "Chemistry",
+                    "Computer Education",
+                    "Computer Science",
+                    "Education",
+                    "Educational Sciences",
+                    "English",
+                    "Islamic Studies",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Physics",
+                    "Preschool Education"
+                ],
+                "Details": "Hodeidah and Zabid"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Science and Environment",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Laboratory Techniques",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education and Sports",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Accountancy",
+                    "Computer Science",
+                    "English"
+                ],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education",
+                    "English"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 70270",
+                "City": "Ibb",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ibbuniv.edu.ye",
+                "college_name": "Ibb University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1996.",
+            "AcademicYear": "September to October",
+            "AdmissionRequirements": [
+                "Secondary school certificate and entrance examination"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural and Environmental Consultancy",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Environmental Studies"
+                ],
+                "Details": "Director"
+            },
+            {
+                "College": "Educational Technology",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering Consultancy",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture and Veterinary Science",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Arts and Humanities",
+                    "English",
+                    "Geography",
+                    "History",
+                    "Islamic Studies",
+                    "Koran"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce and Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "Ibb City"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "Nadira"
+            },
+            {
+                "College": "Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Dentistry",
+                    "Engineering",
+                    "Natural Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 7201\nHaddah St",
+                "City": "Sana\u2019a",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.iutt.edu.ye",
+                "college_name": "International University of Technology Twintech",
+                "university_name": "(IUTT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Engineering Management",
+                    "International Business",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Information Technology",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Science",
+                    "Information Technology",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Interior Design",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Multimedia and Creative Technology",
+                "FieldsOfStudy": [
+                    "Computer Graphics",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Architecture",
+                    "Business Computing",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Industrial Management",
+                    "Information Technology",
+                    "Interior Design",
+                    "International Business",
+                    "Marketing",
+                    "Multimedia",
+                    "Petroleum and Gas Engineering",
+                    "Software Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Information Technology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "50 Street, next to Shahran roundabout",
+                "City": "Sana'a",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://ye.liu.edu.lb/index",
+                "college_name": "Lebanese International University - Sana'a",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Opened in 2006 as a campus of Lebanese International University",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Computer Science",
+                    "Graphic Design",
+                    "Information Technology",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Mechanical Engineering",
+                    "Surveying and Mapping",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Biomedical Engineering",
+                    "Biomedicine",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Graphic Design",
+                    "Information Technology",
+                    "Interior Design",
+                    "Mechanical Engineering",
+                    "Pharmacy",
+                    "Surveying and Mapping",
+                    "Telecommunications Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 11586\nFaj Atan, 60 Street",
+                "City": "Sana'a",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://qau.edu.ye",
+                "college_name": "Queen Arwa University",
+                "university_name": "Al-Malika Arwa University (QAU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996. Acquired present status 1997.",
+            "AcademicYear": "October to August",
+            "AdmissionRequirements": [
+                "Secondary school certificate and interview"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Islamic Studies",
+                    "Library Science",
+                    "Public Relations",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commercial Sciences and Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Banking",
+                    "Business and Commerce",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Political Sciences",
+                    "Public Relations",
+                    "Secretarial Studies",
+                    "Statistics",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Higher Education",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Educational Administration",
+                    "Management",
+                    "Psychology",
+                    "Social and Community Services",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arabic",
+                    "Arts and Humanities",
+                    "English",
+                    "Social and Community Services",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Microbiology",
+                "FieldsOfStudy": [
+                    "Microbiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "Arabic"
+                ],
+                "Details": "Yemen International"
+            },
+            {
+                "College": "Yemen",
+                "FieldsOfStudy": [
+                    "Child Care and Development",
+                    "Computer Science",
+                    "Social Studies",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Accountancy",
+                    "Marketing",
+                    "Secretarial Studies"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Arabic",
+                    "Arts and Humanities",
+                    "Computer Science",
+                    "Economics",
+                    "Engineering",
+                    "English",
+                    "Information Sciences",
+                    "Library Science",
+                    "Sociology",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 14400",
+                "City": "Sana'a",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://sabauni.net",
+                "college_name": "Saba University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994. Acquired present status 1996.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school leaving certificate"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Information Technology",
+                    "Law",
+                    "Management",
+                    "Private Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Administrative and Human Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "English",
+                    "Finance",
+                    "Islamic Studies",
+                    "Management",
+                    "Marketing",
+                    "Media Studies",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Studies and Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Information Management",
+                    "Information Technology",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Interior Design",
+                    "Landscape Architecture",
+                    "Rural Planning",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 6803",
+                "City": "Taiz",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Taiz University",
+                "university_name": "Gahmet Taiz"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1993. Acquired present status 1995.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education Development and Training",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Studies and Community Service",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "English",
+                    "French",
+                    "German",
+                    "Linguistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychological Studies and Guidance",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "English",
+                    "French",
+                    "Geography (Human)",
+                    "History",
+                    "Islamic Studies",
+                    "Psychology",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Curriculum",
+                    "Educational Research",
+                    "Educational Sciences",
+                    "Educational Testing and Evaluation",
+                    "International and Comparative Education",
+                    "Mathematics Education",
+                    "Philosophy of Education",
+                    "Religious Education",
+                    "Teacher Trainers Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education, Science and Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education",
+                    "Natural Sciences"
+                ],
+                "Details": "Turba"
+            },
+            {
+                "College": "Engineering and Information Technology",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Commercial Law",
+                    "Criminal Law",
+                    "International Law",
+                    "Islamic Law",
+                    "Law",
+                    "Maritime Law",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Biochemistry",
+                    "Community Health",
+                    "Embryology and Reproduction Biology",
+                    "Forensic Medicine and Dentistry",
+                    "Haematology",
+                    "Histology",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Ophthalmology",
+                    "Otorhinolaryngology",
+                    "Paediatrics",
+                    "Parasitology",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physical Therapy",
+                    "Physiology",
+                    "Psychiatry and Mental Health",
+                    "Radiology",
+                    "Rehabilitation and Therapy",
+                    "Surgery",
+                    "Toxicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Geology",
+                    "Mathematics",
+                    "Microbiology",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Administration",
+                    "Education",
+                    "Engineering",
+                    "Medicine",
+                    "Natural Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Linguistics",
+                    "Modern Languages"
+                ],
+                "Master'sDegree": [
+                    "Arabic",
+                    "Biology",
+                    "Chemistry",
+                    "Curriculum",
+                    "Education",
+                    "English",
+                    "Linguistics",
+                    "Mathematics",
+                    "Microbiology",
+                    "Modern Languages",
+                    "Physics",
+                    "Psychology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 87246",
+                "City": "Thamar",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.tu.edu.ye/en",
+                "college_name": "Thamar University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1996",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate",
+                "Admission test passed with scores of 85% for Medical and Dental Faculties; 80% for Faculty of Engineering and Computer Sciences; 75% for Faculties of Education; score 70% for all other Faculties",
+                ""
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Administration",
+                "FieldsOfStudy": [
+                    "Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture and Veterinary Science",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Applied Chemistry",
+                    "Applied Mathematics",
+                    "Applied Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Languages",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "French",
+                    "Geography (Human)",
+                    "History",
+                    "Modern Languages",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Information System",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Sciences"
+                ],
+                "Details": "Al Bayda"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Sciences"
+                ],
+                "Details": "Rada'a"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "Thamar"
+            },
+            {
+                "College": "Engineering and Dams",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dental Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Dentistry",
+                    "Engineering",
+                    "Medicine",
+                    "Veterinary Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Al-Mansoura, Ninety Street\nBeside Qutaibi Bank",
+                "City": "Aden",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://aambfsye.org/en",
+                "college_name": "The Arab Academy for Management, Banking and Financial Sciences",
+                "university_name": "(AAMBFS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2006",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "First university degree with general average 'good' for Master\u2019s  programmes; Master degree with general average 'good' for PhD programmes"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Management, Banking and Financial Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Business Computing",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Business Computing",
+                    "Finance"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 4745",
+                "City": "Taiz",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://national-univ.net",
+                "college_name": "The National University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 1994",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Administrative and Financial Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Education",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Jurisprudence and Islamic Law",
+                "FieldsOfStudy": [
+                    "Islamic Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Laboratory Techniques",
+                    "Medicine",
+                    "Nursing",
+                    "Nutrition",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Engineering",
+                    "Information Technology",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Science",
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Dentistry",
+                    "Fine Arts",
+                    "Islamic Law",
+                    "Laboratory Techniques",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Medicine",
+                    "Modern Languages",
+                    "Nutrition",
+                    "Obstetrics and Gynaecology",
+                    "Pharmacy"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Science",
+                    "Law"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 6312",
+                "City": "Khormaksar-Aden",
+                "Province": "Aden Governorate",
+                "PostCode": "N/A",
+                "Website": "https://www.aden-univ.net",
+                "college_name": "University of Aden",
+                "university_name": "Gama't Aden (UA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1975 incorporating faculties founded between 1970 and 1973.",
+            "AcademicYear": "September to July (September-January; March-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate and entrance examination"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture Consultancy",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering Consultancy",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "English Studies and Translation",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Studies and Sciences",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Environmental Management",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Evaluation and Development of Academic Performance",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Energy Engineering",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Women's Research and Training",
+                "FieldsOfStudy": [
+                    "Gender Studies",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Yemeni Research and Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Administration",
+                "FieldsOfStudy": [
+                    "Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Environmental Studies",
+                    "Food Technology",
+                    "Horticulture",
+                    "Plant and Crop Protection",
+                    "Soil Science",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "French",
+                    "Geography (Human)",
+                    "German",
+                    "Germanic Studies",
+                    "History",
+                    "Information Sciences",
+                    "Journalism",
+                    "Library Science",
+                    "Media Studies",
+                    "Philosophy",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Economics",
+                    "Finance",
+                    "International Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education - Aden",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Biology",
+                    "Chemistry",
+                    "Education",
+                    "Educational and Student Counselling",
+                    "English",
+                    "Geography",
+                    "History",
+                    "Islamic Studies",
+                    "Mathematics",
+                    "Physical Education",
+                    "Physics",
+                    "Sociology",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education - Dahl'la",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Biology",
+                    "Chemistry",
+                    "Education",
+                    "English",
+                    "Geography",
+                    "Geography (Human)",
+                    "History",
+                    "Islamic Studies",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education - Lauder",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Biology",
+                    "Chemistry",
+                    "Education",
+                    "English",
+                    "Geography",
+                    "Geography (Human)",
+                    "History",
+                    "Islamic Studies",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education - Radfan",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Biology",
+                    "Chemistry",
+                    "Education",
+                    "English",
+                    "Geography",
+                    "Geography (Human)",
+                    "History",
+                    "Islamic Studies",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "Obadi"
+            },
+            {
+                "College": "Education - Saber",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education - Shabwa",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Biology",
+                    "Chemistry",
+                    "Education",
+                    "English",
+                    "Geography",
+                    "Geography (Human)",
+                    "History",
+                    "Islamic Studies",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education - Tor-Albaha",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Biology",
+                    "Chemistry",
+                    "Education",
+                    "English",
+                    "Geography",
+                    "Geography (Human)",
+                    "History",
+                    "Islamic Studies",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education - Yaffa",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Biology",
+                    "Chemistry",
+                    "Education",
+                    "English",
+                    "Geography",
+                    "Geography (Human)",
+                    "History",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education - Zingibar",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Biology",
+                    "Chemistry",
+                    "Education",
+                    "English",
+                    "Geography",
+                    "Geography (Human)",
+                    "History",
+                    "Islamic Studies",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Structural Architecture",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Criminal Law",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Health Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Oil and Minerals",
+                "FieldsOfStudy": [
+                    "Mineralogy",
+                    "Petroleum and Gas Engineering",
+                    "Petrology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "German",
+                    "Hebrew",
+                    "Russian",
+                    "Spanish",
+                    "Urdu"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Art Education",
+                    "Business Administration",
+                    "Dentistry",
+                    "Economic and Finance Policy",
+                    "Education",
+                    "Engineering",
+                    "Finance",
+                    "Fine Arts",
+                    "Law",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Pharmacy"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agriculture",
+                    "Business Administration",
+                    "Economics",
+                    "Education",
+                    "Engineering",
+                    "Fine Arts",
+                    "Law",
+                    "Medicine",
+                    "Natural Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Al-Shaab Street, Inma City, Aden, Yemen.\n PO Box 1271",
+                "City": "Aden",
+                "Province": "N/A",
+                "PostCode": "PO Box 1271",
+                "Website": "https://ust.edu/en/",
+                "college_name": "University of Science and Technology, Yemen",
+                "university_name": "Jameat Alauloom Wattechnologia Al-Yemenia (UST)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Shahadat Al-Thanawia), and entrance examination for some majors"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "E-Learning and Distance Education",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Arabic",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "History",
+                    "Human Resources",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Islamic Law",
+                    "Islamic Studies",
+                    "Journalism",
+                    "Law",
+                    "Marketing",
+                    "Media Studies",
+                    "Psychology",
+                    "Public Relations",
+                    "Radio and Television Broadcasting",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Administrative and Human Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Digital Technology",
+                    "Finance",
+                    "International Business",
+                    "Islamic Studies",
+                    "Linguistics",
+                    "Marketing",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Computing",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Artificial Intelligence",
+                    "Biomedical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Graphic Design",
+                    "Information Technology",
+                    "Interior Design",
+                    "Laboratory Techniques",
+                    "Medical Technology",
+                    "Multimedia",
+                    "Petroleum and Gas Engineering",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Health Sciences",
+                "FieldsOfStudy": [
+                    "Dental Surgery",
+                    "Dentistry",
+                    "Medicine",
+                    "Nursing",
+                    "Nutrition",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies and Scientific Research",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Islamic Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Computer Engineering",
+                    "Dentistry",
+                    "Medical Technology"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Applied Linguistics",
+                    "Arabic",
+                    "Architecture",
+                    "Banking",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Communication Arts",
+                    "Computer Science",
+                    "Dentistry",
+                    "Electronic Engineering",
+                    "English",
+                    "Finance",
+                    "History",
+                    "Human Resources",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Islamic Law",
+                    "Islamic Studies",
+                    "Law",
+                    "Management Systems",
+                    "Marketing",
+                    "Medicine",
+                    "Multimedia",
+                    "Nursing",
+                    "Petroleum and Gas Engineering",
+                    "Pharmacy",
+                    "Psychology",
+                    "Radio and Television Broadcasting",
+                    "Sociology",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Islamic Studies"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 14314",
+                "City": "Sana'a",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.yemenuniversity.com/ar/",
+                "college_name": "Yemenya University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Administrative and Human Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Arabic",
+                    "Business Administration",
+                    "Business Computing",
+                    "English",
+                    "Finance",
+                    "Hotel Management",
+                    "Islamic Law",
+                    "Islamic Studies",
+                    "Management",
+                    "Marketing",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Community Health",
+                    "Medical Technology",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Islamic Studies",
+                    "Law",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Arabic",
+                    "Business Administration",
+                    "Business Computing",
+                    "Community Health",
+                    "Computer Science",
+                    "Engineering",
+                    "English",
+                    "Finance",
+                    "Hotel Management",
+                    "Islamic Law",
+                    "Islamic Studies",
+                    "Management",
+                    "Marketing",
+                    "Medical Technology",
+                    "Pharmacy",
+                    "Special Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Islamic Studies",
+                    "Law",
+                    "Pharmacy"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

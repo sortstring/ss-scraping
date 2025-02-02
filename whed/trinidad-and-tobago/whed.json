@@ -1,0 +1,1319 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 3781, Cantaro\nLP 25, Sam Boucaud Road",
+                "City": "Cantaro",
+                "Province": "Upper Santa Cruz",
+                "PostCode": "N/A",
+                "Website": "https://cnc.edu",
+                "college_name": "Caribbean Nazarene College",
+                "university_name": "(CNC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1951 as Nazarene Training College, acquired current title 2005, accredited 2013",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate",
+                "FieldsOfStudy": [
+                    "Psychology",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Undergraduate",
+                "FieldsOfStudy": [
+                    "Child Care and Development",
+                    "Education",
+                    "Human Resources",
+                    "Music",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Religious Education",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Religious Education",
+                    "Theology"
+                ],
+                "Bachelor'sDegree": [
+                    "Child Care and Development",
+                    "Human Resources",
+                    "Music",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Religious Education",
+                    "Theology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Psychology",
+                    "Social Work"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Chaguanas Campus\nPierre Road Connector",
+                "City": "Chaguanas",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.costaatt.edu.tt",
+                "college_name": "College of Science, Technology & Applied Arts of Trinidad and Tobago",
+                "university_name": "(COSTAATT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2000",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Information Technologies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Information Technology",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education and Lifelong Learning",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Child Care and Development",
+                    "Computer Science",
+                    "Food Science",
+                    "Information Technology",
+                    "International Business",
+                    "Journalism",
+                    "Management",
+                    "Mass Communication",
+                    "Media Studies",
+                    "Preschool Education",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Communication Studies",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Mass Communication",
+                    "Media Studies"
+                ],
+                "Details": "Ken Gordon"
+            },
+            {
+                "College": "Liberal Arts and Human Services",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Communication Studies",
+                    "Criminal Law",
+                    "Fine Arts",
+                    "Law",
+                    "Literature",
+                    "Mathematics and Computer Science",
+                    "Modern Languages",
+                    "Performing Arts",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing, Health and Environmental Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Environmental Studies",
+                    "Health Sciences",
+                    "Natural Sciences",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Advertising and Publicity",
+                    "Film",
+                    "Food Science",
+                    "Management",
+                    "Midwifery",
+                    "Public Health",
+                    "Video"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Archiving",
+                    "Biology",
+                    "Business Administration",
+                    "Child Care and Development",
+                    "Communication Studies",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Dentistry",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Film",
+                    "Finance",
+                    "Geography",
+                    "Graphic Design",
+                    "Heritage Preservation",
+                    "History",
+                    "Information Sciences",
+                    "Information Technology",
+                    "International Business",
+                    "Journalism",
+                    "Laboratory Techniques",
+                    "Latin American Studies",
+                    "Library Science",
+                    "Literature",
+                    "Management",
+                    "Marketing",
+                    "Mass Communication",
+                    "Midwifery",
+                    "Music",
+                    "Music Education",
+                    "Nursing",
+                    "Occupational Health",
+                    "Preschool Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Radiology",
+                    "Rehabilitation and Therapy",
+                    "Social Work",
+                    "Spanish",
+                    "Statistics",
+                    "Transport Management",
+                    "Treatment Techniques",
+                    "Video",
+                    "Waste Management",
+                    "Water Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Business Administration",
+                    "Community Health",
+                    "International Business"
+                ],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "St. Augustine",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://sta.uwi.edu",
+                "college_name": "The University of the West Indies, St. Augustine Campus",
+                "university_name": "(UWI St Augustine)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1960 from the Imperial College of Tropical Agriculture. Open Campus opened 2008. One of the 3 campuses which make up the University of the West Indies",
+            "AcademicYear": "August to May (August-December; January-May)",
+            "AdmissionRequirements": [
+                "Passes in seven subjects of which at least TWO must be at the Caribbean Advanced Proficiency Examination (CAPE) or General Certificate of Education (GCE) \u2019A' Level while the remainder may be an acceptable pass in Caribbean Exams Council (CXC) GCE/BGCSE Examinations",
+                "Candidates who do not possess a Grade 1 in CXC English, a Grade A in GCE \u2018O' Level English Language, a Grade 1 in CAPE Communications Studies or a Grade A or B in the GCE General Paper, are required to take an English Language Proficiency Test on entry",
+                "Approved English Language Test for applicants whose first language is not English",
+                "A mark of 500 in the TOEFL will be accepted as equivalent to, and in place of, an acceptable CXC pass in English (A)"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Gender and Development Studies",
+                "FieldsOfStudy": [
+                    "Gender Studies",
+                    "Men Studies",
+                    "Social Sciences",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Bioengineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Construction Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Engineering Management",
+                    "Environmental Engineering",
+                    "Food Science",
+                    "Industrial Engineering",
+                    "Measurement and Precision Engineering",
+                    "Mechanical Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Production Engineering",
+                    "Sanitary Engineering",
+                    "Surveying and Mapping",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food and Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Crop Production",
+                    "Dietetics",
+                    "Ecology",
+                    "Food Science",
+                    "Geography",
+                    "Horticulture",
+                    "Natural Resources",
+                    "Nutrition",
+                    "Soil Science",
+                    "Tropical Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Education",
+                "FieldsOfStudy": [
+                    "African Studies",
+                    "Arts and Humanities",
+                    "Asian Studies",
+                    "Child Care and Development",
+                    "Chinese",
+                    "Communication Studies",
+                    "Dance",
+                    "Education",
+                    "English",
+                    "Film",
+                    "French",
+                    "Hindi",
+                    "History",
+                    "Japanese",
+                    "Latin American Studies",
+                    "Linguistics",
+                    "Literature",
+                    "Modern Languages",
+                    "Music",
+                    "Primary Education",
+                    "Spanish",
+                    "Staff Development",
+                    "Teacher Trainers Education",
+                    "Theatre",
+                    "Theology",
+                    "Translation and Interpretation",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Biochemistry",
+                    "Community Health",
+                    "Dentistry",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Medicine",
+                    "Neurology",
+                    "Nursing",
+                    "Obstetrics and Gynaecology",
+                    "Ophthalmology",
+                    "Optometry",
+                    "Orthopaedics",
+                    "Otorhinolaryngology",
+                    "Pharmacy",
+                    "Radiology",
+                    "Surgery",
+                    "Urology",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Biochemistry",
+                    "Biology",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Information Technology",
+                    "Mathematics",
+                    "Physics",
+                    "Statistics",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "Economics",
+                    "Finance",
+                    "Gender Studies",
+                    "Government",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Industrial Management",
+                    "Institutional Administration",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "International Studies",
+                    "Leadership",
+                    "Management",
+                    "Management Systems",
+                    "Marketing",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Relations",
+                    "Regional Studies",
+                    "Small Business",
+                    "Social Policy",
+                    "Social Psychology",
+                    "Social Work",
+                    "Sociology",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sport",
+                "FieldsOfStudy": [
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Relations",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Economic Studies",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Econometrics",
+                    "Economics",
+                    "Finance",
+                    "Government",
+                    "Sociology"
+                ],
+                "Details": "Sir Arthur Lewis"
+            },
+            {
+                "College": "Cocoa Research Centre",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "The National Herbarium",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Seismic Research",
+                "FieldsOfStudy": [
+                    "Earth Sciences",
+                    "Seismology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Agriculture",
+                    "Health Sciences",
+                    "Translation and Interpretation"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "Agricultural Business",
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Banking",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Consumer Studies",
+                    "Criminal Law",
+                    "Criminology",
+                    "Dance",
+                    "Dietetics",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Family Studies",
+                    "Film",
+                    "Finance",
+                    "Food Science",
+                    "French",
+                    "Geography",
+                    "Geography (Human)",
+                    "Government",
+                    "History",
+                    "Human Resources",
+                    "Industrial Chemistry",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Insurance",
+                    "International Relations and Diplomacy",
+                    "Landscape Architecture",
+                    "Law",
+                    "Leadership",
+                    "Linguistics",
+                    "Literature",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Medical Technology",
+                    "Medicine",
+                    "Music",
+                    "Natural Resources",
+                    "Nursing",
+                    "Nutrition",
+                    "Optometry",
+                    "Petroleum and Gas Engineering",
+                    "Pharmacy",
+                    "Physics",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Real Estate",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Spanish",
+                    "Sports",
+                    "Sports Management",
+                    "Statistics",
+                    "Surgery",
+                    "Surveying and Mapping",
+                    "Theatre",
+                    "Theology",
+                    "Tourism",
+                    "Tropical Agriculture",
+                    "Visual Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Agriculture",
+                    "Art Management",
+                    "Biotechnology",
+                    "Civil Engineering",
+                    "Commercial Law",
+                    "Community Health",
+                    "Computer Engineering",
+                    "Construction Engineering",
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Engineering Management",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Food Science",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Marine Engineering",
+                    "Medicine",
+                    "Peace and Disarmament",
+                    "Petroleum and Gas Engineering",
+                    "Private Law",
+                    "Public Administration",
+                    "Public Law",
+                    "Real Estate",
+                    "Social Sciences",
+                    "Sports Management",
+                    "Telecommunications Engineering"
+                ],
+                "Master'sDegree": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Air Transport",
+                    "Anatomy",
+                    "Animal Husbandry",
+                    "Applied Physics",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Biomedicine",
+                    "Biotechnology",
+                    "Botany",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Child Care and Development",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Community Health",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Criminal Law",
+                    "Criminology",
+                    "Crop Production",
+                    "Cultural Studies",
+                    "Curriculum",
+                    "Data Processing",
+                    "Design",
+                    "Earth Sciences",
+                    "Ecology",
+                    "Economic and Finance Policy",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Engineering Management",
+                    "English",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Food Technology",
+                    "Gender Studies",
+                    "Genetics",
+                    "Geology",
+                    "Government",
+                    "Health Education",
+                    "History",
+                    "Horticulture",
+                    "Industrial Engineering",
+                    "Industrial Management",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "International Studies",
+                    "Law",
+                    "Leadership",
+                    "Linguistics",
+                    "Literature",
+                    "Management",
+                    "Marine Engineering",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Neurosciences",
+                    "Nursing",
+                    "Occupational Health",
+                    "Pathology",
+                    "Peace and Disarmament",
+                    "Petroleum and Gas Engineering",
+                    "Pharmacology",
+                    "Physics",
+                    "Physiology",
+                    "Production Engineering",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Regional Planning",
+                    "Seismology",
+                    "Social Policy",
+                    "Social Work",
+                    "Sociology",
+                    "Soil Science",
+                    "Spanish",
+                    "Speech Therapy and Audiology",
+                    "Statistics",
+                    "Surveying and Mapping",
+                    "Technology Education",
+                    "Town Planning",
+                    "Tropical Agriculture",
+                    "Veterinary Science",
+                    "Vocational Education",
+                    "Writing",
+                    "Zoology"
+                ],
+                "Doctor'sDegrees": [
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Animal Husbandry",
+                    "Biochemistry",
+                    "Biology",
+                    "Botany",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Community Health",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Criminal Law",
+                    "Criminology",
+                    "Crop Production",
+                    "Cultural Studies",
+                    "Earth Sciences",
+                    "Ecology",
+                    "Economic and Finance Policy",
+                    "Economics",
+                    "Education",
+                    "Electrical Engineering",
+                    "Engineering Management",
+                    "English",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Food Technology",
+                    "French",
+                    "Gender Studies",
+                    "Genetics",
+                    "Geology",
+                    "Government",
+                    "Haematology",
+                    "History",
+                    "Horticulture",
+                    "Industrial Engineering",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Medicine",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Neurology",
+                    "Neurosciences",
+                    "Obstetrics and Gynaecology",
+                    "Ophthalmology",
+                    "Orthopaedics",
+                    "Otorhinolaryngology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Petroleum and Gas Engineering",
+                    "Pharmacology",
+                    "Physics",
+                    "Physiology",
+                    "Production Engineering",
+                    "Psychiatry and Mental Health",
+                    "Psychology",
+                    "Radiology",
+                    "Regional Planning",
+                    "Seismology",
+                    "Social Policy",
+                    "Social Work",
+                    "Sociology",
+                    "Soil Science",
+                    "Spanish",
+                    "Statistics",
+                    "Surgery",
+                    "Surveying and Mapping",
+                    "Town Planning",
+                    "Tropical Agriculture",
+                    "Urology",
+                    "Veterinary Science",
+                    "Zoology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Max Richards Drive, Uriah Butler Highway North West",
+                "City": "Mount Hope",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://lokjackgsb.edu.tt",
+                "college_name": "The University of the West Indies, St. Augustine Campus \u2013 Arthur Lok Jack Global School of Business",
+                "university_name": "UWI-Arthur Lok Jack Global School of Business (UWI-ALJGSB)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1989 as the Institute of Business (IOB), a partnership between UWI and the private sector. Acquired current title in 2005. Formerly known as Arthur Lok Jack Graduate School of Business",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Financial Management",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Human Resource Management",
+                "FieldsOfStudy": [
+                    "Human Resources",
+                    "Management"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "International and Sustainable Business",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing Management",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Small and Medium Enterprise Management",
+                "FieldsOfStudy": [
+                    "Small Business"
+                ],
+                "Details": "Graduate"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "International Business"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Small Business"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tamana InTech Park\nChurchill Roosevelt Highway",
+                "City": "Wallerfield",
+                "Province": "N/A",
+                "PostCode": "301776",
+                "Website": "https://utt.edu.tt",
+                "college_name": "The University of Trinidad and Tobago",
+                "university_name": "(UTT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2004 with a primary focus on the development of Trinidad and Tobago. Was awarded Continuing Institutional Accreditation by the Accreditation Council of Trinidad and Tobago (ACTT) 2017 (until 2024)",
+            "AcademicYear": "August to June (August-December; January-June)",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts, Letters, Culture and Public Affairs",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fashion and Design",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Fashion Design"
+                ],
+                "Details": "Caribbean"
+            },
+            {
+                "College": "Performing Arts",
+                "FieldsOfStudy": [
+                    "Performing Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports",
+                "FieldsOfStudy": [
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual Arts, Film and Digital Media",
+                "FieldsOfStudy": [
+                    "Film",
+                    "Media Studies",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies and Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Aviation",
+                "FieldsOfStudy": [
+                    "Air Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Criminology and Public Safety",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design and Innovation",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Herbal Medicine Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Printing",
+                "FieldsOfStudy": [
+                    "Printing and Printmaking"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Seafarer Training",
+                "FieldsOfStudy": [
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Systems Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Forensic",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Science, Engineering and Technology",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Archaeology",
+                    "Biological and Life Sciences",
+                    "Biomedical Engineering",
+                    "Civil Engineering",
+                    "Engineering",
+                    "Engineering Drawing and Design",
+                    "Engineering Management",
+                    "Environmental Studies",
+                    "Food Technology",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Information Technology",
+                    "Marine Engineering",
+                    "Marine Science and Oceanography",
+                    "Mechanical Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Communication Arts",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Electrical and Electronic Engineering",
+                    "Electronics and Automation",
+                    "Energy Engineering",
+                    "Fashion Design",
+                    "Food Technology",
+                    "Forestry",
+                    "Graphic Design",
+                    "Horticulture",
+                    "Marine Engineering",
+                    "Marine Transport",
+                    "Mechanical Engineering",
+                    "Natural Resources",
+                    "Petroleum and Gas Engineering",
+                    "Protective Services",
+                    "Software Engineering",
+                    "Telecommunications Engineering",
+                    "Veterinary Science"
+                ],
+                "Bachelor'sDegree": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Agricultural Management",
+                    "Civil Engineering",
+                    "Coastal Studies",
+                    "Computer Engineering",
+                    "Computer Graphics",
+                    "Computer Networks",
+                    "Criminology",
+                    "Education",
+                    "Engineering Drawing and Design",
+                    "Fashion Design",
+                    "Fine Arts",
+                    "Food Science",
+                    "Food Technology",
+                    "Industrial Engineering",
+                    "Maintenance Technology",
+                    "Marine Science and Oceanography",
+                    "Marine Transport",
+                    "Music",
+                    "Nautical Science",
+                    "Performing Arts",
+                    "Petroleum and Gas Engineering",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Production Engineering",
+                    "Protective Services",
+                    "Software Engineering",
+                    "Special Education",
+                    "Sports",
+                    "Technology Education",
+                    "Telecommunications Engineering",
+                    "Vocational Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Biomedical Engineering",
+                    "Biotechnology",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Caribbean Studies",
+                    "Civil Engineering",
+                    "Coastal Studies",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Criminology",
+                    "Crop Production",
+                    "Cultural Studies",
+                    "Education",
+                    "Educational Technology",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Food Technology",
+                    "Health Administration",
+                    "Industrial Management",
+                    "Information Technology",
+                    "Management",
+                    "Marine Science and Oceanography",
+                    "Marine Transport",
+                    "Mechanical Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Production Engineering",
+                    "Protective Services",
+                    "Social Studies",
+                    "Software Engineering",
+                    "Soil Science",
+                    "Sports",
+                    "Sports Management",
+                    "Telecommunications Engineering"
+                ],
+                "Doctor'sDegrees": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Biomedical Engineering",
+                    "Biotechnology",
+                    "Business and Commerce",
+                    "Civil Engineering",
+                    "Criminology",
+                    "Crop Production",
+                    "Cultural Studies",
+                    "Education",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Food Technology",
+                    "Health Administration",
+                    "Information Technology",
+                    "Leisure Studies",
+                    "Management",
+                    "Marine Science and Oceanography",
+                    "Marine Transport",
+                    "Petroleum and Gas Engineering",
+                    "Production Engineering",
+                    "Protective Services",
+                    "Social Studies",
+                    "Soil Science",
+                    "Sports"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 175",
+                "City": "Port of Spain",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://usc.edu.tt",
+                "college_name": "University of the Southern Caribbean",
+                "university_name": "(USC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1927 as East Caribbean Training School, renamed Caribbean Training College 1929, declared a junior college 1947, renamed Caribbean Union College 1956, acquired current status and title 2006",
+            "AcademicYear": "September to August (3 terms)",
+            "AdmissionRequirements": [
+                "5 GCE/CSEC Subjects, including Maths, English and Science"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Humanities",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Music",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science, Technology and Allied Health",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Mathematics",
+                    "Nursing",
+                    "Physics",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology and Religion",
+                "FieldsOfStudy": [
+                    "Religion",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Behavioural Sciences",
+                    "Biology",
+                    "Computer Science",
+                    "Consumer Studies",
+                    "Criminal Law",
+                    "Criminology",
+                    "Dietetics",
+                    "Economics",
+                    "Educational Sciences",
+                    "English",
+                    "Family Studies",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Music",
+                    "Nursing",
+                    "Nutrition",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Religion",
+                    "Social Work",
+                    "Theology",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Education"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Communication Studies",
+                    "Economics",
+                    "Educational Administration",
+                    "Educational Psychology",
+                    "Finance",
+                    "Health Administration",
+                    "Human Resources",
+                    "Leadership",
+                    "Management",
+                    "Marketing",
+                    "Occupational Therapy",
+                    "Pastoral Studies",
+                    "Protective Services",
+                    "Psychology",
+                    "Theology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

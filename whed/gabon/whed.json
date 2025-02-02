@@ -1,0 +1,1723 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 2263",
+                "City": "Libreville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://iai-siege.com",
+                "college_name": "African Institute of Computer Science",
+                "university_name": "Institut africain d'Informatique (IAI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Inter-states school founded in 1971.",
+            "AcademicYear": "From October to July",
+            "AdmissionRequirements": [
+                "Baccalaur\u00e9at (GCE A Level)"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Computer Networks",
+                "FieldsOfStudy": [
+                    "Computer Networks"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics/Management and Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Systems Engineering",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Software Engineering",
+                "FieldsOfStudy": [
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 6421\nQuartier ACAE\navant le pont NOMBA",
+                "City": "Libreville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://uas-iae.org/presentation.html",
+                "college_name": "African University of Sciences",
+                "university_name": "Universit\u00e9 Africaine des Sciences (UAS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Journalism and Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal Studies",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Law",
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Administration",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Hotel Management",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Communication Studies",
+                    "Economics",
+                    "Educational Sciences",
+                    "Human Resources",
+                    "Insurance",
+                    "International Business",
+                    "Law",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Communication Studies",
+                    "Human Resources",
+                    "Insurance",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Private Law",
+                    "Public Law",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [
+                    "Communication Studies",
+                    "Economics",
+                    "Educational Sciences",
+                    "Hotel Management",
+                    "International Business",
+                    "Journalism",
+                    "Law",
+                    "Management",
+                    "Tourism"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 2253\nSaint-Beno\u00eet",
+                "City": "Libreville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://bbs-cfb.com",
+                "college_name": "BGFI Business School",
+                "university_name": "(BBS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Audit and Management Control",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking",
+                "FieldsOfStudy": [
+                    "Banking"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking and Insurance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking, Finance, Insurance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance",
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Banking",
+                    "Finance",
+                    "Insurance"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 3931\n917, Rue Alsace Lorraine\nMontagne Sainte\nFace \u00e0 la Polyclinique Chambrier",
+                "City": "Libreville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://aframschool.com",
+                "college_name": "Franco-American Academy of Management",
+                "university_name": "Acad\u00e9mie Franco-Am\u00e9ricaine de Management (AFRAM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economic and Social Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "International Business",
+                    "Management",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Environmental Management",
+                    "Finance",
+                    "Human Resources",
+                    "Industrial Management",
+                    "Management",
+                    "Marketing",
+                    "Occupational Health"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Environmental Management",
+                    "Finance",
+                    "Human Resources",
+                    "Industrial Management",
+                    "Management",
+                    "Marketing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 769",
+                "City": "Franceville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.cirmf.org",
+                "college_name": "International Centre for Medical Research of Franceville",
+                "university_name": "Centre international de Recherches m\u00e9dicales de Franceville (CIRMF)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1979.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Master's Degree"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medical Research",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Epidemiology",
+                    "Hygiene",
+                    "Laboratory Techniques",
+                    "Medical Parasitology",
+                    "Medicine",
+                    "Parasitology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Primatology",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Zoonotic and Emerging Diseases",
+                "FieldsOfStudy": [
+                    "Pathology",
+                    "Veterinary Science",
+                    "Virology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "HIV-related Diseases",
+                "FieldsOfStudy": [
+                    "Epidemiology",
+                    "Immunology",
+                    "Virology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Biology (BIOMED)",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Biochemistry",
+                    "Bioengineering",
+                    "Biological and Life Sciences",
+                    "Cell Biology",
+                    "Entomology",
+                    "Epidemiology",
+                    "Genetics",
+                    "Immunology",
+                    "Molecular Biology",
+                    "Oncology",
+                    "Parasitology",
+                    "Veterinary Science"
+                ],
+                "Doctor'sDegrees": [
+                    "Epidemiology",
+                    "Tropical Medicine",
+                    "Veterinary Science"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Mindoube 2",
+                "City": "Libreville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://em-gabon.com",
+                "college_name": "Management School of Gabon",
+                "university_name": "Ecole de Management du Gabon (EM-Gabon)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2010.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Administration Management",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Creation and Recovery",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce-Distribution",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Administration",
+                "FieldsOfStudy": [
+                    "Health Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Local Management and Territorial Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Logistics and Transport Management",
+                "FieldsOfStudy": [
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management of Sustainable Development Projects",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management Science",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Quality-Hygiene-Health and Environment",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Health Sciences",
+                    "Hygiene"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Quality-Hygiene-Safety-Environment",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Hygiene",
+                    "Industrial Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports Management",
+                "FieldsOfStudy": [
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Strategic Human Resources Management",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sustainable Development",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Environmental Studies",
+                    "Finance",
+                    "Human Resources",
+                    "Hygiene",
+                    "Industrial Management",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Public Administration",
+                    "Retailing and Wholesaling",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 3960",
+                "City": "Libreville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "National School of Forestry and Water Management",
+                "university_name": "Ecole nationale des Eaux et For\u00eats (ENEF)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1953 as a Forestry Training Center. Became the Forestry School 1959, then the National Institute of Forestry Studies (INEF) 1967, and acquired current title 1976.",
+            "AcademicYear": "September to July: (September-April; April-July)",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Basic Sciences",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing and Distance Education",
+                "FieldsOfStudy": [
+                    "Civil Security",
+                    "Environmental Studies",
+                    "Hygiene"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fauna and Hunting",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fishing and Aquaculture",
+                "FieldsOfStudy": [
+                    "Aquaculture",
+                    "Fishery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forest and Environmental Management",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Forest Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forest Exploitation and Wood Technology",
+                "FieldsOfStudy": [
+                    "Forest Products",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 86",
+                "City": "Libreville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.enagabon.com",
+                "college_name": "National School of Public Administration",
+                "university_name": "Ecole nationale d'Administration (ENA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1962.",
+            "AcademicYear": "November-July (November-April; May-July)",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Public Sector Management",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Administration",
+                "FieldsOfStudy": [
+                    "Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Diplomacy",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Hospital Administration",
+                "FieldsOfStudy": [
+                    "Health Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Labour Inspection",
+                "FieldsOfStudy": [
+                    "Labour and Industrial Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Local Authorities Administration",
+                "FieldsOfStudy": [
+                    "Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "School and University Administration",
+                "FieldsOfStudy": [
+                    "Educational Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 13131",
+                "City": "Libreville",
+                "Province": "Estuaire",
+                "PostCode": "N/A",
+                "Website": "http://www.uob.ga",
+                "college_name": "Omar Bongo University",
+                "university_name": "Universit\u00e9 Omar Bongo (UOB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1970 incorporating institutions which were previously part of the Fondation de l'Enseignement sup\u00e9rieur en Afrique Centrale (FESAC) as Universit\u00e9 nationale du Gabon (UNG). Renamed 1978 as Universit\u00e9 Omar Bongo (UOB). Acquired present status 2002.",
+            "AcademicYear": "October to July (October-March; April-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at) or equivalent or entrance examination"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "American Studies",
+                    "Anthropology",
+                    "Archaeology",
+                    "Communication Studies",
+                    "English",
+                    "English Studies",
+                    "Geography (Human)",
+                    "German",
+                    "Germanic Studies",
+                    "Hispanic American Studies",
+                    "History",
+                    "Latin American Studies",
+                    "Linguistics",
+                    "Literature",
+                    "Philosophy",
+                    "Portuguese",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology",
+                    "Spanish",
+                    "Tourism"
+                ],
+                "Details": "FLSH"
+            },
+            {
+                "College": "Law and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law"
+                ],
+                "Details": "FDSE"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "African Studies",
+                    "Ancient Civilizations",
+                    "Anthropology",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "Commercial Law",
+                    "Communication Studies",
+                    "Constitutional Law",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "Economics",
+                    "Educational Psychology",
+                    "English Studies",
+                    "Environmental Studies",
+                    "Geography",
+                    "Geography (Human)",
+                    "History",
+                    "Industrial and Organizational Psychology",
+                    "Information Sciences",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Linguistics",
+                    "Literature",
+                    "Logic",
+                    "Metaphysics",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Private Law",
+                    "Psychiatry and Mental Health",
+                    "Psychology",
+                    "Public Law",
+                    "Social Psychology",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Doctor'sDegrees": [
+                    "Archaeology",
+                    "History",
+                    "Law",
+                    "Linguistics",
+                    "Sociology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Carrefour Ancienne Sobraga\nDescente de l'Union Multipress",
+                "City": "Libreville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ufgse.org",
+                "college_name": "Saint-Exupery French-Gabonese University",
+                "university_name": "Universit\u00e9 Franco-gabonaise Saint-Exup\u00e9ry (UFGSE)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2012.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural and Agri-Food Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Food Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cultural Studies and International Relations",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economic and Social Administration, Economic Intelligence",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Economics",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Science and Local Communities",
+                "FieldsOfStudy": [
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Economics",
+                    "Environmental Studies",
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sustainable Development",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport, Logistics, Customs",
+                "FieldsOfStudy": [
+                    "Taxation",
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fashion",
+                "FieldsOfStudy": [
+                    "Fashion Design"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Cultural Studies",
+                    "Economics",
+                    "Environmental Studies",
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 1359\nQuartier GLASS \u00e0 150 m de l\u2019Hotel Meridien",
+                "City": "Libreville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.esgis.org",
+                "college_name": "School of Informatics Management and Computer Sciences",
+                "university_name": "Ecole Sup\u00e9rieure de Gestion d'Informatique et des Sciences (ESGIS Libreville)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2012.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking",
+                "FieldsOfStudy": [
+                    "Banking"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Studies",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Networks",
+                "FieldsOfStudy": [
+                    "Computer Networks"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Relations",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport and Logistics",
+                "FieldsOfStudy": [
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Communication Studies",
+                    "Computer Networks",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Marketing",
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Quartier Derri\u00e8re l\u2019Ecole normale",
+                "City": "Libreville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Teacher Training School of Libreville",
+                "university_name": "Ecole normale Sup\u00e9rieure de Libreville (ENS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1971.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Teacher Training",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Documentation Techniques",
+                    "Educational and Student Counselling",
+                    "Educational Testing and Evaluation",
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education",
+                    "Mathematics Education",
+                    "Native Language Education",
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Educational Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 3989\nDerri\u00e8re le lyc\u00e9e d\u2019Application Nelson Mandela",
+                "City": "Libreville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Technical Teachers Training School",
+                "university_name": "Ecole Normale Sup\u00e9rieure de l'Enseignement Technique (ENSET)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1972.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Administration and Communication",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Wood Technology",
+                "FieldsOfStudy": [
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ozangue\nFace \u00e0 la Gaboprix",
+                "City": "Libreville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University of Applied Computer Science",
+                "university_name": "Universit\u00e9 des Sciences d'Informatique Appliqu\u00e9e (USIA-ESIG)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Audit",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking",
+                "FieldsOfStudy": [
+                    "Banking"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking and insurance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Coastal Management",
+                "FieldsOfStudy": [
+                    "Coastal Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce and Distribution",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commercial Action",
+                "FieldsOfStudy": [
+                    "Sales Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commercial and Technical Sciences Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Private Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication and Business Development",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Systems Maintenance",
+                "FieldsOfStudy": [
+                    "Electrical and Electronic Equipment and Maintenance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Corporate Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Development and Networks",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Diplomacy and International Relations",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environnmental Management",
+                "FieldsOfStudy": [
+                    "Environmental Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geometry Topographer",
+                "FieldsOfStudy": [
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Management",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hygiene-Quality-Safety and Environment",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Hygiene",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Insurance",
+                "FieldsOfStudy": [
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Corporate Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Local Business Networks Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Logistics and Transport",
+                "FieldsOfStudy": [
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management of Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Project Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Quality Management",
+                "FieldsOfStudy": [
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "School Organizations Management",
+                "FieldsOfStudy": [
+                    "Educational Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology and Management Strategy",
+                "FieldsOfStudy": [
+                    "Engineering Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Telecommunications Engineering",
+                "FieldsOfStudy": [
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hospitality Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport and Customs",
+                "FieldsOfStudy": [
+                    "Taxation",
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport-Customs-Environmental Management",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Taxation",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Educational Administration",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 18231\nOwendo",
+                "City": "Libreville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.uss.ga",
+                "college_name": "University of Health Sciences",
+                "university_name": "Universit\u00e9 des Sciences de la Sant\u00e9 (USS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Biological and Life Sciences",
+                    "Dentistry",
+                    "Medicine",
+                    "Midwifery",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Pharmacy",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 901",
+                "City": "Franceville",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.univ-masuku.ga",
+                "college_name": "University of Science and Techniques of Masuku",
+                "university_name": "Universit\u00e9 des Sciences et Techniques de Masuku (USTM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1986, incorporating Faculty of sciences of Universit\u00e9 Omar Bongo (UOB) and Ecole Nationale Sup\u00e9rieure d\u2019Ing\u00e9nieurs de Libreville (ENSIL).",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Sciences",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Biology",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Ecology",
+                    "Environmental Studies",
+                    "Geology",
+                    "Mathematics",
+                    "Physics",
+                    "Physiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agronomy and Biotechnology",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Animal Husbandry",
+                    "Biotechnology"
+                ],
+                "Details": "INSAB"
+            },
+            {
+                "College": "Polytechnic",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Industrial Engineering",
+                    "Industrial Maintenance",
+                    "Industrial Management",
+                    "Maintenance Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "EPM"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

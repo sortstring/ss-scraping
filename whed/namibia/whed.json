@@ -1,0 +1,1610 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 40271\nAusspannplatz",
+                "City": "Windhoek",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://namibia.bothouniversity.com",
+                "college_name": "Botho University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2018. Franchised from Botho University in Botswana",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Health Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Computer Science",
+                    "Health Administration",
+                    "Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Yang-Tze Building 2nd Floor\nC/O Sam Nujoma Drv and Nelson Mandela Ave",
+                "City": "Windhoek",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.bse.com.na",
+                "college_name": "Business School of Excellence",
+                "university_name": "(BSE)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Mathematics Education",
+                    "Teacher Training"
+                ],
+                "Details": "North-West University (NWU) programme"
+            },
+            {
+                "College": "Logistics",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Logistics Management",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Erf 159 Rendsburger StreetLafrenz Industrial",
+                "City": "Windhoek",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://icare-health.org",
+                "college_name": "I-Care Health Training Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2017",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 11363\nc/o Robert Mugabe & Dr. Kenneth David Kaunda Street",
+                "City": "Windhoek",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.iol.na",
+                "college_name": "Institute for Open Learning",
+                "university_name": "(IOL)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Bachelor'sDegree": [
+                    "Education",
+                    "Primary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 8057961 Hosea Kutako DriveGammams Training CentreOpposite Pioneers Park Cemetery",
+                "City": "Windhoek",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.collegelingua.net",
+                "college_name": "International Training College-Lingua",
+                "university_name": "(ITCL)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Labour Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hospitality",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Networks",
+                    "Finance",
+                    "Human Resources",
+                    "Information Technology",
+                    "Software Engineering",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Private Bag 1400521-31 Hercules StreetDorado Park Ext 1",
+                "City": "Windhoek",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://ium.edu.na",
+                "college_name": "International University of Management",
+                "university_name": "(IUM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993 as Institute of Higher Education (IHE). Acquired present status and title 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Short Courses (CIIP)",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Computer Science",
+                    "English",
+                    "Management",
+                    "Modern Languages",
+                    "Sales Techniques",
+                    "Secretarial Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Higher Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment & Sustainable Tourism",
+                "FieldsOfStudy": [
+                    "Agricultural Management",
+                    "Aquaculture",
+                    "Environmental Studies",
+                    "Hotel Management",
+                    "Natural Resources",
+                    "Natural Sciences",
+                    "Sustainable Development",
+                    "Tourism",
+                    "Transport Management",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Health Sciences",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information and Communication Technology (ICT)",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Strategic Management & Business Administration",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Public Administration",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education",
+                    "Educational Administration",
+                    "Finance",
+                    "Health Administration",
+                    "Higher Education",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Marketing",
+                    "Public Administration",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Agriculture",
+                    "Aquaculture",
+                    "Business Administration",
+                    "Business Computing",
+                    "Communication Studies",
+                    "Ecology",
+                    "Education",
+                    "Educational Administration",
+                    "Electrical Engineering",
+                    "English",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Finance",
+                    "Health Sciences",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Logistics Management",
+                    "Management",
+                    "Marine Science and Oceanography",
+                    "Marketing",
+                    "Nursing",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Software Engineering",
+                    "Tourism",
+                    "Transport Engineering",
+                    "Water Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Business Administration",
+                    "Education",
+                    "Environmental Studies",
+                    "Finance",
+                    "Higher Education",
+                    "Human Resources",
+                    "Logistics Management",
+                    "Management",
+                    "Nursing",
+                    "Public Administration",
+                    "Transport Management"
+                ],
+                "Master'sDegree": [
+                    "Agricultural Management",
+                    "Aquaculture",
+                    "Business Administration",
+                    "Ecology",
+                    "Educational Administration",
+                    "Entrepreneurship",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Finance",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Information Management",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Logistics Management",
+                    "Management",
+                    "Marine Transport",
+                    "Marketing",
+                    "Natural Resources",
+                    "Nursing",
+                    "Public Administration",
+                    "Sanitary Engineering",
+                    "Sustainable Development",
+                    "Tourism",
+                    "Water Management"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Ecology",
+                    "Education",
+                    "Hotel Management",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Logistics Management",
+                    "Natural Resources",
+                    "Natural Sciences",
+                    "Sustainable Development",
+                    "Tourism",
+                    "Transport Management",
+                    "Water Management"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "13 Jackson Kaujeua Street\nPrivate Bag 13388",
+                "City": "Windhoek",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.nust.na",
+                "college_name": "Namibia University of Science and Technology",
+                "university_name": "(NUST)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1985 as Technikon Namibia. Became Polytechnic of Namibia in 1994, incorporating the Technikon Namibia and College for Out-of-School Training. Acquired current title and status 1996.",
+            "AcademicYear": "February to November (February-June; July-November)",
+            "AdmissionRequirements": [
+                "Senior certificate"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Open and Lifelong Learning",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Communication Studies",
+                    "Economics",
+                    "Education",
+                    "English",
+                    "Finance",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Modern Languages",
+                    "Public Administration",
+                    "Secretarial Studies",
+                    "Tourism",
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce, Human Sciences and Education",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Communication Arts",
+                    "Communication Studies",
+                    "Econometrics",
+                    "Economics",
+                    "Education",
+                    "English",
+                    "Finance",
+                    "Government",
+                    "Higher Education",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Laboratory Techniques",
+                    "Labour and Industrial Relations",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Modern Languages",
+                    "Police Studies",
+                    "Public Administration",
+                    "Social Sciences",
+                    "Sports Management",
+                    "Technology Education",
+                    "Tourism",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing and Informatics",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Information Technology",
+                    "Journalism",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Built Environment",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Architecture and Planning",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Construction Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Environmental Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Metallurgical Engineering",
+                    "Mining Engineering",
+                    "Power Engineering",
+                    "Surveying and Mapping",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health, Natural Resources and Applied Sciences",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Agricultural Business",
+                    "Agriculture",
+                    "Biology",
+                    "Chemistry",
+                    "Environmental Studies",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Horticulture",
+                    "Laboratory Techniques",
+                    "Mathematics",
+                    "Medical Science",
+                    "Natural Resources",
+                    "Natural Sciences",
+                    "Nutrition",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "International Business"
+                ],
+                "Details": "Harold Pupkewitz"
+            },
+            {
+                "College": "Land, Livelihoods and Housing",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Agricultural Business",
+                    "Agriculture",
+                    "Architecture",
+                    "Architecture and Planning",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Communication Arts",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Cooking and Catering",
+                    "Criminal Law",
+                    "Econometrics",
+                    "Economics",
+                    "Education",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "English",
+                    "Entrepreneurship",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Finance",
+                    "Health Sciences",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "International Business",
+                    "Journalism",
+                    "Labour and Industrial Relations",
+                    "Linguistics",
+                    "Logistics Management",
+                    "Management",
+                    "Marine Engineering",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Metallurgical Engineering",
+                    "Mining Engineering",
+                    "Modern Languages",
+                    "Natural Resources",
+                    "Natural Sciences",
+                    "Power Engineering",
+                    "Public Administration",
+                    "Real Estate",
+                    "Regional Planning",
+                    "Rural Studies",
+                    "Secretarial Studies",
+                    "Social Sciences",
+                    "Software Engineering",
+                    "Statistics",
+                    "Surveying and Mapping",
+                    "Technology",
+                    "Tourism",
+                    "Town Planning",
+                    "Transport and Communications",
+                    "Transport Engineering",
+                    "Transport Management",
+                    "Water Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Astronomy and Space Science",
+                    "Business Administration",
+                    "Business Computing",
+                    "Information Technology",
+                    "Meteorology"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Agricultural Business",
+                    "Applied Linguistics",
+                    "Architecture",
+                    "Astronomy and Space Science",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Design",
+                    "Econometrics",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "Human Resources",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Landscape Architecture",
+                    "Logistics Management",
+                    "Management",
+                    "Marine Engineering",
+                    "Marketing",
+                    "Mechanical Engineering",
+                    "Metallurgical Engineering",
+                    "Mining Engineering",
+                    "Natural Resources",
+                    "Power Engineering",
+                    "Real Estate",
+                    "Regional Planning",
+                    "Rural Studies",
+                    "Surveying and Mapping",
+                    "Town Planning",
+                    "Transport Engineering",
+                    "Transport Management",
+                    "Water Management"
+                ],
+                "Doctor'sDegrees": [
+                    "Astronomy and Space Science",
+                    "Computer Science",
+                    "Engineering"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Erf 2030 Independence AvenueKatutura",
+                "City": "Windhoek",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://namcol.edu.na",
+                "college_name": "Namibian College of Open Learning",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Child Care and Development",
+                    "Education",
+                    "Educational Administration",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Development Studies",
+                    "Education",
+                    "Preschool Education",
+                    "Primary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Educational Administration"
+                ],
+                "Master'sDegree": [
+                    "Development Studies",
+                    "Social and Community Services"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Paul Nash StreetOlympia",
+                "City": "Windhoek",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.nipam.na",
+                "college_name": "Namibian Institute of Public Administration and Management",
+                "university_name": "(NIPAM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Public Sector Management",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Public Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Bo 40792\nNo 4 Sauerstrasse Windhoek North",
+                "City": "Windhoek",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://riverhigherinstitute.edu.na",
+                "college_name": "River Higher Institute of Technology",
+                "university_name": "(RHIT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded as Monitronic Success College since 1999. Acquired present title 2023.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Public Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Human Services",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality and Culinary Arts",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Hotel and Restaurant",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liberal Arts and Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science, Engineering, and Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Renewable Energy",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing",
+                    "Primary Education",
+                    "Secondary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 6506\nErf 482 Kornalyn Street",
+                "City": "Windhoek",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://triumphant.edu.na",
+                "college_name": "Triumphant College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Management Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Advertising and Publicity",
+                    "Business Administration",
+                    "Human Resources",
+                    "Marketing",
+                    "Secretarial Studies",
+                    "Sports Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Preschool Education",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Data Processing",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Law",
+                "FieldsOfStudy": [
+                    "Industrial and Organizational Psychology",
+                    "Journalism",
+                    "Law",
+                    "Media Studies",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Administration",
+                    "Banking",
+                    "Business and Commerce",
+                    "Computer Science",
+                    "Education",
+                    "Finance",
+                    "Human Resources",
+                    "Industrial and Organizational Psychology",
+                    "Information Technology",
+                    "Journalism",
+                    "Logistics Management",
+                    "Management",
+                    "Media Studies",
+                    "Primary Education",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Management",
+                    "Secondary Education"
+                ],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Private Bag 13301\n340 Mandume Ndemufayo Avenue\nPioneerspark",
+                "City": "Windhoek",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.unam.edu.na",
+                "college_name": "University of Namibia",
+                "university_name": "(UNAM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992 to provide a University responsive to the needs, culture and values of Namibia through highest quality education and research for students who may benefit from them, regardless of race, colour, gender, ethnic origin, religion, creed, social and economic status or physical condition.",
+            "AcademicYear": "January to November",
+            "AdmissionRequirements": [
+                "International General Certificate of Secondary Education, with 5 subjects passed normally in not more than 3 examination sittings, and with a minimum of 25 points on the UNAM evaluation scale",
+                "English IGCSE (English as First, or Second, Language) compulsory",
+                "Entrance examination and/or interview"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "African Languages",
+                    "Communication Studies",
+                    "English",
+                    "Modern Languages",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Open, Distance and eLearning",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Continuing Education",
+                    "Educational Administration",
+                    "Epidemiology",
+                    "Government",
+                    "Labour and Industrial Relations",
+                    "Management",
+                    "Nursing",
+                    "Primary Education",
+                    "Public Relations",
+                    "Secondary Education",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Business Administration",
+                    "Chemistry",
+                    "Demography and Population",
+                    "Economics",
+                    "Engineering",
+                    "English",
+                    "Gender Studies",
+                    "German",
+                    "Heritage Preservation",
+                    "Information Technology",
+                    "Law",
+                    "Mathematics",
+                    "Microbiology",
+                    "Modern Languages",
+                    "Nursing",
+                    "Performing Arts",
+                    "Political Sciences",
+                    "Protective Services",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Special Education",
+                    "Statistics",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture, Engineering & Natural Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Building Technologies",
+                    "Civil Engineering",
+                    "Engineering",
+                    "Fishery",
+                    "Military Science",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce, Management & Law",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Government",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education & Human Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences & Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Health Sciences",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy",
+                    "Public Health",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Confucius Institute",
+                "FieldsOfStudy": [
+                    "Asian Studies",
+                    "Chinese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture & Fisheries Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Crop Production",
+                    "Ecology",
+                    "Environmental Studies",
+                    "Fishery",
+                    "Food Science",
+                    "Food Technology",
+                    "Tourism",
+                    "Veterinary Science",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Allied Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Management, Governance & Economics",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business Administration",
+                    "Economics",
+                    "Government",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Diplomatic Studies",
+                "FieldsOfStudy": [
+                    "Political Sciences"
+                ],
+                "Details": "Namibia"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Business Education",
+                    "Continuing Education",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "Educational Testing and Evaluation",
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education",
+                    "Mathematics Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Science Education",
+                    "Social Sciences",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering & The Built Environment",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities, Society & Development",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Environmental Studies",
+                    "Geography (Human)",
+                    "History",
+                    "Information Sciences",
+                    "Literature",
+                    "Mass Communication",
+                    "Modern Languages",
+                    "Performing Arts",
+                    "Sociology",
+                    "Tourism",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Commercial Law",
+                    "Justice Administration",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Behavioural Sciences",
+                    "Biochemistry",
+                    "Community Health",
+                    "Medicine",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Psychiatry and Mental Health",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Military Science",
+                "FieldsOfStudy": [
+                    "Military Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Namibia Business School",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing and Public Health",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Midwifery",
+                    "Nursing",
+                    "Public Health",
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Applied Chemistry",
+                    "Pharmacology",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Demography and Population",
+                    "Engineering",
+                    "Geology",
+                    "Mathematics",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Business Administration",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Crop Production",
+                    "Demography and Population",
+                    "Dental Surgery",
+                    "Education",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Food Science",
+                    "Food Technology",
+                    "Information Sciences",
+                    "Law",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Media Studies",
+                    "Medicine",
+                    "Metallurgical Engineering",
+                    "Mining Engineering",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Radiology",
+                    "Secondary Education",
+                    "Social Work",
+                    "Statistics",
+                    "Surgery",
+                    "Veterinary Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Health Sciences",
+                    "Heritage Preservation",
+                    "Nursing",
+                    "Protective Services"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Applied Mathematics",
+                    "Biochemistry",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Crop Production",
+                    "Demography and Population",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Entrepreneurship",
+                    "Environmental Studies",
+                    "Finance",
+                    "Fishery",
+                    "Food Science",
+                    "Food Technology",
+                    "Geology",
+                    "Information Technology",
+                    "Law",
+                    "Management",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Metallurgical Engineering",
+                    "Microbiology",
+                    "Mining Engineering",
+                    "Natural Resources",
+                    "Nuclear Engineering",
+                    "Nuclear Physics",
+                    "Physics",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Statistics",
+                    "Surveying and Mapping",
+                    "Wildlife"
+                ],
+                "Doctor'sDegrees": [
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Biochemistry",
+                    "Business Administration",
+                    "Computer Science",
+                    "Crop Production",
+                    "Economics",
+                    "English",
+                    "Fishery",
+                    "Food Science",
+                    "Food Technology",
+                    "Geography",
+                    "Geology",
+                    "Law",
+                    "Management",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Wildlife"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 98604\nPelican Square",
+                "City": "Windhoek",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://welwitchia.com.na",
+                "college_name": "Welwitchia Health Training Centre",
+                "university_name": "(WELWITCHIA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2013. Accredited 2016.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Nursing",
+                    "Psychiatry and Mental Health"
+                ],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

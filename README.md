@@ -1,6 +1,6 @@
 # University Rankings Scraper
 
-This project is a web scraper designed to fetch data about universities from the [Top Universities website](https://www.topuniversities.com). It utilizes Selenium and Requests to retrieve data and extract specific details such as institution information, student body details, and faculty data.
+This project is a web scraper designed to fetch data about universities from three websites. It utilizes Selenium and Requests to retrieve data and extract specific details such as institution information, student body details, and faculty data.
 
 ## Features
 
@@ -11,14 +11,14 @@ This project is a web scraper designed to fetch data about universities from the
 ## Prerequisites
 
 - Python 3.x
-- Google Chrome browser
+- Google Chrome browser with GUI
 
 ### Python Dependencies
 
 Install the required Python packages using pip:
 
 ```bash
-git clone https://github.com/sortstring/topuniv.git
+git clone https://github.com/sortstring/ss-scraping.git
 cd topuniv
 python3 -m venv env
 source env/bin/activate
@@ -53,6 +53,15 @@ The second argument is optional. If set to 1, the scraper will use a machine lea
 
 ---
 
+The command ```whed 0``` retrieves, stores, and displays the list of countries on the website. This is the first command that needs to be executed.
+
+To scrape university data for a specific country, use the following command:
+```whed <country-index> <start-page-number> <total-pages-to-be-scraped>```
+
+To scrape data for all countries at once, run the provided bash script:
+```run_whed.sh```
+
+---
 ## License
 
 This project is proprietary to Sort String Solutions LLP. All rights are reserved. Unauthorized use, reproduction, or distribution of this software is prohibited. Please contact Sort String Solutions LLP for any licensing inquiries.

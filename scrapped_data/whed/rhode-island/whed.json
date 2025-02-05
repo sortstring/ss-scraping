@@ -1,0 +1,2686 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 1876\nOne Prospect Street",
+                "City": "Providence",
+                "Province": "Rhode Island",
+                "PostCode": "02912",
+                "Website": "https://www.brown.edu",
+                "college_name": "Brown University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1764 as the Rhode Island College, acquired current status and title 1804",
+            "AcademicYear": "September to May (September-December; January-May)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Alcohol and Addiction Studies",
+                "FieldsOfStudy": [
+                    "Toxicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biomedical Engineering",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computational Molecular Biology",
+                "FieldsOfStudy": [
+                    "Molecular Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fluid Mechanics, Turbulence and Computation",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Mechanics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geometric Computing",
+                "FieldsOfStudy": [
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language Studies",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Latin American and Caribbean Studies",
+                "FieldsOfStudy": [
+                    "Latin American Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Service",
+                "FieldsOfStudy": [
+                    "Social and Community Services"
+                ],
+                "Details": "Swearer"
+            },
+            {
+                "College": "Study of Race and Ethnicity in America",
+                "FieldsOfStudy": [
+                    "Ethnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "The College (Undergraduate Studies)",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Biological and Life Sciences",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Health Sciences",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Performing Arts",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Archaeology and the Ancient World",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Arts and Humanities"
+                ],
+                "Details": "Joukowsky"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Materials Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Biotechnology",
+                    "Medicine",
+                    "Pharmacology"
+                ],
+                "Details": "Warren Alpert"
+            },
+            {
+                "College": "Professional Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education",
+                    "Health Sciences",
+                    "Leadership"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "African American Studies",
+                    "American Studies",
+                    "Ancient Civilizations",
+                    "Anthropology",
+                    "Applied Mathematics",
+                    "Applied Physics",
+                    "Archaeology",
+                    "Architecture",
+                    "Art History",
+                    "Astronomy and Space Science",
+                    "Behavioural Sciences",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Biophysics",
+                    "Business Administration",
+                    "Caribbean Studies",
+                    "Chemistry",
+                    "Classical Languages",
+                    "Cognitive Sciences",
+                    "Comparative Literature",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "East Asian Studies",
+                    "Economics",
+                    "Educational Sciences",
+                    "Engineering",
+                    "English",
+                    "Entrepreneurship",
+                    "Environmental Studies",
+                    "Ethnology",
+                    "French",
+                    "French Studies",
+                    "Gender Studies",
+                    "Geology",
+                    "German",
+                    "Germanic Studies",
+                    "Government",
+                    "Health Sciences",
+                    "Hispanic American Studies",
+                    "History",
+                    "Indigenous Studies",
+                    "International Relations and Diplomacy",
+                    "Italian",
+                    "Jewish Studies",
+                    "Latin American Studies",
+                    "Linguistics",
+                    "Literature",
+                    "Mathematics",
+                    "Media Studies",
+                    "Medieval Studies",
+                    "Middle Eastern Studies",
+                    "Molecular Biology",
+                    "Music",
+                    "Native American Studies",
+                    "Neurosciences",
+                    "Performing Arts",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Portuguese",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Religious Studies",
+                    "Slavic Languages",
+                    "Social Sciences",
+                    "Social Studies",
+                    "Sociology",
+                    "South Asian Studies",
+                    "Statistics",
+                    "Technology",
+                    "Theatre",
+                    "Urban Studies",
+                    "Visual Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Acting",
+                    "American Studies",
+                    "Applied Physics",
+                    "Biological and Life Sciences",
+                    "Biomedical Engineering",
+                    "Biomedicine",
+                    "Biotechnology",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Data Processing",
+                    "Design",
+                    "Education",
+                    "Educational Administration",
+                    "Engineering",
+                    "Engineering Management",
+                    "Entrepreneurship",
+                    "Health Administration",
+                    "Leadership",
+                    "Literature",
+                    "Medical Science",
+                    "Performing Arts",
+                    "Physics",
+                    "Public Administration",
+                    "Public Health",
+                    "Social Sciences",
+                    "Statistics",
+                    "Teacher Training",
+                    "Technology",
+                    "Theatre",
+                    "Writing"
+                ],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [
+                    "African American Studies",
+                    "American Studies",
+                    "Ancient Civilizations",
+                    "Anthropology",
+                    "Applied Mathematics",
+                    "Archaeology",
+                    "Architecture",
+                    "Art History",
+                    "Astronomy and Space Science",
+                    "Behavioural Sciences",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Biomedicine",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Classical Languages",
+                    "Cognitive Sciences",
+                    "Comparative Literature",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Earth Sciences",
+                    "Ecology",
+                    "Economics",
+                    "Engineering",
+                    "English",
+                    "Environmental Studies",
+                    "Epidemiology",
+                    "French",
+                    "French Studies",
+                    "German",
+                    "Health Sciences",
+                    "Hispanic American Studies",
+                    "History",
+                    "Italian",
+                    "Latin American Studies",
+                    "Mathematics",
+                    "Media Studies",
+                    "Medical Science",
+                    "Molecular Biology",
+                    "Multimedia",
+                    "Music Theory and Composition",
+                    "Musicology",
+                    "Neurosciences",
+                    "Pathology",
+                    "Performing Arts",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Portuguese",
+                    "Psychology",
+                    "Rehabilitation and Therapy",
+                    "Religious Studies",
+                    "Slavic Languages",
+                    "Social Sciences",
+                    "Sociology",
+                    "Statistics",
+                    "Theatre"
+                ],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1150 Douglas Pike",
+                "City": "Smithfield",
+                "Province": "Rhode Island",
+                "PostCode": "02917",
+                "Website": "https://www.bryant.edu",
+                "college_name": "Bryant University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1863. Acquired present title 2004",
+            "AcademicYear": "September to May",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students; essay; transcript of high school record; letter of recommandation"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Health and Behavioral Sciences",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Intercultural",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "John H. Chafee"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Economics",
+                    "Fine Arts",
+                    "History",
+                    "Law",
+                    "Literature",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Political Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Information Technology",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "U.S.-China",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Behavioural Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Biomedicine",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "African American Studies",
+                    "American Studies",
+                    "Applied Mathematics",
+                    "Biology",
+                    "Biotechnology",
+                    "Chinese",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Data Processing",
+                    "Economics",
+                    "Entrepreneurship",
+                    "Environmental Studies",
+                    "Film",
+                    "Finance",
+                    "Fine Arts",
+                    "French",
+                    "Gender Studies",
+                    "Health Sciences",
+                    "History",
+                    "Human Resources",
+                    "Information Technology",
+                    "International Business",
+                    "International Studies",
+                    "Italian",
+                    "Latin American Studies",
+                    "Law",
+                    "Leadership",
+                    "Literature",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Media Studies",
+                    "Military Science",
+                    "Natural Sciences",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Relations",
+                    "Sales Techniques",
+                    "Sociology",
+                    "Spanish",
+                    "Sports",
+                    "Statistics",
+                    "Visual Arts",
+                    "Women's Studies",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Business Administration",
+                    "Health Administration",
+                    "Leadership"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "Business Administration",
+                    "Computer Science",
+                    "Data Processing",
+                    "Health Administration",
+                    "Taxation"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "325 Public Street",
+                "City": "Providence",
+                "Province": "Rhode Island",
+                "PostCode": "02905",
+                "Website": "https://www.collegeunbound.edu",
+                "college_name": "College Unbound",
+                "university_name": "(CU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Organizational Leadership and Change",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Behavioural Sciences",
+                    "Civics",
+                    "Management",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Leadership"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "8 Abbott Park Place",
+                "City": "Providence",
+                "Province": "Rhode Island",
+                "PostCode": "02903",
+                "Website": "https://www.jwu.edu/campuses/providence",
+                "college_name": "Johnson and Wales University-Providence",
+                "university_name": "(JWU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1914 as a business school, acquired current status and title 1988",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Physician Assistant Studies",
+                "FieldsOfStudy": [
+                    "Medical Auxiliaries"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Communication Studies",
+                    "Criminology",
+                    "Data Processing",
+                    "Education",
+                    "Media Studies",
+                    "Political Sciences",
+                    "Psychology",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Criminal Law",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Retailing and Wholesaling"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Design",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Graphic Design",
+                    "Industrial Design",
+                    "Marketing",
+                    "Media Studies",
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Innovation and Technology",
+                "FieldsOfStudy": [
+                    "Cooking and Catering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Education",
+                    "Health Sciences",
+                    "Psychology",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Wellness",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality Management",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Hotel and Restaurant",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Education",
+                    "Food Science",
+                    "Health Sciences",
+                    "Hotel and Restaurant",
+                    "Nursing",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Agricultural Business",
+                    "Animal Husbandry",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Business Administration",
+                    "Clinical Psychology",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Cooking and Catering",
+                    "Criminology",
+                    "Data Processing",
+                    "Dietetics",
+                    "Electronic Engineering",
+                    "Entrepreneurship",
+                    "Finance",
+                    "Food Science",
+                    "Graphic Design",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Industrial Design",
+                    "Industrial Management",
+                    "International Business",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Media Studies",
+                    "Nursing",
+                    "Nutrition",
+                    "Political Sciences",
+                    "Protective Services",
+                    "Psychology",
+                    "Public Health",
+                    "Retailing and Wholesaling",
+                    "Sales Techniques",
+                    "Sports",
+                    "Sports Management",
+                    "Sustainable Development",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business Education",
+                    "Clinical Psychology",
+                    "Computer Science",
+                    "Data Processing",
+                    "Food Technology",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Industrial and Organizational Psychology",
+                    "Information Management",
+                    "Information Technology",
+                    "Leadership",
+                    "Management",
+                    "Marketing",
+                    "Medical Auxiliaries",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Health",
+                    "Secondary Education",
+                    "Special Education",
+                    "Sports Management",
+                    "Sustainable Development",
+                    "Teacher Training",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [
+                    "Educational Administration",
+                    "Leadership",
+                    "Occupational Therapy"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1 New England Tech Boulevard",
+                "City": "East Greenwich",
+                "Province": "Rhode Island",
+                "PostCode": "02818",
+                "Website": "https://www.neit.edu",
+                "college_name": "New England Institute of Technology",
+                "university_name": "New England Tech (NEIT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1940 as the New England Technical Institute, acquired current status and title 1977",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture, Interior Design and Construction Management",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Construction Engineering",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Automotive and Marine Technology",
+                "FieldsOfStudy": [
+                    "Service Trades"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Management",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Criminal Justice",
+                "FieldsOfStudy": [
+                    "Criminology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cybersecurity",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Digital Media and Web Design",
+                "FieldsOfStudy": [
+                    "Graphic Design",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering Technology",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing and Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional Building Trades",
+                "FieldsOfStudy": [
+                    "Building Technologies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Technology",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Video Game Development and Design",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Graphics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Health Education"
+                ],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Computer Graphics",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Criminology",
+                    "Design",
+                    "Electrical Engineering",
+                    "Graphic Design",
+                    "Health Administration",
+                    "Interior Design",
+                    "Mechanical Engineering",
+                    "Media Studies",
+                    "Multimedia",
+                    "Nursing",
+                    "Rehabilitation and Therapy",
+                    "Service Trades",
+                    "Software Engineering",
+                    "Veterinary Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Engineering Management",
+                    "Information Technology",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Public Health"
+                ],
+                "Doctor'sDegrees": [
+                    "Occupational Therapy"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1 Cunningham Square",
+                "City": "Providence",
+                "Province": "Rhode Island",
+                "PostCode": "02918",
+                "Website": "https://www.providence.edu",
+                "college_name": "Providence College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1917. A private institution affiliated with the Roman Catholic Church",
+            "AcademicYear": "August to May",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SATor ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "African American Studies",
+                    "American Studies",
+                    "Art History",
+                    "Arts and Humanities",
+                    "Asian Studies",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Classical Languages",
+                    "Cultural Studies",
+                    "Dance",
+                    "Economics",
+                    "Engineering",
+                    "English",
+                    "Film",
+                    "History",
+                    "Labour and Industrial Relations",
+                    "Latin American Studies",
+                    "Mathematics and Computer Science",
+                    "Modern Languages",
+                    "Music",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology",
+                    "Theatre",
+                    "Theology",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Health Sciences",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Social Work",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing and Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "African American Studies",
+                    "American Studies",
+                    "Art History",
+                    "Arts and Humanities",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Classical Languages",
+                    "Computer Science",
+                    "Economics",
+                    "Engineering",
+                    "English",
+                    "Finance",
+                    "Fine Arts",
+                    "French",
+                    "Gender Studies",
+                    "Health Administration",
+                    "Health Sciences",
+                    "History",
+                    "International Studies",
+                    "Italian",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Music",
+                    "Neurosciences",
+                    "Nursing",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Primary Education",
+                    "Psychology",
+                    "Religious Studies",
+                    "Secondary Education",
+                    "Social and Community Services",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Spanish",
+                    "Special Education",
+                    "Technology",
+                    "Theatre",
+                    "Theology",
+                    "Women's Studies",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Business Administration",
+                    "Marketing",
+                    "Sports Management",
+                    "Teacher Training"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Bible",
+                    "Business Administration",
+                    "Catholic Theology",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Higher Education",
+                    "History",
+                    "International and Comparative Education",
+                    "Leadership",
+                    "Literacy Education",
+                    "Mathematics Education",
+                    "Secondary Education",
+                    "Special Education",
+                    "Teacher Training",
+                    "Theology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "600 Mount Pleasant Avenue",
+                "City": "Providence",
+                "Province": "Rhode Island",
+                "PostCode": "02908",
+                "Website": "https://www.ric.edu",
+                "college_name": "Rhode Island College",
+                "university_name": "(RIC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1854 as Rhode Island State Normal School, changed name to Rhode Island College of Education 1920, and acquired present title 1960",
+            "AcademicYear": "September to May (September-December; January-May). Also Summer Session (May-August)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students (minimum score 550)"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Professional Studies and Continuing Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Biology",
+                    "Communication Studies",
+                    "Dance",
+                    "English",
+                    "Fine Arts",
+                    "History",
+                    "Mathematics and Computer Science",
+                    "Modern Languages",
+                    "Music",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sociology",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Human Development",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Health Education",
+                    "Physical Education",
+                    "Primary Education",
+                    "Special Education"
+                ],
+                "Details": "Feinstein"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "Zvart Onanian"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Educational Psychology",
+                    "Gerontology",
+                    "Nursing",
+                    "Psychology"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "African American Studies",
+                    "Anthropology",
+                    "Art Education",
+                    "Art History",
+                    "Arts and Humanities",
+                    "Behavioural Sciences",
+                    "Biology",
+                    "Biotechnology",
+                    "Ceramic Art",
+                    "Chemistry",
+                    "Communication Arts",
+                    "Communication Studies",
+                    "Community Health",
+                    "Computer Science",
+                    "Dance",
+                    "Data Processing",
+                    "Dental Hygiene",
+                    "Display and Stage Design",
+                    "Economics",
+                    "Education of the Handicapped",
+                    "English",
+                    "Environmental Studies",
+                    "Film",
+                    "Finance",
+                    "Fine Arts",
+                    "Foreign Languages Education",
+                    "French",
+                    "French Studies",
+                    "Gender Studies",
+                    "Graphic Design",
+                    "Health Administration",
+                    "Health Education",
+                    "Health Sciences",
+                    "History",
+                    "Human Resources",
+                    "Humanities and Social Science Education",
+                    "Information Technology",
+                    "International Studies",
+                    "Jewellery Art",
+                    "Laboratory Techniques",
+                    "Latin American Studies",
+                    "Law",
+                    "Leadership",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Medical Technology",
+                    "Modern Languages",
+                    "Music",
+                    "Music Education",
+                    "Nursing",
+                    "Painting and Drawing",
+                    "Philosophy",
+                    "Photography",
+                    "Physical Education",
+                    "Physics",
+                    "Political Sciences",
+                    "Portuguese",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Printing and Printmaking",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Respiratory Therapy",
+                    "Science Education",
+                    "Sculpture",
+                    "Secondary Education",
+                    "Social and Community Services",
+                    "Social Work",
+                    "Spanish",
+                    "Special Education",
+                    "Speech Therapy and Audiology",
+                    "Sports",
+                    "Sports Management",
+                    "Technology Education",
+                    "Theatre",
+                    "Weaving",
+                    "Women's Studies",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Bilingual and Bicultural Education",
+                    "Biological and Life Sciences",
+                    "Education of the Gifted",
+                    "Education of the Handicapped",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Health Administration",
+                    "Health Sciences",
+                    "History",
+                    "Leadership",
+                    "Literature",
+                    "Mathematics",
+                    "Nursing",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Secondary Education",
+                    "Special Education",
+                    "Writing"
+                ],
+                "Master'sDegree": [
+                    "Art Education",
+                    "Bilingual and Bicultural Education",
+                    "Biology",
+                    "Child Care and Development",
+                    "Clinical Psychology",
+                    "Education",
+                    "Educational and Student Counselling",
+                    "English",
+                    "Fine Arts",
+                    "Foreign Languages Education",
+                    "Health Administration",
+                    "Health Education",
+                    "History",
+                    "Law",
+                    "Leadership",
+                    "Literacy Education",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Music Education",
+                    "Native Language Education",
+                    "Nursing",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Secondary Education",
+                    "Social Work",
+                    "Special Education",
+                    "Teacher Training",
+                    "Writing"
+                ],
+                "Doctor'sDegrees": [
+                    "Nursing"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "20 Washington Place",
+                "City": "Providence",
+                "Province": "Rhode Island",
+                "PostCode": "02903-2784",
+                "Website": "https://www.risd.edu",
+                "college_name": "Rhode Island School of Design",
+                "university_name": "(RISD)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1877",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students (minimum score of 580)"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Apparel Design",
+                "FieldsOfStudy": [
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ceramics",
+                "FieldsOfStudy": [
+                    "Ceramic Art"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computation, Technology and Culture",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design Engineering (RISD + Brown)",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Digital + Media",
+                "FieldsOfStudy": [
+                    "Communication Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Drawing",
+                "FieldsOfStudy": [
+                    "Painting and Drawing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Experimental and Foundation Studies",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Film/Animation/Video",
+                "FieldsOfStudy": [
+                    "Film",
+                    "Video",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Furniture Design",
+                "FieldsOfStudy": [
+                    "Furniture Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Glass",
+                "FieldsOfStudy": [
+                    "Glass Art"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Global Arts and Cultures",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graphic Design",
+                "FieldsOfStudy": [
+                    "Graphic Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History, Philosophy and the Social Sciences",
+                "FieldsOfStudy": [
+                    "History",
+                    "Philosophy",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Illustration",
+                "FieldsOfStudy": [
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Design",
+                "FieldsOfStudy": [
+                    "Industrial Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Interior Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Jewelry + Metalsmithing",
+                "FieldsOfStudy": [
+                    "Jewellery Art",
+                    "Metal Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Landscape Architecture",
+                "FieldsOfStudy": [
+                    "Landscape Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Literary Arts and Studies",
+                "FieldsOfStudy": [
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nature\u2013Culture\u2013Sustainability Studies",
+                "FieldsOfStudy": [
+                    "Sustainable Development"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Painting",
+                "FieldsOfStudy": [
+                    "Painting and Drawing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Photography",
+                "FieldsOfStudy": [
+                    "Photography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Printmaking",
+                "FieldsOfStudy": [
+                    "Printing and Printmaking"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sculpture",
+                "FieldsOfStudy": [
+                    "Sculpture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teaching + Learning in Art + Design",
+                "FieldsOfStudy": [
+                    "Art Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Textiles",
+                "FieldsOfStudy": [
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theory and History of Art and Design",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Design",
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Ceramic Art",
+                    "Film",
+                    "Furniture Design",
+                    "Glass Art",
+                    "Graphic Design",
+                    "Industrial Design",
+                    "Interior Design",
+                    "Jewellery Art",
+                    "Metal Techniques",
+                    "Painting and Drawing",
+                    "Photography",
+                    "Printing and Printmaking",
+                    "Sculpture",
+                    "Textile Design",
+                    "Textile Technology",
+                    "Video",
+                    "Visual Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Art Education",
+                    "Ceramic Art",
+                    "Communication Arts",
+                    "Cultural Studies",
+                    "Design",
+                    "Engineering",
+                    "Fine Arts",
+                    "Furniture Design",
+                    "Glass Art",
+                    "Graphic Design",
+                    "Industrial Design",
+                    "Interior Design",
+                    "Jewellery Art",
+                    "Landscape Architecture",
+                    "Metal Techniques",
+                    "Painting and Drawing",
+                    "Photography",
+                    "Printing and Printmaking",
+                    "Sculpture",
+                    "Sustainable Development",
+                    "Textile Design",
+                    "Visual Arts"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1 Old Ferry Road",
+                "City": "Bristol",
+                "Province": "Rhode Island",
+                "PostCode": "02809",
+                "Website": "https://www.rwu.edu",
+                "college_name": "Roger Williams University",
+                "university_name": "(RWU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1956 as Roger Williams Junior College which soon after became Roger Williams College, acquired current status and title 1992",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school GPA"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "University College",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Criminology",
+                    "Health Sciences",
+                    "Law",
+                    "Protective Services",
+                    "Psychology",
+                    "Social Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "University Studies",
+                "FieldsOfStudy": [
+                    "East Asian Studies",
+                    "Gender Studies",
+                    "Latin American Studies",
+                    "Law",
+                    "Sustainable Development",
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "Cummings"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Commercial Law",
+                    "E-Business/Commerce",
+                    "Economics",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "Mario J. Gabelli"
+            },
+            {
+                "College": "Engineering, Computing and Construction Management",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities, Arts, and Education",
+                "FieldsOfStudy": [
+                    "Classical Languages",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Design",
+                    "Education",
+                    "English",
+                    "History",
+                    "Media Studies",
+                    "Modern Languages",
+                    "Performing Arts",
+                    "Philosophy",
+                    "Speech Studies",
+                    "Visual Arts",
+                    "Writing"
+                ],
+                "Details": "Feinstein"
+            },
+            {
+                "College": "Justice Studies",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Criminal Law",
+                    "Criminology",
+                    "Law",
+                    "Leadership",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Biology",
+                    "Chemistry",
+                    "Environmental Studies",
+                    "Labour and Industrial Relations",
+                    "Marine Biology",
+                    "Mathematics",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Health",
+                    "Sociology"
+                ],
+                "Details": "Feinstein"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Anthropology",
+                    "Applied Mathematics",
+                    "Aquaculture",
+                    "Architecture",
+                    "Art Education",
+                    "Art History",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Civil Security",
+                    "Communication Arts",
+                    "Communication Studies",
+                    "Community Health",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Criminology",
+                    "Cultural Studies",
+                    "Dance",
+                    "Data Processing",
+                    "Economics",
+                    "Educational Sciences",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Graphic Design",
+                    "Heritage Preservation",
+                    "History",
+                    "Humanities and Social Science Education",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Law",
+                    "Literature",
+                    "Management",
+                    "Marine Biology",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Media Studies",
+                    "Modern Languages",
+                    "Music",
+                    "Music Theory and Composition",
+                    "Natural Sciences",
+                    "Performing Arts",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Primary Education",
+                    "Protective Services",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Public Relations",
+                    "Secondary Education",
+                    "Social and Community Services",
+                    "Social Sciences",
+                    "Sociology",
+                    "Sustainable Development",
+                    "Technology",
+                    "Theatre",
+                    "Visual Arts",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Computer Science",
+                    "Heritage Preservation",
+                    "Real Estate"
+                ],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Business Administration",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Criminology",
+                    "Educational Administration",
+                    "Heritage Preservation",
+                    "Leadership",
+                    "Psychology",
+                    "Public Administration",
+                    "Real Estate",
+                    "Social and Community Services",
+                    "Special Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "10 Metacom Avenue",
+                "City": "Bristol",
+                "Province": "Rhode Island",
+                "PostCode": "02809",
+                "Website": "https://law.rwu.edu",
+                "college_name": "Roger Williams University \u2013 Roger Williams University School of Law",
+                "university_name": "(RWU Law)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Pro Bono and Experiential Education",
+                "FieldsOfStudy": [
+                    "Feinstein"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Law",
+                "FieldsOfStudy": [
+                    "Commercial Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Affairs",
+                "FieldsOfStudy": [
+                    "Maritime Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Law"
+                ],
+                "Doctor'sDegrees": [
+                    "Law"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "100 Ochre Point Avenue",
+                "City": "Newport",
+                "Province": "Rhode Island",
+                "PostCode": "02840",
+                "Website": "http://www.salve.edu",
+                "college_name": "Salve Regina University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1934 as Salve Regina College, academic activity started 1947, became coeducational 1973, acquired current status and title 1991. A private institution affiliated with the Roman Catholic Church",
+            "AcademicYear": "September to May (September-December; January-May)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students (500 or above)"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Art and Art History",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology and Biomedical Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Biomedicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Counseling, Leadership and Expressive Arts",
+                "FieldsOfStudy": [
+                    "Educational and Student Counselling",
+                    "Fine Arts",
+                    "Leadership"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Criminal Justice and Criminology",
+                "FieldsOfStudy": [
+                    "Criminology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cultural, Environmental and Global Studies",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Environmental Studies",
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English, Communications and Media",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "English",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematical Sciences",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Modern Languages",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music, Theatre and Dance",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Music",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Science and International Relations",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Religious and Theological Studies",
+                "FieldsOfStudy": [
+                    "Religious Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Art Therapy",
+                    "Clinical Psychology",
+                    "Fine Arts",
+                    "Health Education",
+                    "Nursing",
+                    "Rehabilitation and Therapy"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Anthropology",
+                    "Art History",
+                    "Biochemistry",
+                    "Biology",
+                    "Biomedicine",
+                    "Business Administration",
+                    "Chemistry",
+                    "Communication Studies",
+                    "Criminal Law",
+                    "Criminology",
+                    "Dance",
+                    "Data Processing",
+                    "Economics",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Finance",
+                    "Fine Arts",
+                    "Foreign Languages Education",
+                    "French",
+                    "Health Administration",
+                    "Heritage Preservation",
+                    "History",
+                    "Humanities and Social Science Education",
+                    "International Business",
+                    "International Economics",
+                    "Laboratory Techniques",
+                    "Literature",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Music",
+                    "Music Education",
+                    "Nursing",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Religious Studies",
+                    "Science Education",
+                    "Secondary Education",
+                    "Social Work",
+                    "Spanish",
+                    "Special Education",
+                    "Theatre",
+                    "Theology",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Art Therapy",
+                    "Computer Science",
+                    "Fine Arts",
+                    "Health Administration",
+                    "Justice Administration",
+                    "Leadership"
+                ],
+                "Master'sDegree": [
+                    "Behavioural Sciences",
+                    "Business Administration",
+                    "Clinical Psychology",
+                    "Health Administration",
+                    "International Relations and Diplomacy",
+                    "Justice Administration",
+                    "Leadership",
+                    "Management",
+                    "Nursing",
+                    "Protective Services",
+                    "Writing"
+                ],
+                "Doctor'sDegrees": [
+                    "Nursing"
+                ],
+                "ResearchScholarship": [
+                    "Arts and Humanities",
+                    "Behavioural Sciences",
+                    "International Relations and Diplomacy"
+                ],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Green Hall, 35 Campus Avenue",
+                "City": "Kingston",
+                "Province": "Rhode Island",
+                "PostCode": "02881",
+                "Website": "https://www.uri.edu",
+                "college_name": "University of Rhode Island",
+                "university_name": "(URI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1890 as Agricultural School, renamed Rhode Island College of Agriculture and Mechanic Arts (RICA&M) 1892, acquired present title 1951",
+            "AcademicYear": "September to May (September-December; January-May). Also Summer Session (May-June)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Feinstein Providence",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Kingston",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Narragansett Bay",
+                "FieldsOfStudy": [
+                    "Coastal Studies",
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing Education Centre",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "W. Alton Jones",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Academic Success",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Botany",
+                    "Chemistry",
+                    "Classical Languages",
+                    "Computer Science",
+                    "Economics",
+                    "English",
+                    "Fine Arts",
+                    "French",
+                    "Geology",
+                    "German",
+                    "History",
+                    "Italian",
+                    "Journalism",
+                    "Latin American Studies",
+                    "Linguistics",
+                    "Mathematics",
+                    "Medical Technology",
+                    "Microbiology",
+                    "Music",
+                    "Natural Sciences",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Russian",
+                    "Sociology",
+                    "Spanish",
+                    "Speech Studies",
+                    "Theatre",
+                    "Town Planning",
+                    "Women's Studies",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Professional Studies",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Teacher Training"
+                ],
+                "Details": "Alan Shawn Feinstein"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Marine Engineering",
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment and Life Sciences",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Biological and Life Sciences",
+                    "Cell Biology",
+                    "Earth Sciences",
+                    "Environmental Studies",
+                    "Fishery",
+                    "Food Science",
+                    "Geology",
+                    "Landscape Architecture",
+                    "Marine Science and Oceanography",
+                    "Molecular Biology",
+                    "Natural Resources",
+                    "Nutrition",
+                    "Plant and Crop Protection",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Communication Disorders",
+                    "Development Studies",
+                    "Family Studies",
+                    "Food Science",
+                    "Gerontology",
+                    "Health Sciences",
+                    "Leadership",
+                    "Neurosciences",
+                    "Nutrition",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Communication Studies",
+                    "Design",
+                    "Education",
+                    "Engineering",
+                    "Health Sciences",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Social Sciences",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Oceanography",
+                "FieldsOfStudy": [
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Nursing"
+                ],
+                "Bachelor'sDegree": [
+                    "Administration",
+                    "African American Studies",
+                    "Agriculture",
+                    "Ancient Civilizations",
+                    "Animal Husbandry",
+                    "Anthropology",
+                    "Applied Chemistry",
+                    "Aquaculture",
+                    "Arabic",
+                    "Art History",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Cell Biology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Child Care and Development",
+                    "Chinese",
+                    "Civil Engineering",
+                    "Classical Languages",
+                    "Communication Disorders",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Criminology",
+                    "Data Processing",
+                    "Development Studies",
+                    "Dietetics",
+                    "Display and Stage Design",
+                    "Economics",
+                    "Electrical Engineering",
+                    "English",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Family Studies",
+                    "Fashion Design",
+                    "Finance",
+                    "Fine Arts",
+                    "Fishery",
+                    "Food Science",
+                    "French",
+                    "Gender Studies",
+                    "Geology",
+                    "German",
+                    "Health Education",
+                    "Health Sciences",
+                    "History",
+                    "Horticulture",
+                    "Industrial Engineering",
+                    "International Business",
+                    "International Studies",
+                    "Italian",
+                    "Japanese",
+                    "Journalism",
+                    "Laboratory Techniques",
+                    "Landscape Architecture",
+                    "Leadership",
+                    "Logistics Management",
+                    "Marine Biology",
+                    "Marine Engineering",
+                    "Marine Science and Oceanography",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Media Studies",
+                    "Modern Languages",
+                    "Molecular Biology",
+                    "Music",
+                    "Natural Resources",
+                    "Neurosciences",
+                    "Nursing",
+                    "Nutrition",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physics",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Relations",
+                    "Regional Studies",
+                    "Secondary Education",
+                    "Social and Community Services",
+                    "Sociology",
+                    "Spanish",
+                    "Speech Studies",
+                    "Technology",
+                    "Textile Design",
+                    "Theatre",
+                    "Wildlife",
+                    "Women's Studies",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Accountancy",
+                    "Aquaculture",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Computer Science",
+                    "Data Processing",
+                    "Economics",
+                    "Education",
+                    "Environmental Studies",
+                    "Fishery",
+                    "Gender Studies",
+                    "Gerontology",
+                    "Health Administration",
+                    "Human Resources",
+                    "Labour and Industrial Relations",
+                    "Library Science",
+                    "Marketing",
+                    "Natural Resources",
+                    "Neurosciences",
+                    "Polymer and Plastics Technology",
+                    "Preschool Education",
+                    "Public Administration",
+                    "Service Trades",
+                    "Social and Community Services",
+                    "Special Education",
+                    "Speech Studies",
+                    "Surveying and Mapping",
+                    "Water Science",
+                    "Women's Studies",
+                    "Writing"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Applied Physics",
+                    "Bilingual and Bicultural Education",
+                    "Biological and Life Sciences",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Data Processing",
+                    "Development Studies",
+                    "Dietetics",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Family Studies",
+                    "Fashion Design",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Health Administration",
+                    "Health Sciences",
+                    "History",
+                    "Human Resources",
+                    "Information Sciences",
+                    "International Relations and Diplomacy",
+                    "Labour and Industrial Relations",
+                    "Library Science",
+                    "Logistics Management",
+                    "Marine Engineering",
+                    "Marine Science and Oceanography",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Music",
+                    "Natural Resources",
+                    "Neurosciences",
+                    "Nursing",
+                    "Nutrition",
+                    "Pharmacology",
+                    "Physics",
+                    "Psychology",
+                    "Public Administration",
+                    "Special Education",
+                    "Speech Therapy and Audiology",
+                    "Statistics",
+                    "Textile Design"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Nursing",
+                    "Physical Therapy"
+                ],
+                "ResearchScholarship": [
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Business Administration",
+                    "Cell Biology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Electrical Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Health Sciences",
+                    "Industrial Engineering",
+                    "Marine Engineering",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Molecular Biology",
+                    "Natural Resources",
+                    "Neurosciences",
+                    "Nursing",
+                    "Pharmacology",
+                    "Physics",
+                    "Psychology"
+                ],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

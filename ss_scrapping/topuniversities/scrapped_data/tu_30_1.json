@@ -1,0 +1,4788 @@
+[
+    {
+        "institution": {
+            "name": "Massachusetts Institute of Technology (MIT) ",
+            "abbreviation": "MIT",
+            "motto": "Mind and Hand",
+            "type": "Private",
+            "founding_year": "1861",
+            "campus_size": "168 acres",
+            "location": {
+                "city": "Cambridge",
+                "state": "N/A",
+                "country": "US",
+                "features": [
+                    "Cambridge side of the Charles River basin",
+                    "12 museums and galleries"
+                ]
+            },
+            "organization": {
+                "schools": "five",
+                "colleges": "five"
+            }
+        },
+        "student_body": {
+            "total_students": "11,632",
+            "undergraduate": {
+                "percentage": "40",
+                "international_students": {
+                    "percentage": "18"
+                }
+            },
+            "graduate": {
+                "percentage": "60",
+                "international_students": {
+                    "percentage": "82"
+                }
+            },
+            "total_international_students": "3,798"
+        },
+        "faculty": {
+            "total_staff": "3,011",
+            "composition": {
+                "domestic": {
+                    "percentage": "45"
+                },
+                "international": {
+                    "percentage": "55"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1520+",
+                "toefl_score": "100+"
+            },
+            "graduate": {
+                "gmat_score": "728+",
+                "ielts_score": "7+",
+                "toefl_score": "90+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "architecture and planning; engineering; humanities, arts, and social sciences"
+            ],
+            "available_programs": [
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "33",
+                "student_participation": "Approximately 20 percent"
+            },
+            "arts_culture": {
+                "museums_galleries": "12",
+                "museum_visitors": "125,000",
+                "student_groups": {
+                    "total": "more than 60",
+                    "categories": [
+                        "music, theatre, writing and dance groups"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#1",
+                    "scores": {
+                        "overall": "100",
+                        "academic_reputation": "100",
+                        "citations_per_faculty": "100",
+                        "employment_outcomes": "100",
+                        "employer_reputation": "100",
+                        "faculty_student_ratio": "100",
+                        "international_faculty_ratio": "99.3",
+                        "international_research_network": "96",
+                        "international_student_ratio": "86.8",
+                        "sustainability": "99"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#1",
+                "qs_sustainability_ranking": "#33"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "artificial intelligence, climate adaptation, HIV, cancer, and poverty alleviation"
+            ],
+            "historical_achievements": [
+                "magnetic core memory",
+                "radar",
+                "radar"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "30,000",
+                "jobs_created": "4.6 million",
+                "annual_revenue": "$1.9 trillion"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:34:45 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/massachusetts-institute-technology-mit"
+        }
+    },
+    {
+        "institution": {
+            "name": "Imperial College London",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "Read less\nA postgraduate degree from Imperial",
+            "campus_size": "380+",
+            "location": {
+                "city": "London",
+                "state": "N/A",
+                "country": "GB",
+                "features": [
+                    "South Kensington",
+                    "Arabic, Indian, Italian, Japanese, and Korean societies"
+                ]
+            },
+            "organization": {
+                "schools": "380+",
+                "colleges": "380+"
+            }
+        },
+        "student_body": {
+            "total_students": "20,488",
+            "undergraduate": {
+                "percentage": "56",
+                "international_students": {
+                    "percentage": "48"
+                }
+            },
+            "graduate": {
+                "percentage": "44",
+                "international_students": {
+                    "percentage": "52"
+                }
+            },
+            "total_international_students": "9,230"
+        },
+        "faculty": {
+            "total_staff": "4,005",
+            "composition": {
+                "domestic": {
+                    "percentage": "46"
+                },
+                "international": {
+                    "percentage": "54"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "N/A",
+                "toefl_score": "92+"
+            },
+            "graduate": {
+                "gmat_score": "600+",
+                "ielts_score": "6.5+",
+                "toefl_score": "92+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "science, engineering, medicine and business"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "380+",
+                "student_participation": "380+"
+            },
+            "arts_culture": {
+                "museums_galleries": "380+",
+                "museum_visitors": "380+",
+                "student_groups": {
+                    "total": "380+",
+                    "categories": [
+                        "science, engineering, medicine and business"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#2",
+                    "scores": {
+                        "overall": "98.5",
+                        "academic_reputation": "98.5",
+                        "citations_per_faculty": "93.9",
+                        "employment_outcomes": "93.4",
+                        "employer_reputation": "99.5",
+                        "faculty_student_ratio": "98.2",
+                        "international_faculty_ratio": "100",
+                        "international_research_network": "97.4",
+                        "international_student_ratio": "99.6",
+                        "sustainability": "99.7"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#5",
+                "qs_sustainability_ranking": "#=7"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "science, engineering, medicine and business"
+            ],
+            "historical_achievements": [
+                "hybrid unmanned aerial robots",
+                "hybrid unmanned aerial robots",
+                "hybrid unmanned aerial robots"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "380+",
+                "jobs_created": "380+",
+                "annual_revenue": "50"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:30:09 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/imperial-college-london"
+        }
+    },
+    {
+        "institution": {
+            "name": "University of Oxford",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "11th century",
+            "campus_size": "The University of Oxford does not have a main campus",
+            "location": {
+                "city": "Oxford",
+                "state": "N/A",
+                "country": "GB",
+                "features": [
+                    "medieval city center of Oxford",
+                    "medieval city center"
+                ]
+            },
+            "organization": {
+                "schools": "44",
+                "colleges": "44"
+            }
+        },
+        "student_body": {
+            "total_students": "22,152",
+            "undergraduate": {
+                "percentage": "56",
+                "international_students": {
+                    "percentage": "30"
+                }
+            },
+            "graduate": {
+                "percentage": "44",
+                "international_students": {
+                    "percentage": "70"
+                }
+            },
+            "total_international_students": "9,087"
+        },
+        "faculty": {
+            "total_staff": "6,598",
+            "composition": {
+                "domestic": {
+                    "percentage": "56"
+                },
+                "international": {
+                    "percentage": "44"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1470+",
+                "toefl_score": "100+"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "7+",
+                "toefl_score": "100+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "self-governing institutions"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "44",
+                "student_participation": "half"
+            },
+            "arts_culture": {
+                "museums_galleries": "44",
+                "museum_visitors": "40 per cent are international students",
+                "student_groups": {
+                    "total": "\u00a377,390",
+                    "categories": [
+                        "humanities, law, languages, and fine art"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#3",
+                    "scores": {
+                        "overall": "96.9",
+                        "academic_reputation": "100",
+                        "citations_per_faculty": "84.8",
+                        "employment_outcomes": "100",
+                        "employer_reputation": "100",
+                        "faculty_student_ratio": "100",
+                        "international_faculty_ratio": "98.1",
+                        "international_research_network": "100",
+                        "international_student_ratio": "97.7",
+                        "sustainability": "85"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#1",
+                "qs_sustainability_ranking": "#=199"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "Humanities, Mathematical, Physical and Life Sciences; Medical Sciences; and Social Sciences"
+            ],
+            "historical_achievements": [
+                "medicine",
+                "medicine",
+                "medicine"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "250,000",
+                "jobs_created": "250,000",
+                "annual_revenue": "\u00a375"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:37:11 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/university-oxford"
+        }
+    },
+    {
+        "institution": {
+            "name": "Harvard University",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1636",
+            "campus_size": "209-acre",
+            "location": {
+                "city": "Cambridge",
+                "state": "N/A",
+                "country": "US",
+                "features": [
+                    "Cambridge, Massachusetts",
+                    "statue of John Harvard"
+                ]
+            },
+            "organization": {
+                "schools": "10",
+                "colleges": "10"
+            }
+        },
+        "student_body": {
+            "total_students": "24,347",
+            "undergraduate": {
+                "percentage": "33",
+                "international_students": {
+                    "percentage": "17"
+                }
+            },
+            "graduate": {
+                "percentage": "67",
+                "international_students": {
+                    "percentage": "83"
+                }
+            },
+            "total_international_students": "6,470"
+        },
+        "faculty": {
+            "total_staff": "4,422",
+            "composition": {
+                "domestic": {
+                    "percentage": "73"
+                },
+                "international": {
+                    "percentage": "27"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1470+",
+                "toefl_score": "80+"
+            },
+            "graduate": {
+                "gmat_score": "610+",
+                "ielts_score": "N/A",
+                "toefl_score": "80+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "10 degree-granting schools"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "21,000",
+                "student_participation": "60"
+            },
+            "arts_culture": {
+                "museums_galleries": "five",
+                "museum_visitors": "five",
+                "student_groups": {
+                    "total": "over 400",
+                    "categories": [
+                        "online application form"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#4",
+                    "scores": {
+                        "overall": "96.8",
+                        "academic_reputation": "100",
+                        "citations_per_faculty": "100",
+                        "employment_outcomes": "100",
+                        "employer_reputation": "100",
+                        "faculty_student_ratio": "96.3",
+                        "international_faculty_ratio": "74.1",
+                        "international_research_network": "99.6",
+                        "international_student_ratio": "69",
+                        "sustainability": "84.4"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#1",
+                "qs_sustainability_ranking": "#=202"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "social sciences"
+            ],
+            "historical_achievements": [
+                "PhD",
+                "PhD",
+                "PhD"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "over 400",
+                "jobs_created": "21,000",
+                "annual_revenue": "US$73,600"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:42:39 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/harvard-university"
+        }
+    },
+    {
+        "institution": {
+            "name": "University of Cambridge",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "Private",
+            "founding_year": "The University of Cambridge is one of the oldest universities in the world",
+            "campus_size": "one of the largest in the United Kingdom",
+            "location": {
+                "city": "Cambridge",
+                "state": "N/A",
+                "country": "GB",
+                "features": [
+                    "The University of Cambridge",
+                    "Clare Hall and Darwin"
+                ]
+            },
+            "organization": {
+                "schools": "31",
+                "colleges": "31"
+            }
+        },
+        "student_body": {
+            "total_students": "21,180",
+            "undergraduate": {
+                "percentage": "62",
+                "international_students": {
+                    "percentage": "39"
+                }
+            },
+            "graduate": {
+                "percentage": "38",
+                "international_students": {
+                    "percentage": "61"
+                }
+            },
+            "total_international_students": "7,973"
+        },
+        "faculty": {
+            "total_staff": "5,502",
+            "composition": {
+                "domestic": {
+                    "percentage": "48"
+                },
+                "international": {
+                    "percentage": "52"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1460+",
+                "toefl_score": "100+"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "7+",
+                "toefl_score": "100+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "its famous Colleges and University buildings"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "31",
+                "student_participation": "two admit only graduates"
+            },
+            "arts_culture": {
+                "museums_galleries": "University's libraries & museums",
+                "museum_visitors": "visitors from all over the world",
+                "student_groups": {
+                    "total": "31",
+                    "categories": [
+                        "artists, performers and athletes"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#5",
+                    "scores": {
+                        "overall": "96.7",
+                        "academic_reputation": "100",
+                        "citations_per_faculty": "84.6",
+                        "employment_outcomes": "100",
+                        "employer_reputation": "100",
+                        "faculty_student_ratio": "100",
+                        "international_faculty_ratio": "100",
+                        "international_research_network": "99.3",
+                        "international_student_ratio": "94.8",
+                        "sustainability": "84.8"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#1",
+                "qs_sustainability_ranking": "#195"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "museums and collections"
+            ],
+            "historical_achievements": [
+                "world-class original research",
+                "world-class original research",
+                "world-class"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "a number of new companies",
+                "jobs_created": "31",
+                "annual_revenue": "Each College is an independent institution with its own property and income"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:42:07 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/university-cambridge"
+        }
+    },
+    {
+        "institution": {
+            "name": "Stanford University",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1885",
+            "campus_size": "8,180 acres",
+            "location": {
+                "city": "Stanford",
+                "state": "N/A",
+                "country": "US",
+                "features": [
+                    "San Francisco Bay Area",
+                    "Massachusetts Institute of Technology (MIT)"
+                ]
+            },
+            "organization": {
+                "schools": "seven",
+                "colleges": "seven"
+            }
+        },
+        "student_body": {
+            "total_students": "17,422",
+            "undergraduate": {
+                "percentage": "45",
+                "international_students": {
+                    "percentage": "21"
+                }
+            },
+            "graduate": {
+                "percentage": "55",
+                "international_students": {
+                    "percentage": "79"
+                }
+            },
+            "total_international_students": "4,300"
+        },
+        "faculty": {
+            "total_staff": "4,909",
+            "composition": {
+                "domestic": {
+                    "percentage": "85"
+                },
+                "international": {
+                    "percentage": "15"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1420+",
+                "toefl_score": "101+"
+            },
+            "graduate": {
+                "gmat_score": "600+",
+                "ielts_score": "N/A",
+                "toefl_score": "101+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "Graduate School of Business; School of Earth, Energy & Environmental Sciences"
+            ],
+            "available_programs": [
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "36",
+                "student_participation": "7,000"
+            },
+            "arts_culture": {
+                "museums_galleries": "two",
+                "museum_visitors": "two",
+                "student_groups": {
+                    "total": "over 625",
+                    "categories": [
+                        "traditional liberal arts and the technology and engineering"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#6",
+                    "scores": {
+                        "overall": "96.1",
+                        "academic_reputation": "100",
+                        "citations_per_faculty": "99",
+                        "employment_outcomes": "100",
+                        "employer_reputation": "100",
+                        "faculty_student_ratio": "100",
+                        "international_faculty_ratio": "70.3",
+                        "international_research_network": "96.8",
+                        "international_student_ratio": "60.8",
+                        "sustainability": "81.2"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#2",
+                "qs_sustainability_ranking": "#=19"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "research and education"
+            ],
+            "historical_achievements": [
+                "societal impact",
+                "societal impact",
+                "societal impact"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "over 625",
+                "jobs_created": "More than 7,000 undergraduate and 9,000",
+                "annual_revenue": "Covering 8,180 acres"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:39:58 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/stanford-university"
+        }
+    },
+    {
+        "institution": {
+            "name": "ETH Zurich",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1855",
+            "campus_size": "16",
+            "location": {
+                "city": "Z\u00fcrich",
+                "state": "N/A",
+                "country": "CH",
+                "features": [
+                    "downtown Zurich",
+                    "on a modern campus built on a hill in the outskirts of the town"
+                ]
+            },
+            "organization": {
+                "schools": "16",
+                "colleges": "16"
+            }
+        },
+        "student_body": {
+            "total_students": "22,213",
+            "undergraduate": {
+                "percentage": "45",
+                "international_students": {
+                    "percentage": "27"
+                }
+            },
+            "graduate": {
+                "percentage": "55",
+                "international_students": {
+                    "percentage": "73"
+                }
+            },
+            "total_international_students": "9,551"
+        },
+        "faculty": {
+            "total_staff": "2,916",
+            "composition": {
+                "domestic": {
+                    "percentage": "23"
+                },
+                "international": {
+                    "percentage": "77"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "N/A",
+                "toefl_score": "100+"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "7+",
+                "toefl_score": "100+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "engineering and architecture to chemistry and physics"
+            ],
+            "available_programs": []
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "More than 900",
+                "student_participation": "More than 900"
+            },
+            "arts_culture": {
+                "museums_galleries": "two",
+                "museum_visitors": "10,000",
+                "student_groups": {
+                    "total": "10,000",
+                    "categories": [
+                        "engineering and architecture to chemistry and physics"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#7",
+                    "scores": {
+                        "overall": "93.9",
+                        "academic_reputation": "98.8",
+                        "citations_per_faculty": "97.9",
+                        "employment_outcomes": "90.5",
+                        "employer_reputation": "87.2",
+                        "faculty_student_ratio": "65.9",
+                        "international_faculty_ratio": "100",
+                        "international_research_network": "95.7",
+                        "international_student_ratio": "98.6",
+                        "sustainability": "98.8"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#1",
+                "qs_sustainability_ranking": "#2"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "engineering and architecture to chemistry and physics"
+            ],
+            "historical_achievements": [
+                "chemistry and physics",
+                "chemistry and physics",
+                "chemistry and physics"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "More than 900",
+                "jobs_created": "22",
+                "annual_revenue": "More than 900"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:35:39 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/eth-zurich"
+        }
+    },
+    {
+        "institution": {
+            "name": "National University of Singapore (NUS)",
+            "abbreviation": "NUS",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "2013",
+            "campus_size": "17 faculties and schools across three",
+            "location": {
+                "city": "Singapore",
+                "state": "N/A",
+                "country": "SG",
+                "features": [
+                    "Asia",
+                    "Kent Ridge, Bukit Timah and Outram"
+                ]
+            },
+            "organization": {
+                "schools": "17",
+                "colleges": "30"
+            }
+        },
+        "student_body": {
+            "total_students": "33,889",
+            "undergraduate": {
+                "percentage": "73",
+                "international_students": {
+                    "percentage": "38"
+                }
+            },
+            "graduate": {
+                "percentage": "27",
+                "international_students": {
+                    "percentage": "62"
+                }
+            },
+            "total_international_students": "12,057"
+        },
+        "faculty": {
+            "total_staff": "4,554",
+            "composition": {
+                "domestic": {
+                    "percentage": "35"
+                },
+                "international": {
+                    "percentage": "65"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "N/A",
+                "toefl_score": "N/A"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "N/A",
+                "toefl_score": "N/A"
+            }
+        },
+        "programs": {
+            "schools": [
+                "30 university-level research institutes and centres"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "17",
+                "student_participation": "92.3%"
+            },
+            "arts_culture": {
+                "museums_galleries": "17",
+                "museum_visitors": "Over 38,000",
+                "student_groups": {
+                    "total": "Over 38,000",
+                    "categories": [
+                        "hiking, badminton"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#8",
+                    "scores": {
+                        "overall": "93.7",
+                        "academic_reputation": "99.5",
+                        "citations_per_faculty": "93.1",
+                        "employment_outcomes": "100",
+                        "employer_reputation": "91.1",
+                        "faculty_student_ratio": "68.8",
+                        "international_faculty_ratio": "100",
+                        "international_research_network": "91.6",
+                        "international_student_ratio": "88.9",
+                        "sustainability": "97.7"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#2",
+                "qs_sustainability_ranking": "#=63"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "Schools and Faculties"
+            ],
+            "historical_achievements": [
+                "translation",
+                "Master of Science in Business Analytics",
+                "Master of Science in Business Analytics"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "17",
+                "jobs_created": "100%",
+                "annual_revenue": "92.3%"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:37:58 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/national-university-singapore-nus"
+        }
+    },
+    {
+        "institution": {
+            "name": "UCL",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "2024",
+            "campus_size": "University of London",
+            "location": {
+                "city": "London",
+                "state": "N/A",
+                "country": "GB",
+                "features": [
+                    "London",
+                    "The Times and The Sunday Times University of the Year 2024"
+                ]
+            },
+            "organization": {
+                "schools": "30",
+                "colleges": "30"
+            }
+        },
+        "student_body": {
+            "total_students": "45,671",
+            "undergraduate": {
+                "percentage": "53",
+                "international_students": {
+                    "percentage": "49"
+                }
+            },
+            "graduate": {
+                "percentage": "47",
+                "international_students": {
+                    "percentage": "51"
+                }
+            },
+            "total_international_students": "26,184"
+        },
+        "faculty": {
+            "total_staff": "7,383",
+            "composition": {
+                "domestic": {
+                    "percentage": "54"
+                },
+                "international": {
+                    "percentage": "46"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "N/A",
+                "toefl_score": "N/A"
+            },
+            "graduate": {
+                "gmat_score": "600+",
+                "ielts_score": "6.5+",
+                "toefl_score": "92+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "The Times and The Sunday Times University of the Year 2024"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "30",
+                "student_participation": "Read Less"
+            },
+            "arts_culture": {
+                "museums_galleries": "L's museums",
+                "museum_visitors": "more than 150",
+                "student_groups": {
+                    "total": "over 200",
+                    "categories": [
+                        "Recruitment and networking events"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#9",
+                    "scores": {
+                        "overall": "91.6",
+                        "academic_reputation": "99.5",
+                        "citations_per_faculty": "72.2",
+                        "employment_outcomes": "70.3",
+                        "employer_reputation": "98.3",
+                        "faculty_student_ratio": "95.9",
+                        "international_faculty_ratio": "99",
+                        "international_research_network": "99.9",
+                        "international_student_ratio": "100",
+                        "sustainability": "74.8"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#1",
+                "qs_sustainability_ranking": "#=5"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "cultural fluency and global outlook"
+            ],
+            "historical_achievements": [
+                "Research Excellence Framework",
+                "Research Excellence Framework 2021",
+                "Research Excellence Framework 2021"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "UCL students, recent graduates and researchers",
+                "jobs_created": "wide range of recruitment solutions",
+                "annual_revenue": "It is the largest and most authoritative annual careers survey"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:42:29 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/ucl"
+        }
+    },
+    {
+        "institution": {
+            "name": "California Institute of Technology (Caltech)",
+            "abbreviation": "Caltech",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1891",
+            "campus_size": "124-acre",
+            "location": {
+                "city": "Pasadena",
+                "state": "N/A",
+                "country": "US",
+                "features": [
+                    "Pasadena Playhouse District",
+                    "Old Town Pasadena and the Pasadena Playhouse District"
+                ]
+            },
+            "organization": {
+                "schools": "13",
+                "colleges": "13"
+            }
+        },
+        "student_body": {
+            "total_students": "2,401",
+            "undergraduate": {
+                "percentage": "41",
+                "international_students": {
+                    "percentage": "13"
+                }
+            },
+            "graduate": {
+                "percentage": "59",
+                "international_students": {
+                    "percentage": "87"
+                }
+            },
+            "total_international_students": "718"
+        },
+        "faculty": {
+            "total_staff": "943",
+            "composition": {
+                "domestic": {
+                    "percentage": "46"
+                },
+                "international": {
+                    "percentage": "54"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1520+",
+                "toefl_score": "110+"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "N/A",
+                "toefl_score": "N/A"
+            }
+        },
+        "programs": {
+            "schools": [
+                "Oxford and Cambridge"
+            ],
+            "available_programs": []
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "13",
+                "student_participation": "13"
+            },
+            "arts_culture": {
+                "museums_galleries": "124-acre",
+                "museum_visitors": "a small number of the most gifted students are admitted",
+                "student_groups": {
+                    "total": "13",
+                    "categories": [
+                        "music, theater, and the visual arts"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#10",
+                    "scores": {
+                        "overall": "90.9",
+                        "academic_reputation": "96.5",
+                        "citations_per_faculty": "100",
+                        "employment_outcomes": "31",
+                        "employer_reputation": "95.3",
+                        "faculty_student_ratio": "100",
+                        "international_faculty_ratio": "100",
+                        "international_research_network": "65.5",
+                        "international_student_ratio": "79.8",
+                        "sustainability": "62.5"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#=5",
+                "qs_sustainability_ranking": "#184"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "music, theater, and the visual arts"
+            ],
+            "historical_achievements": [
+                "World War II",
+                "World War II",
+                "World War II"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "13",
+                "jobs_created": "Amos G. Throop in 1891",
+                "annual_revenue": "Caltech has a high research output"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:41:17 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/california-institute-technology-caltech"
+        }
+    },
+    {
+        "institution": {
+            "name": "University of Pennsylvania",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1740",
+            "campus_size": "279 acres",
+            "location": {
+                "city": "Philadelphia",
+                "state": "N/A",
+                "country": "US",
+                "features": [
+                    "Philadelphia",
+                    "restaurants and pubs, a large supermarket and cinema"
+                ]
+            },
+            "organization": {
+                "schools": "12",
+                "colleges": "12"
+            }
+        },
+        "student_body": {
+            "total_students": "22,565",
+            "undergraduate": {
+                "percentage": "43",
+                "international_students": {
+                    "percentage": "22"
+                }
+            },
+            "graduate": {
+                "percentage": "57",
+                "international_students": {
+                    "percentage": "78"
+                }
+            },
+            "total_international_students": "5,821"
+        },
+        "faculty": {
+            "total_staff": "5,288",
+            "composition": {
+                "domestic": {
+                    "percentage": "59"
+                },
+                "international": {
+                    "percentage": "41"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1420+",
+                "toefl_score": "100+"
+            },
+            "graduate": {
+                "gmat_score": "500+",
+                "ielts_score": "7+",
+                "toefl_score": "100+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "All of Penn's schools and most of its research institutes"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "21,599",
+                "student_participation": "54"
+            },
+            "arts_culture": {
+                "museums_galleries": "one-of-a-kind",
+                "museum_visitors": "21,599",
+                "student_groups": {
+                    "total": "21,599",
+                    "categories": [
+                        "arts and humanities"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#11",
+                    "scores": {
+                        "overall": "90.3",
+                        "academic_reputation": "96.3",
+                        "citations_per_faculty": "74",
+                        "employment_outcomes": "100",
+                        "employer_reputation": "91.9",
+                        "faculty_student_ratio": "99.8",
+                        "international_faculty_ratio": "90.9",
+                        "international_research_network": "91.9",
+                        "international_student_ratio": "66.2",
+                        "sustainability": "93"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#1",
+                "qs_sustainability_ranking": "#24"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "interdisciplinary learning and research"
+            ],
+            "historical_achievements": [
+                "interdisciplinary learning",
+                "interdisciplinary learning",
+                "interdisciplinary learning"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "21,599",
+                "jobs_created": "Fortune 500",
+                "annual_revenue": "9.3 percent"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:29:39 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/university-pennsylvania"
+        }
+    },
+    {
+        "institution": {
+            "name": "University of California, Berkeley (UCB)",
+            "abbreviation": "UCB",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1868",
+            "campus_size": "1,232 acres",
+            "location": {
+                "city": "Berkeley",
+                "state": "N/A",
+                "country": "US",
+                "features": [
+                    "San Francisco",
+                    "Mathematical Sciences Research Institute and the Space Sciences Laboratory"
+                ]
+            },
+            "organization": {
+                "schools": "ten",
+                "colleges": "ten"
+            }
+        },
+        "student_body": {
+            "total_students": "42,193",
+            "undergraduate": {
+                "percentage": "75",
+                "international_students": {
+                    "percentage": "61"
+                }
+            },
+            "graduate": {
+                "percentage": "25",
+                "international_students": {
+                    "percentage": "39"
+                }
+            },
+            "total_international_students": "10,307"
+        },
+        "faculty": {
+            "total_staff": "3,697",
+            "composition": {
+                "domestic": {
+                    "percentage": "63"
+                },
+                "international": {
+                    "percentage": "37"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1340+",
+                "toefl_score": "80+"
+            },
+            "graduate": {
+                "gmat_score": "690+",
+                "ielts_score": "7+",
+                "toefl_score": "90+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "ten research universities affiliated with the University of California system"
+            ],
+            "available_programs": [
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "ten",
+                "student_participation": "Three quarters"
+            },
+            "arts_culture": {
+                "museums_galleries": "ten",
+                "museum_visitors": "40",
+                "student_groups": {
+                    "total": "40",
+                    "categories": [
+                        "Beaux-Arts"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#12",
+                    "scores": {
+                        "overall": "90.1",
+                        "academic_reputation": "100",
+                        "citations_per_faculty": "98.2",
+                        "employment_outcomes": "98.4",
+                        "employer_reputation": "100",
+                        "faculty_student_ratio": "23.5",
+                        "international_faculty_ratio": "91.5",
+                        "international_research_network": "97.2",
+                        "international_student_ratio": "61",
+                        "sustainability": "100"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#2",
+                "qs_sustainability_ranking": "#=3"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "research universities affiliated with the University of California system"
+            ],
+            "historical_achievements": [
+                "radiation laboratory, which was instrumental in the project to develop an atomic bomb",
+                "radiation laboratory, which was instrumental in the project to develop an atomic bomb",
+                "atomic bomb"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "14",
+                "jobs_created": "40",
+                "annual_revenue": "1964"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:41:44 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/university-california-berkeley-ucb"
+        }
+    },
+    {
+        "institution": {
+            "name": "The University of Melbourne",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1853",
+            "campus_size": "50,000",
+            "location": {
+                "city": "Richmond",
+                "state": "N/A",
+                "country": "AU",
+                "features": [
+                    "University of Melbourne",
+                    "Burnley, Fishermans\nBend, Parkville, Southbank and Werribee"
+                ]
+            },
+            "organization": {
+                "schools": "nine",
+                "colleges": "nine"
+            }
+        },
+        "student_body": {
+            "total_students": "46,760",
+            "undergraduate": {
+                "percentage": "53",
+                "international_students": {
+                    "percentage": "47"
+                }
+            },
+            "graduate": {
+                "percentage": "47",
+                "international_students": {
+                    "percentage": "53"
+                }
+            },
+            "total_international_students": "22,437"
+        },
+        "faculty": {
+            "total_staff": "3,555",
+            "composition": {
+                "domestic": {
+                    "percentage": "60"
+                },
+                "international": {
+                    "percentage": "40"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1250+",
+                "toefl_score": "79+"
+            },
+            "graduate": {
+                "gmat_score": "680+",
+                "ielts_score": "6.5+",
+                "toefl_score": "79+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "Systems\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Faculty of Fine Arts and Music"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "nine",
+                "student_participation": "40"
+            },
+            "arts_culture": {
+                "museums_galleries": "nine",
+                "museum_visitors": "more than 470,000",
+                "student_groups": {
+                    "total": "fine arts",
+                    "categories": [
+                        "fine arts and music"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#13",
+                    "scores": {
+                        "overall": "88.9",
+                        "academic_reputation": "98.5",
+                        "citations_per_faculty": "93",
+                        "employment_outcomes": "96.5",
+                        "employer_reputation": "93.9",
+                        "faculty_student_ratio": "15.4",
+                        "international_faculty_ratio": "95.1",
+                        "international_research_network": "97.4",
+                        "international_student_ratio": "99.8",
+                        "sustainability": "99.6"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#9",
+                "qs_sustainability_ranking": "#=9"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "start-up\nincubators to major investment funding opportunities"
+            ],
+            "historical_achievements": [
+                "School of Physics",
+                "School of Physics",
+                "School of Physics"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "more than 470,000",
+                "jobs_created": "more than 470,000",
+                "annual_revenue": "School of Computing and Information Systems"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:33:31 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/university-melbourne"
+        }
+    },
+    {
+        "institution": {
+            "name": "Peking University",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1898",
+            "campus_size": "The campus, known as \"Yan Yuan",
+            "location": {
+                "city": "Beijing",
+                "state": "N/A",
+                "country": "CN",
+                "features": [
+                    "Yuan Ming Gardens and the Summer Palace",
+                    "Yuan Ming Gardens and the Summer Palace"
+                ]
+            },
+            "organization": {
+                "schools": "30",
+                "colleges": "30"
+            }
+        },
+        "student_body": {
+            "total_students": "34,981",
+            "undergraduate": {
+                "percentage": "52",
+                "international_students": {
+                    "percentage": "63"
+                }
+            },
+            "graduate": {
+                "percentage": "48",
+                "international_students": {
+                    "percentage": "37"
+                }
+            },
+            "total_international_students": "5,115"
+        },
+        "faculty": {
+            "total_staff": "6,093",
+            "composition": {
+                "domestic": {
+                    "percentage": "79"
+                },
+                "international": {
+                    "percentage": "21"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "N/A",
+                "toefl_score": "N/A"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "N/A",
+                "toefl_score": "N/A"
+            }
+        },
+        "programs": {
+            "schools": [
+                "30 colleges and 12 departments"
+            ],
+            "available_programs": [
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "216",
+                "student_participation": "93"
+            },
+            "arts_culture": {
+                "museums_galleries": "216",
+                "museum_visitors": "173",
+                "student_groups": {
+                    "total": "216",
+                    "categories": [
+                        "pure and applied sciences, social sciences and the humanities"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#14",
+                    "scores": {
+                        "overall": "88.5",
+                        "academic_reputation": "99.5",
+                        "citations_per_faculty": "97.7",
+                        "employment_outcomes": "94.2",
+                        "employer_reputation": "96.6",
+                        "faculty_student_ratio": "92.6",
+                        "international_faculty_ratio": "50.3",
+                        "international_research_network": "79.8",
+                        "international_student_ratio": "23.6",
+                        "sustainability": "46.9"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#9",
+                "qs_sustainability_ranking": "#=310"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "applied sciences"
+            ],
+            "historical_achievements": [
+                "important scientific issues",
+                "socialist modernization",
+                "socialist modernization"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "216",
+                "jobs_created": "93",
+                "annual_revenue": "It strives not only for the simultaneous improvements in teaching and research work"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:32:47 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/peking-university"
+        }
+    },
+    {
+        "institution": {
+            "name": "Nanyang Technological University, Singapore (NTU Singapore)",
+            "abbreviation": "NTU Singapore",
+            "motto": "N/A",
+            "type": "Public",
+            "founding_year": "2023",
+            "campus_size": "200\nhectares",
+            "location": {
+                "city": "Singapore",
+                "state": "N/A",
+                "country": "SG",
+                "features": [
+                    "Singapore",
+                    "Singapore Centre for Environmental Life Sciences Engineering"
+                ]
+            },
+            "organization": {
+                "schools": "56",
+                "colleges": "35,000"
+            }
+        },
+        "student_body": {
+            "total_students": "25,860",
+            "undergraduate": {
+                "percentage": "77",
+                "international_students": {
+                    "percentage": "42"
+                }
+            },
+            "graduate": {
+                "percentage": "23",
+                "international_students": {
+                    "percentage": "58"
+                }
+            },
+            "total_international_students": "8,089"
+        },
+        "faculty": {
+            "total_staff": "3,844",
+            "composition": {
+                "domestic": {
+                    "percentage": "35"
+                },
+                "international": {
+                    "percentage": "65"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1250+",
+                "toefl_score": "90+"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "N/A",
+                "toefl_score": "N/A"
+            }
+        },
+        "programs": {
+            "schools": [
+                "Engineering, Business, Science, Medicine, Humanities, Arts, & Social Sciences"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "35,000",
+                "student_participation": "100%"
+            },
+            "arts_culture": {
+                "museums_galleries": "35,000",
+                "museum_visitors": "13,500",
+                "student_groups": {
+                    "total": "35,000",
+                    "categories": [
+                        "leadership, communication, teamwork, ethics and digital literacy"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#15",
+                    "scores": {
+                        "overall": "88.4",
+                        "academic_reputation": "91.9",
+                        "citations_per_faculty": "92.4",
+                        "employment_outcomes": "83.9",
+                        "employer_reputation": "73.3",
+                        "faculty_student_ratio": "80.6",
+                        "international_faculty_ratio": "100",
+                        "international_research_network": "89.4",
+                        "international_student_ratio": "83.5",
+                        "sustainability": "95.6"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#=4",
+                "qs_sustainability_ranking": "#88"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "leadership, communication, teamwork, ethics and digital literacy"
+            ],
+            "historical_achievements": [
+                "sustainability of resources",
+                "digital technology",
+                "sustainability of resources"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "24,700 undergraduates and 10,600",
+                "jobs_created": "35,000",
+                "annual_revenue": "100% Green Mark Platinum certification"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:34:32 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/nanyang-technological-university-singapore-ntu-singapore"
+        }
+    },
+    {
+        "institution": {
+            "name": "Cornell University",
+            "abbreviation": "N/A",
+            "motto": "Feminist",
+            "type": "N/A",
+            "founding_year": "1865",
+            "campus_size": "2,300 acres",
+            "location": {
+                "city": "Geneva",
+                "state": "N/A",
+                "country": "US",
+                "features": [
+                    "East Hill",
+                    "Cayuga Lake"
+                ]
+            },
+            "organization": {
+                "schools": "a few",
+                "colleges": "a few"
+            }
+        },
+        "student_body": {
+            "total_students": "25,365",
+            "undergraduate": {
+                "percentage": "62",
+                "international_students": {
+                    "percentage": "25"
+                }
+            },
+            "graduate": {
+                "percentage": "38",
+                "international_students": {
+                    "percentage": "75"
+                }
+            },
+            "total_international_students": "6,352"
+        },
+        "faculty": {
+            "total_staff": "2,999",
+            "composition": {
+                "domestic": {
+                    "percentage": "79"
+                },
+                "international": {
+                    "percentage": "21"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1390+",
+                "toefl_score": "100+"
+            },
+            "graduate": {
+                "gmat_score": "650+",
+                "ielts_score": "7+",
+                "toefl_score": "77+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "Collegiate Gothic, Victorian, and Neoclassical buildings, international and modernist structures"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "four",
+                "student_participation": "97%"
+            },
+            "arts_culture": {
+                "museums_galleries": "almost all",
+                "museum_visitors": "2,300 acres",
+                "student_groups": {
+                    "total": "80",
+                    "categories": [
+                        "caving and rope climbing"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#16",
+                    "scores": {
+                        "overall": "87.9",
+                        "academic_reputation": "98.3",
+                        "citations_per_faculty": "97.5",
+                        "employment_outcomes": "97.1",
+                        "employer_reputation": "93.1",
+                        "faculty_student_ratio": "52.7",
+                        "international_faculty_ratio": "54.2",
+                        "international_research_network": "94",
+                        "international_student_ratio": "63.4",
+                        "sustainability": "72.1"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#3",
+                "qs_sustainability_ranking": "#219"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "skateboarding to volunteer programs"
+            ],
+            "historical_achievements": [
+                "veterinary science",
+                "veterinary science",
+                "veterinary science"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "more than 1,000",
+                "jobs_created": "600 in the paper based exam in your TOEFL or at least 7",
+                "annual_revenue": "US$ 29,500 and US$ 102,652"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:35:02 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/cornell-university"
+        }
+    },
+    {
+        "institution": {
+            "name": "The University of Hong Kong",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "over a hundred years",
+            "campus_size": "one to four years",
+            "location": {
+                "city": "Hong Kong",
+                "state": "N/A",
+                "country": "HK",
+                "features": [
+                    "HKU",
+                    "Cambridge, MIT or Harvard to Myanmar, or South Africa"
+                ]
+            },
+            "organization": {
+                "schools": "340",
+                "colleges": "more than 340"
+            }
+        },
+        "student_body": {
+            "total_students": "18,724",
+            "undergraduate": {
+                "percentage": "78",
+                "international_students": {
+                    "percentage": "69"
+                }
+            },
+            "graduate": {
+                "percentage": "22",
+                "international_students": {
+                    "percentage": "31"
+                }
+            },
+            "total_international_students": "8,468"
+        },
+        "faculty": {
+            "total_staff": "2,798",
+            "composition": {
+                "domestic": {
+                    "percentage": "27"
+                },
+                "international": {
+                    "percentage": "73"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "N/A",
+                "toefl_score": "N/A"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "N/A",
+                "toefl_score": "N/A"
+            }
+        },
+        "programs": {
+            "schools": [
+                "supervisors"
+            ],
+            "available_programs": [
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "340",
+                "student_participation": "60%"
+            },
+            "arts_culture": {
+                "museums_galleries": "96",
+                "museum_visitors": "9000",
+                "student_groups": {
+                    "total": "more than 4,000",
+                    "categories": [
+                        "full-time and part-time modes"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#17",
+                    "scores": {
+                        "overall": "87.6",
+                        "academic_reputation": "97.4",
+                        "citations_per_faculty": "86.4",
+                        "employment_outcomes": "99.7",
+                        "employer_reputation": "59.4",
+                        "faculty_student_ratio": "81.2",
+                        "international_faculty_ratio": "100",
+                        "international_research_network": "81.4",
+                        "international_student_ratio": "99.3",
+                        "sustainability": "89.2"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#3",
+                "qs_sustainability_ranking": "#=112"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "research areas"
+            ],
+            "historical_achievements": [
+                "Essential Science Indicators",
+                "Essential Science Indicators",
+                "Essential Science Indicators, Thomson Reuters"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "9000",
+                "jobs_created": "Over 99.4%",
+                "annual_revenue": "99.4%"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:43:57 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/university-hong-kong"
+        }
+    },
+    {
+        "institution": {
+            "name": "The University of Sydney",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "The University of Sydney Union",
+            "campus_size": "240",
+            "location": {
+                "city": "Sydney",
+                "state": "N/A",
+                "country": "AU",
+                "features": [
+                    "Sydney",
+                    "Sydney Uni Sport\nand Fitness"
+                ]
+            },
+            "organization": {
+                "schools": "240",
+                "colleges": "240"
+            }
+        },
+        "student_body": {
+            "total_students": "47,344",
+            "undergraduate": {
+                "percentage": "63",
+                "international_students": {
+                    "percentage": "54"
+                }
+            },
+            "graduate": {
+                "percentage": "37",
+                "international_students": {
+                    "percentage": "46"
+                }
+            },
+            "total_international_students": "29,015"
+        },
+        "faculty": {
+            "total_staff": "3,188",
+            "composition": {
+                "domestic": {
+                    "percentage": "51"
+                },
+                "international": {
+                    "percentage": "49"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1050+",
+                "toefl_score": "85+"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "6.5+",
+                "toefl_score": "85+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "more than 240 clubs and societies, including 20 cultural groups"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "240",
+                "student_participation": "Three-quarters"
+            },
+            "arts_culture": {
+                "museums_galleries": "240",
+                "museum_visitors": "445,000+",
+                "student_groups": {
+                    "total": "240",
+                    "categories": [
+                        "medicine, arts, social sciences, engineering, information technologies and science"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#18",
+                    "scores": {
+                        "overall": "87.3",
+                        "academic_reputation": "96.4",
+                        "citations_per_faculty": "93.7",
+                        "employment_outcomes": "93.1",
+                        "employer_reputation": "90",
+                        "faculty_student_ratio": "10.9",
+                        "international_faculty_ratio": "99.9",
+                        "international_research_network": "95.8",
+                        "international_student_ratio": "100",
+                        "sustainability": "99.6"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#4",
+                "qs_sustainability_ranking": "#11"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "medicine, arts, social sciences, engineering, information technologies and science"
+            ],
+            "historical_achievements": [
+                "quantum",
+                "quantum",
+                "quantum"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "240",
+                "jobs_created": "thousands",
+                "annual_revenue": "more than 500 industry partners"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:36:06 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/university-sydney"
+        }
+    },
+    {
+        "institution": {
+            "name": "The University of New South Wales (UNSW Sydney)",
+            "abbreviation": "UNSW Sydney",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "2020 to 2024",
+            "campus_size": "#1",
+            "location": {
+                "city": "Sydney",
+                "state": "N/A",
+                "country": "AU",
+                "features": [
+                    "Kensington",
+                    "Mark Wainwright Analytical Centre"
+                ]
+            },
+            "organization": {
+                "schools": "20",
+                "colleges": "eight"
+            }
+        },
+        "student_body": {
+            "total_students": "35,933",
+            "undergraduate": {
+                "percentage": "74",
+                "international_students": {
+                    "percentage": "63"
+                }
+            },
+            "graduate": {
+                "percentage": "26",
+                "international_students": {
+                    "percentage": "37"
+                }
+            },
+            "total_international_students": "16,420"
+        },
+        "faculty": {
+            "total_staff": "3,321",
+            "composition": {
+                "domestic": {
+                    "percentage": "43"
+                },
+                "international": {
+                    "percentage": "57"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1130+",
+                "toefl_score": "90+"
+            },
+            "graduate": {
+                "gmat_score": "550+",
+                "ielts_score": "6.5+",
+                "toefl_score": "90+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "UNSW Business School"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "330",
+                "student_participation": "one"
+            },
+            "arts_culture": {
+                "museums_galleries": "330",
+                "museum_visitors": "300,000",
+                "student_groups": {
+                    "total": "more than 330",
+                    "categories": [
+                        "solar power and quantum computing technology"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#19",
+                    "scores": {
+                        "overall": "87.1",
+                        "academic_reputation": "90.5",
+                        "citations_per_faculty": "94.9",
+                        "employment_outcomes": "97.7",
+                        "employer_reputation": "90.4",
+                        "faculty_student_ratio": "20.6",
+                        "international_faculty_ratio": "100",
+                        "international_research_network": "98.3",
+                        "international_student_ratio": "99.4",
+                        "sustainability": "99.2"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#3",
+                "qs_sustainability_ranking": "#=12"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "solar power and quantum computing technology"
+            ],
+            "historical_achievements": [
+                "Breakthrough medical",
+                "Work Integrated Learning",
+                "Work Integrated Learning"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "300,000",
+                "jobs_created": "300,000",
+                "annual_revenue": "300,000"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:37:31 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/university-new-south-wales-unsw-sydney"
+        }
+    },
+    {
+        "institution": {
+            "name": "Tsinghua University",
+            "abbreviation": "N/A",
+            "motto": "education",
+            "type": "N/A",
+            "founding_year": "1911",
+            "campus_size": "more than 110",
+            "location": {
+                "city": "",
+                "state": "N/A",
+                "country": "SG",
+                "features": [
+                    "northwest Beijing",
+                    "Qing Dynasty royal gardens"
+                ]
+            },
+            "organization": {
+                "schools": "20",
+                "colleges": "20"
+            }
+        },
+        "student_body": {
+            "total_students": "37,045",
+            "undergraduate": {
+                "percentage": "42",
+                "international_students": {
+                    "percentage": "33"
+                }
+            },
+            "graduate": {
+                "percentage": "58",
+                "international_students": {
+                    "percentage": "67"
+                }
+            },
+            "total_international_students": "4,017"
+        },
+        "faculty": {
+            "total_staff": "6,613",
+            "composition": {
+                "domestic": {
+                    "percentage": "86"
+                },
+                "international": {
+                    "percentage": "14"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "N/A",
+                "toefl_score": "N/A"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "N/A",
+                "toefl_score": "N/A"
+            }
+        },
+        "programs": {
+            "schools": [
+                "20"
+            ],
+            "available_programs": []
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "20",
+                "student_participation": "more than 110"
+            },
+            "arts_culture": {
+                "museums_galleries": "20",
+                "museum_visitors": "more than 110",
+                "student_groups": {
+                    "total": "more than 110",
+                    "categories": [
+                        "engineering and computer science"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#20",
+                    "scores": {
+                        "overall": "86.5",
+                        "academic_reputation": "99.2",
+                        "citations_per_faculty": "99.1",
+                        "employment_outcomes": "92.3",
+                        "employer_reputation": "97.7",
+                        "faculty_student_ratio": "95",
+                        "international_faculty_ratio": "18.1",
+                        "international_research_network": "79.2",
+                        "international_student_ratio": "13.4",
+                        "sustainability": "40.4"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#5",
+                "qs_sustainability_ranking": "#=341"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "science, engineering, arts and literature, social sciences, medicine"
+            ],
+            "historical_achievements": [
+                "anti-colonialist Boxer Rebellion",
+                "computer science",
+                "computer science"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "20",
+                "jobs_created": "20",
+                "annual_revenue": "leftover money earmarked for university scholarships"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:38:35 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/tsinghua-university"
+        }
+    },
+    {
+        "institution": {
+            "name": "University of Chicago",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1856",
+            "campus_size": "more than 100",
+            "location": {
+                "city": "Chicago",
+                "state": "N/A",
+                "country": "US",
+                "features": [
+                    "Chicago",
+                    "University of Chicago bowl team"
+                ]
+            },
+            "organization": {
+                "schools": "eight",
+                "colleges": "more than 100"
+            }
+        },
+        "student_body": {
+            "total_students": "16,864",
+            "undergraduate": {
+                "percentage": "45",
+                "international_students": {
+                    "percentage": "25"
+                }
+            },
+            "graduate": {
+                "percentage": "55",
+                "international_students": {
+                    "percentage": "75"
+                }
+            },
+            "total_international_students": "5,527"
+        },
+        "faculty": {
+            "total_staff": "2,963",
+            "composition": {
+                "domestic": {
+                    "percentage": "69"
+                },
+                "international": {
+                    "percentage": "31"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1020+",
+                "toefl_score": "100+"
+            },
+            "graduate": {
+                "gmat_score": "610+",
+                "ielts_score": "7+",
+                "toefl_score": "104+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "all majors, minors, and programs of study"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "400",
+                "student_participation": "eight"
+            },
+            "arts_culture": {
+                "museums_galleries": "400",
+                "museum_visitors": "more than 400",
+                "student_groups": {
+                    "total": "more than 400",
+                    "categories": [
+                        "online"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#21",
+                    "scores": {
+                        "overall": "86.2",
+                        "academic_reputation": "99.1",
+                        "citations_per_faculty": "60.8",
+                        "employment_outcomes": "99.1",
+                        "employer_reputation": "96.4",
+                        "faculty_student_ratio": "94.2",
+                        "international_faculty_ratio": "79",
+                        "international_research_network": "85.1",
+                        "international_student_ratio": "87",
+                        "sustainability": "46.9"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#4",
+                "qs_sustainability_ranking": "#=272"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "economics and\npsychology to astrophysics and sociology"
+            ],
+            "historical_achievements": [
+                "the fire",
+                "the fire",
+                "sociology, economics, law, and literary criticism"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "more than 100",
+                "jobs_created": "sociology, economics, law, and literary criticism",
+                "annual_revenue": "US$75"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:39:08 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/university-chicago"
+        }
+    },
+    {
+        "institution": {
+            "name": "Princeton University",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "Princeton community that spans the globe long after they\nhave graduated",
+            "campus_size": "5,300",
+            "location": {
+                "city": "Princeton",
+                "state": "N/A",
+                "country": "US",
+                "features": [
+                    "Princeton",
+                    "Classrooms"
+                ]
+            },
+            "organization": {
+                "schools": "5,300",
+                "colleges": "5,300"
+            }
+        },
+        "student_body": {
+            "total_students": "8,799",
+            "undergraduate": {
+                "percentage": "63",
+                "international_students": {
+                    "percentage": "34"
+                }
+            },
+            "graduate": {
+                "percentage": "37",
+                "international_students": {
+                    "percentage": "66"
+                }
+            },
+            "total_international_students": "2,052"
+        },
+        "faculty": {
+            "total_staff": "1,077",
+            "composition": {
+                "domestic": {
+                    "percentage": "93"
+                },
+                "international": {
+                    "percentage": "7"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1460+",
+                "toefl_score": "100+"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "7+",
+                "toefl_score": "100+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "approximately 5,300\nundergraduate students are part of a vibrant campus community"
+            ],
+            "available_programs": []
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "5,300",
+                "student_participation": "5,300"
+            },
+            "arts_culture": {
+                "museums_galleries": "5,300",
+                "museum_visitors": "5,300",
+                "student_groups": {
+                    "total": "5,300",
+                    "categories": [
+                        "Classrooms"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#22",
+                    "scores": {
+                        "overall": "85.5",
+                        "academic_reputation": "99.8",
+                        "citations_per_faculty": "100",
+                        "employment_outcomes": "95.7",
+                        "employer_reputation": "98.3",
+                        "faculty_student_ratio": "57",
+                        "international_faculty_ratio": "9.6",
+                        "international_research_network": "78.3",
+                        "international_student_ratio": "56.6",
+                        "sustainability": "51.5"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#4",
+                "qs_sustainability_ranking": "#223"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "humanities, arts, social sciences, natural sciences and\nengineering"
+            ],
+            "historical_achievements": [
+                "transformative experience that is a\nPrinceton education",
+                "transformative experience that is a\nPrinceton education",
+                "transformative experience that is a\nPrinceton education"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "5,300",
+                "jobs_created": "5,300",
+                "annual_revenue": "5,300"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:39:40 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/princeton-university"
+        }
+    },
+    {
+        "institution": {
+            "name": "Yale University",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1701",
+            "campus_size": "260 acres",
+            "location": {
+                "city": "New Haven",
+                "state": "N/A",
+                "country": "US",
+                "features": [
+                    "New Haven, Connecticut",
+                    "courtyards or plazas, lobbies or lecture halls"
+                ]
+            },
+            "organization": {
+                "schools": "14",
+                "colleges": "14"
+            }
+        },
+        "student_body": {
+            "total_students": "14,884",
+            "undergraduate": {
+                "percentage": "46",
+                "international_students": {
+                    "percentage": "21"
+                }
+            },
+            "graduate": {
+                "percentage": "54",
+                "international_students": {
+                    "percentage": "79"
+                }
+            },
+            "total_international_students": "3,528"
+        },
+        "faculty": {
+            "total_staff": "6,084",
+            "composition": {
+                "domestic": {
+                    "percentage": "63"
+                },
+                "international": {
+                    "percentage": "37"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1450+",
+                "toefl_score": "100+"
+            },
+            "graduate": {
+                "gmat_score": "690+",
+                "ielts_score": "7+",
+                "toefl_score": "100+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "Yale Graduate School of Arts and Sciences and 12 professional schools"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "over 30",
+                "student_participation": "7 percent"
+            },
+            "arts_culture": {
+                "museums_galleries": "14",
+                "museum_visitors": "30",
+                "student_groups": {
+                    "total": "hundreds",
+                    "categories": [
+                        "physics or applied mathematics to classics, art, or African-American studies"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#23",
+                    "scores": {
+                        "overall": "85.2",
+                        "academic_reputation": "99.9",
+                        "citations_per_faculty": "38.6",
+                        "employment_outcomes": "98.5",
+                        "employer_reputation": "99.9",
+                        "faculty_student_ratio": "100",
+                        "international_faculty_ratio": "91.5",
+                        "international_research_network": "93.9",
+                        "international_student_ratio": "63.3",
+                        "sustainability": "92.2"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#4",
+                "qs_sustainability_ranking": "#=143"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "Office of Career Strategy and the Center for Teaching and Learning"
+            ],
+            "historical_achievements": [
+                "Office of Career Strategy and the Center for Teaching and Learning",
+                "lower cost of living",
+                "Office of Career Strategy and the Center for Teaching and Learning"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "four",
+                "jobs_created": "12",
+                "annual_revenue": "less than US$65,000"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:38:20 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/yale-university"
+        }
+    },
+    {
+        "institution": {
+            "name": "Universit\u00e9 PSL",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "Public",
+            "founding_year": "2017",
+            "campus_size": "17,000",
+            "location": {
+                "city": "Paris",
+                "state": "N/A",
+                "country": "FR",
+                "features": [
+                    "the heart of Paris",
+                    "Observatoire de Paris - PSL"
+                ]
+            },
+            "organization": {
+                "schools": "9",
+                "colleges": "9"
+            }
+        },
+        "student_body": {
+            "total_students": "15,805",
+            "undergraduate": {
+                "percentage": "0",
+                "international_students": {
+                    "percentage": "0"
+                }
+            },
+            "graduate": {
+                "percentage": "0",
+                "international_students": {
+                    "percentage": "0"
+                }
+            },
+            "total_international_students": "4,025"
+        },
+        "faculty": {
+            "total_staff": "3,070",
+            "composition": {
+                "domestic": {
+                    "percentage": "75"
+                },
+                "international": {
+                    "percentage": "25"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "N/A",
+                "toefl_score": "N/A"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "N/A",
+                "toefl_score": "N/A"
+            }
+        },
+        "programs": {
+            "schools": [
+                "9 Component Schools and 2 Associate Members"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "2 PSL Schools",
+                "student_participation": "10%"
+            },
+            "arts_culture": {
+                "museums_galleries": "2",
+                "museum_visitors": "2,900 researchers",
+                "student_groups": {
+                    "total": "17,000",
+                    "categories": [
+                        "Playing and directing"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#24",
+                    "scores": {
+                        "overall": "84.7",
+                        "academic_reputation": "74.4",
+                        "citations_per_faculty": "87.6",
+                        "employment_outcomes": "97.1",
+                        "employer_reputation": "97.6",
+                        "faculty_student_ratio": "98.1",
+                        "international_faculty_ratio": "62.3",
+                        "international_research_network": "99.8",
+                        "international_student_ratio": "65",
+                        "sustainability": "73.4"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#15",
+                "qs_sustainability_ranking": "#=83"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "knowledge, innovation, and creativity"
+            ],
+            "historical_achievements": [
+                "engineering and energy engineering",
+                "engineering and energy engineering",
+                "innovation"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "5",
+                "jobs_created": "5",
+                "annual_revenue": "more than 150 ERC grants"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:37:15 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/universite-psl"
+        }
+    },
+    {
+        "institution": {
+            "name": "University of Toronto",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1827",
+            "campus_size": "700",
+            "location": {
+                "city": "Toronto",
+                "state": "N/A",
+                "country": "CA",
+                "features": [
+                    "Toronto",
+                    "Read less\nFounded in 1827, the University of Toronto"
+                ]
+            },
+            "organization": {
+                "schools": "560,000",
+                "colleges": "700"
+            }
+        },
+        "student_body": {
+            "total_students": "81,904",
+            "undergraduate": {
+                "percentage": "75",
+                "international_students": {
+                    "percentage": "76"
+                }
+            },
+            "graduate": {
+                "percentage": "25",
+                "international_students": {
+                    "percentage": "24"
+                }
+            },
+            "total_international_students": "31,911"
+        },
+        "faculty": {
+            "total_staff": "8,324",
+            "composition": {
+                "domestic": {
+                    "percentage": "58"
+                },
+                "international": {
+                    "percentage": "42"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "N/A",
+                "toefl_score": "100+"
+            },
+            "graduate": {
+                "gmat_score": "500+",
+                "ielts_score": "6.5+",
+                "toefl_score": "93+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "multidisciplinary network of teaching and research faculty, alumni and partners"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "700",
+                "student_participation": "700"
+            },
+            "arts_culture": {
+                "museums_galleries": "700",
+                "museum_visitors": "560,000",
+                "student_groups": {
+                    "total": "280",
+                    "categories": [
+                        "thought leaders"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#25",
+                    "scores": {
+                        "overall": "84.1",
+                        "academic_reputation": "99.7",
+                        "citations_per_faculty": "50.8",
+                        "employment_outcomes": "98.7",
+                        "employer_reputation": "96.9",
+                        "faculty_student_ratio": "44.9",
+                        "international_faculty_ratio": "96.9",
+                        "international_research_network": "97.7",
+                        "international_student_ratio": "96.1",
+                        "sustainability": "100"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#5",
+                "qs_sustainability_ranking": "#1"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "learning, discovery and knowledge creation"
+            ],
+            "historical_achievements": [
+                "knowledge creation",
+                "discovery and knowledge creation",
+                "discovery and knowledge creation"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "560,000",
+                "jobs_created": "560,000",
+                "annual_revenue": "560,000"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:44:37 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/university-toronto"
+        }
+    },
+    {
+        "institution": {
+            "name": "EPFL \u2013 \u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "Private",
+            "founding_year": "1853",
+            "campus_size": "136 acres",
+            "location": {
+                "city": "Lausanne",
+                "state": "N/A",
+                "country": "CH",
+                "features": [
+                    "Lausanne, Switzerland",
+                    "Bal\u00e9lec Festival"
+                ]
+            },
+            "organization": {
+                "schools": "11",
+                "colleges": "11"
+            }
+        },
+        "student_body": {
+            "total_students": "11,202",
+            "undergraduate": {
+                "percentage": "50",
+                "international_students": {
+                    "percentage": "43"
+                }
+            },
+            "graduate": {
+                "percentage": "50",
+                "international_students": {
+                    "percentage": "57"
+                }
+            },
+            "total_international_students": "7,172"
+        },
+        "faculty": {
+            "total_staff": "1,875",
+            "composition": {
+                "domestic": {
+                    "percentage": "25"
+                },
+                "international": {
+                    "percentage": "75"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "N/A",
+                "toefl_score": "N/A"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "5.5+",
+                "toefl_score": "72+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "natural sciences and engineering"
+            ],
+            "available_programs": [
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "11",
+                "student_participation": "27 percent"
+            },
+            "arts_culture": {
+                "museums_galleries": "two",
+                "museum_visitors": "15,000",
+                "student_groups": {
+                    "total": "112",
+                    "categories": [
+                        "natural sciences and engineering"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#26",
+                    "scores": {
+                        "overall": "83.5",
+                        "academic_reputation": "84.2",
+                        "citations_per_faculty": "93.6",
+                        "employment_outcomes": "27.2",
+                        "employer_reputation": "67.2",
+                        "faculty_student_ratio": "91.2",
+                        "international_faculty_ratio": "100",
+                        "international_research_network": "81.7",
+                        "international_student_ratio": "100",
+                        "sustainability": "86.7"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#=7",
+                "qs_sustainability_ranking": "#=107"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "natural sciences and engineering"
+            ],
+            "historical_achievements": [
+                "nuclear reactor",
+                "a nuclear reactor",
+                "nuclear reactor"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "SCIENCEDATA",
+                "jobs_created": "11",
+                "annual_revenue": "over 10,000"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:44:43 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/epfl-ecole-polytechnique-federale-de-lausanne"
+        }
+    },
+    {
+        "institution": {
+            "name": "The University of Edinburgh",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1967",
+            "campus_size": "four to six single study-bedrooms",
+            "location": {
+                "city": "Edinburgh",
+                "state": "N/A",
+                "country": "GB",
+                "features": [
+                    "Edinburgh",
+                    "Latin America, Southeast Asia, South Asia, North America and East Asia"
+                ]
+            },
+            "organization": {
+                "schools": "Academic",
+                "colleges": "Academic"
+            }
+        },
+        "student_body": {
+            "total_students": "37,016",
+            "undergraduate": {
+                "percentage": "68",
+                "international_students": {
+                    "percentage": "52"
+                }
+            },
+            "graduate": {
+                "percentage": "32",
+                "international_students": {
+                    "percentage": "48"
+                }
+            },
+            "total_international_students": "17,725"
+        },
+        "faculty": {
+            "total_staff": "4,846",
+            "composition": {
+                "domestic": {
+                    "percentage": "55"
+                },
+                "international": {
+                    "percentage": "45"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1290+",
+                "toefl_score": "92+"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "N/A",
+                "toefl_score": "N/A"
+            }
+        },
+        "programs": {
+            "schools": [
+                "Academic schools and colleges, as well as Edinburgh Global"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "more than 290",
+                "student_participation": "60"
+            },
+            "arts_culture": {
+                "museums_galleries": "more than 290",
+                "museum_visitors": "more than 290",
+                "student_groups": {
+                    "total": "almost 50,000",
+                    "categories": [
+                        "art and design"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#27",
+                    "scores": {
+                        "overall": "83.3",
+                        "academic_reputation": "98.3",
+                        "citations_per_faculty": "47.7",
+                        "employment_outcomes": "55.9",
+                        "employer_reputation": "97.2",
+                        "faculty_student_ratio": "65.5",
+                        "international_faculty_ratio": "98.7",
+                        "international_research_network": "99.5",
+                        "international_student_ratio": "99.8",
+                        "sustainability": "99"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#5",
+                "qs_sustainability_ranking": "#=7"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "UK, EU or outside of the EU"
+            ],
+            "historical_achievements": [
+                "chloroform anaesthesia",
+                "chloroform anaesthesia",
+                "chloroform anaesthesia"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "more than 500",
+                "jobs_created": "26th",
+                "annual_revenue": "more than 500"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:33:51 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/university-edinburgh"
+        }
+    },
+    {
+        "institution": {
+            "name": "Technical University of Munich",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1868",
+            "campus_size": "around40,000 students",
+            "location": {
+                "city": "Munich",
+                "state": "N/A",
+                "country": "DE",
+                "features": [
+                    "Technical University of Munich",
+                    "Technical University of Munich"
+                ]
+            },
+            "organization": {
+                "schools": "200",
+                "colleges": "200"
+            }
+        },
+        "student_body": {
+            "total_students": "34,597",
+            "undergraduate": {
+                "percentage": "49",
+                "international_students": {
+                    "percentage": "38"
+                }
+            },
+            "graduate": {
+                "percentage": "51",
+                "international_students": {
+                    "percentage": "62"
+                }
+            },
+            "total_international_students": "15,078"
+        },
+        "faculty": {
+            "total_staff": "2,552",
+            "composition": {
+                "domestic": {
+                    "percentage": "69"
+                },
+                "international": {
+                    "percentage": "31"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "N/A",
+                "toefl_score": "N/A"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "N/A",
+                "toefl_score": "N/A"
+            }
+        },
+        "programs": {
+            "schools": [
+                "15 academic departments/schools and around40,000 students on campus"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "nine",
+                "student_participation": "30%"
+            },
+            "arts_culture": {
+                "museums_galleries": "nine",
+                "museum_visitors": "around40,000",
+                "student_groups": {
+                    "total": "around40,000",
+                    "categories": [
+                        "English and/or German"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#28",
+                    "scores": {
+                        "overall": "83.2",
+                        "academic_reputation": "83",
+                        "citations_per_faculty": "75.9",
+                        "employment_outcomes": "34.5",
+                        "employer_reputation": "98.6",
+                        "faculty_student_ratio": "76.8",
+                        "international_faculty_ratio": "80.4",
+                        "international_research_network": "95.6",
+                        "international_student_ratio": "98.6",
+                        "sustainability": "93.1"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#=18",
+                "qs_sustainability_ranking": "#=83"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "English and/or German"
+            ],
+            "historical_achievements": [
+                "budding entrepreneurs",
+                "budding entrepreneurs",
+                "budding entrepreneurs"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "nine",
+                "jobs_created": "15",
+                "annual_revenue": "\u20ac129.40"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:45:07 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/technical-university-munich"
+        }
+    },
+    {
+        "institution": {
+            "name": "McGill University",
+            "abbreviation": "N/A",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "200 years",
+            "campus_size": "200 years",
+            "location": {
+                "city": "Montreal",
+                "state": "N/A",
+                "country": "CA",
+                "features": [
+                    "Montreal",
+                    "groundbreaking medical discoveries"
+                ]
+            },
+            "organization": {
+                "schools": "nearly 50",
+                "colleges": "200 years"
+            }
+        },
+        "student_body": {
+            "total_students": "29,942",
+            "undergraduate": {
+                "percentage": "76",
+                "international_students": {
+                    "percentage": "65"
+                }
+            },
+            "graduate": {
+                "percentage": "24",
+                "international_students": {
+                    "percentage": "35"
+                }
+            },
+            "total_international_students": "10,194"
+        },
+        "faculty": {
+            "total_staff": "3,822",
+            "composition": {
+                "domestic": {
+                    "percentage": "68"
+                },
+                "international": {
+                    "percentage": "32"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "N/A",
+                "toefl_score": "N/A"
+            },
+            "graduate": {
+                "gmat_score": "N/A",
+                "ielts_score": "6.5+",
+                "toefl_score": "86+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "McGill\u2019s Central Career Services"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "200",
+                "student_participation": "30%"
+            },
+            "arts_culture": {
+                "museums_galleries": "150",
+                "museum_visitors": "150 countries",
+                "student_groups": {
+                    "total": "200 years",
+                    "categories": [
+                        "thought-provoking art"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#29",
+                    "scores": {
+                        "overall": "83",
+                        "academic_reputation": "94.3",
+                        "citations_per_faculty": "57.9",
+                        "employment_outcomes": "98.3",
+                        "employer_reputation": "87.6",
+                        "faculty_student_ratio": "62.3",
+                        "international_faculty_ratio": "83.7",
+                        "international_research_network": "94.2",
+                        "international_student_ratio": "89.6",
+                        "sustainability": "99.1"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#5",
+                "qs_sustainability_ranking": "#=15"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "part-time / summer jobs, internships and post-graduation opportunities"
+            ],
+            "historical_achievements": [
+                "medical discoveries",
+                "medical discoveries",
+                "medical discoveries"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "200 years",
+                "jobs_created": "200 years",
+                "annual_revenue": "economy with their business acumen"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:37:26 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/mcgill-university"
+        }
+    },
+    {
+        "institution": {
+            "name": "Australian National University (ANU)",
+            "abbreviation": "ANU",
+            "motto": "N/A",
+            "type": "N/A",
+            "founding_year": "1946",
+            "campus_size": "30th",
+            "location": {
+                "city": "Canberra",
+                "state": "N/A",
+                "country": "AU",
+                "features": [
+                    "Canberra",
+                    "Black Mountain and the Australian National Botanic Gardens"
+                ]
+            },
+            "organization": {
+                "schools": "150",
+                "colleges": "150"
+            }
+        },
+        "student_body": {
+            "total_students": "17,399",
+            "undergraduate": {
+                "percentage": "57",
+                "international_students": {
+                    "percentage": "24"
+                }
+            },
+            "graduate": {
+                "percentage": "43",
+                "international_students": {
+                    "percentage": "76"
+                }
+            },
+            "total_international_students": "6,958"
+        },
+        "faculty": {
+            "total_staff": "1,745",
+            "composition": {
+                "domestic": {
+                    "percentage": "41"
+                },
+                "international": {
+                    "percentage": "59"
+                }
+            }
+        },
+        "admission_requirements": {
+            "undergraduate": {
+                "sat_score": "1170+",
+                "toefl_score": "80+"
+            },
+            "graduate": {
+                "gmat_score": "550+",
+                "ielts_score": "6.5+",
+                "toefl_score": "80+"
+            }
+        },
+        "programs": {
+            "schools": [
+                "Five libraries"
+            ],
+            "available_programs": [
+                {
+                    "name": "Bachelor",
+                    "level": "UG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "Master",
+                    "level": "PG",
+                    "school": "N/A"
+                },
+                {
+                    "name": "MBA",
+                    "level": "N/A",
+                    "school": "N/A"
+                },
+                {
+                    "name": "PHD",
+                    "level": "N/A",
+                    "school": "N/A"
+                }
+            ]
+        },
+        "campus_life": {
+            "sports": {
+                "varsity_teams": "150",
+                "student_participation": "5,000-plus"
+            },
+            "arts_culture": {
+                "museums_galleries": "150",
+                "museum_visitors": "ten minutes",
+                "student_groups": {
+                    "total": "50",
+                    "categories": [
+                        "science; law; teaching and learning"
+                    ]
+                }
+            }
+        },
+        "rankings": {
+            "qs_world_rankings": {
+                "2025": {
+                    "overall_rank": "#30",
+                    "scores": {
+                        "overall": "82.4",
+                        "academic_reputation": "93.8",
+                        "citations_per_faculty": "84.6",
+                        "employment_outcomes": "56.6",
+                        "employer_reputation": "75.4",
+                        "faculty_student_ratio": "34.6",
+                        "international_faculty_ratio": "100",
+                        "international_research_network": "91.4",
+                        "international_student_ratio": "96.2",
+                        "sustainability": "97.1"
+                    }
+                }
+            },
+            "other_rankings": {
+                "qs_subject_ranking": "#8",
+                "qs_sustainability_ranking": "#48"
+            }
+        },
+        "research_focus": {
+            "current_areas": [
+                "industry and government internships"
+            ],
+            "historical_achievements": [
+                "Physics   Mathematics",
+                "marine sciences",
+                "marine sciences"
+            ]
+        },
+        "alumni_impact": {
+            "companies": {
+                "total_active": "150",
+                "jobs_created": "3,000",
+                "annual_revenue": "30th in the world"
+            }
+        },
+        "financial_information": {
+            "scholarships": {
+                "available": true,
+                "guide": {
+                    "features": [
+                        "Where to look for scholarship opportunities",
+                        "How to apply to scholarships relevant to you",
+                        "A list of available scholarships around the world",
+                        "A scholarship application checklist"
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "data_source": "QS World University Rankings",
+            "last_updated": "Thu, 23 Jan 2025 08:41:47 GMT",
+            "ranking_year": "2025"
+        },
+        "urls": {
+            "home_page_url": "https://www.topuniversities.com/world-university-rankings?page=1",
+            "university_url": "https://www.topuniversities.com/universities/australian-national-university-anu"
+        }
+    }
+]

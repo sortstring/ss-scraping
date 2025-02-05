@@ -1,0 +1,218 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "MDI Road\nKanifing",
+                "City": "Serrekunda",
+                "Province": "Greater Banjul",
+                "PostCode": "3530",
+                "Website": "https://www.utg.edu.gm",
+                "college_name": "University of the Gambia",
+                "university_name": "(UTG)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Establsihed in 1999 by an Act of the National Assembly.",
+            "AcademicYear": "October to July (October-February; March-July)",
+            "AdmissionRequirements": [
+                "West African Senior School Certificate with five credits; General Certificate of Education with five credits"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture and Environment Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Biology",
+                    "Environmental Studies",
+                    "Soil Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Christian Religious Studies",
+                    "Development Studies",
+                    "English",
+                    "French",
+                    "History",
+                    "Islamic Studies",
+                    "Mathematics",
+                    "Physics",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Public Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Public Administration",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Agricultural Education",
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education",
+                    "Mathematics Education",
+                    "Native Language Education",
+                    "Science Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Architecture and Planning",
+                    "Construction Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies and Research",
+                "FieldsOfStudy": [
+                    "Agronomy",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Crop Production",
+                    "Economics",
+                    "English",
+                    "French",
+                    "History",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Mathematics",
+                    "Nursing",
+                    "Occupational Health",
+                    "Physics",
+                    "Public Health",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information and Communications Technology",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Digital Media",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Allied Health Sciences",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Midwifery",
+                    "Nursing",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Agricultural Education",
+                    "Agriculture",
+                    "Architecture and Planning",
+                    "Banking",
+                    "Biology",
+                    "Business Education",
+                    "Chemistry",
+                    "Christian Religious Studies",
+                    "Computer Science",
+                    "Development Studies",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "Foreign Languages Education",
+                    "French",
+                    "History",
+                    "Humanities and Social Science Education",
+                    "Information Technology",
+                    "Islamic Studies",
+                    "Journalism",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Medicine",
+                    "Native Language Education",
+                    "Nursing",
+                    "Physics",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Public Health",
+                    "Science Education",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agronomy",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Crop Production",
+                    "Economics",
+                    "English",
+                    "French",
+                    "History",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Mathematics",
+                    "Nursing",
+                    "Occupational Health",
+                    "Physics",
+                    "Public Health"
+                ],
+                "Doctor'sDegrees": [
+                    "Agronomy",
+                    "Biology",
+                    "Law",
+                    "Public Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

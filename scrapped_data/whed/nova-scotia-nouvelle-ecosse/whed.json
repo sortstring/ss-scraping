@@ -1,0 +1,1950 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "923 Robie Street",
+                "City": "Halifax",
+                "Province": "Nova Scotia",
+                "PostCode": "B3H 3C3",
+                "Website": "https://www.smu.ca",
+                "college_name": "Saint Mary's University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1802 as Saint Mary's College, acquired present status and title 1841. From 1970, a public, non-denominational institution.",
+            "AcademicYear": "September to April (September-December; January-April). Also Summer Semesters",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent; TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Ancient Civilizations",
+                    "Anthropology",
+                    "Asian Studies",
+                    "Business Administration",
+                    "Canadian Studies",
+                    "Chinese",
+                    "Classical Languages",
+                    "Criminology",
+                    "Development Studies",
+                    "Economics",
+                    "English",
+                    "Film",
+                    "French",
+                    "Gender Studies",
+                    "Geography",
+                    "German",
+                    "Greek (Classical)",
+                    "Hispanic American Studies",
+                    "History",
+                    "Irish",
+                    "Japanese",
+                    "Latin",
+                    "Linguistics",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religious Studies",
+                    "Sociology",
+                    "Spanish",
+                    "Theology",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Foreign Languages Education",
+                    "Linguistics",
+                    "Mathematics Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Applied Physics",
+                    "Astronomy and Space Science",
+                    "Astrophysics",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Forensic Medicine and Dentistry",
+                    "Geography",
+                    "Geology",
+                    "Industrial and Organizational Psychology",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Physics",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Science",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Information Sciences",
+                    "Information Technology",
+                    "International Business",
+                    "Labour and Industrial Relations",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "Sobey"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Ancient Civilizations",
+                    "Anthropology",
+                    "Asian Studies",
+                    "Astrophysics",
+                    "Biology",
+                    "Canadian Studies",
+                    "Chemistry",
+                    "Computer Science",
+                    "Criminology",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "Economics",
+                    "Engineering",
+                    "English",
+                    "Entrepreneurship",
+                    "Environmental Studies",
+                    "Film",
+                    "Finance",
+                    "Forensic Medicine and Dentistry",
+                    "French",
+                    "Gender Studies",
+                    "Geography",
+                    "Geology",
+                    "German",
+                    "History",
+                    "Human Resources",
+                    "Information Management",
+                    "International Business",
+                    "Irish",
+                    "Linguistics",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religious Studies",
+                    "Social Welfare",
+                    "Sociology",
+                    "Spanish",
+                    "Women's Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Astronomy and Space Science",
+                    "Business Administration",
+                    "Canadian Studies",
+                    "Computer Science",
+                    "Criminology",
+                    "Data Processing",
+                    "Development Studies",
+                    "Economics",
+                    "Entrepreneurship",
+                    "Finance",
+                    "Geography",
+                    "History",
+                    "Industrial and Organizational Psychology",
+                    "Management",
+                    "Native Language Education",
+                    "Natural Sciences",
+                    "Philosophy",
+                    "Psychology",
+                    "Theology",
+                    "Women's Studies"
+                ],
+                "Doctor'sDegrees": [
+                    "Astronomy and Space Science",
+                    "Business Administration",
+                    "Development Studies",
+                    "Industrial and Organizational Psychology",
+                    "Natural Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "15 University Avenue",
+                "City": "Wolfville",
+                "Province": "Nova Scotia",
+                "PostCode": "B4P 2R6",
+                "Website": "http://www.acadiau.ca",
+                "college_name": "Acadia University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1838 as Queen's College by the Nova Scotia Baptist Education Society, became Acadia College 1841. Incorporated 1891 by act of the Nova Scotia legislature with the powers of a university. Acquired present title 1891.",
+            "AcademicYear": "September to April (September-December; January-April)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent, including International Baccalaureate"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Environment",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "Arthur Irving"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Education",
+                    "Educational Sciences",
+                    "English",
+                    "Geology",
+                    "Mathematics",
+                    "Parks and Recreation",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology",
+                    "Statistics",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Ancient Civilizations",
+                    "Art Therapy",
+                    "Canadian Studies",
+                    "Comparative Religion",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "French",
+                    "German",
+                    "Greek (Classical)",
+                    "Histology",
+                    "History",
+                    "Latin",
+                    "Literature",
+                    "Modern Languages",
+                    "Music",
+                    "Music Education",
+                    "Music Theory and Composition",
+                    "Musical Instruments",
+                    "Musicology",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Singing",
+                    "Sociology",
+                    "Spanish",
+                    "Theatre",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Biology",
+                    "Business Administration",
+                    "Education",
+                    "Marketing",
+                    "Music Education",
+                    "Nutrition",
+                    "Parks and Recreation",
+                    "Physical Therapy",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Technology Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pure and Applied Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Dietetics",
+                    "Earth Sciences",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Mathematics",
+                    "Nutrition",
+                    "Physics",
+                    "Psychology",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Christian Religious Studies",
+                    "History of Religion",
+                    "New Testament",
+                    "Religion",
+                    "Religious Education",
+                    "Religious Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemical Analysis and Bio-imaging",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry"
+                ],
+                "Details": "CABL"
+            },
+            {
+                "College": "Environmental Biogeochemistry",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Eukaryotic Microbiology and Parasitology",
+                "FieldsOfStudy": [
+                    "Microbiology",
+                    "Parasitology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Inorganic Photophysics and Biological Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Investigating Ultra-trace Organic Contaminants in the Environment",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Photosciences",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Plant Developmental Morphology and Systematics",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychomotor Behaviour",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Analytical Research on the Environment",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "CARE"
+            },
+            {
+                "College": "Estuarine Research",
+                "FieldsOfStudy": [
+                    "Coastal Studies"
+                ],
+                "Details": "ACER"
+            },
+            {
+                "College": "K.C. Irving Environmental Science Centre and Harriet Irving Botanical Gardens",
+                "FieldsOfStudy": [
+                    "Botany",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Lifestyle Studies",
+                "FieldsOfStudy": [
+                    "CoLS"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematical Modelling and Computation",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "ACMMaC"
+            },
+            {
+                "College": "Media",
+                "FieldsOfStudy": [
+                    "Media Studies"
+                ],
+                "Details": "AMC"
+            },
+            {
+                "College": "Microstructural Analysis",
+                "FieldsOfStudy": [
+                    "ACMA"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Northeast Asia",
+                "FieldsOfStudy": [
+                    "Asian Studies"
+                ],
+                "Details": "NEARC"
+            },
+            {
+                "College": "Organizational Research and Development",
+                "FieldsOfStudy": [
+                    "COR&D"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sensory Research of Food",
+                "FieldsOfStudy": [
+                    "Food Technology"
+                ],
+                "Details": "CSRF"
+            },
+            {
+                "College": "Social and Business Entrepreneurship",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Study of Ethnocultural Diversity",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Ethnology"
+                ],
+                "Details": "ACSED"
+            },
+            {
+                "College": "Wildlife and Conservation Biology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Christian Religious Studies"
+                ],
+                "Doctor'sDegrees": [
+                    "Religion"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O.Box 5300\n1250 Grand Lake Road",
+                "City": "Sydney",
+                "Province": "Nova Scotia",
+                "PostCode": "B1P 6L2",
+                "Website": "http://www.cbu.ca",
+                "college_name": "Cape Breton University",
+                "university_name": "(CBU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1974 by amalgamation of Saint Francis Xavier University's former Sydney campus (1951) and Nova Scotia Eastern Institute of Technology (1968). Acquired present status and title 2005.",
+            "AcademicYear": "September to August (September-December; January-April; May-August)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent, including International Baccalaureate; TOEFL score of 550"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Cape Breton Studies",
+                "FieldsOfStudy": [
+                    "Celtic Languages and Studies",
+                    "Ethnology",
+                    "Folklore",
+                    "Music",
+                    "Musicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Children's Rights",
+                "FieldsOfStudy": [
+                    "Human Rights"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural History",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Botany",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy and Religion",
+                "FieldsOfStudy": [
+                    "Philosophy",
+                    "Religion"
+                ],
+                "Details": "PAR"
+            },
+            {
+                "College": "Religion and Society",
+                "FieldsOfStudy": [
+                    "Christian Religious Studies",
+                    "Islamic Theology",
+                    "Judaic Religious Studies",
+                    "Religion"
+                ],
+                "Details": "Abraham"
+            },
+            {
+                "College": "Small Business Development",
+                "FieldsOfStudy": [
+                    "Small Business"
+                ],
+                "Details": "SBDC"
+            },
+            {
+                "College": "Sustainability in Energy and the Environment",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Environmental Studies"
+                ],
+                "Details": "CSEE"
+            },
+            {
+                "College": "Online Education",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Environmental Studies",
+                    "Hotel and Restaurant",
+                    "Industrial Engineering",
+                    "Protective Services",
+                    "Public Administration",
+                    "Public Health",
+                    "Social and Community Services",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Petroleum Applications of Wireless Systems",
+                "FieldsOfStudy": [
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "PAWS"
+            },
+            {
+                "College": "Alexander Graham Bell",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Beaton",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Economics",
+                    "Environmental Studies",
+                    "History",
+                    "Industrial and Production Economics",
+                    "Labour and Industrial Relations",
+                    "Political Sciences",
+                    "Religious Studies",
+                    "Rural Studies",
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Community Economic Development",
+                "FieldsOfStudy": [
+                    "Development Studies"
+                ],
+                "Details": "CED"
+            },
+            {
+                "College": "Development of Energy and Sustainability",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ecosystem Research",
+                "FieldsOfStudy": [
+                    "Ecology"
+                ],
+                "Details": "Bras d\u2019Or"
+            },
+            {
+                "College": "Human Values and Technology",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "Tompkins"
+            },
+            {
+                "College": "Integrative Science and Health",
+                "FieldsOfStudy": [
+                    "IISH"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Louisbourg",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Small and Medium-sized Enterprise",
+                "FieldsOfStudy": [
+                    "Small Business"
+                ],
+                "Details": "SMEI"
+            },
+            {
+                "College": "Tourism Development",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "International"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Business Administration",
+                    "Celtic Languages and Studies",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "English",
+                    "Environmental Studies",
+                    "Fine Arts",
+                    "Folklore",
+                    "French",
+                    "Health Sciences",
+                    "Heritage Preservation",
+                    "History",
+                    "Literature",
+                    "Management",
+                    "Media Studies",
+                    "Modern Languages",
+                    "Musicology",
+                    "Native American Studies",
+                    "Native Language",
+                    "Philosophy",
+                    "Physical Education",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Administration",
+                    "Religious Studies",
+                    "Social and Community Services",
+                    "Social Sciences",
+                    "Sociology",
+                    "Spanish",
+                    "Theatre",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Development Studies",
+                    "Economics",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Law",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "Shannon"
+            },
+            {
+                "College": "Graduate and Professional Studies",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Curriculum",
+                    "Education",
+                    "Educational and Student Counselling",
+                    "Educational Technology",
+                    "Health Sciences",
+                    "Information Technology",
+                    "Mathematics",
+                    "Microbiology",
+                    "Nursing",
+                    "Nutrition",
+                    "Occupational Health",
+                    "Public Health",
+                    "Secondary Education",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Bioengineering",
+                    "Biology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Geology",
+                    "Industrial Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Metallurgical Engineering",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Physical Therapy",
+                    "Physics",
+                    "Psychology",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1236 Henry Street",
+                "City": "Halifax",
+                "Province": "Nova Scotia",
+                "PostCode": "B3H 4R2",
+                "Website": "http://www.dal.ca",
+                "college_name": "Dalhousie University",
+                "university_name": "(DAL)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1818. Acquired present status 1997 by merging with Technical University of Nova Scotia.",
+            "AcademicYear": "September to June (September-December; January-April; May-June). Also Summer Sessions (July-August)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent, including International Baccalaureate"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Engineering",
+                    "English",
+                    "Environmental Management",
+                    "Fire Science",
+                    "Information Technology",
+                    "Leadership",
+                    "Management",
+                    "Occupational Health",
+                    "Peace and Disarmament",
+                    "Safety Engineering",
+                    "Small Business",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Food Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture and Planning",
+                "FieldsOfStudy": [
+                    "Architecture and Planning",
+                    "Arts and Humanities",
+                    "Building Technologies",
+                    "Design",
+                    "Environmental Management",
+                    "History",
+                    "Landscape Architecture",
+                    "Technology",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Social Sciences",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Ancient Civilizations",
+                    "Anthropology",
+                    "Arabic",
+                    "Business Administration",
+                    "Canadian Studies",
+                    "Chinese",
+                    "Cognitive Sciences",
+                    "Contemporary History",
+                    "Development Studies",
+                    "Display and Stage Design",
+                    "Engineering",
+                    "English",
+                    "Environmental Studies",
+                    "European Studies",
+                    "Film",
+                    "French",
+                    "Gender Studies",
+                    "German",
+                    "Greek (Classical)",
+                    "Health Sciences",
+                    "History",
+                    "Italian",
+                    "Journalism",
+                    "Latin",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Modern History",
+                    "Music",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Religious Studies",
+                    "Russian",
+                    "Sociology",
+                    "Spanish",
+                    "Theatre",
+                    "Women's Studies",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dental Hygiene",
+                    "Dental Technology",
+                    "Dentistry",
+                    "Oral Pathology",
+                    "Orthodontics",
+                    "Periodontics",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Bioengineering",
+                    "Biomedical Engineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Food Science",
+                    "Food Technology",
+                    "Industrial Engineering",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Anatomy",
+                    "Ancient Civilizations",
+                    "Anthropology",
+                    "Architecture",
+                    "Architecture and Planning",
+                    "Biochemistry",
+                    "Bioengineering",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Biophysics",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Communication Disorders",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Dental Technology",
+                    "Dentistry",
+                    "Development Studies",
+                    "E-Business/Commerce",
+                    "Earth Sciences",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Finance",
+                    "Food Science",
+                    "Food Technology",
+                    "French",
+                    "German",
+                    "Greek (Classical)",
+                    "Health Administration",
+                    "Health Sciences",
+                    "History",
+                    "Immunology",
+                    "Industrial Engineering",
+                    "Information Management",
+                    "Journalism",
+                    "Latin",
+                    "Law",
+                    "Leisure Studies",
+                    "Management",
+                    "Marine Science and Oceanography",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Medicine",
+                    "Meteorology",
+                    "Microbiology",
+                    "Mining Engineering",
+                    "Molecular Biology",
+                    "Musicology",
+                    "Neurosciences",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Ophthalmology",
+                    "Pathology",
+                    "Periodontics",
+                    "Petroleum and Gas Engineering",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Physics",
+                    "Physiology",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Rehabilitation and Therapy",
+                    "Social Work",
+                    "Sociology",
+                    "Speech Therapy and Audiology",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Professions",
+                "FieldsOfStudy": [
+                    "Communication Disorders",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Leisure Studies",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Ophthalmology",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Comparative Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "International Law",
+                    "Law",
+                    "Maritime Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "E-Business/Commerce",
+                    "Environmental Management",
+                    "Finance",
+                    "Information Management",
+                    "Information Sciences",
+                    "Library Science",
+                    "Management",
+                    "Natural Resources",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Biochemistry",
+                    "Biomedical Engineering",
+                    "Biophysics",
+                    "Cardiology",
+                    "Dermatology",
+                    "Endocrinology",
+                    "Epidemiology",
+                    "Ethics",
+                    "Gastroenterology",
+                    "Gerontology",
+                    "Haematology",
+                    "Immunology",
+                    "Medicine",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Nephrology",
+                    "Neurology",
+                    "Obstetrics and Gynaecology",
+                    "Oncology",
+                    "Ophthalmology",
+                    "Orthopaedics",
+                    "Otorhinolaryngology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physical Therapy",
+                    "Physiology",
+                    "Plastic Surgery",
+                    "Psychiatry and Mental Health",
+                    "Public Health",
+                    "Radiology",
+                    "Rehabilitation and Therapy",
+                    "Respiratory Therapy",
+                    "Rheumatology",
+                    "Surgery",
+                    "Urology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Earth Sciences",
+                    "Economics",
+                    "Environmental Studies",
+                    "Immunology",
+                    "Marine Biology",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Meteorology",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Neurosciences",
+                    "Physics",
+                    "Psychology",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "166 Bedford Highway",
+                "City": "Halifax",
+                "Province": "Nova Scotia",
+                "PostCode": "B3M 2J6",
+                "Website": "http://www.msvu.ca",
+                "college_name": "Mount Saint Vincent University",
+                "university_name": "(MSVU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1873 as an academy. The Nova Scotia legislature granted Mount Saint Vincent College status to confer degrees 1925, making it the only independent Women's college in the British Commonwealth. Became Mount Saint Vincent University 1966. Current charter was approved to transfer ownership of the University from Sisters of Charity to the Board of Governors 1988.",
+            "AcademicYear": "September to April (September-December; January-April)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Distance Learning and Continuing Education",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Child Care and Development",
+                    "Educational Psychology",
+                    "English",
+                    "Hotel and Restaurant",
+                    "Marketing",
+                    "Psychology",
+                    "Public Relations",
+                    "Religious Studies",
+                    "Tourism",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Science",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Biology",
+                    "Canadian Studies",
+                    "Chemistry",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Economics",
+                    "English",
+                    "French",
+                    "German",
+                    "History",
+                    "Library Science",
+                    "Linguistics",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Peace and Disarmament",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religious Studies",
+                    "Social Policy",
+                    "Sociology",
+                    "Spanish",
+                    "Statistics",
+                    "Women's Studies",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Continuing Education",
+                    "Curriculum",
+                    "Education",
+                    "Educational Psychology",
+                    "Literacy Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Child Care and Development",
+                    "Family Studies",
+                    "Gerontology",
+                    "Hotel and Restaurant",
+                    "Information Technology",
+                    "Nutrition",
+                    "Public Relations",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Communication Studies",
+                    "Education",
+                    "Family Studies",
+                    "Gender Studies",
+                    "Nutrition",
+                    "Public Relations"
+                ],
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "5163 Duke Street",
+                "City": "Halifax",
+                "Province": "Nova Scotia",
+                "PostCode": "B3J 3J6",
+                "Website": "http://nscad.ca",
+                "college_name": "NSCAD University",
+                "university_name": "Nova Scotia College of Art and Design (NSCAD)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1887 as Victoria School of Art and Design, became Nova Scotia College of Art 1925 and Nova Scotia College of Art and Design 1969. An independent institution of higher education. Students may also arrange to take courses at Dalhousie University and at other universities in Halifax. Acquired current title and status 2003.",
+            "AcademicYear": "September to April (September-December; January-April). Also Summer session, May to August",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Craft",
+                "FieldsOfStudy": [
+                    "Ceramic Art",
+                    "Fine Arts",
+                    "Handicrafts",
+                    "Jewellery Art",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Painting and Drawing",
+                    "Printing and Printmaking",
+                    "Sculpture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foundation Studies",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Design",
+                    "Film",
+                    "Metal Techniques",
+                    "Painting and Drawing",
+                    "Photography",
+                    "Printing and Printmaking",
+                    "Video",
+                    "Visual Arts",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Historical and Critical Studies",
+                "FieldsOfStudy": [
+                    "Art History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media Arts",
+                "FieldsOfStudy": [
+                    "Film",
+                    "Fine Arts",
+                    "Media Studies",
+                    "Photography",
+                    "Video",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Extended Studies",
+                "FieldsOfStudy": [
+                    "Art Management",
+                    "Ceramic Art",
+                    "Computer Graphics",
+                    "Computer Science",
+                    "Design",
+                    "Fashion Design",
+                    "Fine Arts",
+                    "Glass Art",
+                    "Graphic Arts",
+                    "Jewellery Art",
+                    "Painting and Drawing",
+                    "Paper Technology",
+                    "Photography",
+                    "Printing and Printmaking",
+                    "Sculpture",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Ceramic Art",
+                    "Design",
+                    "Film",
+                    "Fine Arts",
+                    "Handicrafts",
+                    "Jewellery Art",
+                    "Painting and Drawing",
+                    "Performing Arts",
+                    "Photography",
+                    "Printing and Printmaking",
+                    "Sculpture",
+                    "Textile Design",
+                    "Video"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Design",
+                    "Fine Arts"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1695, Route 1",
+                "City": "Pointe-de-l'Eglise",
+                "Province": "Nova Scotia",
+                "PostCode": "BOW 1MO",
+                "Website": "http://www.usainteanne.ca",
+                "college_name": "Saint-Anne University",
+                "university_name": "Universit\u00e9 Sainte-Anne"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as College Sainte-Anne 1890 by Mgr. Blanche and the Fathers of the Congregation of Jesus and Mary (Eudists). Incorporated 1892 by an Act of the Nova Scotia legislature, and endowed with the power of conferring degrees. Acquired present title 1977.",
+            "AcademicYear": "September to June (September-December; January-April; May-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent",
+                "Acceptable knowledge of the French language necessary"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Acadian",
+                "FieldsOfStudy": [
+                    "Canadian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Customized Language Training Services",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "English",
+                    "French",
+                    "Spanish"
+                ],
+                "Details": "Non-credited courses"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Canadian Studies",
+                    "Education",
+                    "English",
+                    "Foreign Languages Education",
+                    "French",
+                    "Health Sciences",
+                    "History",
+                    "Primary Education",
+                    "Public Health",
+                    "Secondary Education",
+                    "Social and Community Services",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional Programmes",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Education",
+                    "English",
+                    "Foreign Languages Education",
+                    "French",
+                    "Humanities and Social Science Education",
+                    "International Business",
+                    "Marketing",
+                    "Mathematics Education",
+                    "Native Language Education",
+                    "Primary Education",
+                    "Science Education",
+                    "Secondary Education",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Acadian Studies",
+                "FieldsOfStudy": [
+                    "Canadian Studies"
+                ],
+                "Details": "GREA"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Minority Health",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Orality of Francophone minority of America",
+                "FieldsOfStudy": [
+                    "Folklore"
+                ],
+                "Details": "Coframi"
+            },
+            {
+                "College": "French Immersion",
+                "FieldsOfStudy": [
+                    "Foreign Languages Education",
+                    "French"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 5000",
+                "City": "Antigonish",
+                "Province": "Nova Scotia",
+                "PostCode": "B2G 2W5",
+                "Website": "http://www.stfx.ca",
+                "college_name": "St. Francis Xavier University",
+                "university_name": "(StFX)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1853 as St. Francis Xavier College, Seminary 1855. Full university powers conferred by the province of Nova Scotia 1866.",
+            "AcademicYear": "September to May (September-December; January-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "English",
+                "French",
+                "Scottish Gaelic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Climate Science",
+                "FieldsOfStudy": [
+                    "Meteorology"
+                ],
+                "Details": "CREATE Training Programs"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Biology",
+                    "Celtic Languages and Studies",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Education",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Ancient Civilizations",
+                    "Anthropology",
+                    "Aquaculture",
+                    "Asian Religious Studies",
+                    "Bible",
+                    "Canadian Studies",
+                    "Catholic Theology",
+                    "Celtic Languages and Studies",
+                    "Christian Religious Studies",
+                    "Classical Languages",
+                    "Development Studies",
+                    "Economics",
+                    "English",
+                    "Fine Arts",
+                    "French",
+                    "German",
+                    "Greek (Classical)",
+                    "History",
+                    "Jazz and Popular Music",
+                    "Latin",
+                    "Literature",
+                    "Modern Languages",
+                    "Music",
+                    "Music Theory and Composition",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religious Studies",
+                    "Sociology",
+                    "Spanish",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business Computing",
+                    "Computer Science",
+                    "Economics",
+                    "Finance",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Leadership",
+                    "Management",
+                    "Marketing",
+                    "Software Engineering"
+                ],
+                "Details": "Gerald Schwartz"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Continuing Education",
+                    "Curriculum",
+                    "Education",
+                    "French",
+                    "Leadership",
+                    "Literacy Education",
+                    "Pedagogy",
+                    "Physical Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Aquaculture",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Mathematics",
+                    "Nursing",
+                    "Nutrition",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Coady International",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Development Studies",
+                    "Finance",
+                    "Health Sciences",
+                    "Leadership",
+                    "Natural Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aquatic Plant Resources",
+                "FieldsOfStudy": [
+                    "Plant and Crop Protection"
+                ],
+                "Details": "McLachlan"
+            },
+            {
+                "College": "Behavioural Neuroscience",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Neurosciences"
+                ],
+                "Details": "Dr. Karen Brebner and Dr. John McKenna"
+            },
+            {
+                "College": "Comparative Biomechanics",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Food Research",
+                "FieldsOfStudy": [
+                    "FRL"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Infant Action and Cognition",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Infant Development",
+                "FieldsOfStudy": [
+                    "Child Care and Development"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Invertebrate Neuroethology",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Ecology",
+                "FieldsOfStudy": [
+                    "Ecology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Parent and Child Interaction",
+                "FieldsOfStudy": [
+                    "Child Care and Development"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "SafetyNET-Rx Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "X-CELL Analytical Service",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "ACEnet",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "Atlantic Computational Excellence Network"
+            },
+            {
+                "College": "Culture and Human Development",
+                "FieldsOfStudy": [
+                    "CRCHD"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Sciences",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "ESRC"
+            },
+            {
+                "College": "Health Literacy in Rural Nova Scotia Research Project",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "TPI [physics]",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Adult Education",
+                    "Biology",
+                    "Celtic Languages and Studies",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "6350 Coburg Road",
+                "City": "Halifax",
+                "Province": "Nova Scotia",
+                "PostCode": "B3H 2A1",
+                "Website": "https://ukings.ca",
+                "college_name": "University of King\u2019s College",
+                "university_name": "University of King's College (King's)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1789 at Windsor, Nova Scotia, established by provincial statute and granted a Royal Charter by King George III 1802. Associated with Dalhousie University.",
+            "AcademicYear": "September to May (September-December; January-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Science",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Contemporary Studies",
+                "FieldsOfStudy": [
+                    "Contemporary History"
+                ],
+                "Details": "CSP"
+            },
+            {
+                "College": "Early Modern Studies",
+                "FieldsOfStudy": [
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History of Science and Technology",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Journalism",
+                    "Music",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Fine Arts",
+                    "Journalism"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

@@ -1,0 +1,4636 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus universitaire de la Manouba",
+                "City": "La Manouba",
+                "Province": "N/A",
+                "PostCode": "2010",
+                "Website": "http://www.uma.rnu.tn",
+                "college_name": "University of Manouba",
+                "university_name": "Universit\u00e9 de La Manouba"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2000 from Faculty of Letters of Universit\u00e9 des Lettres, des Arts et des Sciences humaines (Tunis 1)",
+            "AcademicYear": "Academic year starts 1 September for the Schools of Engineering and Veterinary Medicine and 12 September for faculties and other higher schools and institutes; the year ends on 30 June",
+            "AdmissionRequirements": [
+                "Secondary school diploma (Baccalaur\u00e9at)"
+            ],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "English",
+                    "French",
+                    "Geography",
+                    "German",
+                    "History",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Italian",
+                    "Multimedia",
+                    "Spanish",
+                    "Translation and Interpretation"
+                ],
+                "Details": "FLAHM"
+            },
+            {
+                "College": "Accountancy and Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Human Resources",
+                    "Management"
+                ],
+                "Details": "ISCAE"
+            },
+            {
+                "College": "Arts and Multimedia",
+                "FieldsOfStudy": [
+                    "Multimedia",
+                    "Visual Arts"
+                ],
+                "Details": "ISAMM"
+            },
+            {
+                "College": "Biotechnology",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Microbiology"
+                ],
+                "Details": "ISBST, Sidi Thabet"
+            },
+            {
+                "College": "Documentation",
+                "FieldsOfStudy": [
+                    "Archiving",
+                    "Documentation Techniques",
+                    "Library Science"
+                ],
+                "Details": "ISD"
+            },
+            {
+                "College": "Press and Communication Sciences",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Journalism"
+                ],
+                "Details": "IPSI"
+            },
+            {
+                "College": "Research into Contemporary History of Tunisia",
+                "FieldsOfStudy": [
+                    "History"
+                ],
+                "Details": "ISHTC"
+            },
+            {
+                "College": "Special Education",
+                "FieldsOfStudy": [
+                    "Special Education"
+                ],
+                "Details": "ISES"
+            },
+            {
+                "College": "Sports and Physical Education",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "ISSEP, Ksar Sa\u00efd"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Economics",
+                    "Finance",
+                    "Health Administration",
+                    "Insurance",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Details": "ESCT, Tunis"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "ENSI"
+            },
+            {
+                "College": "Design Science and Technology",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Furniture Design",
+                    "Graphic Design",
+                    "Industrial Design"
+                ],
+                "Details": "ESSTED, DenDen"
+            },
+            {
+                "College": "Digital Economy",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "E-Business/Commerce",
+                    "Software Engineering"
+                ],
+                "Details": "ESEN"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Environmental Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "MSE (all programmes taught in English)"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "ENMV, Sidi Thabet"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Arabic",
+                    "Biotechnology",
+                    "Computer Science",
+                    "Design",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "French",
+                    "German",
+                    "History",
+                    "Information Sciences",
+                    "Italian",
+                    "Management",
+                    "Marketing",
+                    "Religion",
+                    "Sports"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 526\nRue Khelifa El Karoui Sahloul IV",
+                "City": "Sousse",
+                "Province": "N/A",
+                "PostCode": "4002",
+                "Website": "https://uso.rnu.tn",
+                "college_name": "University of Sousse",
+                "university_name": "Universit\u00e9 de Sousse"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1986 as Universit\u00e9 de Monastir pour le Centre. Renamed Universit\u00e9 du Centre Sousse. Acquired present title 2004.",
+            "AcademicYear": "September to July (September-February; February-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at)"
+            ],
+            "Languages": [
+                "Arabic",
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Arabic",
+                    "English",
+                    "French",
+                    "Geography",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance",
+                    "International Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Science",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Fiscal Law",
+                    "Law",
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Community Health",
+                    "Medicine",
+                    "Nursing",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agronomy"
+                ],
+                "Details": "Chott M\u00e9riem"
+            },
+            {
+                "College": "Applied Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Mechanical Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Communication Techniques",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance and Fiscality",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Fiscal Law",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport and Logistics",
+                "FieldsOfStudy": [
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "National"
+            },
+            {
+                "College": "Health Sciences and Techniques",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "Hammam Sousse"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Agronomy",
+                    "Arabic",
+                    "Economics",
+                    "English",
+                    "French",
+                    "History",
+                    "Law",
+                    "Management"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "34, rue Cyrus le Grand",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1002",
+                "Website": "http://www.uas.ens.tn",
+                "college_name": "Arab University of Sciences",
+                "university_name": "Universit\u00e9 arabe des Sciences (UAS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Baccalaur\u00e9at"
+            ],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Law, Social Sciences, Economics and Management",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Economics",
+                    "Hotel and Restaurant",
+                    "Journalism",
+                    "Law",
+                    "Social Sciences",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering - ESIET",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Materials Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "90 rue Mohamed V",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1002",
+                "Website": "http://www.apbs.tn",
+                "college_name": "Avicenne Private Business School",
+                "university_name": "(APBS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Established in 2010, Avicenne Private Business School (APBS) is accredited by the Ministry of Higher Education and Scientific Research. APBS also belongs to the group Ren\u00e9 Descartes which schools are accredited by the French Ministry of Education and the Agence de l\u2019Enseignement Fran\u00e7ais \u00e0 l\u2019Etranger (AEFE).",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3, rue Hammadi Eljaziri",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1002",
+                "Website": "http://www.universitecentrale.net",
+                "college_name": "Central University",
+                "university_name": "Universit\u00e9 Centrale"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Law and Management - Centrale DG",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Finance",
+                    "Law",
+                    "Management",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Letters, Art and Communication Studies - Centrale Com",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Communication Studies",
+                    "English",
+                    "Film",
+                    "French",
+                    "German",
+                    "Interior Design",
+                    "Italian",
+                    "Journalism",
+                    "Modern Languages",
+                    "Multimedia",
+                    "Sound Engineering (Acoustics)",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Paramedical and Health Sciences - Centrale Sant\u00e9",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Dental Technology",
+                    "Health Administration",
+                    "Nursing",
+                    "Nutrition",
+                    "Obstetrics and Gynaecology",
+                    "Optics",
+                    "Physical Therapy",
+                    "Speech Therapy and Audiology",
+                    "Treatment Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Polytechnic - Centrale Polytech",
+                "FieldsOfStudy": [
+                    "Bioengineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Mechanical Engineering",
+                    "Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Route de Ceinture, Sahloul",
+                "City": "Sousse",
+                "Province": "N/A",
+                "PostCode": "4021",
+                "Website": "http://www.episousse.com.tn",
+                "college_name": "EPI Sousse",
+                "university_name": "Ecole priv\u00e9e d\u2019Ing\u00e9nieur Sousse - EPI Sousse"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2011.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture - EPI-Arch",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering - EPI-Polytec",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Mechanical Engineering",
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management - EPI-Ma",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Boulevard de l\u2019environnement Zitouna 1 N\u00b0 28 - El Kantaoui Hammam",
+                "City": "Sousse",
+                "Province": "N/A",
+                "PostCode": "4089",
+                "Website": "http://www.estim-tunisie.com",
+                "college_name": "ESTIM University",
+                "university_name": "ESTIM Universit\u00e9 \u2013 Ecole Sup\u00e9rieure Priv\u00e9e des Technologies d'Informatique et de Management (ESTIM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2010.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "21, rue Sidi Abou El Kacem Jelizi \nPlace Maakel Ezza\u00efm",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1008",
+                "Website": "http://www.uz.rnu.tn",
+                "college_name": "Ezzitouna University",
+                "university_name": "Universit\u00e9 Ezzitouna"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 734. Acquired present status 1995.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at)"
+            ],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Islamic Studies and Islamic Civilisation",
+                "FieldsOfStudy": [
+                    "Heritage Preservation",
+                    "Islamic Studies"
+                ],
+                "Details": "Kairouan"
+            },
+            {
+                "College": "Islamic Law",
+                "FieldsOfStudy": [
+                    "Islamic Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Islamic Theology",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Islamic Studies"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rue Jawdet El Hayet Chotrana 1 - La soukra",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "2036",
+                "Website": "http://www.uik.ens.tn",
+                "college_name": "Ibn Khaldoun Private University",
+                "university_name": "Universit\u00e9 priv\u00e9e Ibn Khaldoun (UIK)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1980.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Civil Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3, avenue Jughurta Mutuelleville",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1002",
+                "Website": "http://www.ihet.ens.tn",
+                "college_name": "Institute of Advanced Studies in Tunis",
+                "university_name": "Institut des Hautes Etudes \u00e0 Tunis (IHET)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998.",
+            "AcademicYear": "Sep to Dec; Feb to May",
+            "AdmissionRequirements": [
+                "Baccalaureat or other recognized secondary school certificate",
+                ""
+            ],
+            "Languages": [
+                "French",
+                "English",
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "Banking",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Small Business",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Undergraduate",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Banking",
+                    "Business and Commerce",
+                    "Commercial Law",
+                    "E-Business/Commerce",
+                    "Finance",
+                    "Hotel Management",
+                    "Information Technology",
+                    "International Business",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Private Law",
+                    "Public Law",
+                    "Small Business",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus universitaire-Boukhzar",
+                "City": "Sousse",
+                "Province": "N/A",
+                "PostCode": "4000",
+                "Website": "http://www.ihes.ens.tn",
+                "college_name": "Institute of Advanced Studies of Sousse",
+                "university_name": "Institut des Hautes Etudes \u00e0 Sousse (IHE Sousse)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Baccalaur\u00e9at or equivalent"
+            ],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Computing",
+                "FieldsOfStudy": [
+                    "Business Computing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Multimedia",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance and Banking",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Private Law",
+                "FieldsOfStudy": [
+                    "Private Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Law",
+                "FieldsOfStudy": [
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Av. khalifa El karoui (Immeuble Zaatir) - Sahloul",
+                "City": "Sousse",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://etoile-formation.com",
+                "college_name": "Institute of Paramedical and Nursing Sciences of Sousse",
+                "university_name": "Institut sup\u00e9rieur des Etudes param\u00e9dicales et Sciences Infirmi\u00e8res de Sousse (ISEPSI)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007. Affiliated to the Group Etoile formation.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Route M'Harza km.1.5,",
+                "City": "Sfax",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://iit.tn",
+                "college_name": "International Institute of Technology",
+                "university_name": "Ecole sup\u00e9rieure internationale Priv\u00e9e de Technologie / Sfax (IIT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2012",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "International School of Architecture (ISA)"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Route de Tunis Km 10\nCit\u00e9 El Ons Technop\u00f4le de Sfax",
+                "City": "Sfax",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://isb.tn",
+                "college_name": "International School of Business",
+                "university_name": "(ISB)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2013",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business Computing",
+                    "E-Business/Commerce",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Private Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Angle Rue Ibn Badis et Avenue d\u2019Alg\u00e9rie",
+                "City": "Sfax",
+                "Province": "N/A",
+                "PostCode": "3000",
+                "Website": "http://www.eseac.ens.tn",
+                "college_name": "International School of Business Management - Sfax",
+                "university_name": "Ecole sup\u00e9rieure des Etudes Administratives et Commerciales (ESEAC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003 as Universit\u00e9 Internationale Priv\u00e9e de Management des Affaires de Sfax. Acquired present title 2012.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Baccalaur\u00e9at)"
+            ],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Computing",
+                "FieldsOfStudy": [
+                    "Business Computing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commercial Law",
+                "FieldsOfStudy": [
+                    "Commercial Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Economics",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Av Dali Jezi, Sidi El Mahrsi Route Hammamet,",
+                "City": "Nabeul",
+                "Province": "N/A",
+                "PostCode": "8062",
+                "Website": "http://www.itbs.tn",
+                "college_name": "IT Business School",
+                "university_name": "(ITBS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Les Berges du Lac II",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1053",
+                "Website": "http://medtech.tn",
+                "college_name": "Mediterranean Instiute of Technology",
+                "university_name": "Institut Sup\u00e9rieur Priv\u00e9 M\u00e9diterran\u00e9en de Technology (MEDTECH)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2012. MEDTECH (Mediterranean Institute Of Technology) is part of South Mediterranean University (SMU) with MSB (Mediterranean Business School) and LCI (Language and Culture Institute).",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Energy Engineering",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Programme",
+                "FieldsOfStudy": [
+                    "Artificial Intelligence",
+                    "Business Computing",
+                    "Engineering Management",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Undergraduate Programme",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Les Berges du Lac II",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1053",
+                "Website": "http://www.msb.tn",
+                "college_name": "Mediterranean School of Business",
+                "university_name": "Ecole M\u00e9diterran\u00e9enne sup\u00e9rieure priv\u00e9e des Affaires"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002. MSB (Mediterranean Business School) is part of South Mediterranean University (SMU) with MedTech (Mediterranean Institute of Technology) and LCI (Language and Culture Institute).",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Human Resources",
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "14-16 Rue Mohamed Badra",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1073",
+                "Website": "http://www.umlt.ens.tn",
+                "college_name": "Mediterranean University of Tunis",
+                "university_name": "Universit\u00e9 M\u00e9diterran\u00e9enne priv\u00e9e de Tunis"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Nabeul",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tunis",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business Computing",
+                    "Computer Science",
+                    "Finance",
+                    "Insurance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Polytechnic Mediterranean",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bd Khalifa Karoui, Sahloul",
+                "City": "Sousse",
+                "Province": "4054",
+                "PostCode": "N/A",
+                "Website": "http://www.polytecsousse.tn",
+                "college_name": "Polytechnical School of Sousse",
+                "university_name": "Ecole Polytechnique de Sousse \u2013 Polytechnique Sousse"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary School certificate (baccalaur\u00e9at)",
+                ""
+            ],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Biotechnology",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Mechanical Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Preparatory",
+                "FieldsOfStudy": [
+                    "Mathematics",
+                    "Physics",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Z.I. Chotrana II, BP 160\nP\u00f4le Technologique El Ghazela",
+                "City": "Ariana",
+                "Province": "N/A",
+                "PostCode": "2083",
+                "Website": "http://esprit.tn",
+                "college_name": "Private Higher School of Engineering and Technology",
+                "university_name": "Ecole sup\u00e9rieure priv\u00e9e d'Ing\u00e9nierie et de Technologie (ESPRIT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Competitive entrance examination"
+            ],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenue Taieb M'hiri",
+                "City": "Monastir",
+                "Province": "N/A",
+                "PostCode": "5000",
+                "Website": "http://www.polytechmonastir.tn",
+                "college_name": "Private Polytechnical School of Monastir",
+                "university_name": "Ecole Polytechnique priv\u00e9e de Monastir (Polytech Monastir)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Fond\u00e9 en 2014.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school diploma",
+                "(Scientific Baccalaur\u00e9at)"
+            ],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Engineering",
+                    "Mechanical Engineering",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Prepartory",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 91 Bureau de poste Mtorch",
+                "City": "Gab\u00e8s",
+                "Province": "N/A",
+                "PostCode": "6014",
+                "Website": "http://www.essat-gabes.com",
+                "college_name": "Private School of Applied Science and Technology of Gabes",
+                "university_name": "Ecole sup\u00e9rieure priv\u00e9e des Sciences Appliqu\u00e9es et de la Technologie de Gab\u00e8s (ESSAT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "ESSAT"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus Universitaire Zarroug",
+                "City": "Gafsa",
+                "Province": "N/A",
+                "PostCode": "2112",
+                "Website": "http://www.esip.tn",
+                "college_name": "Private School of Engineering of Gafsa",
+                "university_name": "Ecole superieure d'Ing\u00e9nieurs priv\u00e9e de Gafsa (ESIP)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 104\nBoulevard de l'environnement",
+                "City": "Monastir",
+                "Province": "N/A",
+                "PostCode": "5060",
+                "Website": "http://www.esprim.tn",
+                "college_name": "Private School of Engineers of Monastir",
+                "university_name": "Ecole sup\u00e9rieure priv\u00e9e d'Ing\u00e9nieurs de Monastir"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2014",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Preparatory",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "22, Avenue de Madrid",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "http://www.suptech.tn",
+                "college_name": "Private School of Technology and Management",
+                "university_name": "\u00c9cole sup\u00e9rieure priv\u00e9e de Technologie et de Management (SUPTECH)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993. Acquired present status and title 2001 (Law 73 of 25 July 2000).",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Baccalaur\u00e9at) or equivalent"
+            ],
+            "Languages": [
+                "French",
+                "English",
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Finance",
+                    "Hotel Management",
+                    "Information Technology",
+                    "Management",
+                    "Telecommunications Engineering",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3, rue El Imam Ibn Arafa, Megrine",
+                "City": "Ben Arous",
+                "Province": "N/A",
+                "PostCode": "2033",
+                "Website": "http://www.upes-megrine.com",
+                "college_name": "Private University of Science and Technology Studies of M\u00e9grine",
+                "university_name": "Universit\u00e9 priv\u00e9e des \u00e9tudes scientifiques et technologiques de M\u00e9grine"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science Applied to Management",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Management",
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenue 5 Ao\u00fbt Rue Sa\u00efd Abou Baker N\u00b0 74",
+                "City": "Sfax",
+                "Province": "N/A",
+                "PostCode": "3002",
+                "Website": "http://www.uls.ens.tn",
+                "college_name": "Private University of the South",
+                "university_name": "Universit\u00e9 libre du Sud (ULS-IPSAS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993, acquired present status 2001. ULS is composed of Institut Polytechnique Priv\u00e9 des Sciences Avanc\u00e9es - Sfax (IPSAS) and Institut Priv\u00e9 Sup\u00e9rieur des Sciences Juridiques et de Management (IPSM).",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Baccalaur\u00e9at or equivalent"
+            ],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Law and Management - IPSM",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Cooking and Catering",
+                    "Economics",
+                    "Finance",
+                    "Hotel Management",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Polytechnique - IPSAS",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Hydraulic Engineering",
+                    "Measurement and Precision Engineering",
+                    "Mechanical Engineering",
+                    "Physics",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "Institut Polytechnique Priv\u00e9 des Sciences Avanc\u00e9es"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "32 bis, avenue Kh\u00e9reddine Pacha",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1002",
+                "Website": "http://www.ult-tunisie.com",
+                "college_name": "Private University of Tunis",
+                "university_name": "Universit\u00e9 libre de Tunis (ULT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1992 by the merging of the Electronic and Automatism School and the Institute for Advanced Technologies and Business Studies. Acquired present status 2001.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Baccalaur\u00e9at) or equivalent"
+            ],
+            "Languages": [
+                "French",
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Correspondence Education and Training",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Engineering",
+                    "Law",
+                    "Management",
+                    "Modern Languages"
+                ],
+                "Details": "CIFED"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Commercial Law",
+                    "Criminal Law",
+                    "Economics",
+                    "Finance",
+                    "Industrial Management",
+                    "International Economics",
+                    "Law",
+                    "Management Systems",
+                    "Operations Research",
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "International Law",
+                    "Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Polytechnic",
+                "FieldsOfStudy": [
+                    "Agronomy",
+                    "Bioengineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Industrial Engineering",
+                    "Management",
+                    "Mechanical Engineering",
+                    "Technology",
+                    "Telecommunications Engineering",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Design",
+                    "Display and Stage Design",
+                    "Fashion Design",
+                    "Graphic Design",
+                    "Interior Design",
+                    "Theatre",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1 Rue Baudelaire\nEl Omrane",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1005",
+                "Website": "http://www.esad-tunis.com",
+                "college_name": "School of Architecture, Audiovisual and Design",
+                "university_name": "Ecole sup\u00e9rieure d'Architecture d'Audiovisuel et de Design \u2013 Universit\u00e9 des Arts et du Design (ESAD)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Baccalaur\u00e9at) or equivalent"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Audiovisual and Cinema",
+                "FieldsOfStudy": [
+                    "Cinema and Television"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Graphic Design",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Photography",
+                "FieldsOfStudy": [
+                    "Photography"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rue Errihanne",
+                "City": "Ariana",
+                "Province": "N/A",
+                "PostCode": "2027",
+                "Website": "http://www.tek-up.de",
+                "college_name": "TEK-UP Private School of Technology and Engineering",
+                "university_name": "TEK-UP Ecole sup\u00e9rieure priv\u00e9e de Technologie et Ing\u00e9nierie"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2014.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "45, Avenue Mohamed V\nMontplaisir",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1002",
+                "Website": "http://www.time.ens.tn",
+                "college_name": "TIME Private Higher School",
+                "university_name": "TIME Universit\u00e9 \u2013 Ecole Sup\u00e9rieure Priv\u00e9e des Technologies de l\u2019information et de Management de l\u2019Entreprise (TIME- ESP)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002. A private university composed of 2 'Grandes Ecoles': the \u00c9cole Sup\u00e9rieure de Management - ESM and the \u00c9cole Sup\u00e9rieure d'Informatique - ESI",
+            "AcademicYear": "September to August (September-February; February-August)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at) or equivalent"
+            ],
+            "Languages": [
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Computer Networks and Telecommunications Engineering - ESI-TIME",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Electronics and Automation",
+                    "Engineering",
+                    "Industrial Maintenance",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "E-Learning",
+                "FieldsOfStudy": [
+                    "Distance Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management - ESM-Time",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Computer Science",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Software Engineering",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenue Fattouma Bourguiba, La Soukra",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "2036",
+                "Website": "http://www.utctunisie.com",
+                "college_name": "Tunis Carthage University",
+                "university_name": "Universit\u00e9 Tunis Carthage (UTC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993 as Ecole Sup\u00e9rieure d'Informatique et de Gestion. Acquired present status and title 2001.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Baccalaur\u00e9at or equivalent",
+                ""
+            ],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "Carthage"
+            },
+            {
+                "College": "Science and Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Design",
+                    "Interior Design"
+                ],
+                "Details": "Carthage"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "20 rue Baudelaire - El Omrane",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1005",
+                "Website": "http://www.tunisdauphine.tn",
+                "college_name": "Tunis Dauphine Private Institute",
+                "university_name": "Institut sup\u00e9rieur priv\u00e9 Tunis Dauphine"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009. The first international campus of Paris-Dauphine University.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "48 rue des min\u00e9raux, Charguia I",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "2035",
+                "Website": "http://univ-internationale.com",
+                "college_name": "Tunis International University",
+                "university_name": "Universit\u00e9 internationale priv\u00e9e de Tunis (UIT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French",
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Fiscal Law",
+                    "Private Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Polytechnic",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Electronics and Automation",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Vatel Business School",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "15 rue de l'Usine Cherguia 2",
+                "City": "Tunis Carthage",
+                "Province": "N/A",
+                "PostCode": "2080",
+                "Website": "http://www.esat.ens.tn",
+                "college_name": "University College of Aviation and Technology",
+                "university_name": "Ecole sup\u00e9rieure d'A\u00e9ronautique et des Technologies \u2013 ESAT University (ESAT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Baccalaur\u00e9at"
+            ],
+            "Languages": [
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Preparatory Cycle",
+                "FieldsOfStudy": [
+                    "English",
+                    "Law",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aviation and Transport Technology",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Air Transport",
+                    "Automotive Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Telecommunications",
+                "FieldsOfStudy": [
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenue de la R\u00e9publique\nBP 77-1054",
+                "City": "Amilcar",
+                "Province": "N/A",
+                "PostCode": "1054",
+                "Website": "https://ucar.rnu.tn",
+                "college_name": "University of Carthage",
+                "university_name": "Universit\u00e9 de Carthage"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1987, reorganized 1989 as Universit\u00e9 de Droit, d'Economie et de Gestion (Tunis III). Formerly Universit\u00e9 du 7 novembre \u00e0 Carthage. Acquired present title 2011.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at)"
+            ],
+            "Languages": [
+                "French",
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "International Economics",
+                    "Management",
+                    "Social Policy"
+                ],
+                "Details": "Nabeul"
+            },
+            {
+                "College": "Law, Political and Social Sciences",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Criminal Law",
+                    "Law",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Public Law",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Food Technology",
+                    "Industrial Chemistry",
+                    "Information Technology",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Physics",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "Bizerte"
+            },
+            {
+                "College": "Advanced Business Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business and Commerce",
+                    "E-Business/Commerce",
+                    "Economics",
+                    "Finance",
+                    "Hotel Management",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "Carthage"
+            },
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agrobiology",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Arid Land Studies",
+                    "Biology",
+                    "Botany",
+                    "Fishery",
+                    "Food Technology",
+                    "Forestry",
+                    "Geology",
+                    "Rural Planning",
+                    "Water Management"
+                ],
+                "Details": "National, Tunis"
+            },
+            {
+                "College": "Applied Languages and Computer Science",
+                "FieldsOfStudy": [
+                    "Applied Linguistics",
+                    "Computer Science",
+                    "Modern Languages",
+                    "Multimedia"
+                ],
+                "Details": "Nabeul"
+            },
+            {
+                "College": "Applied Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Applied Chemistry",
+                    "Biology",
+                    "Computer Networks",
+                    "Electronics and Automation",
+                    "Industrial Chemistry",
+                    "Industrial Maintenance",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "National"
+            },
+            {
+                "College": "Applied Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "Mateur"
+            },
+            {
+                "College": "Biology and Geology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Geology"
+                ],
+                "Details": "Preparatory, Soukra"
+            },
+            {
+                "College": "Childhood Studies",
+                "FieldsOfStudy": [
+                    "Child Care and Development"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "E-Business/Commerce",
+                    "Economics",
+                    "Entrepreneurship",
+                    "Finance",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "IHEC"
+            },
+            {
+                "College": "Engineering Studies - Bizerte",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Engineering",
+                    "Geology",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "Preparatory"
+            },
+            {
+                "College": "Engineering Studies - Nabeul",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Engineering",
+                    "Mathematics",
+                    "Physics",
+                    "Technology"
+                ],
+                "Details": "Preparatory"
+            },
+            {
+                "College": "Environmental Sciences and Technologies",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Safety Engineering"
+                ],
+                "Details": "Borj C\u00e9dria"
+            },
+            {
+                "College": "Environmental, Town Planning and Building Technologies",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Building Technologies",
+                    "Environmental Studies",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Communication Studies",
+                    "Fine Arts"
+                ],
+                "Details": "Nabeul"
+            },
+            {
+                "College": "Fishery and Aquaculture",
+                "FieldsOfStudy": [
+                    "Aquaculture",
+                    "Fishery"
+                ],
+                "Details": "Bizerte"
+            },
+            {
+                "College": "Labour and Social Studies",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Labour and Industrial Relations",
+                    "Management",
+                    "Social and Community Services",
+                    "Social Studies"
+                ],
+                "Details": "National"
+            },
+            {
+                "College": "Languages",
+                "FieldsOfStudy": [
+                    "Applied Linguistics",
+                    "Arabic",
+                    "Chinese",
+                    "English",
+                    "French",
+                    "German",
+                    "Italian",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Russian",
+                    "Spanish",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce"
+                ],
+                "Details": "Bizerte"
+            },
+            {
+                "College": "Research in Rural, Water and Forestry Engineering",
+                "FieldsOfStudy": [
+                    "National"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and Technology of Environment - Borj Cedria",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Scientific and Technical Studies - La Marsa",
+                "FieldsOfStudy": [
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "Preparatory"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "Sidi Dhrif"
+            },
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "National"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Bioengineering",
+                    "Biology",
+                    "Geology",
+                    "Management",
+                    "Natural Resources",
+                    "Rural Planning",
+                    "Vegetable Production"
+                ],
+                "Details": "Mograne"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Food Science"
+                ],
+                "Details": "Mateur"
+            },
+            {
+                "College": "Architecture and Town Planning",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Town Planning"
+                ],
+                "Details": "National, Tunis"
+            },
+            {
+                "College": "Audio-visual Studies and Cinema",
+                "FieldsOfStudy": [
+                    "Cinema and Television",
+                    "Visual Arts"
+                ],
+                "Details": "Gammarth"
+            },
+            {
+                "College": "Communications",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Information Management",
+                    "Information Technology",
+                    "Multimedia",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "Sup'Com"
+            },
+            {
+                "College": "Food Industries",
+                "FieldsOfStudy": [
+                    "Food Science",
+                    "Food Technology"
+                ],
+                "Details": "Tunis"
+            },
+            {
+                "College": "Polytechnic",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Mechanical Engineering",
+                    "Modern Languages"
+                ],
+                "Details": "Tunisia Polytechnic School, La Marsa"
+            },
+            {
+                "College": "Statistics and Information Analysis",
+                "FieldsOfStudy": [
+                    "Econometrics",
+                    "Economics",
+                    "Information Management",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology and Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Industrial Management",
+                    "Physics"
+                ],
+                "Details": "Carthage"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Economics",
+                    "Law",
+                    "Management"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Cit\u00e9 Riadh, Zerig",
+                "City": "Gab\u00e8s",
+                "Province": "N/A",
+                "PostCode": "6072",
+                "Website": "http://www.univgb.rnu.tn",
+                "college_name": "University of Gabes",
+                "university_name": "Universit\u00e9 de Gab\u00e8s (UNIVGB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2003.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Baccalaureat"
+            ],
+            "Languages": [
+                "Arabic",
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Computer Science",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Biology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Food Science"
+                ],
+                "Details": "Medenine"
+            },
+            {
+                "College": "Applied Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Studies in the Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English",
+                    "French",
+                    "Modern Languages"
+                ],
+                "Details": "Medenine"
+            },
+            {
+                "College": "Arts and Crafts",
+                "FieldsOfStudy": [
+                    "Aesthetics",
+                    "Ceramic Art",
+                    "Crafts and Trades",
+                    "Design",
+                    "Fine Arts",
+                    "Music",
+                    "Painting and Drawing",
+                    "Photography",
+                    "Sculpture"
+                ],
+                "Details": "Tataouine"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "Medenine"
+            },
+            {
+                "College": "Computer Science and Multimedia",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Systems",
+                "FieldsOfStudy": [
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "German",
+                    "Italian",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Water Science and Technology",
+                "FieldsOfStudy": [
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Engineering"
+                ],
+                "Details": "National"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Route de Kasserine - Cit\u00e9 Ennour\nImmeuble Radhouane Be\u00eer",
+                "City": "Gafsa",
+                "Province": "N/A",
+                "PostCode": "2100",
+                "Website": "http://www.ugaf.rnu.tn",
+                "college_name": "University of Gafsa",
+                "university_name": "Universit\u00e9 de Gafsa"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Computer Science",
+                    "Geology",
+                    "Industrial Maintenance",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Science and Technology",
+                "FieldsOfStudy": [
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Studies in the Humanities - Gafsa",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English",
+                    "French",
+                    "Heritage Preservation",
+                    "Human Resources",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Studies in the Humanities - Tozeur",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Crafts",
+                "FieldsOfStudy": [
+                    "Crafts and Trades",
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Energy Engineering",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports and Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenue de l'environnement",
+                "City": "Jendouba",
+                "Province": "N/A",
+                "PostCode": "8100",
+                "Website": "http://www.uj.rnu.tn",
+                "college_name": "University of Jendouba",
+                "university_name": "Universit\u00e9 de Jendouba"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1970. Acquired present status 2003.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Baccalaur\u00e9at)"
+            ],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Law, Economics and Management",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "Law",
+                    "Management",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Languages and Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Modern Languages"
+                ],
+                "Details": "B\u00e9ja"
+            },
+            {
+                "College": "Applied Studies in the Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "Le Kef"
+            },
+            {
+                "College": "Arts and Crafts",
+                "FieldsOfStudy": [
+                    "Crafts and Trades",
+                    "Fine Arts"
+                ],
+                "Details": "Siliana"
+            },
+            {
+                "College": "Biotechnology",
+                "FieldsOfStudy": [
+                    "Biotechnology"
+                ],
+                "Details": "B\u00e9ja"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Networks",
+                    "Computer Science"
+                ],
+                "Details": "Le Kef"
+            },
+            {
+                "College": "Forestry",
+                "FieldsOfStudy": [
+                    "Forestry"
+                ],
+                "Details": "Tabarka"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music and Drama",
+                "FieldsOfStudy": [
+                    "Music",
+                    "Theatre"
+                ],
+                "Details": "Le Kef"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "Le Kef"
+            },
+            {
+                "College": "Sports and Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "Le Kef"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "Le Kef"
+            },
+            {
+                "College": "Rural Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agricultural Equipment",
+                    "Rural Planning"
+                ],
+                "Details": "Medjez El Bab"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenue Baiet El Hekma - El Mansoura",
+                "City": "Kairouan",
+                "Province": "N/A",
+                "PostCode": "3131",
+                "Website": "http://www.univ-k.rnu.tn",
+                "college_name": "University of Kairouan",
+                "university_name": "Universit\u00e9 de Kairouan"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 859.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Literature Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Mathematics and Computer Science",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Mechanical Engineering",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Crafts",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Furniture Design",
+                    "Interior Design"
+                ],
+                "Details": "Sidi Bouzid"
+            },
+            {
+                "College": "Arts and Crafts",
+                "FieldsOfStudy": [
+                    "Crafts and Trades",
+                    "Fine Arts",
+                    "Graphic Arts",
+                    "Graphic Design",
+                    "Interior Design",
+                    "Jewellery Art"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Crafts",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Handicrafts",
+                    "Interior Design"
+                ],
+                "Details": "Kasserine"
+            },
+            {
+                "College": "Computer Science and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Computer Science",
+                    "Economics",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Science",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 56\nAvenue Taher Hadded",
+                "City": "Monastir",
+                "Province": "N/A",
+                "PostCode": "5000",
+                "Website": "http://www.um.rnu.tn",
+                "college_name": "University of Monastir",
+                "university_name": "Universit\u00e9 de Monastir"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Baccalaur\u00e9at"
+            ],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "Mahdia"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacology",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Applied Chemistry",
+                    "Applied Mathematics",
+                    "Applied Physics",
+                    "Computer Science",
+                    "Engineering",
+                    "Technology"
+                ],
+                "Details": "Mahdia"
+            },
+            {
+                "College": "Applied Studies in the Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "Mahdia"
+            },
+            {
+                "College": "Arts and Crafts",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Handicrafts",
+                    "Jewellery Art",
+                    "Textile Design"
+                ],
+                "Details": "Mahdia"
+            },
+            {
+                "College": "Biotechnology",
+                "FieldsOfStudy": [
+                    "Aquaculture",
+                    "Biology",
+                    "Biotechnology",
+                    "Genetics",
+                    "Marine Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "Mahdia"
+            },
+            {
+                "College": "Computer Science and Mathematics",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "Preparatory (IPEIM)"
+            },
+            {
+                "College": "Fashion Design",
+                "FieldsOfStudy": [
+                    "Fashion Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages for Business and Tourism",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English",
+                    "Geography",
+                    "German",
+                    "International Business",
+                    "Italian",
+                    "Modern Languages",
+                    "Spanish",
+                    "Tourism",
+                    "Translation and Interpretation"
+                ],
+                "Details": "Mokine"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Electronics and Automation",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Industrial Maintenance",
+                    "Mechanical Engineering",
+                    "Textile Technology"
+                ],
+                "Details": "National (ENIM)"
+            },
+            {
+                "College": "Health Sciences and Techniques",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Biology",
+                    "Dental Technology",
+                    "Health Sciences",
+                    "Obstetrics and Gynaecology",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Dentistry",
+                    "Pharmacy"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Quartier Montplaisir, Rue Aboubaker El Bokri",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1073",
+                "Website": "http://www.umt.ens.tn",
+                "college_name": "University of Montplaisir Tunisia",
+                "university_name": "Universit\u00e9 Montplaisir Tunis (UMT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993, acquired present status 2000. Formerly known as Facult\u00e9 priv\u00e9e de Management et de Commerce international (Private Faculty of Management and International Trade).",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Private Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 559\nRoute de l'A\u00e9roport Km. 0,5",
+                "City": "Sfax",
+                "Province": "N/A",
+                "PostCode": "3029",
+                "Website": "https://univ-sfax.tn",
+                "college_name": "University of Sfax",
+                "university_name": "Universit\u00e9 de Sfax"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1986. Acquired present status 1989.",
+            "AcademicYear": "September to July (September-January; February-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at)"
+            ],
+            "Languages": [
+                "French",
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Computer Science",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Information Technology",
+                    "International Business",
+                    "International Economics",
+                    "Management",
+                    "Management Systems",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages and Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Arts and Humanities",
+                    "English",
+                    "French",
+                    "Geography (Human)",
+                    "Heritage Preservation",
+                    "History",
+                    "Linguistics",
+                    "Philosophy",
+                    "Sociology",
+                    "Tourism",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "International Law",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Biology",
+                    "Biophysics",
+                    "Community Health",
+                    "Embryology and Reproduction Biology",
+                    "Gender Studies",
+                    "Genetics",
+                    "Gerontology",
+                    "Haematology",
+                    "Histology",
+                    "Medicine",
+                    "Microbiology",
+                    "Neurology",
+                    "Neurosciences",
+                    "Obstetrics and Gynaecology",
+                    "Optical Technology",
+                    "Paramedical Sciences",
+                    "Physical Therapy",
+                    "Radiology",
+                    "Sports Medicine",
+                    "Urology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Crafts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Handicrafts"
+                ],
+                "Details": "ISAMS"
+            },
+            {
+                "College": "Biotechnology",
+                "FieldsOfStudy": [
+                    "Biotechnology"
+                ],
+                "Details": "ISBS"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Finance",
+                    "Fiscal Law",
+                    "Information Management",
+                    "International Business",
+                    "Law",
+                    "Management"
+                ],
+                "Details": "ISAAS"
+            },
+            {
+                "College": "Commercial Studies",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "IHEC"
+            },
+            {
+                "College": "Computer Science and Multimedia",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Graphics",
+                    "Computer Science",
+                    "Multimedia"
+                ],
+                "Details": "ISIMSF"
+            },
+            {
+                "College": "Electronics and Communication",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "ISECS"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Energy Engineering",
+                    "Food Science",
+                    "International Business",
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Statistics",
+                    "Technology"
+                ],
+                "Details": "Preparatory (IPEIS)"
+            },
+            {
+                "College": "Industrial Management",
+                "FieldsOfStudy": [
+                    "Industrial Management"
+                ],
+                "Details": "ISGIS"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music",
+                    "Musicology",
+                    "Sound Engineering (Acoustics)"
+                ],
+                "Details": "ISMSF"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports and Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Zitouna",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Biotechnology",
+                "FieldsOfStudy": [
+                    "Biotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Statistics",
+                    "Transport Management"
+                ],
+                "Details": "ESCS"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Bioengineering",
+                    "Computer Engineering",
+                    "E-Business/Commerce",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Engineering Management",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Information Technology",
+                    "Materials Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "National (ENIS)"
+            },
+            {
+                "College": "Health Sciences and Techniques",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Economics",
+                    "Engineering",
+                    "Law",
+                    "Mathematics and Computer Science",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "92, avenue du 9 avril 1938",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1007",
+                "Website": "http://www.utunis.rnu.tn",
+                "college_name": "University of Tunis",
+                "university_name": "Universit\u00e9 de Tunis"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1960. Acquired present status 2001.",
+            "AcademicYear": "September to June (September-February; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at) or foreign equivalent"
+            ],
+            "Languages": [
+                "Arabic",
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Arts and Humanities",
+                    "Civics",
+                    "English",
+                    "French",
+                    "Geography (Human)",
+                    "History",
+                    "Philosophy",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Studies in the Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cultural Studies",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Leisure Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Continuing Education",
+                "FieldsOfStudy": [
+                    "Continuing Education",
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Heritage",
+                "FieldsOfStudy": [
+                    "Heritage Preservation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Literature and Arts and Humanities Studies",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theatre",
+                "FieldsOfStudy": [
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Youth and Culture",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Leisure Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "Tunis"
+            },
+            {
+                "College": "Economics and Commerce",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Applied Physics",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Mechanical Engineering",
+                    "Production Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher Training",
+                "FieldsOfStudy": [
+                    "Teacher Training"
+                ],
+                "Details": "ENS"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus universitaire",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "2092",
+                "Website": "http://www.utm.rnu.tn",
+                "college_name": "University of Tunis El Manar",
+                "university_name": "Universit\u00e9 de Tunis El Manar"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1988 incorporating existing faculties.",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary School Certificate"
+            ],
+            "Languages": [
+                "French",
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Science",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics, Physics and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Mathematical Physics",
+                    "Natural Sciences",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Acupuncture and Oriental Medicine",
+                    "Cardiology",
+                    "Education of the Handicapped",
+                    "Genetics",
+                    "Gerontology",
+                    "Neurological Therapy",
+                    "Rehabilitation and Therapy",
+                    "Social and Preventive Medicine",
+                    "Sports Medicine",
+                    "Toxicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Biological Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "El Manar"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "Preparatory"
+            },
+            {
+                "College": "Human Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Technology",
+                "FieldsOfStudy": [
+                    "Medical Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Modern Languages",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "English",
+                    "French",
+                    "German",
+                    "Hebrew",
+                    "Italian",
+                    "Japanese",
+                    "Modern Languages",
+                    "Spanish",
+                    "Turkish"
+                ],
+                "Details": "Bourguiba"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pasteur",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Science",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "National"
+            },
+            {
+                "College": "Health Sciences and Techniques",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Medical Auxiliaries",
+                    "Medical Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Information Technology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "13 Rue Ibn Nadim\nMontplaisir",
+                "City": "Tunis",
+                "Province": "N/A",
+                "PostCode": "1073",
+                "Website": "https://www.uvt.rnu.tn",
+                "college_name": "Virtual University of Tunis",
+                "university_name": "Universit\u00e9 Virtuelle de Tunis (UVT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "High School Certificate"
+            ],
+            "Languages": [
+                "French",
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agronomy",
+                    "Plant Pathology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Geography",
+                    "History",
+                    "Literature",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry and Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Dermatology",
+                    "Immunology",
+                    "Medicine",
+                    "Oncology",
+                    "Parasitology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information and Communication Sciences",
+                "FieldsOfStudy": [
+                    "Information Sciences",
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Life and Earth Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Earth Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Engineering",
+                    "Mathematics",
+                    "Multimedia",
+                    "Physics",
+                    "Software Engineering",
+                    "Structural Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology",
+                "FieldsOfStudy": [
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

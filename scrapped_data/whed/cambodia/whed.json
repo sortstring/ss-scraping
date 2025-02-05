@@ -1,0 +1,4413 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bldg No. 069, Concrete Road (Along National Road No. 1)\nPhum Ta Prum, Sangkat Prek Eng\nKhan Chhbar Ampov",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "121206",
+                "Website": "http://www.iic.edu.kh",
+                "college_name": "IIC University of Technology",
+                "university_name": "(IICUT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded as International Institute of Cambodia, acquired present title and status 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Cambodian",
+                "Chinese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts, Humanities and Linguistics",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "Communication Studies",
+                    "English",
+                    "Japanese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Science",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Science",
+                "FieldsOfStudy": [
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Architecture and Planning",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Fine Arts",
+                    "Health Sciences",
+                    "Home Economics",
+                    "Information Sciences",
+                    "Law",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Performing Arts",
+                    "Religion",
+                    "Service Trades",
+                    "Social Sciences",
+                    "Technology",
+                    "Transport and Communications",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Information Technology"
+                ],
+                "Doctor'sDegrees": [
+                    "Agriculture",
+                    "Architecture and Planning",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Health Sciences",
+                    "Home Economics",
+                    "Information Sciences",
+                    "Law",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Performing Arts",
+                    "Religion",
+                    "Service Trades",
+                    "Social Sciences",
+                    "Technology",
+                    "Transport and Communications",
+                    "Welfare and Protective Services"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sangkat Tonle basac\nKhan Chamkarmorn",
+                "City": "Phom Penh",
+                "Province": "N/A",
+                "PostCode": "12301",
+                "Website": "https://psbu.edu.kh",
+                "college_name": "Preah Sihamoniraja Buddhist University",
+                "university_name": "PSB University (PSBU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2004 as Preah Sihamoniraja Buddhist College. Acquired current title and status 2007",
+            "AcademicYear": "1 May to 30 September",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Educational Sciences and Literature",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Educational Sciences",
+                    "Entrepreneurship",
+                    "Foreign Languages Education",
+                    "Human Resources",
+                    "International Business",
+                    "Leadership",
+                    "Literature",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Office Management",
+                    "Preschool Education",
+                    "Private Administration",
+                    "Public Administration",
+                    "Sports Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pali-Sanskrit and Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "Sanskrit"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy, Religion and Law",
+                "FieldsOfStudy": [
+                    "Buddhist Religious Studies",
+                    "Criminal Law",
+                    "Economics",
+                    "Educational Psychology",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Law",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Private Law",
+                    "Psychology",
+                    "Public Administration",
+                    "Religion",
+                    "Religious Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agricultural Engineering",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Economics",
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "Electrical Engineering",
+                    "English",
+                    "Entrepreneurship",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Foreign Languages Education",
+                    "Hotel Management",
+                    "Human Resources",
+                    "International Business",
+                    "Law",
+                    "Leadership",
+                    "Literature",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Multimedia",
+                    "Office Management",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Private Administration",
+                    "Private Law",
+                    "Public Administration",
+                    "Religion",
+                    "Religious Studies",
+                    "Sanskrit",
+                    "Sports Management",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agricultural Engineering",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Economics",
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "Electrical Engineering",
+                    "English",
+                    "Entrepreneurship",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Foreign Languages Education",
+                    "Hotel Management",
+                    "Human Resources",
+                    "International Business",
+                    "Law",
+                    "Leadership",
+                    "Literature",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Multimedia",
+                    "Office Management",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Private Administration",
+                    "Private Law",
+                    "Public Administration",
+                    "Religion",
+                    "Religious Studies",
+                    "Sanskrit",
+                    "Sports Management",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [
+                    "Cambodian",
+                    "Education",
+                    "Human Resources",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Literature",
+                    "Management",
+                    "Philosophy",
+                    "Public Administration",
+                    "Religion"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 917\nSangkat Toek Thla, Khan Sen Sok",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12000",
+                "Website": "https://uc.edu.kh",
+                "college_name": "The University of Cambodia",
+                "university_name": "Sakalvityalay Kampochea"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003",
+            "AcademicYear": "Term I - Oct to Feb; Term II - Mar to Jun; Term III - Jul to Oct",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities and Languages",
+                "FieldsOfStudy": [
+                    "American Studies",
+                    "Asian Studies",
+                    "Communication Studies",
+                    "Journalism",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Performing Arts",
+                    "Philosophy",
+                    "Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "International Law",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media and Communications",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Journalism",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Information Technology",
+                    "Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "History",
+                    "International Relations and Diplomacy",
+                    "Peace and Disarmament",
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "Tony Fernandes"
+            },
+            {
+                "College": "Creative Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "French",
+                    "Japanese",
+                    "Korean"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Government and International Relations",
+                "FieldsOfStudy": [
+                    "Government",
+                    "International Relations and Diplomacy",
+                    "Public Administration"
+                ],
+                "Details": "Techo Sen"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Chinese",
+                    "Computer Science",
+                    "Development Studies",
+                    "Electronic Engineering",
+                    "English",
+                    "French",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Japanese",
+                    "Korean",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Social Work",
+                    "Telecommunications Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Educational Administration",
+                    "Electronic Engineering",
+                    "English",
+                    "Information Technology",
+                    "International Law",
+                    "Law",
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Law",
+                    "Telecommunications Engineering"
+                ],
+                "Doctor'sDegrees": [
+                    "Asian Studies",
+                    "Business Administration",
+                    "Educational Administration",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Borey Seang Nam",
+                "City": "Siem Reap",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.angkor.edu.kh",
+                "college_name": "Angkor University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Science",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Rural Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts, Humanities, and Languages",
+                "FieldsOfStudy": [
+                    "Educational Administration",
+                    "English",
+                    "Modern Languages",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Tourism",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Design",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Interior Design",
+                    "Power Engineering",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law\u200b and Social Sciences",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Criminal Law",
+                    "International Law",
+                    "Law",
+                    "Private Law",
+                    "Public Law",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Midwifery",
+                    "Nursing",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Architecture",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Computer Science",
+                    "Engineering",
+                    "Information Technology",
+                    "Law",
+                    "Public Health"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "#826, Kammpuch Krum Blvd Teuk Laak I",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12156",
+                "Website": "http://www.aeu.edu.kh",
+                "college_name": "Asia Euro University",
+                "university_name": "Sakal Vityalay Asia Euro (AEU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002 as Asia Euro Institute. Acquired present status and title 2005. Former name \"Mohavityalay Asia Euro\".",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts, Humanities and Languages",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel Management and Tourism",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Science",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science And Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Banking",
+                    "Chinese",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Information Technology",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Development Studies",
+                    "English",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Tourism"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Samdech Sothearos (St. 3) Grey building, riverside near Samdech Hun Sen Park",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12301",
+                "Website": "http://www.bbu.edu.kh",
+                "college_name": "Build Bright University",
+                "university_name": "(BBU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2000.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Lao"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Science and Languages",
+                "FieldsOfStudy": [
+                    "Education",
+                    "English",
+                    "Journalism",
+                    "Mass Communication",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Interior Design",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Social Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hospitality",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Economics",
+                    "Education",
+                    "Electrical and Electronic Engineering",
+                    "English",
+                    "Hotel Management",
+                    "Information Technology",
+                    "Interior Design",
+                    "Journalism",
+                    "Law",
+                    "Mass Communication",
+                    "Public Administration",
+                    "Tourism",
+                    "Town Planning",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Economics",
+                    "Information Technology",
+                    "Law",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Rural Planning"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Development Studies",
+                    "Economics",
+                    "Education",
+                    "Information Technology",
+                    "Law",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Rural Planning",
+                    "Social Work",
+                    "Tourism"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Russian Blvd, Touk Thla",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Cambodia-India Entrepreneurship Development Institute",
+                "university_name": "(CIEDC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2006 as Cambodia-India Entrepreneurship Development Centre (CIEDC).",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "English",
+                    "Information Technology",
+                    "Management",
+                    "Marketing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "9B, Street 271, Sangkat Tek Thla, Khan Sen Sok",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12102",
+                "Website": "http://www.mekong.edu.kh",
+                "college_name": "Cambodian Mekong University",
+                "university_name": "Mohavityalay Mekong Kampochea (CMU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts, Humanities and Foreign Languages",
+                "FieldsOfStudy": [
+                    "American Studies",
+                    "Arts and Humanities",
+                    "Chinese",
+                    "Education",
+                    "English",
+                    "Japanese",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Rural Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Tourism",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Hotel Management",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Real Estate",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Leadership",
+                    "Management",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Business Computing",
+                    "Commercial Law",
+                    "Development Studies",
+                    "English",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Leadership",
+                    "Management",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Rural Studies",
+                    "Town Planning"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Development Studies",
+                    "Economics",
+                    "Law",
+                    "Leadership",
+                    "Management",
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N\u00b0 43 Street 231 Psar Doum Kor",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12159",
+                "Website": "http://www.cus.edu.kh",
+                "college_name": "Cambodian University for Specialties",
+                "university_name": "(CUS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001 as Cambodian Institute for Specialties. Acquired present title 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts, Humanities and Linguistics",
+                "FieldsOfStudy": [
+                    "English",
+                    "Geography",
+                    "History",
+                    "Native Language"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Hotel Management",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Rural Planning",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Electrical and Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Information Technology",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Science and Law",
+                "FieldsOfStudy": [
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Economics",
+                    "Engineering",
+                    "Law",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Economics",
+                    "Engineering",
+                    "Information Technology",
+                    "Linguistics",
+                    "Management",
+                    "Natural Sciences"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Development Studies",
+                    "Educational Sciences",
+                    "Law",
+                    "Social Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "154, Street 132, Sagkat Terk Laok I, Khan Toul Kouk",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12308",
+                "Website": "http://www.cup.edu.kh",
+                "college_name": "Chamroeun University of Poly-Technology",
+                "university_name": "(CUP)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Finance",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "National Road 8, Thnal Keng Village, Smoang Cheung",
+                "City": "Kamchaymear",
+                "Province": "Prey Veng",
+                "PostCode": "N/A",
+                "Website": "http://www.csuk.edu.kh",
+                "college_name": "Chea Sim University of Kamchaymear",
+                "university_name": "(CSKU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991 as Sakal Vityalay ved Maharishi (Maharishi Vedic University) by agreement between the Ministry of Education, Youth and Sports and Australian Aid for Cambodia Fund (AACF) to provide education to rural youth. Acquired current title 2008",
+            "AcademicYear": "October to July (October-March; April-July)",
+            "AdmissionRequirements": [
+                "Entrance examination"
+            ],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Agronomy",
+                    "Rural Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Art, Humanities and Language",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Human Resources",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agriculture",
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "No.43 St.231",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12159",
+                "Website": "N/A",
+                "college_name": "Chenla University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts, Humanities and Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "History",
+                    "Indic Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Care",
+                "FieldsOfStudy": [
+                    "Medical Technology",
+                    "Midwifery",
+                    "Nursing",
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Information Technology",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Finance",
+                    "Law",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "St. 134, Behind of Hotel Le President",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12154",
+                "Website": "http://www.efi.mef.gov.kh",
+                "college_name": "Economics and Finance Institute",
+                "university_name": "(EFI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Economics",
+                    "Finance"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Building 17, Street 163, Sangkat Olympic, Khan Chamkamorn",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.hru.edu.kh",
+                "college_name": "Human Resources University",
+                "university_name": "(HRU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts, Humanities and Languages",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Cultural Studies",
+                    "English",
+                    "Geography (Human)",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Tourism",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Science",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "English",
+                    "Finance",
+                    "Hotel Management",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Curriculum",
+                    "Education"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Russian Blvd, Sangkat Toek Tla, Khan Reusey Keo",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.iti.edi.kh",
+                "college_name": "Industrial Technical Institute",
+                "university_name": "(ITI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1928.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "No. 63 ,Street 374 Corner 205, Sangkat Toul Svay Prey II, Khan Chamkar Morn",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ifa.edu.kh",
+                "college_name": "Institute of Finance and Accounting",
+                "university_name": "(IFA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2013.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts, Humanities and Languages",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance and Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Taxation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 86, Pochentong Boulevard",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.itc.edu.kh",
+                "college_name": "Institute of Technology of Cambodia",
+                "university_name": "Vitya Satan Bachek Vichea Kampuchea (ITC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1964.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian",
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Chemical Engineering and Food Technology",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy and Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical and Industrial Engineering",
+                "FieldsOfStudy": [
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rural Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geo-Resources and Geotechnical Engineering",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Soil Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Building 89-91-93 & 95, St.1011-1984, Sangkat Phnom Penh Thmey, Khan Sen Sok",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12150",
+                "Website": "https://www.iu.edu.kh",
+                "college_name": "International University",
+                "university_name": "(IU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Rural Development",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agronomy",
+                    "Development Studies",
+                    "Rural Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Hotel Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Orthodontics",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "International Law",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Pediatrics",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Paediatrics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing Sciences",
+                "FieldsOfStudy": [
+                    "Homeopathic Medicine",
+                    "Midwifery",
+                    "Nursing",
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Biochemistry",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Energy Engineering",
+                    "Environmental Management",
+                    "Information Technology",
+                    "Microbiology",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Journalism",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Civil Engineering",
+                    "Commercial Law",
+                    "Computer Engineering",
+                    "Construction Engineering",
+                    "Educational Administration",
+                    "English",
+                    "Environmental Management",
+                    "Finance",
+                    "Hotel Management",
+                    "Human Resources",
+                    "International Business",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Literature",
+                    "Management",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Public Health",
+                    "Rural Studies",
+                    "Sociology",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Natural Sciences",
+                    "Philosophy",
+                    "Public Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "St. 1986 (Sen Sok St.) Block 72, Sangkat",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.khemarak.edu.kh",
+                "college_name": "Khemarak University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Science and Rural Development",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Rural Planning",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Tourism",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Hotel Management",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Educational Administration",
+                    "English",
+                    "Geography",
+                    "History",
+                    "Literature",
+                    "Mathematics",
+                    "Native Language",
+                    "Philosophy",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities, Art and Linguistics",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Linguistics",
+                    "Psychology",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Economic Science",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Polictical Science and International Relations",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science, Technology and Information Science",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Arts and Humanities",
+                    "Economics",
+                    "Education",
+                    "Law",
+                    "Political Sciences",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education",
+                    "Political Sciences"
+                ],
+                "Doctor'sDegrees": [
+                    "Economics",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Teuk Thla Village, Teuk Thla",
+                "City": "Krong Serei Sophaon",
+                "Province": "Banteay Mean Chey",
+                "PostCode": "N/A",
+                "Website": "http://www.mcu.edu.kh",
+                "college_name": "Mean Chey University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Food Processing",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Agronomy",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Natural Resources",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities, Arts and Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "History",
+                    "Japanese",
+                    "Korean",
+                    "Literature",
+                    "Native Language",
+                    "Thai Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Information Technology",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Science and Community Development",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Educational Sciences",
+                    "Law",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Arts and Humanities",
+                    "Engineering",
+                    "Food Science",
+                    "Management",
+                    "Natural Sciences",
+                    "Social Sciences",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agriculture",
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Street 217 (Monireth Blvd.), Sangkart Steung Mean Chey, Khan Mean Chey",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12352",
+                "Website": "http://www.nib.edu.kh",
+                "college_name": "National Institute of Business",
+                "university_name": "(NIB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1979 as School of Central Commercial Technique. Acquired present status and title 2001.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking and Finance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sales and Marketing",
+                "FieldsOfStudy": [
+                    "Marketing",
+                    "Retailing and Wholesaling"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sre Reachak Village, Sangkat Somrong Krom, Khan Dangkor",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.npic.edu.kh",
+                "college_name": "National Polytechnic Institute Of Cambodia",
+                "university_name": "(NPIC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culinary Art",
+                "FieldsOfStudy": [
+                    "Cooking and Catering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Automotive Engineering",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hospitality",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Russian Boulevard, Sangkat Teukthla\nKhan Sensok",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12102",
+                "Website": "http://www.ntti.edu.kh",
+                "college_name": "National Technical Training Institute",
+                "university_name": "(NTTI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1999.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical and Electronic Engineering",
+                "FieldsOfStudy": [
+                    "Electrical and Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Information Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Civil Engineering",
+                    "Electrical Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sangkat Preaek Preah Sdach",
+                "City": "Battambang",
+                "Province": "Battambang",
+                "PostCode": "N/A",
+                "Website": "http://nubb.edu.kh",
+                "college_name": "National University of Battambang",
+                "university_name": "(NUBB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "First created in 1968 as Royal University of Battambang, but from 1975 to 1994 was not in operation. In 1994 it became the Battambang Regional Teacher\u2019s Training School and from 1998 to 2007 it was the Battambang Branch of the National University of Management. The University was officially established in 2007 as the University of Battambang and started its new academic year in October 2008. In 2020, the university became the National University of Battambang.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Food Processing",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Food Science",
+                    "Food Technology",
+                    "Horticulture",
+                    "Veterinary Science",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts, Humanities and Education",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Biology",
+                    "Chemistry",
+                    "Cultural Studies",
+                    "Education",
+                    "Indic Languages",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Tourism",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Engineering",
+                    "Information Technology",
+                    "Nuclear Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology and Community Development",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Economics",
+                    "Law",
+                    "Rural Studies",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Animal Husbandry",
+                    "Business Administration",
+                    "Chinese",
+                    "Civil Engineering",
+                    "Development Studies",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "Food Science",
+                    "French",
+                    "Horticulture",
+                    "Information Technology",
+                    "Korean",
+                    "Law",
+                    "Literature",
+                    "Marketing",
+                    "Psychology",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agriculture",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Economics",
+                    "English",
+                    "Hotel Management",
+                    "Information Technology",
+                    "Law",
+                    "Public Administration",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "St.96 Christopher Howes, Khan Daun Penh",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://num.edu.kh",
+                "college_name": "National University of Management",
+                "university_name": "Sakal Vityalay Cheath Kroup Krorng (NUM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 1983 as National Institute of Management. Acquired present status and title 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "High School Certificate"
+            ],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Information Technology",
+                    "Marketing",
+                    "Public Administration",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "St. Keo Chenda, Sangkat Chroy Changvar, Khan Chroy Changvar",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.norton-u.com",
+                "college_name": "Norton University",
+                "university_name": "Sakal Vityalay Norton (NU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996.",
+            "AcademicYear": "October to June (October-January; March-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate baccalaur\u00e9at"
+            ],
+            "Languages": [
+                "English",
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts, Humanities and Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Bridge Engineering",
+                    "Civil Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Interior Design",
+                    "Road Engineering",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Government",
+                    "Law",
+                    "Social Sciences",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Economics",
+                    "Law"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Development Studies",
+                    "English",
+                    "Finance",
+                    "Information Technology",
+                    "International Studies"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "No.92-94, Maha Vithei Samdech, Sothearos",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12207",
+                "Website": "http://www.puc.edu.kh",
+                "college_name": "Pannasastra University of Cambodia",
+                "university_name": "(PUC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1997.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture and Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Design",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts, Letters and Humanities",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "Asian Studies",
+                    "English",
+                    "History",
+                    "Music",
+                    "Musicology",
+                    "Philosophy",
+                    "Religion",
+                    "Southeast Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication and Media Arts",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Communication Studies",
+                    "Journalism",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Public Affairs",
+                "FieldsOfStudy": [
+                    "Comparative Law",
+                    "Human Rights",
+                    "International Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics, Sciences and Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Biology",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Environmental Engineering",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and International Relations",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "International Relations and Diplomacy",
+                    "Peace and Disarmament",
+                    "Political Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Asian Studies",
+                    "English",
+                    "History",
+                    "Music",
+                    "Philosophy",
+                    "Religion",
+                    "Southeast Asian Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Human Rights"
+                ],
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Building 36, St. 169, Sangkat Veal Vong, Khan 7 Makara",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12253",
+                "Website": "http://www.ppiu.edu.kh",
+                "college_name": "Pnomh Penh International University",
+                "university_name": "(PPIU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2006 as a result of merger of the International Institute of Cambodia and the ASEAN University.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Tourism",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Economics",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Law",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Management",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Russian Boulevard, Sangkat Teuk Thla, Khan Sen Sok",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ppiedu.com",
+                "college_name": "Preah Kossomak Polytechnic Institute",
+                "university_name": "(PPI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1965 as \u201cCentre de formation Professionelles des cardes Technique (CENFOCAT). 1981-1992 became : \u201cSoviet-Cambodia Friendship Technical and Vocational Training Center \u201c. Acquired present title and status 2001.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Finance",
+                    "Information Technology",
+                    "Management",
+                    "Marketing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Preah Sisowath Quay\nSangkat Chey Chum Neas\nKhan Daun Penh",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12206",
+                "Website": "N/A",
+                "college_name": "Preah Sihanouk Raja Buddhist University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1954. Acquired present status 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Teacher Training",
+                "FieldsOfStudy": [
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Information Technology",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Khmer Literature",
+                "FieldsOfStudy": [
+                    "Cambodian",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pasi-Sanskrit and Foreign Languages",
+                "FieldsOfStudy": [
+                    "Modern Languages",
+                    "Sanskrit"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy and Religions",
+                "FieldsOfStudy": [
+                    "Buddhist Religious Studies",
+                    "Philosophy",
+                    "Religion"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Buddhist Religious Studies",
+                    "Cambodian",
+                    "Education",
+                    "Literature",
+                    "Philosophy",
+                    "South and Southeast Asian Languages"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Street 1, Preak Mohatep Village, Svaypor Commune",
+                "City": "Battambang",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.pib.edu.kh",
+                "college_name": "Regional Polytechnic Institute Techno Sen Battambang",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1993 as Provincial Technical Center (PTC). Acquired present title and status 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronic Engineering",
+                "FieldsOfStudy": [
+                    "Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Business Administration",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Information Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bunteaychas Village, Slor Krom Commune",
+                "City": "Siem Reap",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.rpitssr.edu.kh",
+                "college_name": "Regional Polytechnic Institute Techo Sen Siem Reap",
+                "university_name": "(RPITSSR)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1993 as Siem Reap Provincial Training Cente. Acquired present title and status 2014.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Automotive Engineering",
+                    "Electrical Engineering",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Information Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "M\u00e9phleung Village, Svay Rieng Commune",
+                "City": "Svay Rieng",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Regional Polytechnic Institute Techo Sen Svay Rieng",
+                "university_name": "(RPITSSR)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 2070\nRussian Federation Boulevard, Sangkat Kakab, Khan Porsenchey",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12102",
+                "Website": "http://www.rac.gov.kh",
+                "college_name": "Royal Academy of Cambodia",
+                "university_name": "(RAC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1999.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Biology, Medicine and Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Biology",
+                    "Dentistry",
+                    "Ecology",
+                    "Fishery",
+                    "Forestry",
+                    "Medicine",
+                    "Pharmacy",
+                    "Water Management",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culture and Fine Arts",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Architecture",
+                    "Cultural Studies",
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Business and Commerce",
+                    "Economics",
+                    "Education",
+                    "Ethics",
+                    "Ethnology",
+                    "Geography",
+                    "History",
+                    "Law",
+                    "Management",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religion",
+                    "Sociology",
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "National Language",
+                "FieldsOfStudy": [
+                    "Linguistics",
+                    "Literature",
+                    "Native Language",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Food Technology",
+                    "Information Technology",
+                    "Mathematics",
+                    "Physics",
+                    "Statistics",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [
+                    "Social Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 2696, Dongkor District",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12401",
+                "Website": "http://www.rua.edu.kh",
+                "college_name": "Royal University of Agriculture",
+                "university_name": "Sakal Vityalay Phum Min Kasi Kam (RUA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1964. Acquired present status 1999.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "High School Certificate"
+            ],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Economics and Rural Development",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Rural Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural Technology and Management",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agricultural Equipment",
+                    "Agricultural Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agro-Industry",
+                "FieldsOfStudy": [
+                    "Food Science",
+                    "Harvest Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agronomy",
+                    "Crop Production",
+                    "Horticulture",
+                    "Plant and Crop Protection",
+                    "Soil Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Animal Science and Veterinary Science",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fisheries",
+                "FieldsOfStudy": [
+                    "Fishery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry and Environment",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Land Management and Administration",
+                "FieldsOfStudy": [
+                    "Farm Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rubber Science",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Studies",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agriculture"
+                ],
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 842 \nMonivong Boulevard, District Tonle Basac, Khan Chamkamon",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.rule.edu.kh",
+                "college_name": "Royal University of Law and Economics",
+                "university_name": "Mohavityalay Netesas neng Vecheasas sethakech (RULE)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1949 as National Institute of Law, Politics and Economics. Acquired present status and title 2003",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informatic Economics",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "History of Law",
+                    "International Law",
+                    "Labour Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Public Administration",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Finance",
+                    "Insurance",
+                    "Law",
+                    "Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Russian Federation Boulevard, Toul Kork",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12156",
+                "Website": "http://www.rupp.edu.kh",
+                "college_name": "Royal University of Phnom Penh",
+                "university_name": "Sakal Vityalay Phoum min Phnom Penh (RUPP)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1960 as the Royal Khmer University incorporating Faculties established between 1955 and 1959. Acquired present status and title 1996",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at), and entrance examination"
+            ],
+            "Languages": [
+                "Cambodian",
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Development Studies",
+                "FieldsOfStudy": [
+                    "Development Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Bioengineering",
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Environmental Studies",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences  and Humanities",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Geography",
+                    "History",
+                    "Linguistics",
+                    "Literature",
+                    "Media Studies",
+                    "Philosophy",
+                    "Psychology",
+                    "Sociology",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "English",
+                    "French",
+                    "Japanese",
+                    "Korean"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Chemistry",
+                    "Clinical Psychology",
+                    "Development Studies",
+                    "Education",
+                    "English",
+                    "Environmental Studies",
+                    "Information Technology",
+                    "Linguistics",
+                    "Philosophy",
+                    "Physics",
+                    "Social Work",
+                    "Sociology",
+                    "Tourism",
+                    "Translation and Interpretation"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "No. 86A, Street 110, Russian Federation Boulevard\nSangkat Teuk Laak I, Khan Toul Kork",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12156",
+                "Website": "http://www.setecu.com",
+                "college_name": "SETEC Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Networks",
+                    "Data Processing",
+                    "Information Technology",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management  Systems",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Networks",
+                    "English",
+                    "Management Systems",
+                    "Multimedia",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Engineering",
+                    "Management Systems",
+                    "Multimedia",
+                    "Software Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Computer Networks",
+                    "Data Processing",
+                    "Design",
+                    "Information Technology",
+                    "Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "National Road N\u00b0 1, Phumi Chambak, Sangkat Chek",
+                "City": "Svay Rieng",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.sru.edu.kh",
+                "college_name": "Svay Rieng University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agronomy",
+                    "Rural Planning",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts, Humanities and Foreign Languages",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Science",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Business Administration",
+                    "Computer Science",
+                    "English",
+                    "Information Technology",
+                    "Mathematics",
+                    "Public Administration",
+                    "Rural Planning",
+                    "Translation and Interpretation",
+                    "Veterinary Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agriculture",
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "73 Monivong Boulevard, Sangkat Sras Chak\nKhan Daun",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://uhs.edu.kh",
+                "college_name": "University of Health Sciences",
+                "university_name": "Sakal Vityalay Vitya Sas Sokha Phibal \u2013 Universit\u00e9 des Sciences de la Sant\u00e9 (UHS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1946 as School for Medical Officers; became Faculty of Medicine, Pharmacy and Dentistry in 1980. Acquired current status and title 2001.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at)"
+            ],
+            "Languages": [
+                "French",
+                "English",
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacology",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Care",
+                "FieldsOfStudy": [
+                    "Midwifery",
+                    "Nursing",
+                    "Physical Therapy"
+                ],
+                "Details": "Technical"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Dentistry",
+                    "Medicine",
+                    "Midwifery",
+                    "Nursing",
+                    "Pharmacy",
+                    "Public Health"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Pharmacy",
+                    "Public Health"
+                ],
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 303\nPrek Preah Sdech Village",
+                "City": "Battambang",
+                "Province": "Battambang",
+                "PostCode": "N/A",
+                "Website": "http://www.ume.edu.kh",
+                "college_name": "University of Management and Economics",
+                "university_name": "Vitya Satan Krap Krang ning Sethakek (UME)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2000 as Institute of Management and Economics. Acquired present status and title 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Rural Development",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Agronomy",
+                    "Rural Planning",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts, Humanities and Foreign Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Tourism",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Economics",
+                    "Law"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "55, St 180, Sangkat Boeung Raing\nKhan Daun Penh",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.puthisastra.edu.kh",
+                "college_name": "University of Puthisastra",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "English",
+                    "Social Studies",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Business",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rural Development and Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Natural Resources",
+                    "Plant and Crop Protection",
+                    "Rural Planning",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Business Administration",
+                    "Dentistry",
+                    "Information Technology",
+                    "Law",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Information Technology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Wat Bo Village, Opposite Angkor High School",
+                "City": "Siem Reap",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.usea.edu.kh",
+                "college_name": "University of South-East Asia",
+                "university_name": "(USEA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Rural Development",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Farm Management",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics, Business and Tourism",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Finance",
+                    "Hotel Management",
+                    "International Business",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Information Technology",
+                    "Mathematics",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Science and Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Criminal Law",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Administration",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Architecture",
+                    "Civil Engineering",
+                    "Information Technology",
+                    "International Studies",
+                    "Law",
+                    "Mathematics",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Rural Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Information Technology",
+                    "International Studies",
+                    "Mathematics",
+                    "Political Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N\u00b0 216-218 Mao Tse Toung (St. 245)",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "12306",
+                "Website": "http://www.vanda.edu.kh",
+                "college_name": "Vanda Institute",
+                "university_name": "(VIA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Cambodian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Science",
+                "FieldsOfStudy": [
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Finance"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Political Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "15, Street 528, Sangkat Boeungkok I, Khan Toul Kork",
+                "City": "Phnom Penh",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.western.edu.kh",
+                "college_name": "Western University",
+                "university_name": "(WU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel and Tourism",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration and Policy",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Economics",
+                    "English",
+                    "Hotel Management",
+                    "Law",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "International Law",
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Economics",
+                    "Law",
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

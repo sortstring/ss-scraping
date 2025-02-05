@@ -1,0 +1,221 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "62.5 George Price Highway",
+                "City": "Central Farm",
+                "Province": "Cayo District",
+                "PostCode": "000000",
+                "Website": "https://galen.edu.bz",
+                "college_name": "Galen University",
+                "university_name": "(GU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2003",
+            "AcademicYear": "September to December; January to April; May to August. Students may enrol in any semester",
+            "AdmissionRequirements": [
+                "Undergraduate: Original essay; $60",
+                "00 Application Fee (non-refundable); One (1) official High School transcript; One (1) copy of transcript\nOne (1) copy of diploma; One (1) copy of any of the following test scores: ATLIB, CXC, ACT, SAT"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts, Science and Technology",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Environmental Studies",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Entrepreneurship",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Hotel and Restaurant",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Anthropology",
+                    "Business Administration",
+                    "Business Education",
+                    "Computer Education",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Economics",
+                    "Environmental Studies",
+                    "Foreign Languages Education",
+                    "Hotel and Restaurant",
+                    "Humanities and Social Science Education",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Mathematics Education",
+                    "Physical Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 340\nHummingbird Avenue\n\n(501) 822-1000/822-3680",
+                "City": "Belmopan",
+                "Province": "Cayo District",
+                "PostCode": "N/A",
+                "Website": "https://www.ub.edu.bz",
+                "college_name": "University of Belize",
+                "university_name": "(UB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2000 by the merger of the University College of Belize, Belize School of Nursing, Belize Teacher Training College",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Regional Language",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Arts",
+                "FieldsOfStudy": [
+                    "Business Education",
+                    "English",
+                    "Foreign Languages Education",
+                    "History",
+                    "Mathematics Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Laboratory Techniques",
+                    "Nursing",
+                    "Pharmacy",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Social Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Architecture",
+                    "Biology",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Environmental Management",
+                    "Information Technology",
+                    "Marine Biology",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Biology",
+                    "Business Administration",
+                    "Business Education",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "History",
+                    "Information Technology",
+                    "Laboratory Techniques",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Native Language Education",
+                    "Natural Resources",
+                    "Nursing",
+                    "Pharmacy",
+                    "Primary Education",
+                    "Public Administration",
+                    "Science Education",
+                    "Social Work",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Educational Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

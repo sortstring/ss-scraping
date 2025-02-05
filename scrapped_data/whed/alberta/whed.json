@@ -1,0 +1,3647 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2500 University Drive North West",
+                "City": "Calgary",
+                "Province": "Alberta",
+                "PostCode": "T2N 1N4",
+                "Website": "https://www.ucalgary.ca",
+                "college_name": "University of Calgary",
+                "university_name": "(U of C)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1960 as University of Alberta at Calgary, and acquired present status and title 1966",
+            "AcademicYear": "September to June (September-December; January-April; May-June). Also Summer Session (July-August)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Advanced Technologies of Life Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Biomedicine",
+                    "Health Sciences",
+                    "Veterinary Science"
+                ],
+                "Details": "CAT"
+            },
+            {
+                "College": "Alberta Global Forum",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Bioengineering Research and Education",
+                "FieldsOfStudy": [
+                    "Bioengineering"
+                ],
+                "Details": "CBRE"
+            },
+            {
+                "College": "Environmental Engineering Research and Education",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Environmental Engineering"
+                ],
+                "Details": "CEERE"
+            },
+            {
+                "College": "Gifted Education",
+                "FieldsOfStudy": [
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Policy Studies",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "CHAPS"
+            },
+            {
+                "College": "Information Security and Cryptography",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Innovation Studies",
+                "FieldsOfStudy": [
+                    "THECIS"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Innovative Technology",
+                "FieldsOfStudy": [
+                    "Calgary - CCIT"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Institutional Research Information Services Solution",
+                "FieldsOfStudy": [
+                    "Information Sciences"
+                ],
+                "Details": "IRISS"
+            },
+            {
+                "College": "Mathematics in Life Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Ecology",
+                    "Mathematics",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Microsystems Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "CME"
+            },
+            {
+                "College": "Military and Strategic Studies",
+                "FieldsOfStudy": [
+                    "Military Science"
+                ],
+                "Details": "CMSS"
+            },
+            {
+                "College": "Pipeline Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "PEC"
+            },
+            {
+                "College": "Public Interest Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "CPIA"
+            },
+            {
+                "College": "Risk Studies",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work Research and Development",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Study of Higher Education",
+                "FieldsOfStudy": [
+                    "Higher Education"
+                ],
+                "Details": "Canadian"
+            },
+            {
+                "College": "World Tourism Education and Research",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "African Studies",
+                    "Anthropology",
+                    "Archaeology",
+                    "Art Education",
+                    "Canadian Studies",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Dance",
+                    "Development Studies",
+                    "Earth Sciences",
+                    "East Asian Studies",
+                    "Economics",
+                    "English",
+                    "French",
+                    "Geography",
+                    "German",
+                    "Greek (Classical)",
+                    "Heritage Preservation",
+                    "History",
+                    "Indigenous Studies",
+                    "International Relations and Diplomacy",
+                    "International Studies",
+                    "Italian",
+                    "Latin",
+                    "Latin American Studies",
+                    "Law",
+                    "Linguistics",
+                    "Media Studies",
+                    "Museum Studies",
+                    "Music",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religious Studies",
+                    "Slavic Languages",
+                    "Sociology",
+                    "Spanish",
+                    "Technology",
+                    "Theatre",
+                    "Urban Studies",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Faculty of Nursing \u2013 Doha, Qatar",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Architecture",
+                    "Arts and Humanities",
+                    "Astronomy and Space Science",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biomedical Engineering",
+                    "Business Administration",
+                    "Cardiology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Continuing Education",
+                    "Design",
+                    "Earth Sciences",
+                    "East Asian Studies",
+                    "Economics",
+                    "Education",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "Fine Arts",
+                    "French",
+                    "Gastroenterology",
+                    "Geography",
+                    "German",
+                    "Germanic Studies",
+                    "Greek (Classical)",
+                    "History",
+                    "Immunology",
+                    "Italian",
+                    "Latin",
+                    "Law",
+                    "Linguistics",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Medicine",
+                    "Microbiology",
+                    "Military Science",
+                    "Molecular Biology",
+                    "Music",
+                    "Natural Sciences",
+                    "Neurosciences",
+                    "Nursing",
+                    "Petroleum and Gas Engineering",
+                    "Philosophy",
+                    "Physical Therapy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psycholinguistics",
+                    "Psychology",
+                    "Religious Studies",
+                    "Respiratory Therapy",
+                    "Slavic Languages",
+                    "Social and Preventive Medicine",
+                    "Social Work",
+                    "Sociology",
+                    "Spanish",
+                    "Statistics",
+                    "Surveying and Mapping",
+                    "Theatre",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Kinesiology",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Health Sciences",
+                    "Physical Therapy",
+                    "Physiology",
+                    "Rehabilitation and Therapy",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Environmental Studies",
+                    "Mathematics",
+                    "Nanotechnology",
+                    "Natural Sciences",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Policy Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Biocomplexity and Informatics",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Molecular Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biogeoscience",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Botany",
+                    "Earth Sciences",
+                    "Ecology",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Geography",
+                    "Neurosciences",
+                    "Surveying and Mapping",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Bone and Joint Health",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Rheumatology"
+                ],
+                "Details": "McCaig"
+            },
+            {
+                "College": "Gender Research",
+                "FieldsOfStudy": [
+                    "Gender Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "Calgary"
+            },
+            {
+                "College": "Professional Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Cultural Studies"
+                ],
+                "Details": "IPC"
+            },
+            {
+                "College": "Quantum Information Science",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Science",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Space Research",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sustainable Energy, Environment and Economy",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Energy Engineering",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "United States Policy Research",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "CRFA"
+            },
+            {
+                "College": "Informatics",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "Linguistics",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Latin American",
+                "FieldsOfStudy": [
+                    "Latin American Studies"
+                ],
+                "Details": "LARC"
+            },
+            {
+                "College": "Architecture, Planning and Landscape",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Architecture",
+                    "Design",
+                    "Environmental Studies",
+                    "Landscape Architecture",
+                    "Town Planning",
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Information Sciences",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Operations Research",
+                    "Tourism"
+                ],
+                "Details": "Haskayne"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Psychology",
+                    "Teacher Training"
+                ],
+                "Details": "Werklund"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Bioengineering",
+                    "Biomedical Engineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Mechanical Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Software Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "Schulich"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biochemistry",
+                    "Cardiology",
+                    "Cell Biology",
+                    "Genetics",
+                    "Health Sciences",
+                    "Laboratory Techniques",
+                    "Medicine",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Neurosciences",
+                    "Obstetrics and Gynaecology",
+                    "Oncology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Psychiatry and Mental Health",
+                    "Radiology",
+                    "Rehabilitation and Therapy",
+                    "Surgery",
+                    "Veterinary Science"
+                ],
+                "Details": "Cumming"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "Anthropology",
+                    "Archaeology",
+                    "Architectural and Environmental Design",
+                    "Architecture",
+                    "Art History",
+                    "Astrophysics",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Biomedicine",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Dance",
+                    "Design",
+                    "Development Studies",
+                    "East Asian Studies",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "English",
+                    "Environmental Studies",
+                    "Film",
+                    "Finance",
+                    "French",
+                    "Gender Studies",
+                    "Geography",
+                    "Geology",
+                    "Geophysics",
+                    "Health Sciences",
+                    "History",
+                    "Indigenous Studies",
+                    "Insurance",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Landscape Architecture",
+                    "Latin American Studies",
+                    "Law",
+                    "Linguistics",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Medicine",
+                    "Mediterranean Studies",
+                    "Modern Languages",
+                    "Music",
+                    "Natural Sciences",
+                    "Neurosciences",
+                    "Nursing",
+                    "Philosophy",
+                    "Physics",
+                    "Plant Pathology",
+                    "Political Sciences",
+                    "Psychology",
+                    "Real Estate",
+                    "Religious Studies",
+                    "Small Business",
+                    "Social Work",
+                    "Sociology",
+                    "Software Engineering",
+                    "Spanish",
+                    "Sports",
+                    "Surveying and Mapping",
+                    "Theatre",
+                    "Town Planning",
+                    "Transport Management",
+                    "Urban Studies",
+                    "Veterinary Science",
+                    "Visual Arts",
+                    "Zoology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Architectural and Environmental Design",
+                    "Architecture",
+                    "Astronomy and Space Science",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biomedical Engineering",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Clinical Psychology",
+                    "Communication Studies",
+                    "Community Health",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Data Processing",
+                    "Economics",
+                    "Education",
+                    "Educational Psychology",
+                    "Electrical Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "Fine Arts",
+                    "Geography",
+                    "History",
+                    "Immunology",
+                    "Information Management",
+                    "Landscape Architecture",
+                    "Law",
+                    "Linguistics",
+                    "Management",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Microbiology",
+                    "Military Science",
+                    "Modern Languages",
+                    "Music",
+                    "Neurosciences",
+                    "Nursing",
+                    "Petroleum and Gas Engineering",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religious Studies",
+                    "Social Work",
+                    "Sociology",
+                    "Software Engineering",
+                    "Statistics",
+                    "Surveying and Mapping",
+                    "Theatre",
+                    "Veterinary Science"
+                ],
+                "Doctor'sDegrees": [
+                    "Astronomy and Space Science",
+                    "Biochemistry",
+                    "Biomedicine",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Community Health",
+                    "Computer Science",
+                    "Economics",
+                    "Education",
+                    "Educational and Student Counselling",
+                    "Educational Research",
+                    "Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "Film",
+                    "Geography",
+                    "Greek (Classical)",
+                    "History",
+                    "Immunology",
+                    "Latin",
+                    "Linguistics",
+                    "Management",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Media Studies",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Music",
+                    "Neurosciences",
+                    "Petroleum and Gas Engineering",
+                    "Philosophy",
+                    "Physical Therapy",
+                    "Physics",
+                    "Political Sciences",
+                    "Production Engineering",
+                    "Psychology",
+                    "Religious Studies",
+                    "Social Work",
+                    "Sociology",
+                    "Statistics",
+                    "Veterinary Science"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1407-14 Avenue",
+                "City": "Calgary",
+                "Province": "Alberta",
+                "PostCode": "T2N 4R3",
+                "Website": "https://www.auarts.ca",
+                "college_name": "Alberta University of the Arts",
+                "university_name": "(AUArts)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1926 as the Alberta College of Art (ACA), the college was originally part of what is now the Southern Alberta Institute of Technology (SAIT). Although the two campuses still border each other, ACA officially separated from SAIT in 1985 to become a stand-alone, independent, publicly funded college of art and design. In 1995 amended its name to become the Alberta College of Art and Design. In 2018, the government of Alberta announced that the college had achieved university status based on the quality of its programs. In 2019, the college received its new name and visual identity as the University of Alberta Arts (AUarts)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Ceramics and Glass Technology",
+                    "Crafts and Trades",
+                    "Design",
+                    "Jewellery Art",
+                    "Painting and Drawing",
+                    "Printing and Printmaking",
+                    "Sculpture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liberal Studies",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Arts and Humanities",
+                    "English",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media Arts and Digital Technologies",
+                "FieldsOfStudy": [
+                    "Electronic Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Design",
+                    "Fine Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Crafts and Trades",
+                    "Fine Arts"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "150 Ambrose Circle SW",
+                "City": "Calgary",
+                "Province": "Alberta",
+                "PostCode": "T3H 0L5",
+                "Website": "https://www.ambrose.edu",
+                "college_name": "Ambrose University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1921 as the Calgary Bible Institute. Became an accredited university college in 1995 and changed its name in 1999 to Nazarene University College (NUC). In 2003, Canadian Bible College (CBC) and Canadian Theological Seminary (CTS) moved to join NUC on the same campus in 2003, received accreditation in 2004, and changed their name to Alliance University College (AUC). AUC and NUC maintained a close relationship, began offering joint programs in 2006, and were often referred to as Alliance University College-Nazarene University College (AUC-NUC), although the two institutions awarded degrees independently until 2007.In 2007, AUC and NUC formed a single entity called Ambrose University. In 2014, province of Alberta granted 'university' nomenclature to Ambrose - Ambrose University College is renamed Ambrose University",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Science",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Behavioural Sciences",
+                    "Business Administration",
+                    "English",
+                    "History",
+                    "Literature",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ministry",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Religious Education",
+                    "Religious Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Theology"
+                ],
+                "Details": "Chinese"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Christian Religious Studies",
+                    "Religious Studies",
+                    "Theology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1 University Drive",
+                "City": "Athabasca",
+                "Province": "Alberta",
+                "PostCode": "T9S 3A3",
+                "Website": "https://www.athabascau.ca",
+                "college_name": "Athabasca University",
+                "university_name": "(AU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1970. An open, distance education university funded by the Department of Advanced Education of the government of Alberta. Accepted first students 1973, and received permanent self-governing status under the Alberta University Act 1978",
+            "AcademicYear": "No terms. Admission is granted all year round in undergraduate programmes",
+            "AdmissionRequirements": [
+                "Minimum age is 16 years old"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "E-Business/Commerce",
+                    "Finance",
+                    "Human Resources",
+                    "Leadership",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Distance Education",
+                    "Educational Sciences",
+                    "Educational Technology",
+                    "Health Sciences",
+                    "Heritage Preservation",
+                    "Information Sciences",
+                    "Law",
+                    "Management",
+                    "Nursing",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Disciplines",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Art History",
+                    "Arts and Humanities",
+                    "Canadian Studies",
+                    "Communication Studies",
+                    "Criminal Law",
+                    "Cultural Studies",
+                    "Education",
+                    "Educational Sciences",
+                    "English",
+                    "Environmental Studies",
+                    "Film",
+                    "French",
+                    "Gender Studies",
+                    "Geography (Human)",
+                    "German",
+                    "Government",
+                    "Health Administration",
+                    "Heritage Preservation",
+                    "History",
+                    "Human Resources",
+                    "Indigenous Studies",
+                    "International Studies",
+                    "Labour and Industrial Relations",
+                    "Labour Law",
+                    "Law",
+                    "Literature",
+                    "Music",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Administration",
+                    "Religious Studies",
+                    "Social and Community Services",
+                    "Sociology",
+                    "Spanish",
+                    "Women's Studies",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Environmental Studies",
+                    "Geography",
+                    "Geology",
+                    "Health Sciences",
+                    "Information Sciences",
+                    "Laboratory Techniques",
+                    "Mathematics",
+                    "Nutrition",
+                    "Physics",
+                    "Software Engineering",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Distance Education",
+                    "Health Sciences",
+                    "Information Sciences",
+                    "Nursing",
+                    "Psychology"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Distance Education"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "6730 University Drive",
+                "City": "Lacombe",
+                "Province": "Alberta",
+                "PostCode": "T4L 2E5",
+                "Website": "https://www.burmanu.ca",
+                "college_name": "Burman University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1907 as Alberta Seventh-day Adventist secondary school. The Board of Trustees authorized the establishment of a junior college 1919. Became known as Canadian Union College and statred offering its first four-year programme in Theology 1947. Acquired present title 1997. Formerly Canadian University College (until 11 December 2015)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Ceramic Art",
+                    "Design",
+                    "English",
+                    "French",
+                    "History",
+                    "Music",
+                    "Painting and Drawing",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Religious Studies",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Engineering",
+                    "Geology",
+                    "Mathematics",
+                    "Physical Education",
+                    "Physics",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Human Resources",
+                    "International Business",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Business Education",
+                    "Education",
+                    "Foreign Languages Education",
+                    "Mathematics Education",
+                    "Music Education",
+                    "Native Language Education",
+                    "Physical Education",
+                    "Primary Education",
+                    "Religious Studies",
+                    "Science Education",
+                    "Secondary Education",
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Behavioural Sciences",
+                    "Biology",
+                    "Business Administration",
+                    "Education",
+                    "English",
+                    "International Studies",
+                    "Music",
+                    "Psychology",
+                    "Religious Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "International Business",
+                    "International Studies"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "7128 Ada Boulevard",
+                "City": "Edmonton",
+                "Province": "Alberta",
+                "PostCode": "T5B 4E4",
+                "Website": "https://concordia.ab.ca",
+                "college_name": "Concordia University of Edmonton",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1921 as Concordia College by the Missouri Synod Lutheran Church. In 1967, Concordia College began offering first-year university courses in affiliation with the University of Alberta. It became a degree-granting university in 1987. In 1995, Concordia College changed its name to Concordia University College of Alberta to reflect its status as a degree granting institution. In 2015, Concordia University College became Concordia University of Edmonton",
+            "AcademicYear": "September to April (September-December; January-April). Also Spring/Summer Session (May-August)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent, including International Baccalaureate and Advanced Placement"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Arts and Humanities",
+                    "English",
+                    "Greek (Classical)",
+                    "Hebrew",
+                    "History",
+                    "Modern Languages",
+                    "Music",
+                    "Nursing",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religious Studies",
+                    "Sociology",
+                    "Theatre",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Behavioural Sciences",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "Finance",
+                    "Fine Arts",
+                    "History",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Musical Instruments",
+                    "Nursing",
+                    "Physics",
+                    "Psychology",
+                    "Social Studies",
+                    "Spanish",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Christian Religious Studies",
+                    "Information Management",
+                    "Information Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional Education",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Earth Sciences",
+                    "Environmental Studies",
+                    "Forensic Medicine and Dentistry",
+                    "Health Sciences",
+                    "Mathematics and Computer Science",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education",
+                    "Information Technology",
+                    "Leadership"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 1796\n10050 MacDonald Drive",
+                "City": "Edmonton",
+                "Province": "Alberta",
+                "PostCode": "T5J 2P2",
+                "Website": "https://www.macewan.ca",
+                "college_name": "Grant MacEwan University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1971 as Grant MacEwan College. Acquired present title 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Science",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Chinese",
+                    "Classical Languages",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Economics",
+                    "English",
+                    "French",
+                    "German",
+                    "Greek (Classical)",
+                    "History",
+                    "Japanese",
+                    "Latin",
+                    "Mathematics",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sociology",
+                    "Spanish",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts and Communications",
+                "FieldsOfStudy": [
+                    "Art Management",
+                    "Communication Studies",
+                    "Design",
+                    "Display and Stage Design",
+                    "Fine Arts",
+                    "Jazz and Popular Music",
+                    "Journalism",
+                    "Music",
+                    "Musical Instruments",
+                    "Theatre",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Community Studies",
+                "FieldsOfStudy": [
+                    "Acupuncture and Oriental Medicine",
+                    "Child Care and Development",
+                    "Criminal Law",
+                    "Gerontology",
+                    "Health Sciences",
+                    "Law",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Physical Therapy",
+                    "Police Studies",
+                    "Rehabilitation and Therapy",
+                    "Social Work",
+                    "Special Education",
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Human Resources",
+                    "Information Technology",
+                    "Insurance",
+                    "Law",
+                    "Leadership",
+                    "Library Science",
+                    "Management",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Business and Commerce",
+                    "Child Care and Development",
+                    "Communication Studies",
+                    "Music",
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "5707 College Drive",
+                "City": "Vermillion",
+                "Province": "Alberta",
+                "PostCode": "T9X 1K5",
+                "Website": "https://www.lakelandcollege.ca",
+                "college_name": "Lakeland College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1973",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Academic Upgrading",
+                "FieldsOfStudy": [
+                    "Adult Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Cattle Breeding",
+                    "Crop Production",
+                    "Veterinary Science",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Agricultural Business",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Real Estate"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Fire Science",
+                    "Health Sciences",
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy and Petroleum Technology",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Polymer and Plastics Technology",
+                    "Power Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Sciences",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Environmental Management",
+                    "Fishery",
+                    "Tourism",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fire and Emergency",
+                "FieldsOfStudy": [
+                    "Fire Science",
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Wellness",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Services",
+                "FieldsOfStudy": [
+                    "Child Care and Development",
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Interior Design",
+                "FieldsOfStudy": [
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Trades and Technology",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Metal Techniques",
+                    "Service Trades",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Arts and Humanities",
+                    "Business and Commerce",
+                    "Education",
+                    "Food Science",
+                    "Medical Technology",
+                    "Nursing",
+                    "Nutrition",
+                    "Social Work"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "300 College Drive South",
+                "City": "Lethbridge",
+                "Province": "Alberta",
+                "PostCode": "T1K 1L6",
+                "Website": "https://lethbridgecollege.ca",
+                "college_name": "Lethbridge College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1957 as Lethbridge Community College",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Academic Upgrading & Transition Programs",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "English",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture and Science",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment",
+                    "Agriculture",
+                    "Biotechnology",
+                    "Fishery",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Alternative Energy",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Apprenticeships",
+                "FieldsOfStudy": [
+                    "Automotive Engineering",
+                    "Cooking and Catering",
+                    "Metal Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Automotives and Mechanics",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment",
+                    "Automotive Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Administration",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business Administration",
+                    "Information Technology",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communications and Media",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing and Information Technology",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Computer Science",
+                    "Information Technology",
+                    "Multimedia",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Criminal Justice and Law",
+                "FieldsOfStudy": [
+                    "Criminal Law",
+                    "Fire Science",
+                    "Law",
+                    "Police Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culinary Arts and Hospitality",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Cooking and Catering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Communication Arts",
+                    "Computer Science",
+                    "Design",
+                    "Fashion Design",
+                    "Information Technology",
+                    "Interior Design",
+                    "Marketing",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Preschool Education",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Environmental Studies",
+                    "Fishery",
+                    "Natural Resources",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fitness and Recreation",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Health Sciences",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Services",
+                "FieldsOfStudy": [
+                    "Child Care and Development",
+                    "Preschool Education",
+                    "Rehabilitation and Therapy",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities, Psychology and Sociology",
+                "FieldsOfStudy": [
+                    "Child Care and Development",
+                    "Law",
+                    "Police Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages and English as a Second Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Outdoor Careers",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Environmental Studies",
+                    "Fishery",
+                    "Natural Resources",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Trades",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment",
+                    "Automotive Engineering",
+                    "Energy Engineering",
+                    "Metal Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transportation",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment",
+                    "Automotive Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "299 College Drive S.E.",
+                "City": "Medicine Hat",
+                "Province": "Alberta",
+                "PostCode": "T1A 3Y6",
+                "Website": "https://www.mhc.ab.ca",
+                "college_name": "Medicine Hat College",
+                "university_name": "(MHC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1965 as Medicine Hat Junior College. Acquired present title 1969",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Adult Development",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "English",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Child Care and Development",
+                    "Communication Studies",
+                    "Criminal Law",
+                    "Education",
+                    "Fine Arts",
+                    "Journalism",
+                    "Law",
+                    "Police Studies",
+                    "Preschool Education",
+                    "Social Work",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Education",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Communication Studies",
+                    "Criminal Law",
+                    "Education",
+                    "Educational Administration",
+                    "Fine Arts",
+                    "Journalism",
+                    "Law",
+                    "Police Studies",
+                    "Preschool Education",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Enterprise",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Communication Studies",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Education",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Health",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Chiropractic",
+                    "Computer Graphics",
+                    "Computer Science",
+                    "Dental Hygiene",
+                    "Dentistry",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Health Sciences",
+                    "Information Technology",
+                    "Laboratory Techniques",
+                    "Leadership",
+                    "Medicine",
+                    "Nursing",
+                    "Nutrition",
+                    "Occupational Therapy",
+                    "Optometry",
+                    "Paramedical Sciences",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Power Engineering",
+                    "Social Work",
+                    "Speech Therapy and Audiology",
+                    "Tourism",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Trades and Technology",
+                "FieldsOfStudy": [
+                    "Metal Techniques",
+                    "Service Trades",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "4825 Mount Royal Gate, SW",
+                "City": "Calgary",
+                "Province": "Alberta",
+                "PostCode": "T3E 6K6",
+                "Website": "https://www.mtroyal.ca",
+                "college_name": "Mount Royal University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1910 as Mount Royal College. Acquired present title 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent; interview for some programmes"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Child Well-Being",
+                "FieldsOfStudy": [
+                    "Child Care and Development"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Iniskim",
+                "FieldsOfStudy": [
+                    "Indigenous Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Jazz and Popular Music",
+                    "Music",
+                    "Music Theory and Composition",
+                    "Musical Instruments",
+                    "Singing"
+                ],
+                "Details": "Mount Royal"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Art History",
+                    "Arts and Humanities",
+                    "Canadian Studies",
+                    "Chinese",
+                    "Classical Languages",
+                    "Economics",
+                    "English",
+                    "French",
+                    "German",
+                    "Greek (Classical)",
+                    "History",
+                    "Interior Design",
+                    "Italian",
+                    "Japanese",
+                    "Latin",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religious Studies",
+                    "Romance Languages",
+                    "Social Policy",
+                    "Sociology",
+                    "Spanish",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Studies",
+                "FieldsOfStudy": [
+                    "Information Management",
+                    "Journalism",
+                    "Music",
+                    "Public Relations",
+                    "Radio and Television Broadcasting",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education and Extention",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Adult Education",
+                    "Arabic",
+                    "Business Administration",
+                    "Child Care and Development",
+                    "Chinese",
+                    "Cinema and Television",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Data Processing",
+                    "Design",
+                    "English",
+                    "Environmental Management",
+                    "Film",
+                    "Finance",
+                    "French",
+                    "German",
+                    "Health Sciences",
+                    "Human Resources",
+                    "Insurance",
+                    "Italian",
+                    "Japanese",
+                    "Leadership",
+                    "Management",
+                    "Marketing",
+                    "Occupational Therapy",
+                    "Petroleum and Gas Engineering",
+                    "Photography",
+                    "Physical Therapy",
+                    "Police Studies",
+                    "Portuguese",
+                    "Public Relations",
+                    "Real Estate",
+                    "Rehabilitation and Therapy",
+                    "Russian",
+                    "Small Business",
+                    "Spanish",
+                    "Toxicology",
+                    "Transport and Communications",
+                    "Video",
+                    "Visual Arts",
+                    "Writing",
+                    "Yoga"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Community Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Child Care and Development",
+                    "Criminal Law",
+                    "Forensic Medicine and Dentistry",
+                    "Health Sciences",
+                    "Nursing",
+                    "Physical Education",
+                    "Psychiatry and Mental Health",
+                    "Rehabilitation and Therapy",
+                    "Social Work",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Information Sciences",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teaching and Learning",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Education/Languages Institute",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Chinese",
+                    "Communication Studies",
+                    "English",
+                    "French",
+                    "German",
+                    "Italian",
+                    "Japanese",
+                    "Modern Languages",
+                    "Portuguese",
+                    "Russian",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Insurance",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "Bissett"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Anthropology",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Education",
+                    "English",
+                    "Health Education",
+                    "History",
+                    "Midwifery",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Physical Education",
+                    "Psychology",
+                    "Sociology",
+                    "Spanish"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "11762-106 Street N.W.",
+                "City": "Edmonton",
+                "Province": "Alberta",
+                "PostCode": "T5G 2R1",
+                "Website": "https://www.nait.ca",
+                "college_name": "NAIT",
+                "university_name": "Northern Alberta Institute of Technology"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1962",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Academic Upgrading",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Animal Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Building Construction and Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Building Technologies",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Graphic Design",
+                    "Interior Design",
+                    "Materials Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "JR Shaw  (JRSSB)"
+            },
+            {
+                "College": "Engineering and Applied Sciences",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Architecture",
+                    "Biological and Life Sciences",
+                    "Biomedical Engineering",
+                    "Building Technologies",
+                    "Chemical Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Construction Engineering",
+                    "Design",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "Engineering Management",
+                    "Environmental Studies",
+                    "Forestry",
+                    "Geological Engineering",
+                    "Instrument Making",
+                    "Interior Design",
+                    "Laboratory Techniques",
+                    "Materials Engineering",
+                    "Nanotechnology",
+                    "Petroleum and Gas Engineering",
+                    "Surveying and Mapping",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Safety",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Dental Technology",
+                    "Dentistry",
+                    "Laboratory Techniques",
+                    "Medical Technology",
+                    "Medicine",
+                    "Occupational Therapy",
+                    "Physical Therapy",
+                    "Radiology",
+                    "Respiratory Therapy",
+                    "Sports",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality and Culinary Arts",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Hotel and Restaurant"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology and Electronics",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Graphic Arts",
+                    "Information Technology",
+                    "Photography",
+                    "Radio and Television Broadcasting",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical and Industrial",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Automotive Engineering",
+                    "Building Technologies",
+                    "Instrument Making",
+                    "Mechanical Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Power Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media and Design",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Graphic Arts",
+                    "Media Studies",
+                    "Photography",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Recreation and Outdoors",
+                "FieldsOfStudy": [
+                    "Landscape Architecture",
+                    "Marine Transport",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sustainable Building and Environmental Management",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemical Engineering",
+                    "Energy Engineering",
+                    "Geological Engineering",
+                    "Landscape Architecture",
+                    "Surveying and Mapping",
+                    "Water Management"
+                ],
+                "Details": "(SSBEM)"
+            },
+            {
+                "College": "Trades",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Automotive Engineering",
+                    "Business Administration",
+                    "Marine Transport",
+                    "Power Engineering",
+                    "Service Trades"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Industrial Management",
+                    "Information Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "100 College Blvd P.O. Box 5005",
+                "City": "Red Deer",
+                "Province": "Alberta",
+                "PostCode": "T4N 5H5",
+                "Website": "https://rdpolytech.ca",
+                "college_name": "Red Deer Polytechnic",
+                "university_name": "(RDC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1963 as Red Deer College (RDC). In 2021, Red Deer College was converted into a regional polytechnic institute called Red Deer Polytechnic",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Certificates and Diplomas",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Administration",
+                    "Automotive Engineering",
+                    "Business Administration",
+                    "Child Care and Development",
+                    "Computer Networks",
+                    "Finance",
+                    "Health Sciences",
+                    "Laboratory Techniques",
+                    "Music",
+                    "Nursing",
+                    "Performing Arts",
+                    "Pharmacy",
+                    "Service Trades",
+                    "Social Work",
+                    "Software Engineering",
+                    "Sports",
+                    "Theatre",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "English",
+                    "French",
+                    "History",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sociology",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "Donald"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Science",
+                    "Information Technology",
+                    "Leadership",
+                    "Marketing",
+                    "Service Trades",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Creative Arts",
+                "FieldsOfStudy": [
+                    "Film",
+                    "Music",
+                    "Theatre",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "University of Alberta"
+            },
+            {
+                "College": "Health Science",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Trades and Technology",
+                "FieldsOfStudy": [
+                    "Electrical and Electronic Engineering",
+                    "Mechanical Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Health Sciences",
+                    "Social Sciences",
+                    "Visual Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1301-16 Avenue N.W.",
+                "City": "Calgary",
+                "Province": "Alberta",
+                "PostCode": "T2M 0L4",
+                "Website": "https://www.sait.ca",
+                "college_name": "SAIT",
+                "university_name": "Southern Alberta Institute of Technology"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1916, as the Provincial Institute of Technology and Art (PITA). Renamed the Southern Alberta Institute of Technology (SAIT) 1960. Rebranded as SAIT Polytechnic in 2004",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Information Management",
+                    "Law",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Design",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Environmental Engineering",
+                    "Laboratory Techniques",
+                    "Petroleum and Gas Engineering",
+                    "Power Engineering"
+                ],
+                "Details": "MacPhail"
+            },
+            {
+                "College": "Health and Public Safety",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Health Sciences",
+                    "Information Technology",
+                    "Medical Technology",
+                    "Medicine",
+                    "Pharmacy",
+                    "Radiology",
+                    "Rehabilitation and Therapy",
+                    "Respiratory Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality and Tourism",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Hotel and Restaurant",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information and Communications Technologies",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Film",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Journalism",
+                    "Library Science",
+                    "Media Studies",
+                    "Radio and Television Broadcasting",
+                    "Video"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Manufacturing and Automation",
+                "FieldsOfStudy": [
+                    "Electronics and Automation",
+                    "Mechanical Engineering",
+                    "Metal Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transportation",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Automotive Engineering",
+                    "Business Administration",
+                    "Railway Transport"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "14500 Bannister Road SE",
+                "City": "Calgary",
+                "Province": "Alberta",
+                "PostCode": "T2X 1Z4",
+                "Website": "https://www.stmu.ca",
+                "college_name": "St. Mary's University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1986 under the name of Mark Charlton. Became St. Mary's University College in 2004. Acquired its current status and title of St. Mary's College in 2014",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Biological Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business/Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Catholic Educators",
+                "FieldsOfStudy": [
+                    "Educational Administration",
+                    "Religious Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Studies",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Education",
+                    "English",
+                    "Psychology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "9125-50 Street North West",
+                "City": "Edmonton",
+                "Province": "Alberta",
+                "PostCode": "T6B 2H3",
+                "Website": "https://www.kingsu.ca",
+                "college_name": "The King's University",
+                "university_name": "(TKUC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1979 as The King's College, an Edmonton's Christian university. Became The King\u2019s University College in 1993. Became The King's University in 2015",
+            "AcademicYear": "September to April (September-December; January-April)",
+            "AdmissionRequirements": [
+                "Secondary school certificate with minimum 60% average in prescribed courses or recognized foreign equivalent",
+                "Proficiency in oral and written English",
+                "If English is applicant's second language, TOEFL score of 580+, or computer-based score of 237+, or IELTS score of 6",
+                "5",
+                "Requirements may include acceptable performance in entrance tests, such as ACT and SAT"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Interdisciplinary Studies",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Economics",
+                    "Environmental Studies",
+                    "History",
+                    "Political Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Display and Stage Design",
+                    "English",
+                    "History",
+                    "Media Studies",
+                    "Music",
+                    "Music Theory and Composition",
+                    "Musical Instruments",
+                    "Musicology",
+                    "Painting and Drawing",
+                    "Philosophy",
+                    "Singing",
+                    "Theatre",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Economics",
+                    "Geography",
+                    "Management",
+                    "Physical Education",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Chemistry"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "114 St. 89 Avenue",
+                "City": "Edmonton",
+                "Province": "Alberta",
+                "PostCode": "T6G 2E1",
+                "Website": "https://www.ualberta.ca",
+                "college_name": "University of Alberta",
+                "university_name": "(U of A)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1908",
+            "AcademicYear": "September to April (September-December; January-April); Spring and Summer sessions available",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent; post secondary transcrits; English language proficiency"
+            ],
+            "Languages": [
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Augustana",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Classical Languages",
+                    "Computer Science",
+                    "Development Studies",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "Fine Arts",
+                    "French",
+                    "Geography",
+                    "German",
+                    "Greek (Classical)",
+                    "History",
+                    "Latin",
+                    "Management",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Music",
+                    "Physical Therapy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religion",
+                    "Scandinavian Languages",
+                    "Social Sciences",
+                    "Sociology",
+                    "Spanish",
+                    "Sports",
+                    "Theatre",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Saint-Jean",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Arts and Humanities",
+                    "Biological and Life Sciences",
+                    "Business Administration",
+                    "Canadian Studies",
+                    "Earth Sciences",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Engineering",
+                    "Environmental Studies",
+                    "History",
+                    "Literature",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Physics",
+                    "Political Sciences",
+                    "Primary Education",
+                    "Psychology",
+                    "Secondary Education",
+                    "Sociology",
+                    "Soil Management",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "St. Joseph's",
+                "FieldsOfStudy": [
+                    "Ethics",
+                    "Philosophy",
+                    "Religious Education",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "St. Stephen's",
+                "FieldsOfStudy": [
+                    "Art Therapy",
+                    "Pastoral Studies",
+                    "Psychology",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural, Life and Environmental Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Animal Husbandry",
+                    "Ecology",
+                    "Food Science",
+                    "Food Technology",
+                    "Forest Biology",
+                    "Forest Economics",
+                    "Forest Management",
+                    "Horticulture",
+                    "Natural Resources",
+                    "Nutrition",
+                    "Soil Science",
+                    "Veterinary Science",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "African Studies",
+                    "Ancient Civilizations",
+                    "Anthropology",
+                    "Arabic",
+                    "Art History",
+                    "Arts and Humanities",
+                    "Comparative Literature",
+                    "Criminology",
+                    "Cultural Studies",
+                    "Danish",
+                    "Design",
+                    "East Asian Studies",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "Film",
+                    "Fine Arts",
+                    "Folklore",
+                    "French",
+                    "German",
+                    "History",
+                    "Hungarian",
+                    "Indic Languages",
+                    "Information Sciences",
+                    "International Studies",
+                    "Italian",
+                    "Linguistics",
+                    "Literature",
+                    "Mathematics",
+                    "Medieval Studies",
+                    "Middle Eastern Studies",
+                    "Modern Languages",
+                    "Music",
+                    "Music Theory and Composition",
+                    "Musicology",
+                    "Norwegian",
+                    "Peace and Disarmament",
+                    "Persian",
+                    "Philosophy",
+                    "Polish",
+                    "Political Sciences",
+                    "Portuguese",
+                    "Psychology",
+                    "Religious Studies",
+                    "Russian",
+                    "Singing",
+                    "Slavic Languages",
+                    "Sociology",
+                    "Spanish",
+                    "Swahili",
+                    "Swedish",
+                    "Technology",
+                    "Theatre",
+                    "Translation and Interpretation",
+                    "Visual Arts",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "Natives Education",
+                    "Physical Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Extension",
+                "FieldsOfStudy": [
+                    "Acupuncture and Oriental Medicine",
+                    "Administration",
+                    "Adult Education",
+                    "Business Administration",
+                    "Chinese",
+                    "Communication Studies",
+                    "Continuing Education",
+                    "English",
+                    "Fine Arts",
+                    "French",
+                    "German",
+                    "Government",
+                    "Human Resources",
+                    "Information Management",
+                    "Information Technology",
+                    "Insurance",
+                    "Japanese",
+                    "Management",
+                    "Natural Resources",
+                    "Occupational Health",
+                    "Painting and Drawing",
+                    "Spanish",
+                    "Statistics",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies and Research",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Ancient Civilizations",
+                    "Anthropology",
+                    "Applied Linguistics",
+                    "Arts and Humanities",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biomedical Engineering",
+                    "Business Administration",
+                    "Canadian Studies",
+                    "Cell Biology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Comparative Law",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Dentistry",
+                    "Design",
+                    "Earth Sciences",
+                    "East Asian Studies",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Fine Arts",
+                    "Food Science",
+                    "French",
+                    "Genetics",
+                    "German",
+                    "Health Education",
+                    "Health Sciences",
+                    "History",
+                    "Immunology",
+                    "Information Sciences",
+                    "Italian",
+                    "Laboratory Techniques",
+                    "Latin American Studies",
+                    "Law",
+                    "Library Science",
+                    "Linguistics",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Medicine",
+                    "Microbiology",
+                    "Modern Languages",
+                    "Music",
+                    "Natural Resources",
+                    "Neurosciences",
+                    "Nursing",
+                    "Nutrition",
+                    "Obstetrics and Gynaecology",
+                    "Occupational Therapy",
+                    "Oncology",
+                    "Ophthalmology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Physics",
+                    "Physiology",
+                    "Political Sciences",
+                    "Primary Education",
+                    "Psychiatry and Mental Health",
+                    "Psychology",
+                    "Public Health",
+                    "Radiology",
+                    "Rehabilitation and Therapy",
+                    "Religious Studies",
+                    "Russian",
+                    "Secondary Education",
+                    "Slavic Languages",
+                    "Sociology",
+                    "Spanish",
+                    "Speech Therapy and Audiology",
+                    "Statistics",
+                    "Surgery",
+                    "Technology",
+                    "Telecommunications Engineering",
+                    "Theatre",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Dentistry",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Biochemistry",
+                    "Biomedical Engineering",
+                    "Cell Biology",
+                    "Dental Hygiene",
+                    "Dentistry",
+                    "Genetics",
+                    "Immunology",
+                    "Laboratory Techniques",
+                    "Medicine",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Oncology",
+                    "Ophthalmology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Psychiatry and Mental Health",
+                    "Public Health",
+                    "Radiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Native Studies",
+                "FieldsOfStudy": [
+                    "Native American Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy and Pharmaceutical Sciences",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education and Recreation",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Sports",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rehabilitation Medicine",
+                "FieldsOfStudy": [
+                    "Occupational Therapy",
+                    "Physical Therapy",
+                    "Rehabilitation and Therapy",
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Mathematics",
+                    "Psychology",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Information Sciences",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Operations Research",
+                    "Statistics"
+                ],
+                "Details": "Alberta"
+            },
+            {
+                "College": "Library and Information Studies",
+                "FieldsOfStudy": [
+                    "Information Sciences",
+                    "Library Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Epidemiology",
+                    "Health Sciences",
+                    "Occupational Health",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Finance",
+                    "Law",
+                    "Library Science"
+                ],
+                "Doctor'sDegrees": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Education",
+                    "Engineering",
+                    "French",
+                    "German",
+                    "Italian",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Mathematics",
+                    "Nursing",
+                    "Physics",
+                    "Psychology",
+                    "Public Health",
+                    "Romance Languages",
+                    "Slavic Languages",
+                    "Spanish",
+                    "Translation and Interpretation"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "4401 University Drive",
+                "City": "Lethbridge",
+                "Province": "Alberta",
+                "PostCode": "T1K 3M4",
+                "Website": "https://www.ulethbridge.ca",
+                "college_name": "University of Lethbridge",
+                "university_name": "(U of L)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1967.",
+            "AcademicYear": "September to August (September-December; January-April; May-August)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent, with 65% or equivalent average (actual cut-off may vary from year to year depending on space available and demand)"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Science",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Anthropology",
+                    "Archaeology",
+                    "Art History",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biotechnology",
+                    "Canadian Studies",
+                    "Chemistry",
+                    "Computer Science",
+                    "Dentistry",
+                    "Economics",
+                    "Engineering",
+                    "English",
+                    "Environmental Studies",
+                    "Food Science",
+                    "French",
+                    "Geography",
+                    "German",
+                    "History",
+                    "Journalism",
+                    "Law",
+                    "Mathematics",
+                    "Medicine",
+                    "Museum Studies",
+                    "Music",
+                    "Native American Studies",
+                    "Neurosciences",
+                    "Nutrition",
+                    "Optometry",
+                    "Painting and Drawing",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Regional Studies",
+                    "Religious Studies",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Spanish",
+                    "Surveying and Mapping",
+                    "Theatre",
+                    "Urban Studies",
+                    "Veterinary Science",
+                    "Women's Studies",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Education",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Display and Stage Design",
+                    "Fine Arts",
+                    "Media Studies",
+                    "Museum Studies",
+                    "Music",
+                    "Performing Arts",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education",
+                    "Educational and Student Counselling",
+                    "Fine Arts",
+                    "Health Sciences",
+                    "Leadership",
+                    "Management",
+                    "Music",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing",
+                    "Public Health",
+                    "Toxicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Government",
+                    "International Business",
+                    "Management"
+                ],
+                "Details": "Calgary"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "Edmonton"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "Lethbridge"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Computer Science",
+                    "Education",
+                    "Fine Arts",
+                    "Management",
+                    "Music",
+                    "Natural Sciences",
+                    "Psychology"
+                ],
+                "Doctor'sDegrees": [
+                    "Behavioural Sciences",
+                    "Earth Sciences",
+                    "Molecular Biology",
+                    "Neurosciences",
+                    "Physics"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

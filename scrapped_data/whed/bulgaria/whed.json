@@ -1,0 +1,5518 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Studentski grad",
+                "City": "Stara Zagora",
+                "Province": "N/A",
+                "PostCode": "6000",
+                "Website": "http://www.uni-sz.bg",
+                "college_name": "Trakia University",
+                "university_name": "Trakijski universitet - Stara Zagora (TrU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1995, incorporating the former Higher Institute of Medicine and Higher Institute of Animal Production and Veterinary Medicine. Three Medical Colleges affiliated to Trakia University 1997",
+            "AcademicYear": "September to July (September-December; February-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (zrelostno svidetelstvo), or equivalent"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Haskovo",
+                "FieldsOfStudy": [
+                    "Midwifery",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "Stara Zagora"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Food Technology",
+                    "Machine Building",
+                    "Maintenance Technology",
+                    "Textile Technology"
+                ],
+                "Details": "Yambol"
+            },
+            {
+                "College": "Information and In-service Teacher Training",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Computer Education",
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education",
+                    "Literacy Education",
+                    "Mathematics Education",
+                    "Music Education",
+                    "Native Language Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Teacher Trainers Education",
+                    "Technology Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Ecology",
+                    "Fishery"
+                ],
+                "Details": "with experimental station"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Regional Planning",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Social and Community Services",
+                    "Social Welfare",
+                    "Social Work"
+                ],
+                "Details": "with University Hospital"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "with Clinics"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "55, Marin Drinov Str.",
+                "City": "Varna",
+                "Province": "N/A",
+                "PostCode": "9002",
+                "Website": "http://mu-varna.bg",
+                "college_name": "\"Prof. Dr. Paraskev Stoyanov\" Medical University - Varna",
+                "university_name": "Medicinski universitet \"Prof. d-r Paraskev Stojanov\" - Varna \u2013 Medical University of Varna (MU Varna)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1961 as Higher Institute of Medicine, acquired present status 1995",
+            "AcademicYear": "September to June (September-December; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie)"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "\u0160oumen, Dobri\u010d"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Embryology and Reproduction Biology",
+                    "Histology",
+                    "Medicine",
+                    "Orthopaedics",
+                    "Pathology",
+                    "Physiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Health Sciences",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "str. \"Todor Samodumov\" N\u00b02\nP.O. Box 783",
+                "City": "Plovdiv",
+                "Province": "N/A",
+                "PostCode": "4000",
+                "Website": "http://www.artacademyplovdiv.com",
+                "college_name": "Academy of Music, Dance and Fine Arts \"Prof. Asen Diamandiev\" in Plovdiv",
+                "university_name": "Akademiya za muzikalno, tantzovo i izobrazitelno izkustvo \"Prof. Asen Diamandiev\" (ADMFA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1964 as Pedagogical Faculty, became Pedagogical Institute of Music 1972. Acquired present status and title 1995",
+            "AcademicYear": "September to May 31 (Autumn semester: September-December; Spring semester: February-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie) and entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Language and Professional Education",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Conducting",
+                    "Dance",
+                    "Graphic Design",
+                    "Modern Languages",
+                    "Music Education",
+                    "Painting and Drawing",
+                    "Performing Arts",
+                    "Photography",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Fine Arts",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music Education",
+                "FieldsOfStudy": [
+                    "Conducting",
+                    "Jazz and Popular Music",
+                    "Music",
+                    "Music Education",
+                    "Music Theory and Composition",
+                    "Musical Instruments",
+                    "Musicology",
+                    "Religious Music",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Musical Folklore and Choreograpy",
+                "FieldsOfStudy": [
+                    "Art Management",
+                    "Dance",
+                    "Music",
+                    "Musical Instruments",
+                    "Musicology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "bul. Aleksand\u01cer Malinov \u21161",
+                "City": "Sofia",
+                "Province": "982-9213",
+                "PostCode": "1715",
+                "Website": "https://www.mvr.bg/academy",
+                "college_name": "Academy of the Ministry of Interior - Sofia",
+                "university_name": "Akademija na Ministerstvoto na v\u01cetre\u0161nite raboti - Sofija \u2013 Akademija na MVR"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Fire Safety and Protection of the Population",
+                "FieldsOfStudy": [
+                    "Fire Science",
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Police Studies",
+                "FieldsOfStudy": [
+                    "Police Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "12 Mendeleev Boulevard",
+                "City": "Plovdiv",
+                "Province": "N/A",
+                "PostCode": "4000",
+                "Website": "http://www.au-plovdiv.bg",
+                "college_name": "Agricultural University - Plovdiv",
+                "university_name": "Agraren Universitet (AU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1945 as Higher Institute of Agriculture, acquired present status and title 2001",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie), or foreign equivalent"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Languages and Sport",
+                "FieldsOfStudy": [
+                    "Bulgarian",
+                    "Modern Languages",
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Biochemistry",
+                    "Botany",
+                    "Crop Production",
+                    "Farm Management",
+                    "Plant and Crop Protection",
+                    "Soil Science"
+                ],
+                "Details": "\"Saint Dimitrius of Thessaloniki\""
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Computer Science",
+                    "Management",
+                    "Marketing",
+                    "Statistics",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Horticulture and Viticulture",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment",
+                    "Fruit Production",
+                    "Geology",
+                    "Horticulture",
+                    "Viticulture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Plant Protection and Agroecology",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Ecology",
+                    "Entomology",
+                    "Environmental Management",
+                    "Microbiology",
+                    "Plant and Crop Protection",
+                    "Plant Pathology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1 Georgi Izmirliev Sq.",
+                "City": "Blagoevgrad",
+                "Province": "N/A",
+                "PostCode": "2700",
+                "Website": "https://www.aubg.edu",
+                "college_name": "American University in Bulgaria - Blagoevgrad",
+                "university_name": "Amerikanski universitet v B\u01celgarija - Blagoevgrad (AUBG)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1991. First American-style liberal arts institution in Eastern Europe, established as a joint venture between the US and Bulgarian governments, the Open Society Institute and the University of Maine",
+            "AcademicYear": "August to May (August-December; January-May)",
+            "AdmissionRequirements": [
+                "College Board SAT Examination",
+                "TOEFL test (minimum 550)"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts, Languages and Literature",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English",
+                    "Fine Arts",
+                    "Literature",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Religion",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Civilizations",
+                "FieldsOfStudy": [
+                    "American Studies",
+                    "Anthropology",
+                    "European Studies",
+                    "History",
+                    "Philosophy",
+                    "Religion"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Mass Communication",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Science",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Science and European Studies",
+                "FieldsOfStudy": [
+                    "European Studies",
+                    "International Relations and Diplomacy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. \"Studentska\" 8",
+                "City": "Ruse",
+                "Province": "N/A",
+                "PostCode": "7017",
+                "Website": "http://www.uni-ruse.bg",
+                "college_name": "Angel Kanchev University of Ruse",
+                "university_name": "Rusenski universitet \"Angel K\u01cen\u010dev\" (RU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1945 as Higher Technical School, acquired present status and title 1995",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie) and entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agro-industry",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment",
+                    "Chemical Engineering",
+                    "Ecology",
+                    "Hydraulic Engineering",
+                    "Industrial Design",
+                    "Maintenance Technology",
+                    "Mechanics",
+                    "Thermal Engineering",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "European Studies",
+                    "International Relations and Diplomacy",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical and Electronic Engineering and Automation",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Electronics and Automation",
+                    "Power Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Criminal Law",
+                    "Law",
+                    "Modern Languages",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical and Manufacturing Engineering",
+                "FieldsOfStudy": [
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Mechanics",
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences and Education",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Bulgarian",
+                    "Computer Science",
+                    "History",
+                    "Information Technology",
+                    "Literature",
+                    "Mathematics",
+                    "Pedagogy",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health and Health Care",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Health Sciences",
+                    "Physical Education",
+                    "Public Health",
+                    "Sports",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport",
+                "FieldsOfStudy": [
+                    "Automotive Engineering",
+                    "Machine Building",
+                    "Mechanics",
+                    "Physics",
+                    "Transport and Communications",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "62 San Stefano Street",
+                "City": "Burgas",
+                "Province": "N/A",
+                "PostCode": "8001",
+                "Website": "http://www.bfu.bg",
+                "college_name": "Burgas Free University",
+                "university_name": "Burgaski svoboden universitet (BFU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991 by the Burgas Academic Association. Acquired status of Higher Educational Institution by the Act of the Great National Assembly.",
+            "AcademicYear": "October to June (October-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (diploma za zavarsheno sredno obrazovanie) or recognized foreign equivalent and entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Engineering",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Industrial Management",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Bulgarian",
+                    "English",
+                    "Journalism",
+                    "Philology",
+                    "Primary Education",
+                    "Public Relations",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal Studies",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "European Union Law",
+                    "Fiscal Law",
+                    "History of Law",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Labour Law",
+                    "Law",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2, Emanuil Chakarov Str.",
+                "City": "Svishtov",
+                "Province": "Veliko Tarnovo",
+                "PostCode": "5250",
+                "Website": "http://www.uni-svishtov.bg/en",
+                "college_name": "D. A. Tsenov Academy of Economics",
+                "university_name": "Stopanska akademija \"D. A. Cenov\" \u2013 Tsenov Academy of Economics (TAE)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1936 by donation as a Higher Institute of Finance and Economics. Acquired present status and title 1995",
+            "AcademicYear": "September to June; Autumn semester (September-December); Spring semester (February-May); Examination sessions (January-February; May-June)",
+            "AdmissionRequirements": [
+                "Bachelor Programmes: EU students - Diploma of secondary education and entrance exam, Non-EU students - Diploma of secondary education; Master Programmes: EU and non-EU students \u2013 Diploma of higher education; Doctoral Programmes: EU and non-EU students, Master Degree"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "English",
+                "Russian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economic Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Economic History",
+                    "Mathematics",
+                    "Physical Education",
+                    "Sports",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Insurance",
+                    "Social Welfare"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial and Commercial Business",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Business and Commerce",
+                    "Industrial Management",
+                    "Law",
+                    "Social Sciences",
+                    "Sociology",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Marketing",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business Computing",
+                    "International Economics",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "18 Zadruga Str.",
+                "City": "Plovdiv",
+                "Province": "N/A",
+                "PostCode": "4004",
+                "Website": "http://www.ehsem.bg",
+                "college_name": "European Higher School of Economics and Management",
+                "university_name": "Evropejsko vis\u0161e u\u010dili\u0161te po ikonomika i menid\u017em\u01cent (ECEM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001. Previously known as Evropejski kolej po iknomika i upravlenie (European College of Economics and Management)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "23 Sv. Sv. Kiril i Metodiy Str.",
+                "City": "Pernik",
+                "Province": "N/A",
+                "PostCode": "2300",
+                "Website": "http://www.epubg.eu",
+                "college_name": "European Polytechnical University",
+                "university_name": "Evropejski politehni\u010deski universitet \u2013 EPU Bulgaria (EPU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architectural Design, Theory and History of Architecture",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication and Computer Technology",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction of Buildings and Facilities, Building Materials and Technology",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Construction Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics, Management and Administration",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Green Energetics",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanics and Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics",
+                    "Mechanics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "bul. Kuklensko shose 13",
+                "City": "Plovdiv",
+                "Province": "N/A",
+                "PostCode": "4000",
+                "Website": "https://www.vusi.bg",
+                "college_name": "Higher School of Security and Economics - Plovdiv",
+                "university_name": "Vis\u0161e u\u010dili\u0161te po sigurnost i ikonomika - Plovdiv (VUSI)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2003 as College of Economy and Administration - Plovdiv (Kolezh po ikonomika i Administracia - Plovdiv). Acquired current status 2015",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Security Studies",
+                "FieldsOfStudy": [
+                    "Civil Security"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism Management",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. \"Akad. Stefan Mladenov\" 1",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1700",
+                "Website": "http://www.utp.bg",
+                "college_name": "Higher School of Telecommunications and Post",
+                "university_name": "Vis\u0161e u\u010dili\u0161te po telekomunikacii i po\u0161ti (UTP)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1922 as Kolej po telekomunikatsii I pochti-Sofia (College of Telecommunications and Post - Sofia). Acquired current title 2015",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Information Technology and Modeling",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management in Communications",
+                "FieldsOfStudy": [
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Telecommunication Technologies",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Wireless Communications and Broadcasting",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Information Sciences",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. Gurko 14",
+                "City": "Botevgrad",
+                "Province": "N/A",
+                "PostCode": "2140",
+                "Website": "http://www.ibsedu.bg",
+                "college_name": "International Business School",
+                "university_name": "Me\u017edunarodno vis\u0161e biznes u\u010dili\u0161te - Botevgrad (IBS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991. Acquired present status 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Accountancy and Audit",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "in English"
+            },
+            {
+                "College": "Business Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Entrepreneurship and Innovation",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Health Care Management",
+                "FieldsOfStudy": [
+                    "Health Administration"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Information Management",
+                "FieldsOfStudy": [
+                    "Information Management"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "International Economic Relations",
+                "FieldsOfStudy": [
+                    "International Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Internet Marketing",
+                "FieldsOfStudy": [
+                    "E-Business/Commerce",
+                    "Marketing"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Logistics",
+                "FieldsOfStudy": [
+                    "Transport Management"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Marketing and Communications",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Marketing",
+                    "Public Relations",
+                    "Sales Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music Business",
+                "FieldsOfStudy": [
+                    "Art Management",
+                    "Business Administration"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Project Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Public Sector Management",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Taxation and Management",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Taxation"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism Management",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "Graduate"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. \"Universitetska\" 115",
+                "City": "Shumen",
+                "Province": "N/A",
+                "PostCode": "9700",
+                "Website": "http://shu.bg",
+                "college_name": "Konstantin Preslavsky University of Shumen",
+                "university_name": "\u0160umenski universitet \"Episkop Konstantin Preslavski\" (SHU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1971 as Higher Pedagogical Institute, acquired present status and title 1996",
+            "AcademicYear": "September to June (September-December; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie)"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Astronomy",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dobrich",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Foreign Languages Education",
+                    "Information Technology",
+                    "Mathematics and Computer Science",
+                    "Plant and Crop Protection",
+                    "Preschool Education",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Qualification and Lifelong Learning",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Bulgarian",
+                    "English",
+                    "German",
+                    "History",
+                    "Modern Languages",
+                    "Philology",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Economics",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Sciences",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 100\nul. \"Georgi S.Rakovski\" 108A",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "http://natfiz.bg",
+                "college_name": "Krustyo Sarafov National Academy for Theater and Film Arts",
+                "university_name": "Nacionalna akademia za teatralno i filmovo izkustvo \"Krustyo Sarafov\" (NATFIZ/NATFA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1948 as Higher Institute of Theatrical Art, acquired present status and title 1995. A State Institution",
+            "AcademicYear": "October to June (October-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie)"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Performing Arts",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Display and Stage Design",
+                    "Performing Arts",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Screen Arts",
+                "FieldsOfStudy": [
+                    "Cinema and Television",
+                    "Film",
+                    "Photography",
+                    "Video"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. Suhodolska 175",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1373",
+                "Website": "http://www.vsu.bg",
+                "college_name": "Lyuben Karavelov Higher School of Civil Engineering",
+                "university_name": "Vis\u0161e stroitelno u\u010dili\u0161te \"Ljuben Karavelov\" (VSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1928 as Professional School for Army Corps\u2019 Engineers. HSCE was transformed from a military into a civilian state institution of higher education. Acquired present title and status 2000",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Construction Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1, Sv. Kliment Ohridski Str.",
+                "City": "Pleven",
+                "Province": "N/A",
+                "PostCode": "5800",
+                "Website": "http://www.mu-pleven.bg",
+                "college_name": "Medical University - Pleven",
+                "university_name": "Medicinski universitet - Pleven (MUPL)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1974 as independent Institute",
+            "AcademicYear": "September to May (September-December; February-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie) or foreign equivalent and entrance examination",
+                "One year preparatory courses in Bulgarian language for foreign students",
+                "For students of the Faculty of Nursing - Speciality 'Management of Nursing Care', Diploma from a medical college and a minimum of 5 years of practice in health institutions"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language and Specialized Training",
+                "FieldsOfStudy": [
+                    "Bulgarian",
+                    "English",
+                    "French",
+                    "German",
+                    "Latin",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Care",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Orthopaedics",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Forensic Medicine and Dentistry",
+                    "Health Administration",
+                    "Health Education",
+                    "Information Technology",
+                    "Medical Parasitology",
+                    "Medicine",
+                    "Occupational Health",
+                    "Occupational Therapy",
+                    "Physical Therapy",
+                    "Psychiatry and Mental Health",
+                    "Psychology",
+                    "Public Health",
+                    "Rehabilitation and Therapy",
+                    "Social and Preventive Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "bul. Vasil Aprilov 15 A",
+                "City": "Plovdiv",
+                "Province": "N/A",
+                "PostCode": "4002",
+                "Website": "https://mu-plovdiv.bg",
+                "college_name": "Medical University - Plovdiv",
+                "university_name": "Medicinski Universitet - Plovdiv (MU Plovdiv)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1945",
+            "AcademicYear": "September to July (September-January; February-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie) and entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Dental Technology",
+                    "Laboratory Techniques",
+                    "Medical Auxiliaries",
+                    "Medical Technology",
+                    "Midwifery",
+                    "Nursing",
+                    "Nutrition",
+                    "Public Health",
+                    "Radiology",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages and Specialized Training",
+                "FieldsOfStudy": [
+                    "Bulgarian",
+                    "Modern Languages",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dental Technology",
+                    "Dentistry",
+                    "Orthodontics",
+                    "Periodontics",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Immunology",
+                    "Microbiology",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Economics",
+                    "Epidemiology",
+                    "Ethics",
+                    "Health Administration",
+                    "Hygiene",
+                    "Law",
+                    "Psychology",
+                    "Public Health",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "bul. \u201eAcad. Ivan Geshov\" \u2116 15",
+                "City": "Sofia",
+                "Province": "Sofia City",
+                "PostCode": "1431",
+                "Website": "http://mu-sofia.bg",
+                "college_name": "Medical University - Sofia",
+                "university_name": "MUS (MU-Sofia)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1917 as a Faculty of Medicine at Sofia University, became independent 1950 as Medical Academy with departments of Medicine and Dentistry, joined by the Department of Pharmacy 1951. Acquired present status 2006",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie) or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "Vratsa"
+            },
+            {
+                "College": "Languages and Student Sports",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biochemistry",
+                    "Biology",
+                    "Bulgarian",
+                    "Physiology",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "Sofia"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Histology",
+                    "Medicine",
+                    "Microbiology",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physics",
+                    "Physiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Natural Sciences",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Ethics",
+                    "Health Administration",
+                    "Health Education",
+                    "Health Sciences",
+                    "Nursing",
+                    "Physical Therapy",
+                    "Public Health",
+                    "Rehabilitation and Therapy",
+                    "Social and Preventive Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Shipka 1",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "http://nha.bg",
+                "college_name": "National Academy of Arts",
+                "university_name": "Nacionalna hudo\u017eestvena akademija (NAA/NHA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1896 as Higher School of Drawing (Fine Arts), acquired present title 1921. A State institution",
+            "AcademicYear": "October to June (October-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie) and entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Arts",
+                "FieldsOfStudy": [
+                    "Ceramic Art",
+                    "Design",
+                    "Display and Stage Design",
+                    "Fashion Design",
+                    "Fine Arts",
+                    "Glass Art",
+                    "Industrial Design",
+                    "Metal Techniques",
+                    "Restoration of Works of Art",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Art History",
+                    "Communication Arts",
+                    "Education",
+                    "Fine Arts",
+                    "Graphic Arts",
+                    "Painting and Drawing",
+                    "Printing and Printmaking",
+                    "Psychology",
+                    "Sculpture",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. \"Montevideo\" 21",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1618",
+                "Website": "http://www.nbu.bg",
+                "college_name": "New Bulgarian University",
+                "university_name": "Nov b\u01celgarski universitet (NBU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1990. Acquired present status 1991. A private Institution",
+            "AcademicYear": "October to July",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie) or foreign equivalent, and competitive entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Human Relations",
+                "FieldsOfStudy": [
+                    "Psychology",
+                    "Psychotherapy",
+                    "Social Welfare",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "Bulgarian"
+            },
+            {
+                "College": "Semiotic Studies",
+                "FieldsOfStudy": [
+                    "Aesthetics",
+                    "Ethics",
+                    "Gender Studies",
+                    "Linguistics",
+                    "Logic",
+                    "Metaphysics",
+                    "Philosophical Schools",
+                    "Philosophy",
+                    "Psycholinguistics",
+                    "Speech Studies",
+                    "Writing"
+                ],
+                "Details": "South-Eastern European"
+            },
+            {
+                "College": "Social Practices",
+                "FieldsOfStudy": [
+                    "Leadership",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Anthropology",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Comparative Religion",
+                    "East Asian Studies",
+                    "History of Religion",
+                    "Social Policy",
+                    "Social Studies",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Archaeology",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Prehistory"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Art Studies and History of Culture",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Finance",
+                    "Labour and Industrial Relations",
+                    "Management",
+                    "Management Systems",
+                    "Marketing",
+                    "Statistics",
+                    "Taxation",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cinema, Advertising and Show Business",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Cinema and Television",
+                    "Film",
+                    "Graphic Design",
+                    "Painting and Drawing",
+                    "Performing Arts",
+                    "Photography",
+                    "Video",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cognitive Science and Psychology",
+                "FieldsOfStudy": [
+                    "Clinical Psychology",
+                    "Cognitive Sciences",
+                    "Communication Disorders",
+                    "Communication Studies",
+                    "Developmental Psychology",
+                    "Experimental Psychology",
+                    "Psychoanalysis",
+                    "Psychology",
+                    "Social Psychology",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Fashion Design",
+                    "Glass Art",
+                    "Interior Design",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Studies",
+                "FieldsOfStudy": [
+                    "English",
+                    "English Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Art Management",
+                    "Ceramic Art",
+                    "Design",
+                    "Fashion Design",
+                    "Fine Arts",
+                    "Painting and Drawing",
+                    "Sculpture",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Social Work",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "Central European Studies",
+                    "Contemporary History",
+                    "Heritage Preservation",
+                    "History",
+                    "History of Societies",
+                    "Modern History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informatics",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Artificial Intelligence",
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Computer Graphics",
+                    "Computer Science",
+                    "Information Management",
+                    "Information Technology",
+                    "Medical Technology",
+                    "Software Engineering",
+                    "Systems Analysis",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Canon Law",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Comparative Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "European Union Law",
+                    "Fiscal Law",
+                    "History of Law",
+                    "Human Rights",
+                    "International Law",
+                    "Justice Administration",
+                    "Labour Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mass Communication",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Communication Arts",
+                    "Information Sciences",
+                    "Journalism",
+                    "Mass Communication",
+                    "Media Studies",
+                    "Multimedia",
+                    "Public Relations",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mediterranean and Eastern Studies",
+                "FieldsOfStudy": [
+                    "Ancient Civilizations",
+                    "Comparative Religion",
+                    "History",
+                    "History of Religion",
+                    "Jewish Studies",
+                    "Medieval Studies",
+                    "Mediterranean Studies",
+                    "Oriental Studies",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Modern Bulgarian Studies",
+                "FieldsOfStudy": [
+                    "Bulgarian",
+                    "Cultural Studies",
+                    "Linguistics",
+                    "Literature",
+                    "Native Language",
+                    "Slavic Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Conducting",
+                    "Dance",
+                    "Folklore",
+                    "Jazz and Popular Music",
+                    "Music",
+                    "Music Education",
+                    "Music Theory and Composition",
+                    "Musical Instruments",
+                    "Musicology",
+                    "Opera",
+                    "Performing Arts",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "National and International Security",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy and Sociology",
+                "FieldsOfStudy": [
+                    "Philosophy",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Science",
+                "FieldsOfStudy": [
+                    "Comparative Politics",
+                    "European Studies",
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Art Management",
+                    "Government",
+                    "Institutional Administration",
+                    "Management",
+                    "Public Administration",
+                    "Social and Community Services",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Romanic studies and German studies",
+                "FieldsOfStudy": [
+                    "German",
+                    "Germanic Studies",
+                    "Romance Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Telecommunications",
+                "FieldsOfStudy": [
+                    "Postal Services",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theatre",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Conducting",
+                    "Dance",
+                    "Display and Stage Design",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. \"Vasil Drumev\" 73",
+                "City": "Varna",
+                "Province": "N/A",
+                "PostCode": "9002",
+                "Website": "http://www.naval-acad.bg",
+                "college_name": "Nikola Vaptsarov Naval Academy",
+                "university_name": "Vis\u0161e voennomorsko u\u010dili\u0161te \"Nikola Jonkov Vapcarov\" \u2013 N.Y. Vaptsarov Naval Academy (NVNA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1881",
+            "AcademicYear": "October to June",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Marine Transport",
+                    "Technology",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Navigation",
+                "FieldsOfStudy": [
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. \"Tsar Asen\" 24",
+                "City": "Plovdiv",
+                "Province": "N/A",
+                "PostCode": "4000",
+                "Website": "http://www.uni-plovdiv.bg",
+                "college_name": "Paissii Hilendarsk University of Plovdiv",
+                "university_name": "Plovdivski universitet \"Paisii Hilendarski\" \u2013 Plovdiv University \u201cPaisii Hilendarski\u201d (PU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1961 as Teacher Training Institute, acquired present status and title 1972. A State institution with the right of autonomy",
+            "AcademicYear": "September to June (September-December; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (diploma za zavarsheno sredno obrazovanie), and entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Khardzali",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Bulgarian",
+                    "Business Administration",
+                    "English",
+                    "Environmental Studies",
+                    "Foreign Languages Education",
+                    "History",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Tourism"
+                ],
+                "Details": "Liuben Karavelov"
+            },
+            {
+                "College": "Smolyan",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Biology",
+                    "Bulgarian",
+                    "Ecology",
+                    "Educational Administration",
+                    "English",
+                    "Foreign Languages Education",
+                    "History",
+                    "Information Technology",
+                    "Marketing",
+                    "Mathematics",
+                    "Primary Education",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Smolyan Technical",
+                "FieldsOfStudy": [
+                    "Automotive Engineering",
+                    "Computer Engineering",
+                    "Energy Engineering",
+                    "Mechanical Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Ecology",
+                    "English",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Molecular Biology",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry",
+                "FieldsOfStudy": [
+                    "Analytical Chemistry",
+                    "Chemistry",
+                    "Ecology",
+                    "English",
+                    "Marketing",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "International Economics",
+                    "Marketing",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Philosophy",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "Economics",
+                    "Ethnology",
+                    "History",
+                    "Philosophy",
+                    "Sociology",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Computer Science",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Business Computing",
+                    "Computer Graphics",
+                    "Educational Administration",
+                    "Information Technology",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Advertising and Publicity",
+                    "Art Education",
+                    "Education",
+                    "Education of the Socially Disadvantaged",
+                    "Foreign Languages Education",
+                    "Graphic Design",
+                    "Humanities and Social Science Education",
+                    "Jazz and Popular Music",
+                    "Music Education",
+                    "Musical Instruments",
+                    "Pedagogy",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Special Education",
+                    "Sports",
+                    "Technology Education",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philology",
+                "FieldsOfStudy": [
+                    "Applied Linguistics",
+                    "Bulgarian",
+                    "Business Administration",
+                    "Central European Studies",
+                    "Chinese",
+                    "Czech",
+                    "English",
+                    "French",
+                    "Greek",
+                    "Hebrew",
+                    "History",
+                    "Information Technology",
+                    "Italian",
+                    "Korean",
+                    "Linguistics",
+                    "Marketing",
+                    "Philology",
+                    "Polish",
+                    "Russian",
+                    "Serbocroatian",
+                    "Slavic Languages",
+                    "Spanish",
+                    "Turkish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Laser Engineering",
+                    "Management",
+                    "Materials Engineering",
+                    "Physical Engineering",
+                    "Physics",
+                    "Polymer and Plastics Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. Prof. Yakimov 1",
+                "City": "Burgas",
+                "Province": "N/A",
+                "PostCode": "8010",
+                "Website": "https://www.btu.bg",
+                "college_name": "Prof. D-R Assen Zlatarov University - Burgas",
+                "university_name": "Universitet \"Prof. Dr. Assen Zlatarov\" - Burgas \u2013 Burgas Prof. Assen Zlatarov University (BTU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1963 as Higher Institute of Chemical Technology, acquired present status and title 1995",
+            "AcademicYear": "October to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie)"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medical Auxiliaries",
+                    "Medicine",
+                    "Nursing",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Studies",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Marketing",
+                    "Mechanical Engineering",
+                    "Mechanical Equipment and Maintenance",
+                    "Technology",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teaching of Foreign Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "Foreign Languages Education",
+                    "French",
+                    "Slavic Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Analytical Chemistry",
+                    "Chemistry",
+                    "Ecology",
+                    "Environmental Studies",
+                    "Inorganic Chemistry",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Organic Chemistry",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Bulgarian",
+                    "Business Administration",
+                    "Computer Science",
+                    "Economics",
+                    "Education",
+                    "Foreign Languages Education",
+                    "Industrial Management",
+                    "Information Technology",
+                    "Management",
+                    "Marketing",
+                    "Natural Sciences",
+                    "Pedagogy",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Production Engineering",
+                    "Psychology",
+                    "Social Sciences",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Sciences",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Chemical Engineering",
+                    "Hydraulic Engineering",
+                    "Inorganic Chemistry",
+                    "Materials Engineering",
+                    "Organic Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Research",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "bul. \"Evlogi i Hristo Georgievi\" 94",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1505",
+                "Website": "http://nma.bg",
+                "college_name": "Professor Pantcho Vladigerov National Academy of Music",
+                "university_name": "Natsionalna muzikalna akademija \"Prof. Pan\u010do Vladigerov\" (NMA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1921 as Bulgarian State Conservatory, became National Academy of Music in 1995, acquired present status and title 2006",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie), and competitive entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Instruments",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theory, Composition and Conducting",
+                "FieldsOfStudy": [
+                    "Conducting",
+                    "Music Theory and Composition",
+                    "Musicology",
+                    "Sound Engineering (Acoustics)"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Vocal Studies",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Jazz and Popular Music",
+                    "Opera",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "82 \"Evlogi and Hristo Georgievi\" Blvd.",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1504",
+                "Website": "https://rndc.bg",
+                "college_name": "Rakovski National Defence College",
+                "university_name": "Voenna akademija \"Georgi Stojkov Rakovski\" (RNDC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1912, has a unique contribution to the foundation of the Bulgarian Officers Corps, as well as to the establishment of the new Bulgarian State. Training provided to Bulgarian and foreign military officers and civilian. The oldest higher military institution in Bulgaria",
+            "AcademicYear": "September to July for military officers; October to July for civilian",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Distance Learning, Language Training and Qualification",
+                "FieldsOfStudy": [
+                    "Distance Education",
+                    "Foreign Languages Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Command and Staff",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Management",
+                    "Military Science",
+                    "Protective Services",
+                    "Telecommunications Engineering",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "National Security and Defense",
+                "FieldsOfStudy": [
+                    "Leadership",
+                    "Military Science",
+                    "Protective Services",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Defense Studies",
+                "FieldsOfStudy": [
+                    "History",
+                    "Military Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. \"Ivan Mihaylov\" 66",
+                "City": "Blagoevgrad",
+                "Province": "N/A",
+                "PostCode": "2700",
+                "Website": "http://www.swu.bg",
+                "college_name": "South-West University \"Neofit Rilski\" in Blagoevgrad",
+                "university_name": "Jugozapaden universitet \"Neofit Rilski\" \u2013 info@swu.bg (SWU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1976 as an affiliate faculty of Sofia St. Kliment Ohridski University, reorganized as Higher Institute of Education 1983, an independent Institution. Acquired present status and title 1995. Acquired institutional accreditation 2001",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary Education Diploma in Bulgarian (Diploma za zavarsheno sredno obrazovanie); Diploma from High School, translated and legalized in Bulgarian Language"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Mechanical Engineering",
+                    "Telecommunications Engineering",
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Art Education",
+                    "Cinema and Television",
+                    "Cultural Studies",
+                    "Dance",
+                    "Fashion Design",
+                    "Industrial Design",
+                    "Music Education",
+                    "Performing Arts",
+                    "Photography",
+                    "Singing",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and History",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Administrative Law",
+                    "Anthropology",
+                    "Business Administration",
+                    "Civil Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "Criminology",
+                    "Finance",
+                    "Health Administration",
+                    "History",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Medicine",
+                    "Pedagogy",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Law",
+                    "Public Relations",
+                    "Religious Studies",
+                    "Social Policy",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Ecology",
+                    "Environmental Studies",
+                    "Geography",
+                    "Inorganic Chemistry",
+                    "Mathematics Education",
+                    "Organic Chemistry",
+                    "Pedagogy",
+                    "Physics",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy",
+                "FieldsOfStudy": [
+                    "Educational Administration",
+                    "Humanities and Social Science Education",
+                    "Modern Languages",
+                    "Pedagogy",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Social and Community Services",
+                    "Social Psychology",
+                    "Special Education",
+                    "Sports",
+                    "Technology Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philology",
+                "FieldsOfStudy": [
+                    "Applied Linguistics",
+                    "Bulgarian",
+                    "English",
+                    "Foreign Languages Education",
+                    "Modern Languages",
+                    "Philology",
+                    "Slavic Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Community Health",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychotherapy",
+                    "Social and Community Services",
+                    "Social Work",
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health and Sports",
+                "FieldsOfStudy": [
+                    "Physical Therapy",
+                    "Public Health",
+                    "Social Sciences",
+                    "Speech Therapy and Audiology",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "\"Teodosiy Tarnovski\" 2",
+                "City": "V\u00e9liko Turnovo",
+                "Province": "N/A",
+                "PostCode": "5003",
+                "Website": "http://www.uni-vt.bg",
+                "college_name": "St. Cyril and St. Methodius University of Veliko Tarnovo",
+                "university_name": "Velikot\u01cernovski universitet \"Sv. sv. Kiril i Metodij\" \u2013 University of V\u00e9liko Turnovo (VTU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1963 as Teacher Training Institute, acquired present status and title 1971. A State Institution",
+            "AcademicYear": "September to June (September-December; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (diploma za zavarsheno sredno obrazovanie) and entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "English",
+                "Russian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Bulgarian",
+                    "Business Administration",
+                    "Education",
+                    "Environmental Studies",
+                    "Finance",
+                    "Geography",
+                    "Geography (Human)",
+                    "History",
+                    "Philosophy",
+                    "Preschool Education",
+                    "Primary Education"
+                ],
+                "Details": "Pleven"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "Vratza"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "International Business",
+                    "International Economics",
+                    "Library Science",
+                    "Management",
+                    "Marketing",
+                    "Social and Community Services",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Computer Education",
+                    "Computer Science",
+                    "Education",
+                    "Foreign Languages Education",
+                    "Information Technology",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Music Education",
+                    "Pedagogy",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Social Psychology",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Graphic Arts",
+                    "Graphic Design",
+                    "Painting and Drawing",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Geography",
+                    "History",
+                    "Medieval Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Informatics",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Modern Languages",
+                "FieldsOfStudy": [
+                    "Applied Linguistics",
+                    "Bulgarian",
+                    "Central European Studies",
+                    "Classical Languages",
+                    "English",
+                    "English Studies",
+                    "French",
+                    "French Studies",
+                    "German",
+                    "Germanic Studies",
+                    "Information Sciences",
+                    "Library Science",
+                    "Linguistics",
+                    "Literature",
+                    "Oriental Languages",
+                    "Philology",
+                    "Romance Languages",
+                    "Russian",
+                    "Slavic Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Orthodox Theology",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Orthodox Theology",
+                    "Religious Art",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Foreign Languages Education",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. \"Hadzhi Dimitar\" 4",
+                "City": "Gabrovo",
+                "Province": "N/A",
+                "PostCode": "5300",
+                "Website": "http://www.tugab.bg",
+                "college_name": "Technical University of Gabrovo",
+                "university_name": "Tehni\u010deski universitet - Gabrovo (TUG)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1964 as Higher Institute of Mechanical and Electrical Engineering, acquired present status and title 1995",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie) and entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Language and Specialized Training",
+                "FieldsOfStudy": [
+                    "Bulgarian",
+                    "Educational Sciences",
+                    "English",
+                    "German",
+                    "History",
+                    "Literature",
+                    "Mathematics",
+                    "Physical Education",
+                    "Physics",
+                    "Russian",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Economics",
+                    "Industrial Management",
+                    "Marketing",
+                    "Public Administration",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering and Electronics",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Electronics and Automation",
+                    "Environmental Engineering",
+                    "Power Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical and Precision Engineering",
+                "FieldsOfStudy": [
+                    "Environmental Engineering",
+                    "Hydraulic Engineering",
+                    "Industrial Design",
+                    "Industrial Engineering",
+                    "Instrument Making",
+                    "Machine Building",
+                    "Materials Engineering",
+                    "Measurement and Precision Engineering",
+                    "Mechanical Engineering",
+                    "Power Engineering",
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "bul. \"Kliment Ohridski\" 8",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "http://www.tu-sofia.bg",
+                "college_name": "Technical University of Sofia",
+                "university_name": "Tehni\u010deski universitet - Sofija (TUS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1945. Acquired present status and title 1995",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate and entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Physics",
+                "FieldsOfStudy": [
+                    "Applied Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages and Applied Linguistics",
+                "FieldsOfStudy": [
+                    "Applied Linguistics",
+                    "Linguistics",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education and Sports",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Mathematics and Informatics",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Automatics",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Production Engineering",
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Systems and Control",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "In French"
+            },
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronic Engineering and Technology",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Microelectronics",
+                    "Power Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronics and Automation - Plovdiv",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Electronics and Automation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "In English"
+            },
+            {
+                "College": "Engineering and Pedagogy - Sliven",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Information Technology",
+                    "Machine Building"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering Education and Industrial Management",
+                "FieldsOfStudy": [
+                    "Industrial Management",
+                    "Technology Education"
+                ],
+                "Details": "In German"
+            },
+            {
+                "College": "Industrial Technology",
+                "FieldsOfStudy": [
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Industrial Engineering",
+                    "Industrial Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Electronics and Automation",
+                    "Mechanical Engineering",
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering - Plovdiv",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Power Engineering and Power Machines",
+                "FieldsOfStudy": [
+                    "Heating and Refrigeration",
+                    "Hydraulic Engineering",
+                    "Nuclear Engineering",
+                    "Power Engineering",
+                    "Textile Technology",
+                    "Thermal Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Telecommunications",
+                "FieldsOfStudy": [
+                    "Telecommunications Engineering",
+                    "Telecommunications Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport",
+                "FieldsOfStudy": [
+                    "Air Transport",
+                    "Automotive Engineering",
+                    "Railway Transport",
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. \"TSanko Dyustabanov\" \u211625",
+                "City": "Plovdiv",
+                "Province": "N/A",
+                "PostCode": "4000",
+                "Website": "http://www.tu-plovdiv.bg",
+                "college_name": "Technical University of Sofia \u2013 Plovdiv Branch",
+                "university_name": "Tehni\u010deski universitet - Sofija"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1945, acquired present status and title 1986. An independent legal entity since 1990",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Special Training",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Computer Graphics",
+                    "Computer Networks",
+                    "Electrical Engineering",
+                    "Finance",
+                    "Food Technology",
+                    "International Economics",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Metal Techniques",
+                    "Nuclear Engineering",
+                    "Pedagogy",
+                    "Physics",
+                    "Power Engineering",
+                    "Private Law",
+                    "Safety Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronics and Automatics",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Laser Engineering",
+                    "Optical Technology",
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Chemistry",
+                    "Industrial Management",
+                    "Instrument Making",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Mechanics",
+                    "Physics",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "59 Burgasko \u0160ose Bvd.",
+                "City": "Sliven",
+                "Province": "N/A",
+                "PostCode": "8800",
+                "Website": "http://www.tu-sliven.com",
+                "college_name": "Technical University of Sofia \u2013 Sliven Branch",
+                "university_name": "Tehni\u010deski universitet - Sofija"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1986",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "College Studies",
+                "FieldsOfStudy": [
+                    "Food Technology",
+                    "Pedagogy",
+                    "Road Transport",
+                    "Textile Design",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Pedagogy",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Education",
+                    "Electrical and Electronic Engineering",
+                    "Heating and Refrigeration",
+                    "Management",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Mechanics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. \"Studentska\" 1\nVassil Levski district",
+                "City": "Varna",
+                "Province": "N/A",
+                "PostCode": "9010",
+                "Website": "http://www.tu-varna.bg",
+                "college_name": "Technical University of Varna",
+                "university_name": "Tehni\u010deski universitet - Varna (TU-VARNA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1962 as Institute of Mechanical and Electrical Engineering, acquired present status and title 1995",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie) and entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Technical Studies",
+                "FieldsOfStudy": [
+                    "Electronics and Automation",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Information Technology",
+                    "Maintenance Technology",
+                    "Mechanical Engineering"
+                ],
+                "Details": "Dobrudzha"
+            },
+            {
+                "College": "Mathematics and Foreign Languages",
+                "FieldsOfStudy": [
+                    "Mathematics",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Automation and Computing",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Artificial Intelligence",
+                    "Computer Networks",
+                    "Electronics and Automation",
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Power Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronic Engineering",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Sciences and Ecology",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Engineering Management",
+                    "Marine Science and Oceanography",
+                    "Marine Transport",
+                    "Nautical Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Industrial Design",
+                    "Machine Building",
+                    "Metal Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Shipbuilding",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Heating and Refrigeration",
+                    "Marine Engineering",
+                    "Naval Architecture",
+                    "Physical Education",
+                    "Sports",
+                    "Thermal Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "bul. Geo Milev 158",
+                "City": "Sofia",
+                "Province": "9709-242; +359 (2) 9709-407",
+                "PostCode": "1574",
+                "Website": "http://www.vtu.bg",
+                "college_name": "Todor Kableshkov University of Transport",
+                "university_name": "Vis\u0161e transportno u\u010dili\u0161te \"Todor Kable\u0161kov\" (VTU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1922. Renamed Todor Kableshkov Higher Military School of Transport 1984. Demilitarized and renamed as Todor Kableshkov Higher School of Transport 2000",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Machinery and Construction Technologies in Transport",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Machine Building",
+                    "Mechanical Engineering",
+                    "Transport and Communications",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Telecommunications and Electrical Equipment in Transport",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Mathematics",
+                    "Physics",
+                    "Power Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport Management",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Machine Building",
+                    "Transport Economics",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "bul. Dunav 78",
+                "City": "Plovdiv",
+                "Province": "N/A",
+                "PostCode": "4003",
+                "Website": "http://uard.bg",
+                "college_name": "University of Agribusiness and Rural Development",
+                "university_name": "Visshe uchilishte po agrobiznes i razvitie na regionite (UARD)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1992",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian",
+                "English",
+                "Russian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agribusiness and Common Science",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Economics",
+                    "Finance",
+                    "Information Management",
+                    "Information Technology",
+                    "Management",
+                    "Regional Studies",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Regional Studies",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Management",
+                    "Business Administration",
+                    "Development Studies",
+                    "Economics",
+                    "Information Technology",
+                    "Management",
+                    "Regional Studies",
+                    "Rural Studies",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. \"Hr. Smirnenski\" 1",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1046",
+                "Website": "http://www.uacg.bg",
+                "college_name": "University of Architecture, Civil Engineering and Geodesy",
+                "university_name": "Universitet po arhitektura, stroitelstvo i geodezija - Sofija (UACEG)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1942 as Higher Technical School, reorganized as State Polytechnic 1945 and as Higher Institute of Civil Engineering 1953. Became Higher Institute of Architecture and Civil Engineering (VIAS) 1977 and University of Architecture, Civil Engineering and Geodesy 1990. Acquired present status 1995",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (diploma za zavarsheno sredno obrazovanie)"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "German",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Open and Continuing Education",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Engineering Drawing and Design",
+                    "International Business",
+                    "International Economics",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Real Estate",
+                    "Systems Analysis"
+                ],
+                "Details": "COCE"
+            },
+            {
+                "College": "Applied Linguistics and Physical Education",
+                "FieldsOfStudy": [
+                    "Applied Linguistics",
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Architecture and Planning",
+                    "Interior Design",
+                    "Landscape Architecture",
+                    "Regional Planning",
+                    "Rural Planning",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geodesy",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Geological Engineering",
+                    "Soil Science",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hydraulic Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Environmental Engineering",
+                    "Hydraulic Engineering",
+                    "Irrigation",
+                    "Waste Management",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Structural Engineering",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Construction Engineering",
+                    "Structural Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transportation Engineering",
+                "FieldsOfStudy": [
+                    "Railway Engineering",
+                    "Road Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "St. Kliment Ohridski Boulevard, 8",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1756",
+                "Website": "http://www.uctm.edu",
+                "college_name": "University of Chemical Technology and Metallurgy",
+                "university_name": "Himikotehnologi\u010den i metalurgi\u010den universitet (UCTM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1953 as Institute of Chemical Technology, acquired present status and title 1995",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie), and entrance examination (chemistry or mathematics)"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Chemical Sciences",
+                "FieldsOfStudy": [
+                    "Analytical Chemistry",
+                    "Chemistry",
+                    "Inorganic Chemistry",
+                    "Organic Chemistry",
+                    "Physical Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanitarian Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Bulgarian",
+                    "English",
+                    "French",
+                    "German",
+                    "Modern Languages",
+                    "Physical Education",
+                    "Russian",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics-mathematical and Tehnical sciences",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Mathematics",
+                    "Mechanics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemical Systems Engineering",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Chemical Engineering",
+                    "Ecology",
+                    "Electronics and Automation",
+                    "Environmental Studies",
+                    "Industrial Management",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemical Technology",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Inorganic Chemistry",
+                    "Leather Techniques",
+                    "Paper Technology",
+                    "Polymer and Plastics Technology",
+                    "Textile Technology",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Metallurgy and Material Sciences",
+                "FieldsOfStudy": [
+                    "Materials Engineering",
+                    "Metallurgical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "bul.\"Knyaz Boris\" 77",
+                "City": "Varna",
+                "Province": "882164656",
+                "PostCode": "9002",
+                "Website": "http://www.ue-varna.bg",
+                "college_name": "University of Economics - Varna",
+                "university_name": "Ikonomi\u010deski universitet - Varna (UE-Varna)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1920 as Higher School of Commerce, acquired present status and title 1994",
+            "AcademicYear": "September to May (September-December; February-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie), and entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "European Languages",
+                    "Hotel and Restaurant",
+                    "International Economics",
+                    "Leisure Studies",
+                    "Slavic Languages",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "European Languages",
+                    "Modern Languages",
+                    "Slavic Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Industrial and Production Economics",
+                    "Real Estate",
+                    "Transport Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technologies",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Science",
+                    "Econometrics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "International Business",
+                    "International Economics",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "kv. \"Ovcha kupel\", ul. \"Gusla\" 1",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1618",
+                "Website": "http://www.vuzf.bg",
+                "college_name": "University of Finance, Business and Entrepreneurship",
+                "university_name": "Vis\u0161e u\u010dili\u0161te po zastrahovane i finansi \u2013 Higher School of Insurance and Finance (VUZF)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Audit and Risk Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Insurance"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Banking",
+                "FieldsOfStudy": [
+                    "Banking"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Corporate Social Responsibility and Financial Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Finance"
+                ],
+                "Details": "in partnership with The UN Global Compact"
+            },
+            {
+                "College": "Entrepreneurship and Finance",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "Graduate - in partnership with Cisco Entrepreneurs Institute"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Financial Management and Marketing",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial Management and Marketing",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Marketing"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Leadership, Management and Finance",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Leadership",
+                    "Management"
+                ],
+                "Details": "in partnership with Embient"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "bul. \"Maritsa\" 26",
+                "City": "Plovdiv",
+                "Province": "N/A",
+                "PostCode": "4000",
+                "Website": "http://uft-plovdiv.bg",
+                "college_name": "University of Food Technologies - Plovdiv",
+                "university_name": "Universitet po hranitelni tehnologii - Plovdiv (UFT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1953 as Higher Institute of Food and Flavour Industries, acquired present title and status 2003",
+            "AcademicYear": "September to May (September-December; February-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie)"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Francophone Training",
+                "FieldsOfStudy": [
+                    "Food Technology",
+                    "Technology Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language Training",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education and Sports",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Industrial and Production Economics",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electrical and Electronic Equipment and Maintenance",
+                    "Electronics and Automation",
+                    "Engineering",
+                    "Heating and Refrigeration",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Analytical Chemistry",
+                    "Biochemistry",
+                    "Biotechnology",
+                    "Dairy",
+                    "Food Technology",
+                    "Heating and Refrigeration",
+                    "Inorganic Chemistry",
+                    "Microbiology",
+                    "Oenology",
+                    "Plant and Crop Protection",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Scientific Research",
+                "FieldsOfStudy": [
+                    "Food Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "10 St. Kliment Ohridski Blvd",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1756",
+                "Website": "http://www.ltu.bg",
+                "college_name": "University of Forestry - Sofia",
+                "university_name": "Lesotehni\u010deski universitet - Sofija (LTU/UF)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1925 as Forestry Department of Sofia University 'St. Kliment Ochridski', reorganized as Higher Technical Institute of Forestry, an autonomous institution. Acquired present status and title 1995",
+            "AcademicYear": "October to June",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Agronomy",
+                    "Crop Production",
+                    "Forest Biology",
+                    "Horticulture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Industrial Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ecology and Landscape Architecture",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Landscape Architecture",
+                    "Plant Pathology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forest Industry",
+                "FieldsOfStudy": [
+                    "Forest Economics",
+                    "Forest Management",
+                    "Forestry",
+                    "Furniture Design",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry",
+                "FieldsOfStudy": [
+                    "Forest Management",
+                    "Forest Products",
+                    "Forestry",
+                    "Soil Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "119, Tsarigradsko shose blvd",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1784",
+                "Website": "http://www.unibit.bg",
+                "college_name": "University of Library Studies and Information Technologies",
+                "university_name": "Universitet po bibliotekoznanie i informacionni tehnologii \u2013 University of Librarian Knowledge and Information Technology - Sofia (ULSIT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1950 by Government Decree as the State Library Institute, later renamed as The College of Library Studies by Parliament Decree, a state university, renamed by Parliament Decree on 29th Nov. 2010 after the Specialized Higher School of Library Studies and Information Technologies, voted as such in 2004",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Information Sciences",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Library Studies and Cultural Heritage",
+                "FieldsOfStudy": [
+                    "Heritage Preservation",
+                    "Library Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sofija, Studentski grad, ul. \"Prof. Bojan Kamenov\" \u2116 1",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1700",
+                "Website": "http://www.mgu.bg",
+                "college_name": "University of Mining and Geology \"St. Ivan Rilski\"",
+                "university_name": "Minno-geolo\u017eki universitet \"Sv. Ivan Rilski\" - Sofija (MGU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1953. Acquired present status and title 2005",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie), and entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Geoexploration",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Environmental Management",
+                    "Geology",
+                    "Geophysics",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining Electromechanics",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining Technology",
+                "FieldsOfStudy": [
+                    "Industrial Management",
+                    "Mineralogy",
+                    "Mining Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Studentski grad \"Hristo Botev\"",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1700",
+                "Website": "https://www.unwe.bg",
+                "college_name": "University of National and World Economy",
+                "university_name": "Universitet za nacionalno i svetovno stopanstvo (UNWE)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1920 as the Free University of Political and Economic Sciences established by Order No.2155 of July, 5th issued by the Minister of National Enlightment. Transformed into State Higher Institute of Finance and Administrative Sciences 1940 and reorganized as a Faculty of Economic and Social Studies at Sofia University 1947. Regained autonomy under the name Higher Institute of Economics 1952. Renamed after Karl Marx 1953. Reorganized as University of National and World Economy 1990. Acquired current status and title 1995. the eldest higher economic school in Bulgaria and Southeastern Europe",
+            "AcademicYear": "October to June (October-January; March-June)",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Informatics and Statistics",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Communication Studies",
+                    "Econometrics",
+                    "Information Technology",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Business Administration",
+                    "Economics",
+                    "Real Estate"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics of Infrastructure",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Economics",
+                    "Media Studies",
+                    "Transport Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Human Resources",
+                    "Social Policy",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Economics and Politics",
+                "FieldsOfStudy": [
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Criminal Law",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management",
+                    "Marketing",
+                    "Public Administration",
+                    "Regional Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "bul. \"Tsar Osvoboditel\" 15",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1504",
+                "Website": "http://www.uni-sofia.bg",
+                "college_name": "University of Sofia \"St. Kliment Ohridski\"",
+                "university_name": "Sofiiski universitet \"Sv. Kliment Ohridski\" (SU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1888 as Higher School of Education with one Faculty, reorganized as University 1904 and acquired present title 1905 with the number of Faculties increasing to seven by 1938. Reorganized 1944, when the Faculties of Medicine and Agriculture were detached from the University and established as separate Institutions. Acquired present title and status 2004. A State Institution",
+            "AcademicYear": "September to June (September-December; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (diploma za zavarsheno sredno obrazovanie) and entrance examination"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Information and In-Service Training of Teachers",
+                "FieldsOfStudy": [
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language Learning",
+                "FieldsOfStudy": [
+                    "Bulgarian",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Anthropology",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Biophysics",
+                    "Biotechnology",
+                    "Botany",
+                    "Cell Biology",
+                    "Ecology",
+                    "Embryology and Reproduction Biology",
+                    "Environmental Studies",
+                    "Genetics",
+                    "Histology",
+                    "Inorganic Chemistry",
+                    "Limnology",
+                    "Marine Biology",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Organic Chemistry",
+                    "Physiology",
+                    "Plant Pathology",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry and Pharmacy",
+                "FieldsOfStudy": [
+                    "Analytical Chemistry",
+                    "Chemistry",
+                    "Inorganic Chemistry",
+                    "Organic Chemistry",
+                    "Pharmacy",
+                    "Physical Chemistry",
+                    "Polymer and Plastics Technology",
+                    "Thermal Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Classical and Modern Philology",
+                "FieldsOfStudy": [
+                    "American Studies",
+                    "Classical Languages",
+                    "English Studies",
+                    "Foreign Languages Education",
+                    "German",
+                    "Germanic Studies",
+                    "Modern Languages",
+                    "Philology",
+                    "Romance Languages",
+                    "Scandinavian Languages",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geology and Geography",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "Geology",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "Ancient Civilizations",
+                    "Archaeology",
+                    "Archiving",
+                    "Central European Studies",
+                    "History",
+                    "Modern History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Mass Communication",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Mass Communication",
+                    "Printing and Printmaking",
+                    "Public Relations",
+                    "Publishing and Book Trade",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Civil Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "History of Law",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Informatics",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Education",
+                    "Computer Graphics",
+                    "Computer Science",
+                    "Information Technology",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Statistics",
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Aesthetics",
+                    "Cultural Studies",
+                    "Developmental Psychology",
+                    "Educational Psychology",
+                    "Ethics",
+                    "Experimental Psychology",
+                    "Information Sciences",
+                    "Library Science",
+                    "Logic",
+                    "Philosophical Schools",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Administration",
+                    "Social Psychology",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Applied Physics",
+                    "Astronomy and Space Science",
+                    "Atomic and Molecular Physics",
+                    "Electronic Engineering",
+                    "Geophysics",
+                    "Laser Engineering",
+                    "Meteorology",
+                    "Microelectronics",
+                    "Nuclear Physics",
+                    "Optics",
+                    "Physics",
+                    "Power Engineering",
+                    "Radiophysics",
+                    "Solid State Physics",
+                    "Thermal Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Preschool and  Primary School Education",
+                "FieldsOfStudy": [
+                    "Preschool Education",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Slavic Studies",
+                "FieldsOfStudy": [
+                    "Ancient Civilizations",
+                    "Bulgarian",
+                    "Central European Studies",
+                    "Eastern European Studies",
+                    "Educational Sciences",
+                    "Literature",
+                    "Native Language Education",
+                    "Russian",
+                    "Slavic Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Canon Law",
+                    "Christian Religious Studies",
+                    "History of Religion",
+                    "New Testament",
+                    "Orthodox Theology",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "84 Yanko Slavchev Street\nk.k. \"Chayka\"",
+                "City": "Varna",
+                "Province": "N/A",
+                "PostCode": "9007",
+                "Website": "http://www.vfu.bg",
+                "college_name": "Varna Free University \"Chernorizets Hrabar\"",
+                "university_name": "Varnenski svoboden universitet \"Chernorizets Hrabar\" \u2013 Varna Free University \"Chernorizec Hrabar\" (VFU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991, officially recognized 1995",
+            "AcademicYear": "October to June (October-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie)"
+            ],
+            "Languages": [
+                "Bulgarian",
+                "English",
+                "Russian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Foreign Language Teaching",
+                "FieldsOfStudy": [
+                    "Bulgarian",
+                    "English",
+                    "French",
+                    "German",
+                    "Latin",
+                    "Modern Languages",
+                    "Russian",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Arts and Humanities",
+                    "Construction Engineering",
+                    "Fine Arts",
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Economics and Administration",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Computer Science",
+                    "Information Technology",
+                    "International Economics",
+                    "Management",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law",
+                    "Protective Services",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "ul. \"Oborishte\" 13 A",
+                "City": "Varna",
+                "Province": "N/A",
+                "PostCode": "9000",
+                "Website": "https://vum.bg",
+                "college_name": "Varna University of Management",
+                "university_name": "Varnenski universitet po menidzhm\u016dnt \u2013 Higher School of Management - Varna (VUM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1992 as Bulgarian-Dutch Institute of Management. Became International University College- Albena 1996. Acquired current status 2015",
+            "AcademicYear": "September-",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Bulgarian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Marketing",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Sciences",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culinary Arts institute",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Hotel and Restaurant"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality and Tourism Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "bul. \"Balgariya\" 76",
+                "City": "Veliko Turnovo",
+                "Province": "Veliko Turnovo",
+                "PostCode": "5006",
+                "Website": "http://www.nvu.bg",
+                "college_name": "Vasil Levski National Military University",
+                "university_name": "Nacionalen voenen universitet \"Vasil Levski\" (NVU/NMU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2002, provides education to both cadets and civilian students",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Artillery, Air Defence and CIS",
+                "FieldsOfStudy": [
+                    "Military Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aviation",
+                "FieldsOfStudy": [
+                    "Air Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Land Forces",
+                "FieldsOfStudy": [
+                    "Military Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language and Physical Training",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Research and Innovation",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Studentski grad",
+                "City": "Sofia",
+                "Province": "N/A",
+                "PostCode": "1700",
+                "Website": "http://nsa.bg",
+                "college_name": "Vassil Levski National Sports Academy",
+                "university_name": "Nacionalna sportna akademija \"Vasil Levski\" (NSA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1942 as Higher Institute of Physical Culture, acquired present status and title 1995",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diploma za zavarsheno sredno obrazovanie), and a year of preparation course in the Language Training Centre"
+            ],
+            "Languages": [
+                "Bulgarian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "DEOIT",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Coaches",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Physiology",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physiotherapy",
+                "FieldsOfStudy": [
+                    "Physical Therapy",
+                    "Rehabilitation and Therapy",
+                    "Sports",
+                    "Sports Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teachers",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Pedagogy",
+                    "Psychology",
+                    "Sociology",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

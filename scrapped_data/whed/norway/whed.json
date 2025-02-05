@@ -1,0 +1,3644 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 5003",
+                "City": "\u00c5s",
+                "Province": "N/A",
+                "PostCode": "1432",
+                "Website": "https://www.nmbu.no",
+                "college_name": "Norwegian University of Life Sciences",
+                "university_name": "Norges milj\u00f8- og biovitenskapelige universitet (NMBU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1859 as the only Norwegian agricultural post-graduate college. Renamed Agricultural University of Norway. Acquired present status and title 2005. Under the jurisdiction of the Ministry of Education and Research since 1997. Merger with the Norwegian School of Veterinary Science (Norges Veterinaerhogskole) 2014",
+            "AcademicYear": "August to August (August-December; January-May; May-August)",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Animal Production Experimental Station",
+                "FieldsOfStudy": [
+                    "Animal Husbandry"
+                ],
+                "Details": "SHE"
+            },
+            {
+                "College": "Plant Research in Controlled Climates",
+                "FieldsOfStudy": [
+                    "Plant and Crop Protection"
+                ],
+                "Details": "SKP"
+            },
+            {
+                "College": "Environmental Science and Technology",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Environmental Studies",
+                    "Mathematics",
+                    "Natural Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Architecture and Planning",
+                    "Business and Commerce",
+                    "Development Studies",
+                    "Economics",
+                    "International Studies",
+                    "Landscape Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine and Biosciences",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Biotechnology",
+                    "Botany",
+                    "Chemistry",
+                    "Food Science",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Development Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Biology",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Development Studies",
+                    "Economics",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Forestry",
+                    "International Relations and Diplomacy",
+                    "Landscape Architecture",
+                    "Mathematics",
+                    "Microbiology",
+                    "Plant Pathology",
+                    "Public Health",
+                    "Regional Planning",
+                    "Rural Planning",
+                    "Water Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 7800",
+                "City": "Bergen",
+                "Province": "N/A",
+                "PostCode": "5020",
+                "Website": "https://www.uib.no",
+                "college_name": "University of Bergen",
+                "university_name": "Universitetet i Bergen (UiB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Bergen Museum 1825, became University 1946. A State institution with a high international profile that emphasises basic research, research-based teaching and the development of academic disciplines. Financed by a grant voted by Parliament",
+            "AcademicYear": "August to June (August-December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (examen artium) or recognized equivalent"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Geobiology",
+                "FieldsOfStudy": [
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Health",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Intervention Science in Maternal and Child Health",
+                "FieldsOfStudy": [
+                    "Community Health",
+                    "Health Sciences",
+                    "Paediatrics",
+                    "Social and Preventive Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Women's and Gender Research",
+                "FieldsOfStudy": [
+                    "Gender Studies",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Art, Music and Design",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Fine Arts",
+                    "Interior Design",
+                    "Music",
+                    "Visual Arts"
+                ],
+                "Details": "Nonsists of the former Bergen Academy of Art and Design and The Grieg Academy."
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "Classical Languages",
+                    "Comparative Literature",
+                    "History",
+                    "Linguistics",
+                    "Literature",
+                    "Modern Languages",
+                    "Music",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Meteorology",
+                    "Natural Sciences",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Communication Studies",
+                    "Economics",
+                    "Geography (Human)",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Birkeland Centre for Space Science",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Bjerknes Centre for Climate Research",
+                "FieldsOfStudy": [
+                    "Meteorology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cancer Biomarkers (CCBIO)",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Microbiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Centre for Research-based Innovation in Sustainable Fishing and Pre-processing technology (CRISP)",
+                "FieldsOfStudy": [
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "K.G.Jebsen Centres",
+                "FieldsOfStudy": [
+                    "Diabetology",
+                    "Health Sciences",
+                    "Neurology",
+                    "Psychiatry and Mental Health"
+                ],
+                "Details": "KG Jebsens Centre for Diabetes Research\nKG Jebsens Centre for Research on Neuropsyciatric Disorders\nKG Jebsens Centre for MS Research\nKG Jebsens Brain Tumour Research Centre"
+            },
+            {
+                "College": "Sea Lice",
+                "FieldsOfStudy": [
+                    "Marine Science and Oceanography",
+                    "Molecular Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "The Michelsen Centre for Industrial Measurement Science and Technology (MIMT)",
+                "FieldsOfStudy": [
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "UiB Global",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Dentistry",
+                    "Design",
+                    "Fine Arts",
+                    "Health Sciences",
+                    "Interior Design",
+                    "Law",
+                    "Mathematics and Computer Science",
+                    "Medicine",
+                    "Music",
+                    "Natural Sciences",
+                    "Performing Arts",
+                    "Religion",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Dentistry",
+                    "Design",
+                    "Education",
+                    "Fine Arts",
+                    "Health Sciences",
+                    "Interior Design",
+                    "Law",
+                    "Mathematics and Computer Science",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Performing Arts",
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 400",
+                "City": "Elverum",
+                "Province": "N/A",
+                "PostCode": "2418",
+                "Website": "https://www.inn.no",
+                "college_name": "University of Inland Norway",
+                "university_name": "Universitetet i Innlandet"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Established in 2017 as Inland Norway University of Applied Sciences (H\u00f8gskoleni Innlandet) following merger between Lillehammer University College (H\u00f8gskolen i Lillehammer) and Hedmark University College (H\u00f8gskolen i Hedmark). Acquired current title and status 2024.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (examen artium); Admissions examination"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Ecology and Agricultural Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Agronomy",
+                    "Ecology",
+                    "Forestry",
+                    "Wildlife"
+                ],
+                "Details": "Evenstad and Bl\u00e6stad"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Social Sciences"
+                ],
+                "Details": "Rena"
+            },
+            {
+                "College": "Economics and Organizational Sciences",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "Lillehammer"
+            },
+            {
+                "College": "Education and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Biotechnology",
+                    "Computer Science",
+                    "Fine Arts",
+                    "Social Sciences",
+                    "Teacher Trainers Education"
+                ],
+                "Details": "Hamar"
+            },
+            {
+                "College": "Education and Social Work",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Social Work"
+                ],
+                "Details": "Lillehammer"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Psychiatry and Mental Health",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Educational Sciences",
+                    "Service Trades",
+                    "Sports",
+                    "Tourism"
+                ],
+                "Details": "Lillehammer"
+            },
+            {
+                "College": "Television Production",
+                "FieldsOfStudy": [
+                    "Cinema and Television",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "Lillehammer"
+            },
+            {
+                "College": "Norwegian Film School",
+                "FieldsOfStudy": [
+                    "Film"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agricultural Engineering",
+                    "Agronomy",
+                    "Business Administration",
+                    "Computer Science",
+                    "Education",
+                    "Film",
+                    "Forestry",
+                    "Music",
+                    "Real Estate"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Administration",
+                    "Agriculture",
+                    "Biotechnology",
+                    "Cinema and Television",
+                    "Ecology",
+                    "Economics",
+                    "Film",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Leadership",
+                    "Management",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Health",
+                    "Special Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 1072 Blindern",
+                "City": "Oslo",
+                "Province": "N/A",
+                "PostCode": "0316",
+                "Website": "https://www.uio.no",
+                "college_name": "University of Oslo",
+                "university_name": "Universitetet i Oslo (UiO)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1811 as Kongelige Frederiks Universitet (Royal Frederick University). Restructure. Implements the Quality Reform, program structures, grade systems and exams are reshaped entirely in 2003",
+            "AcademicYear": "August to June (August-December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized equivalent"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Ethics",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Functional Materials and Nanotechnology",
+                "FieldsOfStudy": [
+                    "Materials Engineering",
+                    "Nanotechnology"
+                ],
+                "Details": "FUNMAT"
+            },
+            {
+                "College": "Ibsen Studies",
+                "FieldsOfStudy": [
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology, Innovation and Culture Studies",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Viking and Medieval Studies",
+                "FieldsOfStudy": [
+                    "Medieval Studies",
+                    "Nordic Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Women's Studies and Gender Research",
+                "FieldsOfStudy": [
+                    "Gender Studies",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Research",
+                    "Special Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Art History",
+                    "Arts and Humanities",
+                    "Classical Languages",
+                    "Communication Studies",
+                    "Comparative Literature",
+                    "Cultural Studies",
+                    "Eastern European Studies",
+                    "Germanic Studies",
+                    "Heritage Preservation",
+                    "History",
+                    "Linguistics",
+                    "Media Studies",
+                    "Museum Studies",
+                    "Music",
+                    "Musicology",
+                    "Oriental Studies",
+                    "Philosophy",
+                    "Romance Languages",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "Human Rights",
+                    "International Law",
+                    "Law",
+                    "Maritime Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Astrophysics",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Ecology",
+                    "Geography",
+                    "Geology",
+                    "Geophysics",
+                    "Mathematics",
+                    "Molecular Biology",
+                    "Nanotechnology",
+                    "Natural Sciences",
+                    "Pharmacy",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Community Health",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Medicine",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Economics",
+                    "European Studies",
+                    "Geography (Human)",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Rights",
+                "FieldsOfStudy": [
+                    "Human Rights"
+                ],
+                "Details": "Norwegian Institute"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Administration",
+                    "Economics",
+                    "Education",
+                    "Health Sciences",
+                    "History",
+                    "Information Technology",
+                    "Law",
+                    "Literature",
+                    "Mathematics",
+                    "Media Studies",
+                    "Medicine",
+                    "Modern Languages",
+                    "Music",
+                    "Natural Sciences",
+                    "Philosophy",
+                    "Psychology",
+                    "Religion",
+                    "Social Sciences",
+                    "Technology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 7030",
+                "City": "Bergen",
+                "Province": "N/A",
+                "PostCode": "5020",
+                "Website": "https://www.hvl.no",
+                "college_name": "Western Norway University of Applied Sciences",
+                "university_name": "H\u00f8gskulen p\u00e5 Vestlandet (HVL)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Formed through a merger between Bergen University College, Sogn og Fjordane University College and Stord/Haugesund University College on January 1 2017",
+            "AcademicYear": "August to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (examen artium); Bergen test (Norwegian language)"
+            ],
+            "Languages": [
+                "Norwegian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration and Social Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business Administration",
+                    "Economics",
+                    "Educational Administration",
+                    "Health Administration",
+                    "History",
+                    "Marine Transport",
+                    "Nautical Science",
+                    "Real Estate",
+                    "Sociology",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education, Arts and Sport",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Dietetics",
+                    "Educational Technology",
+                    "Foreign Languages Education",
+                    "Handicrafts",
+                    "Leisure Studies",
+                    "Modern Languages",
+                    "Music",
+                    "Music Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Public Health",
+                    "Secondary Education",
+                    "Sports",
+                    "Theatre",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Science",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Development Studies",
+                    "Electrical Engineering",
+                    "Environmental Studies",
+                    "Laboratory Techniques",
+                    "Marine Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Social Sciences",
+                "FieldsOfStudy": [
+                    "Child Care and Development",
+                    "Ergotherapy",
+                    "Midwifery",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Physical Therapy",
+                    "Public Health",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Nursing",
+                    "Rehabilitation and Therapy",
+                    "Social Sciences",
+                    "Social Work",
+                    "Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Art Education",
+                    "Business Administration",
+                    "Education",
+                    "Energy Engineering",
+                    "Music Education",
+                    "Nursing",
+                    "Nutrition",
+                    "Physical Therapy",
+                    "Social Work",
+                    "Software Engineering",
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sandviksboder 59\u201361a",
+                "City": "Bergen",
+                "Province": "N/A",
+                "PostCode": "5841",
+                "Website": "http://www.bergenarkitektskole.no",
+                "college_name": "Bergen School of Architecture",
+                "university_name": "Bergen Arkitekth\u00f8gskole"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Established in Bergen in 1986 as an educational alternative to the two public architecture schools in Norway. Approved by the Ministry of Education in 1990",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (examen artium); Proficiency in Norwegian language for first-level undergraduate admissions"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Landscape Architecture"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Nydalsveien 37",
+                "City": "Oslo",
+                "Province": "N/A",
+                "PostCode": "0484",
+                "Website": "http://www.bi.no",
+                "college_name": "BI Norwegian Business School",
+                "university_name": "Handelsh\u00f8yskolen BI"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Established as a limited company in 1943. Restructured and earned approval from the Ministry of Education in 1995. Earned accreditation as a scientific university in 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Norwegian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "Industrial and Organizational Psychology",
+                    "International Business",
+                    "Leadership",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Public Relations",
+                    "Real Estate",
+                    "Retailing and Wholesaling",
+                    "Statistics",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Industrial and Organizational Psychology",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Shipping Management",
+                "FieldsOfStudy": [
+                    "Marine Transport",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Finance",
+                    "Leadership"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kirkegata 24-26",
+                "City": "Oslo",
+                "Province": "N/A",
+                "PostCode": "0153",
+                "Website": "https://kristiania.no",
+                "college_name": "Kristiania University College",
+                "university_name": "H\u00f8yskolen Kristiania"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Established as Westerdals - Oslo School of Arts, Communication and Technology (Westerdals Oslo ACT) in 2014. Acquired current title and status following merger with H\u00f8yskolen Kristiania in 2017. A member of the European University Association since April 2019",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication",
+                "FieldsOfStudy": [
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Film and TV",
+                "FieldsOfStudy": [
+                    "Cinema and Television"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Acupuncture and Oriental Medicine",
+                    "Advertising and Publicity",
+                    "Business Administration",
+                    "Business Computing",
+                    "Cinema and Television",
+                    "Computer Graphics",
+                    "E-Business/Commerce",
+                    "Graphic Design",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Information Technology",
+                    "Interior Design",
+                    "Journalism",
+                    "Management",
+                    "Marketing",
+                    "Music",
+                    "Nutrition",
+                    "Osteopathy",
+                    "Public Health",
+                    "Radio and Television Broadcasting",
+                    "Retailing and Wholesaling",
+                    "Theatre",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Computing",
+                    "Computer Science",
+                    "Information Management",
+                    "Management",
+                    "Software Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Lovisenberggt 15b",
+                "City": "Oslo",
+                "Province": "N/A",
+                "PostCode": "0456",
+                "Website": "http://www.ldh.no",
+                "college_name": "Lovisenberg Diaconal University College",
+                "university_name": "Lovisenberg diakonale h\u00f8gskole (LDH)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded as the first Norwegian college to offer a degree in nursing in 1868",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Norwegian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Child Care and Development",
+                    "Gerontology",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Physical Therapy",
+                    "Radiology",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Nursing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Britvegen 2",
+                "City": "Molde",
+                "Province": "N/A",
+                "PostCode": "6410",
+                "Website": "http://www.himolde.no",
+                "college_name": "Molde University College - Specialized University in Logistics",
+                "university_name": "H\u00f8gskolen i Molde - Vitenskapelig h\u00f8gskole i logistikk \u2013 Molde Nursing School; Molde Regional College (HiMolde)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1994 following the merger of Molde Nursing School, founded in 1958, and Molde Regional College, founded in 1969",
+            "AcademicYear": "August to May (August - December; January - May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (examen artium); Entrance examination"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration and Social Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Computer Science",
+                    "E-Business/Commerce",
+                    "Economics",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Social Sciences",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences and Social Care",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing",
+                    "Social and Preventive Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Logistics",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Mathematics and Computer Science",
+                    "Transport and Communications",
+                    "Transport Economics",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Health Sciences",
+                    "Social Sciences",
+                    "Transport and Communications",
+                    "Welfare and Protective Services"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Health Sciences",
+                    "Social Sciences",
+                    "Sports Management",
+                    "Transport and Communications",
+                    "Transport Economics"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 74 Sandviken",
+                "City": "Bergen",
+                "Province": "N/A",
+                "PostCode": "5812",
+                "Website": "http://www.nla.no",
+                "college_name": "NLA University College",
+                "university_name": "NLA H\u00f8gskolen (NLA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Established in 1995. Earned initial accreditation in 2006. Acquired present status following institutional merger with Hauge School of Management in 2013",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Christian Religious Studies",
+                    "Cultural Studies",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Psychology",
+                    "Ethics",
+                    "History of Religion",
+                    "International and Comparative Education",
+                    "Preschool Education",
+                    "Religious Education",
+                    "Religious Studies",
+                    "Social Sciences",
+                    "Special Education",
+                    "Sports",
+                    "Teacher Training",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Education",
+                    "Journalism",
+                    "Religion"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Cultural Studies",
+                    "Journalism",
+                    "Pedagogy",
+                    "Religious Education",
+                    "Special Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Universitetsall\u00e9en 11",
+                "City": "Bod\u00f8",
+                "Province": "N/A",
+                "PostCode": "8026",
+                "Website": "http://www.nord.no",
+                "college_name": "Nord University",
+                "university_name": "Nord universitet"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as H\u00f8gskolen i Bod\u00f8 in 1994. Became Universitetet i Nordland (University of Nordland) in 2010. Acquired current accreditation status and title in 2016, following the merger of (H\u00f8gskolen i Nord-Tr\u00f8ndelag) Nord-Tr\u00f8ndelag University College and H\u00f8gskolen i Nesna (Nesna University College)",
+            "AcademicYear": "August to December; January to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (examen artium); Certificate of English language proficiency"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Biosciences and Aquaculture",
+                "FieldsOfStudy": [
+                    "Aquaculture",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Fishery",
+                    "Marine Science and Oceanography",
+                    "Marketing",
+                    "Natural Sciences",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Gerontology",
+                    "Health Sciences",
+                    "Nursing",
+                    "Occupational Health",
+                    "Psychiatry and Mental Health",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional Studies",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Education",
+                    "Pedagogy",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Sports",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "History",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Labour Law",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Social Welfare",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher Education",
+                "FieldsOfStudy": [
+                    "Child Care and Development",
+                    "Educational Sciences",
+                    "Music Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Environmental Management",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Aquaculture",
+                    "Business Administration",
+                    "Economics",
+                    "Fishery",
+                    "Health Sciences",
+                    "History",
+                    "Information Technology",
+                    "Marine Science and Oceanography",
+                    "Marketing",
+                    "Nordic Studies",
+                    "Social Work",
+                    "Sociology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Aquaculture",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Education",
+                    "Farm Management",
+                    "Health Sciences",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Slemdalsveien 11",
+                "City": "Oslo",
+                "Province": "N/A",
+                "PostCode": "0369",
+                "Website": "http://www.nmh.no",
+                "college_name": "Norwegian Academy of Music",
+                "university_name": "Norges musikkh\u00f8gskole (NMH)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1973. A State Institution",
+            "AcademicYear": "September to June (September- December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (examen artium); Admissions audtion; Entrance examination; Demonstrated proficiency in English or Norwegian"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Jazz and Popular Music",
+                    "Music",
+                    "Music Education",
+                    "Music Theory and Composition",
+                    "Musical Instruments",
+                    "Religious Music"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Music",
+                    "Music Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Art Therapy",
+                    "Conducting",
+                    "Music Education",
+                    "Music Theory and Composition",
+                    "Religious Music"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Postboks 800, Postmottak",
+                "City": "Lillehammer",
+                "Province": "N/A",
+                "PostCode": "2617",
+                "Website": "https://forsvaret.no",
+                "college_name": "Norwegian Defence University College",
+                "university_name": "Forsvarets h\u00f8gskole (NDUC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Norwegian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Skills and Education (FOKUS)",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Norwegian Defence Command and Staff (NDCSC)",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Norwegian National Defence (Sjefskurset)",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Defence Studies (IFS)",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports Science, Defence Institute (NIH/F)",
+                "FieldsOfStudy": [
+                    "Protective Services",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Engineering",
+                    "Protective Services"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 2109 Vika",
+                "City": "Oslo",
+                "Province": "N/A",
+                "PostCode": "0125",
+                "Website": "http://www.phs.no",
+                "college_name": "Norwegian Police University College",
+                "university_name": "Politih\u00f8gskolen (PHS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Established in 1920. Earned national accreditation in 2004",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate; Driving license class B; Medical examination; Background check; Norwegian citizenship"
+            ],
+            "Languages": [
+                "Norwegian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Police Studies",
+                "FieldsOfStudy": [
+                    "Police Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Police Studies"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Helleveien 30",
+                "City": "Bergen",
+                "Province": "N/A",
+                "PostCode": "5045",
+                "Website": "http://www.nhh.no",
+                "college_name": "Norwegian School of Economics",
+                "university_name": "Norges Handelsh\u00f8yskole (NHH)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as a result of efforts from the Bergen business community in 1936",
+            "AcademicYear": "August to June (August-December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Auditing, Accounting and Law",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Management Science",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional and Intercultural Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Strategy and Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Economics"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Economics",
+                    "Environmental Management",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Natural Resources"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 4014 Ullev\u00e5l stadium",
+                "City": "Oslo",
+                "Province": "N/A",
+                "PostCode": "0806",
+                "Website": "http://www.nih.no",
+                "college_name": "Norwegian School of Sport Sciences",
+                "university_name": "Norges idrettsh\u00f8gskole (NIH)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1968. A State Institution financially supported by the Ministry of Education and Research",
+            "AcademicYear": "August to June (August-December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (examen artium); Physical fitness examination"
+            ],
+            "Languages": [
+                "Norwegian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Coaching and Psychology",
+                "FieldsOfStudy": [
+                    "Psychology",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cultural and Social Studies",
+                "FieldsOfStudy": [
+                    "Sociology",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Performance",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports Medicine",
+                "FieldsOfStudy": [
+                    "Sports",
+                    "Sports Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Physical Education",
+                    "Sports",
+                    "Sports Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Physical Education",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 5144 Majorstuen",
+                "City": "Oslo",
+                "Province": "N/A",
+                "PostCode": "0302",
+                "Website": "http://www.mf.no",
+                "college_name": "Norwegian School of Theology, Religion and Society",
+                "university_name": "MF vitenskapelig h\u00f8yskole for teologi, religion og samfunn"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1907 as an independent theological institution at university level and is Norway's largest provider of theological education and research",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Norwegian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Religion and Education",
+                "FieldsOfStudy": [
+                    "Religion",
+                    "Religious Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Religion and Society",
+                "FieldsOfStudy": [
+                    "Religion"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology and History",
+                "FieldsOfStudy": [
+                    "History of Religion",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Religion",
+                    "Religious Education",
+                    "Social Work",
+                    "Theology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Christian Religious Studies",
+                    "History of Religion",
+                    "Religion",
+                    "Social Work",
+                    "Theology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "H\u00f8gskoleringen 1",
+                "City": "Trondheim",
+                "Province": "N/A",
+                "PostCode": "7491",
+                "Website": "http://www.ntnu.no",
+                "college_name": "Norwegian University of Science and Technology",
+                "university_name": "Norges teknisk-naturvitenskapelige universitet (NTNU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1910 as Norwegian Institute of Technology. Part of University of Trondheim in 1968. Merger in 1996 including the College of Arts and Science, and the Natural History and Archaeology Museum. Merged with H\u00f8gskolen i \u00c5lesund (\u00c5lesund University College), H\u00f8gskolen i Gj\u00f8vik (Gj\u00f8vik University College) and H\u00f8gskolen i S\u00f8r-Tr\u00f8ndelag (S\u00f8r-Tr\u00f8ndelag University College) in 2016",
+            "AcademicYear": "August to June (August-December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Norwegian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture and Fine Arts",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Architecture",
+                    "Building Technologies",
+                    "Development Studies",
+                    "Fine Arts",
+                    "Regional Planning",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Media Technology",
+                "FieldsOfStudy": [
+                    "Computer Graphics",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Information Technology",
+                    "Media Studies",
+                    "Multimedia"
+                ],
+                "Details": "Gj\u00f8vik"
+            },
+            {
+                "College": "Engineering and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electronics and Automation",
+                    "Marine Engineering",
+                    "Production Engineering"
+                ],
+                "Details": "\u00c5lesund"
+            },
+            {
+                "College": "Engineering Science and Technology",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Ecology",
+                    "Engineering Drawing and Design",
+                    "Environmental Engineering",
+                    "Geological Engineering",
+                    "Geophysics",
+                    "Heating and Refrigeration",
+                    "Hydraulic Engineering",
+                    "Industrial Engineering",
+                    "Marine Engineering",
+                    "Materials Engineering",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Production Engineering",
+                    "Thermal Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Social Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "\u00c5lesund"
+            },
+            {
+                "College": "Health, Care and Nursing",
+                "FieldsOfStudy": [
+                    "Gerontology",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Public Health",
+                    "Radiology"
+                ],
+                "Details": "Gj\u00f8vik"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "History",
+                    "Literature",
+                    "Media Studies",
+                    "Modern Languages",
+                    "Music",
+                    "Philosophy",
+                    "Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology, Mathematics and Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Information Sciences",
+                    "Mathematics",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "\u00c5lesund"
+            },
+            {
+                "College": "Life Sciences",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Marine Biology"
+                ],
+                "Details": "\u00c5lesund"
+            },
+            {
+                "College": "Maritime Technology and Operations",
+                "FieldsOfStudy": [
+                    "Marine Engineering",
+                    "Marine Transport",
+                    "Nautical Science"
+                ],
+                "Details": "\u00c5lesund"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medical Technology",
+                    "Medicine",
+                    "Neurosciences",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Biotechnology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Materials Engineering",
+                    "Natural Resources",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Technology Management",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Economics",
+                    "Education",
+                    "Geography",
+                    "Industrial and Production Economics",
+                    "Industrial Management",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher and Interpreter Education",
+                "FieldsOfStudy": [
+                    "Archiving",
+                    "Documentation Techniques",
+                    "Primary Education"
+                ],
+                "Details": "Sign Language and Interpreter Education"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Distance Education",
+                    "Electrical Engineering",
+                    "Food Technology",
+                    "Mechanical Engineering",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology, Economy and Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Economics",
+                    "Energy Engineering",
+                    "Industrial Management",
+                    "Mechanical Engineering",
+                    "Surveying and Mapping",
+                    "Transport Management"
+                ],
+                "Details": "Gj\u00f8vik"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Fine Arts",
+                    "Music",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Arts and Humanities",
+                    "Fine Arts",
+                    "Health Sciences",
+                    "Social Sciences",
+                    "Social Work",
+                    "Technology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 6853 St. Olavs square",
+                "City": "Oslo",
+                "Province": "N/A",
+                "PostCode": "0130",
+                "Website": "http://www.khio.no",
+                "college_name": "Oslo National Academy of the Arts",
+                "university_name": "Kunsth\u00f8gskolen i Oslo (KHIO)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as National College of Art and Design in 1818. Acquired present name and status in 1996, Following the merger of five formerly independent colleges. It is now a University College",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (examen artium); Entrance examination"
+            ],
+            "Languages": [
+                "Norwegian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Fashion Design",
+                    "Furniture Design",
+                    "Graphic Design",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Painting and Drawing",
+                    "Performing Arts",
+                    "Sculpture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Performing Arts",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Opera",
+                    "Performing Arts",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual Arts",
+                "FieldsOfStudy": [
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Design",
+                    "Fine Arts",
+                    "Performing Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Dance",
+                    "Fashion Design",
+                    "Fine Arts",
+                    "Furniture Design",
+                    "Graphic Design",
+                    "Interior Design",
+                    "Opera"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO box 4 St. Olavs plass",
+                "City": "Oslo",
+                "Province": "N/A",
+                "PostCode": "0130",
+                "Website": "http://www.hioa.no",
+                "college_name": "OsloMet \u2013 Oslo Metropolitan University",
+                "university_name": "OsloMet \u2013 storbyuniversitetet"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1994. Became H\u00f8gskolen i Oslo og Akershus (Oslo and Akershus University College of Applied Sciences) in 2011 following the merger between H\u00f8gskolen i Oslo (Oslo University College) and H\u00f8gskolen i Akershus (Akershus University College). Acquired current title and status in 2018",
+            "AcademicYear": "August to June (August-December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education and International Studies",
+                "FieldsOfStudy": [
+                    "Education",
+                    "International Studies",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Teacher Training",
+                    "Translation and Interpretation",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Biomedicine",
+                    "Dental Technology",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Laboratory Techniques",
+                    "Medical Technology",
+                    "Nursing",
+                    "Nutrition",
+                    "Occupational Therapy",
+                    "Orthodontics",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Archiving",
+                    "Business Administration",
+                    "Information Sciences",
+                    "Journalism",
+                    "Library Science",
+                    "Media Studies",
+                    "Public Relations",
+                    "Social Policy",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology, Art and Design",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Design",
+                    "Energy Engineering",
+                    "Fine Arts",
+                    "Industrial Design",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Administration",
+                    "Biotechnology",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Community Health",
+                    "Computer Engineering",
+                    "Educational Psychology",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Finance",
+                    "Graphic Design",
+                    "Home Economics",
+                    "Information Technology",
+                    "Journalism",
+                    "Mechanical Engineering",
+                    "Media Studies",
+                    "Nursing",
+                    "Nutrition",
+                    "Orthopaedics",
+                    "Social Work"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Biomedicine",
+                    "Community Health",
+                    "Computer Networks",
+                    "Cultural Studies",
+                    "Design",
+                    "Development Studies",
+                    "Education",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Family Studies",
+                    "Health Sciences",
+                    "Information Sciences",
+                    "Information Technology",
+                    "International Studies",
+                    "Journalism",
+                    "Library Science",
+                    "Management",
+                    "Nursing",
+                    "Nutrition",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychiatry and Mental Health",
+                    "Rehabilitation and Therapy",
+                    "Social Welfare",
+                    "Social Work",
+                    "Vocational Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Thrond Nergaards veg 7",
+                "City": "Trondheim",
+                "Province": "N/A",
+                "PostCode": "7044",
+                "Website": "http://www.dmmh.no",
+                "college_name": "Queen Maud University College of Early Childhood Education",
+                "university_name": "Dronning Mauds Minne H\u00f8gskole for barnehagel\u00e6rerutdanning"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1947 to provide education to early childhood education teachers. Acquired present status in 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Norwegian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Child Care and Development",
+                    "Cultural Studies",
+                    "Education",
+                    "Environmental Studies",
+                    "Music Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Science Education",
+                    "Special Education",
+                    "Technology Education",
+                    "Theatre",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Preschool Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Preschool Education",
+                    "Special Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Prof Dahls gate 30",
+                "City": "Oslo",
+                "Province": "N/A",
+                "PostCode": "0260",
+                "Website": "https://www.steinerhoyskolen.no",
+                "college_name": "Rudolf Steiner University College",
+                "university_name": "Steinerh\u00f8yskolen"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1981",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate; Vocational training; Background check"
+            ],
+            "Languages": [
+                "Norwegian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Preschool Education",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Education",
+                    "Preschool Education",
+                    "Primary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "H\u00e1nnoluohkk\u00e1 45",
+                "City": "Guovdageaidnu / Kautokeino",
+                "Province": "N/A",
+                "PostCode": "9520",
+                "Website": "http://www.samas.no",
+                "college_name": "S\u00e1mi University of Applied Sciences",
+                "university_name": "S\u00e1mi allaskuvla (SUAS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1989. The SUAS and S\u00e1mi Institute were merged in 2005. Provides education with an emphasis on indigenous culture and practices",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Reindeer Husbandry and Natural Science",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "S\u00e1mi Language and Literature",
+                "FieldsOfStudy": [
+                    "Literature",
+                    "Scandinavian Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "S\u00e1mi Traditional and Applied Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teachers Education",
+                "FieldsOfStudy": [
+                    "Teacher Trainers Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Animal Husbandry",
+                    "Cultural Studies",
+                    "Literature",
+                    "Native Language"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Animal Husbandry",
+                    "Child Care and Development",
+                    "Journalism"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 6768 St. Olavs Square",
+                "City": "Oslo",
+                "Province": "N/A",
+                "PostCode": "0130",
+                "Website": "http://www.aho.no",
+                "college_name": "The Oslo School of Architecture and Design",
+                "university_name": "Arkitektur- og designh\u00f8gskolen i Oslo (AHO)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "The School of Architecture was established in 1945 as a crisis course for students who had their education canceled by World War II. Acquired present title in 2005. Established Landscape Architecture Masters program in 2004",
+            "AcademicYear": "August to June (August-December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Vitnem\u00e5l fra videreg\u00e5ende skole); Entrance examination"
+            ],
+            "Languages": [
+                "Norwegian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Industrial Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Form, Theory and History",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Design",
+                    "History",
+                    "Museum Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Urbanism and Landscape Planning",
+                "FieldsOfStudy": [
+                    "Landscape Architecture",
+                    "Town Planning",
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Design",
+                    "Development Studies",
+                    "Landscape Architecture"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 6050 Langnes",
+                "City": "Troms\u00f8",
+                "Province": "N/A",
+                "PostCode": "9037",
+                "Website": "http://en.uit.no/startsida",
+                "college_name": "UiT The Arctic University of Norway",
+                "university_name": "UiT Norges arktiske universitet (UiT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1968, officially opened by King Olav V 1972. A State institution enjoying considerable autonomy in both academic and financial matters. Financed primarily by the government. Merged with Tromso University College 2009. Formerly known as University of Troms\u00f8 until merger with the University College of Finmark 2013, then merged with Narvik University College (H\u00f8gskolen i Narvik) and Harstad University College (H\u00f8gskolen i Harstad) in 2016",
+            "AcademicYear": "August to June (August-December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (examen artium) or recognized equivalent"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Peace Studies (CPS)",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sami Studies",
+                "FieldsOfStudy": [
+                    "Nordic Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Women's and Gender Research",
+                "FieldsOfStudy": [
+                    "Gender Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biosciences, Fisheries and Economics",
+                "FieldsOfStudy": [
+                    "Aquaculture",
+                    "Biological and Life Sciences",
+                    "Business and Commerce",
+                    "Economics",
+                    "Fishery",
+                    "Industrial and Production Economics",
+                    "Leadership",
+                    "Marine Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering Science and Technology",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Fine Arts",
+                    "Music",
+                    "Theatre",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Community Health",
+                    "Dentistry",
+                    "Ergotherapy",
+                    "Health Sciences",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Psychology",
+                    "Public Health",
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities, Social Sciences and Education",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Archiving",
+                    "Art History",
+                    "Classical Languages",
+                    "Comparative Literature",
+                    "Education",
+                    "English",
+                    "Finnish",
+                    "French",
+                    "German",
+                    "Greek",
+                    "History",
+                    "Latin",
+                    "Library Science",
+                    "Linguistics",
+                    "Nordic Studies",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Religious Studies",
+                    "Russian",
+                    "Sociology",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Civil Security",
+                    "Engineering",
+                    "Geology",
+                    "Information Technology",
+                    "Mathematics and Computer Science",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports, Tourism and Social Work",
+                "FieldsOfStudy": [
+                    "Social Work",
+                    "Sports",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Barents",
+                "FieldsOfStudy": [
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Aquaculture",
+                    "Archaeology",
+                    "Art History",
+                    "Biology",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Chemistry",
+                    "Classical Languages",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Economics",
+                    "Educational Sciences",
+                    "Fishery",
+                    "Geology",
+                    "Health Administration",
+                    "History",
+                    "Information Management",
+                    "Literature",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Physics",
+                    "Psychology",
+                    "Religious Studies",
+                    "Russian",
+                    "Social Policy",
+                    "Sociology",
+                    "Statistics",
+                    "Transport Economics"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Acting",
+                    "Adult Education",
+                    "Aquaculture",
+                    "Archaeology",
+                    "Art History",
+                    "Biology",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Chemistry",
+                    "Coastal Studies",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Economics",
+                    "Educational Research",
+                    "Fishery",
+                    "Geology",
+                    "Health Sciences",
+                    "History",
+                    "Indigenous Studies",
+                    "Information Management",
+                    "Literature",
+                    "Marketing",
+                    "Mathematics",
+                    "Medicine",
+                    "Medieval Studies",
+                    "Modern Languages",
+                    "Natural Resources",
+                    "Nordic Studies",
+                    "Peace and Disarmament",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Public Health",
+                    "Religious Studies",
+                    "Secondary Education",
+                    "Social Policy",
+                    "Sociology",
+                    "Special Education",
+                    "Statistics",
+                    "Visual Arts"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 422",
+                "City": "Kristiansand",
+                "Province": "N/A",
+                "PostCode": "4604",
+                "Website": "http://www.uia.no",
+                "college_name": "University of Agder",
+                "university_name": "Universitetet i Agder \u2013 Agder College; Agder University College (UiA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Agder University College in 1994. Acquired present status and title in 2007",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering and Science",
+                "FieldsOfStudy": [
+                    "Analytical Chemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Industrial Management",
+                    "Information Management",
+                    "Information Technology",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Natural Sciences",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Art Management",
+                    "Fine Arts",
+                    "Handicrafts",
+                    "Music",
+                    "Theatre",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Sports Sciences",
+                "FieldsOfStudy": [
+                    "Educational Psychology",
+                    "Health Sciences",
+                    "Nursing",
+                    "Nutrition",
+                    "Physical Education",
+                    "Public Health",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Education",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education",
+                    "Educational Sciences",
+                    "English",
+                    "French",
+                    "German",
+                    "History",
+                    "Mass Communication",
+                    "Modern Languages",
+                    "Nordic Studies",
+                    "Philosophy",
+                    "Religion",
+                    "Scandinavian Languages",
+                    "Special Education",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Development Studies",
+                    "Economics",
+                    "Information Sciences",
+                    "Law",
+                    "Management",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Social Sciences",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Law",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher Education",
+                "FieldsOfStudy": [
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Teacher Training"
+                ],
+                "Details": "Inter-disciplinary"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Fine Arts",
+                    "Health Sciences",
+                    "Information Sciences",
+                    "Law",
+                    "Mathematics and Computer Science",
+                    "Religion",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Aquaculture",
+                    "Art Management",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Community Health",
+                    "Construction Engineering",
+                    "Education",
+                    "Educational Technology",
+                    "Energy Engineering",
+                    "English",
+                    "Fine Arts",
+                    "Health Administration",
+                    "History",
+                    "Human Resources",
+                    "Industrial Management",
+                    "Information Management",
+                    "Information Technology",
+                    "Literature",
+                    "Management",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Music",
+                    "Nursing",
+                    "Political Sciences",
+                    "Psychiatry and Mental Health",
+                    "Religion",
+                    "Scandinavian Languages",
+                    "Social Welfare",
+                    "Sports",
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 235",
+                "City": "Kongsberg",
+                "Province": "N/A",
+                "PostCode": "3603",
+                "Website": "https://www.usn.no",
+                "college_name": "University of South-Eastern Norway",
+                "university_name": "Universitetet i S\u00f8r\u00f8st-Norge (USN)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as H\u00f8gskolen i Buskerud og Vestfold (Buskerud and Vestfold University College) in 2014 after the merger of Buskerud University College (H\u00f8gskolen i Buskerud) and Vestfold University College (H\u00f8gskolen i Vestfold). Became H\u00f8gskolen i S\u00f8r\u00f8st-Norge (University College of Southeast Norway) in 2016 after a further merger with H\u00f8gskolen i Telemark (Telemark University College). Acquired current title and status in 2018",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate: Certificate of English language proficiency; Admissions qualifications specific to programme requirements"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Health and Social Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing",
+                    "Optometry",
+                    "Radiology",
+                    "Social Welfare"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities, Sports and Educational Science",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Arts and Humanities",
+                    "Cultural Studies",
+                    "Education",
+                    "Educational Sciences",
+                    "Fine Arts",
+                    "Literature",
+                    "Mathematics Education",
+                    "Music",
+                    "Physical Education",
+                    "Science Education",
+                    "Social Studies",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology, Natural Sciences and Maritime Sciences",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Environmental Studies",
+                    "Marine Science and Oceanography",
+                    "Marine Transport",
+                    "Microelectronics",
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Commercial Law",
+                    "Marketing",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Health Sciences",
+                    "Social Sciences",
+                    "Sports",
+                    "Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Cultural Studies",
+                    "Ecology",
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Human Rights",
+                    "Marine Transport",
+                    "Microelectronics",
+                    "Optometry"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 8600 Forus",
+                "City": "Stavanger",
+                "Province": "N/A",
+                "PostCode": "4036",
+                "Website": "http://www.uis.no",
+                "college_name": "University of Stavanger",
+                "university_name": "Universitetet i Stavanger (UiS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Stavanger University College in 1994. Acquired official university status in 2005",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Education",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Cultural Studies",
+                    "Dance",
+                    "Education",
+                    "Modern Languages",
+                    "Music",
+                    "Preschool Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Industrial and Production Economics",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Natural Sciences",
+                    "Petroleum and Gas Engineering",
+                    "Structural Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Cultural Studies",
+                    "Health Sciences",
+                    "Hotel Management",
+                    "Journalism",
+                    "Management",
+                    "Mass Communication",
+                    "Multimedia",
+                    "Nursing",
+                    "Social Sciences",
+                    "Social Work",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Hotel and Restaurant",
+                    "Law",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Sports",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Economics",
+                    "Education",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Hotel Management",
+                    "Information Technology",
+                    "Music",
+                    "Natural Sciences",
+                    "Social Work",
+                    "Tourism",
+                    "Town Planning"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 184 Vinderen",
+                "City": "Oslo",
+                "Province": "N/A",
+                "PostCode": "0319",
+                "Website": "http://www.vid.no",
+                "college_name": "VID Specialized University",
+                "university_name": "VID vitenskapelige h\u00f8gskole"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Established on January 1, 2016, from the merger between four Norwegian institutions: Diakonhjemmet University College, Haraldsplass Deaconess University College, Betanien University College and School of Mission and Theology",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (examen artium)"
+            ],
+            "Languages": [
+                "Norwegian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Health Studies",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Studies",
+                "FieldsOfStudy": [
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology, Diaconia and Leadership Studies",
+                "FieldsOfStudy": [
+                    "Missionary Studies",
+                    "Pastoral Studies",
+                    "Religious Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Bible",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Religion",
+                    "Social Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Social Work",
+                    "Theology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 500",
+                "City": "Volda",
+                "Province": "N/A",
+                "PostCode": "6101",
+                "Website": "http://www.hivolda.no",
+                "college_name": "Volda University College",
+                "university_name": "H\u00f8gskolen i Volda (HVO)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1994 from the merger of M\u00f8re og Romsdal regional college and the Volda Teachers College",
+            "AcademicYear": "August to June (August-December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school leaving certicate"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Physical Education",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Fine Arts",
+                    "Media Studies",
+                    "Music",
+                    "Physical Education",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Education",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Education",
+                    "Literature",
+                    "Media Studies",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media and Journalism",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Media Studies",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and History",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "History",
+                    "Social Sciences",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Administration",
+                    "Arts and Humanities",
+                    "Education",
+                    "Fine Arts",
+                    "Literature",
+                    "Modern Languages",
+                    "Performing Arts",
+                    "Social and Community Services",
+                    "Social Welfare"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Cultural Studies",
+                    "Literature",
+                    "Media Studies",
+                    "Public Health",
+                    "Religion",
+                    "Social and Community Services",
+                    "Social Welfare",
+                    "Special Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 700",
+                "City": "Halden",
+                "Province": "N/A",
+                "PostCode": "1757",
+                "Website": "http://www.hiof.no",
+                "college_name": "\u00d8stfold University College",
+                "university_name": "H\u00f8gskolen i \u00d8stfold \u2013 \u00d8stfold nursing college; Halden teacher training college; \u00d8stfold college of engineering; \u00d8stfold regional college and \u00d8stfold social educator college. (HI\u00d8)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1994, following the merger of \u00d8stfold nursing college, Halden teacher training college, \u00d8stfold college of engineering, \u00d8stfold regional college and \u00d8stfold social educator college",
+            "AcademicYear": "August to June (August-December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized equivalent"
+            ],
+            "Languages": [
+                "Norwegian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Theatre",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Display and Stage Design"
+                ],
+                "Details": "Norwegian Academy"
+            },
+            {
+                "College": "Business, Languages, and Social Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "English",
+                    "French",
+                    "German",
+                    "International Business",
+                    "Management",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Higher Education Teacher Training",
+                    "Preschool Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Engineering",
+                    "Mechanical Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Social Studies",
+                "FieldsOfStudy": [
+                    "Child Care and Development",
+                    "Nursing",
+                    "Social and Community Services",
+                    "Social Welfare",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Acting",
+                    "Education",
+                    "Engineering",
+                    "Nursing",
+                    "Social Work"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Computer Science",
+                    "Foreign Languages Education",
+                    "Health Administration",
+                    "Leadership",
+                    "Preschool Education",
+                    "Social and Community Services",
+                    "Social Welfare",
+                    "Special Education",
+                    "Theatre"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

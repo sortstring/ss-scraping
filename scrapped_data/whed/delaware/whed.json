@@ -1,0 +1,1548 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1200 N. Dupont Highway",
+                "City": "Dover",
+                "Province": "Delaware",
+                "PostCode": "19901-2275",
+                "Website": "https://www.desu.edu",
+                "college_name": "Delaware State University",
+                "university_name": "(DSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1891 as State College for Colored Students, acquired present status 1892. Acquired Wesley College 2021",
+            "AcademicYear": "September to May. Also Summer Sessions (May-August)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture, Science and Technology",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Ecology",
+                    "Engineering",
+                    "Mathematics",
+                    "Natural Resources",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Air Transport",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Sports Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Behavioral Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing",
+                    "Psychology",
+                    "Public Health",
+                    "Social Work"
+                ],
+                "Details": "Wesley"
+            },
+            {
+                "College": "Humanities, Education and Social Sciences",
+                "FieldsOfStudy": [
+                    "Criminal Law",
+                    "Education",
+                    "History",
+                    "Literature",
+                    "Mass Communication",
+                    "Modern Languages",
+                    "Performing Arts",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Sociology",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate, Adult and Extended Studies",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Arts and Humanities",
+                    "Behavioural Sciences",
+                    "Business Administration",
+                    "Education",
+                    "Health Sciences",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Social Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Agricultural Business",
+                    "Agricultural Education",
+                    "Agriculture",
+                    "Agronomy",
+                    "Air Transport",
+                    "Art Education",
+                    "Art Therapy",
+                    "Arts and Humanities",
+                    "Banking",
+                    "Biochemistry",
+                    "Bioengineering",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Communication Arts",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Data Processing",
+                    "Dietetics",
+                    "Economics",
+                    "Education",
+                    "Electrical Engineering",
+                    "English",
+                    "Environmental Studies",
+                    "Fashion Design",
+                    "Finance",
+                    "Fine Arts",
+                    "Food Science",
+                    "Health Sciences",
+                    "History",
+                    "Horticulture",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Information Technology",
+                    "International Studies",
+                    "Journalism",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Mass Communication",
+                    "Mathematics",
+                    "Meat and Poultry",
+                    "Media Studies",
+                    "Music",
+                    "Music Education",
+                    "Musical Instruments",
+                    "Natural Resources",
+                    "Nursing",
+                    "Nutrition",
+                    "Optical Technology",
+                    "Physical Education",
+                    "Physics",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Health",
+                    "Public Relations",
+                    "Singing",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Sports Management",
+                    "Teacher Training",
+                    "Textile Design",
+                    "Tourism",
+                    "Wildlife"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Applied Chemistry",
+                    "Applied Mathematics",
+                    "Bilingual and Bicultural Education",
+                    "Biological and Life Sciences",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Cell Biology",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Educational Administration",
+                    "Finance",
+                    "Food Science",
+                    "Foreign Languages Education",
+                    "Health Education",
+                    "Information Technology",
+                    "Mathematics",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Natural Resources",
+                    "Neurosciences",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Optics",
+                    "Physics",
+                    "Plant and Crop Protection",
+                    "Public Administration",
+                    "Social Work",
+                    "Sports Management",
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [
+                    "Educational Administration",
+                    "Higher Education"
+                ],
+                "ResearchScholarship": [
+                    "Agriculture",
+                    "Applied Mathematics",
+                    "Chemistry",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Mathematical Physics",
+                    "Neurosciences",
+                    "Optics"
+                ],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Charles L. Terry Jr. Campus\n100 Campus Drive",
+                "City": "Dover",
+                "Province": "Delaware",
+                "PostCode": "19904-1383",
+                "Website": "https://www.dtcc.edu",
+                "college_name": "Delaware Technical Community College",
+                "university_name": "Delaware Tech (DTCC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1966, formerly known as Delaware Technical and Community College Terry Campus",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Georgetown",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Health Sciences",
+                    "Information Technology",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Social Sciences",
+                    "Technology",
+                    "Transport and Communications",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Stanton",
+                "FieldsOfStudy": [
+                    "Cooking and Catering",
+                    "Education",
+                    "Engineering",
+                    "Health Sciences",
+                    "Natural Sciences",
+                    "Technology",
+                    "Transport and Communications",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Wilmington",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education",
+                    "Health Sciences",
+                    "Information Technology",
+                    "Natural Sciences",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culinary Arts",
+                "FieldsOfStudy": [
+                    "Cooking and Catering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy and Engineering Technologies",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technologies",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Service",
+                "FieldsOfStudy": [
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual Communications",
+                "FieldsOfStudy": [
+                    "Communication Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Education",
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "21179 College Drive",
+                "City": "Georgetown",
+                "Province": "Delaware",
+                "PostCode": "19947",
+                "Website": "https://www.dtcc.edu/our-campuses/georgetown",
+                "college_name": "Delaware Technical Community College \u2013 Delaware Technical Community College-Jack F. Owens Campus",
+                "university_name": "Delaware Technical Community College-Owens"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1967 as Delaware Technical Community College-Georgetown, acquired current title 1995",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy and Engineering Technologies",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Education",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Science",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technologies",
+                "FieldsOfStudy": [
+                    "Automotive Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Service",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transportation",
+                "FieldsOfStudy": [
+                    "Automotive Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Education",
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "300 N. Orange St.",
+                "City": "Wilmington",
+                "Province": "Delaware",
+                "PostCode": "19801",
+                "Website": "https://www.dtcc.edu/our-campuses/wilmington",
+                "college_name": "Delaware Technical Community College \u2013 Delaware Technical Community College-Orlando J. George, Jr. Campus",
+                "university_name": "Delaware Technical Community College-Wilmington"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1974 as Delaware Technical Community College-Wilmington",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Education",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Science",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technologies",
+                "FieldsOfStudy": [
+                    "Automotive Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Service",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "400 Stanton-Christiana Road",
+                "City": "Newark",
+                "Province": "Delaware",
+                "PostCode": "19713",
+                "Website": "https://www.dtcc.edu/our-campuses/stanton",
+                "college_name": "Delaware Technical Community College \u2013 Delaware Technical Community College-Stanton",
+                "university_name": "DTCC-Stanton Campus"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1973",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Culinary Arts",
+                "FieldsOfStudy": [
+                    "Cooking and Catering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy and Engineering Technologies",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Education",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Science",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Service",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transportation",
+                "FieldsOfStudy": [
+                    "Automotive Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "4701 Limestone Road",
+                "City": "Wilmington",
+                "Province": "Delaware",
+                "PostCode": "19808-1999",
+                "Website": "https://www.gbc.edu",
+                "college_name": "Goldey-Beacom College",
+                "university_name": "(G-BC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1886. A private business college with students from 72 different countries",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "College Board SAT",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Computer Science",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Criminal Justice",
+                "FieldsOfStudy": [
+                    "Criminal Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Communication Studies",
+                    "Criminal Law",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "Health Administration",
+                    "Human Resources",
+                    "Industrial and Organizational Psychology",
+                    "Information Technology",
+                    "International Business",
+                    "Law",
+                    "Literature",
+                    "Management",
+                    "Marketing",
+                    "Media Studies",
+                    "Psychology",
+                    "Social and Community Services",
+                    "Sports Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Business Administration",
+                    "Leadership"
+                ],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Finance",
+                    "Health Administration",
+                    "Human Resources",
+                    "Information Technology",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Psychology",
+                    "Taxation"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3411 Silverside Road\nBaynard Building, Suite 104",
+                "City": "Wilmington",
+                "Province": "Delaware",
+                "PostCode": "19810",
+                "Website": "https://www.relay.edu/location/delaware",
+                "college_name": "Relay Graduate School of Education \u2013 Relay GSE-Delaware",
+                "university_name": "Relay Delaware"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2016",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Special Education",
+                "FieldsOfStudy": [
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher Training",
+                "FieldsOfStudy": [
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Special Education"
+                ],
+                "Master'sDegree": [
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "800 North King Street\nSuite 101",
+                "City": "Wilmington",
+                "Province": "Delaware",
+                "PostCode": "19801",
+                "Website": "https://www.strayer.edu/campus-locations/delaware/wilmington",
+                "college_name": "Strayer University \u2013 Strayer University-Wilmington Campus",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 2006. A campus of Strayer University, with the main campus located in Washington D.C.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Criminal Justice",
+                "FieldsOfStudy": [
+                    "Criminal Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Services",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Criminal Law",
+                    "Information Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Business Administration",
+                    "Criminal Law",
+                    "Information Technology"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Education",
+                    "Health Administration",
+                    "Information Technology",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "210 South College Ave.",
+                "City": "Newark",
+                "Province": "Delaware",
+                "PostCode": "19716",
+                "Website": "https://www.udel.edu",
+                "college_name": "University of Delaware",
+                "university_name": "(UD)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1833 as NewArk College, renamed Delaware College 1843. A women's college opened 1914 and in 1921, the two colleges joined to become the University of Delaware",
+            "AcademicYear": "September to May (September-December; February-May)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL or ELPT test for foreign students",
+                "Minimum TOEFL score is 550 on the paper-based test and 213 on the computer-based test",
+                "Confidential Financial Form to verify available financial resources to cover cost of one year of education",
+                "Summary of Educational Experiences to describe all formal educational experiences of the applicant"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Natural Resources",
+                "FieldsOfStudy": [
+                    "Agricultural Education",
+                    "Agriculture",
+                    "Natural Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "Alfred Lerner"
+            },
+            {
+                "College": "Earth, Ocean, and Environment",
+                "FieldsOfStudy": [
+                    "Earth Sciences",
+                    "Environmental Studies",
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Human Development",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Family Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Environmental Engineering",
+                    "Materials Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Biological and Life Sciences",
+                    "Business Administration",
+                    "Economics",
+                    "Engineering",
+                    "Health Sciences",
+                    "Mathematics",
+                    "Physics",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Medical Technology",
+                    "Nursing",
+                    "Nutrition",
+                    "Physical Therapy",
+                    "Physiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Honors Studies",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Earth Sciences",
+                    "Economics",
+                    "Education",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Fine Arts",
+                    "Health Sciences",
+                    "Marine Science and Oceanography",
+                    "Natural Resources",
+                    "Performing Arts",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Policy and Administration (Joseph R. Biden)",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "African American Studies",
+                    "African Studies",
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Anthropology",
+                    "Applied Mathematics",
+                    "Art History",
+                    "Artificial Intelligence",
+                    "Arts and Humanities",
+                    "Asian Studies",
+                    "Astronomy and Space Science",
+                    "Astrophysics",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Business Computing",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Chinese",
+                    "Civil Engineering",
+                    "Communication Arts",
+                    "Comparative Literature",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Criminal Law",
+                    "Data Processing",
+                    "Dietetics",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "European Studies",
+                    "Fashion Design",
+                    "Finance",
+                    "Fine Arts",
+                    "Food Science",
+                    "Foreign Languages Education",
+                    "French",
+                    "French Studies",
+                    "Gender Studies",
+                    "Geography",
+                    "Geology",
+                    "German",
+                    "Germanic Studies",
+                    "Greek (Classical)",
+                    "Health Sciences",
+                    "History",
+                    "Humanities and Social Science Education",
+                    "Information Technology",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "International Studies",
+                    "Italian",
+                    "Japanese",
+                    "Jazz and Popular Music",
+                    "Laboratory Techniques",
+                    "Latin",
+                    "Latin American Studies",
+                    "Leadership",
+                    "Linguistics",
+                    "Management",
+                    "Marine Biology",
+                    "Marine Science and Oceanography",
+                    "Marketing",
+                    "Mass Communication",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Medicine",
+                    "Meteorology",
+                    "Molecular Biology",
+                    "Music",
+                    "Music Education",
+                    "Musical Instruments",
+                    "Native Language Education",
+                    "Natural Resources",
+                    "Natural Sciences",
+                    "Neurosciences",
+                    "Nursing",
+                    "Nutrition",
+                    "Philosophy",
+                    "Physics",
+                    "Physiology",
+                    "Plant and Crop Protection",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Restoration of Works of Art",
+                    "Russian",
+                    "Science Education",
+                    "Singing",
+                    "Social and Community Services",
+                    "Sociology",
+                    "Spanish",
+                    "Sports",
+                    "Sports Management",
+                    "Statistics",
+                    "Sustainable Development",
+                    "Wildlife",
+                    "Women's Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "African American Studies",
+                    "African Studies",
+                    "Biological and Life Sciences",
+                    "Biotechnology",
+                    "Cognitive Sciences",
+                    "Computer Education",
+                    "Computer Science",
+                    "Dietetics",
+                    "Linguistics",
+                    "Materials Engineering",
+                    "Medicine",
+                    "Mineralogy",
+                    "Production Engineering",
+                    "Railway Engineering",
+                    "Social and Community Services",
+                    "Statistics"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "African American Studies",
+                    "African Studies",
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "American Studies",
+                    "Animal Husbandry",
+                    "Applied Mathematics",
+                    "Art History",
+                    "Arts and Humanities",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Cell Biology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Cognitive Sciences",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Criminology",
+                    "Cultural Studies",
+                    "Data Processing",
+                    "Development Studies",
+                    "Dietetics",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Education of the Gifted",
+                    "Educational Psychology",
+                    "Educational Technology",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Entomology",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Epidemiology",
+                    "Family Studies",
+                    "Fashion Design",
+                    "Finance",
+                    "Fine Arts",
+                    "Food Science",
+                    "Foreign Languages Education",
+                    "Geography",
+                    "Geology",
+                    "Health Administration",
+                    "Health Sciences",
+                    "History",
+                    "Hotel and Restaurant",
+                    "Information Technology",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Italian",
+                    "Laboratory Techniques",
+                    "Leadership",
+                    "Linguistics",
+                    "Literacy Education",
+                    "Literature",
+                    "Management",
+                    "Marine Engineering",
+                    "Marine Science and Oceanography",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Medicine",
+                    "Microbiology",
+                    "Modern Languages",
+                    "Molecular Biology",
+                    "Museum Studies",
+                    "Music",
+                    "Nursing",
+                    "Nutrition",
+                    "Pedagogy",
+                    "Pharmacology",
+                    "Physics",
+                    "Physiology",
+                    "Plant and Crop Protection",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Protective Services",
+                    "Public Administration",
+                    "Public Health",
+                    "Restoration of Works of Art",
+                    "Robotics",
+                    "Science Education",
+                    "Secondary Education",
+                    "Sociology",
+                    "Soil Science",
+                    "Speech Therapy and Audiology",
+                    "Sports",
+                    "Statistics",
+                    "Teacher Training",
+                    "Textile Design",
+                    "Town Planning",
+                    "Water Science",
+                    "Wildlife"
+                ],
+                "Doctor'sDegrees": [
+                    "Nursing",
+                    "Physical Therapy"
+                ],
+                "ResearchScholarship": [
+                    "Animal Husbandry",
+                    "Applied Mathematics",
+                    "Art History",
+                    "Behavioural Sciences",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biomedical Engineering",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Cognitive Sciences",
+                    "Communication Disorders",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Criminology",
+                    "Data Processing",
+                    "Development Studies",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Research",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "English",
+                    "Entomology",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Epidemiology",
+                    "Family Studies",
+                    "Finance",
+                    "Food Science",
+                    "Geography",
+                    "Geology",
+                    "Health Sciences",
+                    "Heritage Preservation",
+                    "History",
+                    "Humanities and Social Science Education",
+                    "International Relations and Diplomacy",
+                    "Linguistics",
+                    "Marine Engineering",
+                    "Marine Science and Oceanography",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Medicine",
+                    "Meteorology",
+                    "Microbiology",
+                    "Neurosciences",
+                    "Nursing",
+                    "Nutrition",
+                    "Physics",
+                    "Physiology",
+                    "Plant and Crop Protection",
+                    "Political Sciences",
+                    "Protective Services",
+                    "Psychology",
+                    "Public Administration",
+                    "Social Policy",
+                    "Sociology",
+                    "Soil Science",
+                    "Statistics",
+                    "Town Planning",
+                    "Water Science",
+                    "Wildlife"
+                ],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "320 N. DuPont Hwy",
+                "City": "New Castle",
+                "Province": "Delaware",
+                "PostCode": "19720",
+                "Website": "https://www.wilmu.edu",
+                "college_name": "Wilmington University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1967 as Wilmington College. Acquired present title 2007",
+            "AcademicYear": "September to July (September-May; May-July)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Liberal Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education",
+                    "Preschool Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Professions and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Behavioral Sciences",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Criminal Law",
+                    "Law",
+                    "Psychology",
+                    "Social Policy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Nursing",
+                    "Public Health"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Arts and Humanities",
+                    "Behavioural Sciences",
+                    "Biology",
+                    "Business Administration",
+                    "Communication Studies",
+                    "Computer Graphics",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Education",
+                    "Educational Sciences",
+                    "Environmental Studies",
+                    "Film",
+                    "Finance",
+                    "Graphic Design",
+                    "Health Sciences",
+                    "Human Resources",
+                    "Information Technology",
+                    "Law",
+                    "Leadership",
+                    "Management",
+                    "Nursing",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Software Engineering",
+                    "Technology",
+                    "Technology Education",
+                    "Video",
+                    "Vocational Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Communication Studies",
+                    "Distance Education",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Technology",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Health Administration",
+                    "Higher Education",
+                    "Higher Education Teacher Training",
+                    "Human Resources",
+                    "Information Technology",
+                    "Leadership",
+                    "Literacy Education",
+                    "Management",
+                    "Marketing",
+                    "Mathematics Education",
+                    "Science Education",
+                    "Social Sciences",
+                    "Special Education",
+                    "Sustainable Development",
+                    "Teacher Training",
+                    "Technology"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Clinical Psychology",
+                    "Computer Science",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Sciences",
+                    "Educational Technology",
+                    "Environmental Studies",
+                    "Family Studies",
+                    "Higher Education",
+                    "Information Technology",
+                    "Justice Administration",
+                    "Leadership",
+                    "Literacy Education",
+                    "Management",
+                    "Nursing",
+                    "Protective Services",
+                    "Special Education",
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Educational Administration",
+                    "Higher Education",
+                    "Leadership",
+                    "Nursing",
+                    "Social Sciences"
+                ],
+                "ResearchScholarship": [
+                    "Nursing"
+                ],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

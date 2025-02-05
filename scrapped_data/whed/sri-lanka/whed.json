@@ -1,0 +1,3677 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ratmalana",
+                "City": "Colombo",
+                "Province": "Western",
+                "PostCode": "10390",
+                "Website": "https://www.kdu.ac.lk",
+                "college_name": "General Sir John Kotelawala Defence University",
+                "university_name": "(KDU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1981 as Defence Academy. Acquired university status 1986.",
+            "AcademicYear": "January to December",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Allied Health Sciences",
+                "FieldsOfStudy": [
+                    "Medical Technology",
+                    "Midwifery",
+                    "Nursing",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Built Environment and Spatial Sciences",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Mathematics and Computer Science",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Criminal Justice",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "Police Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Defence and Strategic Studies",
+                "FieldsOfStudy": [
+                    "Military Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Biomedical Engineering",
+                    "Civil Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Marine Engineering",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Naval Architecture",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "E-Business/Commerce",
+                    "Information Technology",
+                    "Law",
+                    "Management",
+                    "Military Science",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management, Social Sciences and Humanities",
+                "FieldsOfStudy": [
+                    "English",
+                    "Finance",
+                    "Humanities and Social Science Education",
+                    "Management",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Construction Engineering",
+                    "Information Technology",
+                    "Medical Technology",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Medicine"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": "N/A",
+                "Master'sDegree": [
+                    "Computer Science",
+                    "Engineering",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Nursing",
+                    "Radiology"
+                ],
+                "Doctor'sDegrees": [
+                    "Computer Science",
+                    "Engineering",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Medicine",
+                    "Technology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 02",
+                "City": "Belihuloya",
+                "Province": "Sabaragamuwa",
+                "PostCode": "70140",
+                "Website": "https://www.sab.ac.lk",
+                "college_name": "Sabaragamuwa University of Sri Lanka",
+                "university_name": "(SUSL)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992 as affiliated university college. Acquired present status 1995",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "GCE Advanced Level, English, Sinhala or Tamil required"
+            ],
+            "Languages": [
+                "Sinhala",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agriculture",
+                    "Cattle Breeding"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Food Science",
+                    "Food Technology",
+                    "Natural Resources",
+                    "Physics",
+                    "Sports",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geomatics",
+                "FieldsOfStudy": [
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Business Administration",
+                    "Computer Science",
+                    "Finance",
+                    "Health Administration",
+                    "Management",
+                    "Marketing",
+                    "Modern Languages",
+                    "Natural Sciences",
+                    "Physical Education",
+                    "Social Sciences",
+                    "Sports",
+                    "Surveying and Mapping",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Languages",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "English",
+                    "Modern Languages",
+                    "Social Sciences",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Applied Physics",
+                    "Business Administration",
+                    "Computer Science",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "Finance",
+                    "Food Science",
+                    "Geography",
+                    "German",
+                    "Hindi",
+                    "Hotel Management",
+                    "Information Technology",
+                    "Japanese",
+                    "Marketing",
+                    "Natural Resources",
+                    "Physical Education",
+                    "Political Sciences",
+                    "Sociology",
+                    "Sports",
+                    "Statistics",
+                    "Surveying and Mapping",
+                    "Tourism",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Business Administration"
+                ],
+                "Master'sDegree": [
+                    "Agricultural Business",
+                    "Agricultural Management",
+                    "Applied Physics",
+                    "Chemistry",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "Earth Sciences",
+                    "Econometrics",
+                    "Economics",
+                    "English",
+                    "Environmental Management",
+                    "Finance",
+                    "Food Science",
+                    "German",
+                    "Information Technology",
+                    "Library Science",
+                    "Marketing",
+                    "Media Studies",
+                    "Parks and Recreation",
+                    "Physical Education",
+                    "Plant and Crop Protection",
+                    "Regional Planning",
+                    "Regional Studies",
+                    "Rural Planning",
+                    "Software Engineering",
+                    "South and Southeast Asian Languages",
+                    "Sports",
+                    "Statistics",
+                    "Surveying and Mapping",
+                    "Tourism",
+                    "Water Management"
+                ],
+                "Doctor'sDegrees": [
+                    "Agricultural Business",
+                    "Agricultural Management",
+                    "Applied Physics",
+                    "Chemistry",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "Earth Sciences",
+                    "Econometrics",
+                    "Economics",
+                    "English",
+                    "Environmental Management",
+                    "Finance",
+                    "Food Science",
+                    "German",
+                    "Information Technology",
+                    "Library Science",
+                    "Marketing",
+                    "Media Studies",
+                    "Parks and Recreation",
+                    "Physical Education",
+                    "Plant and Crop Protection",
+                    "Regional Planning",
+                    "Regional Studies",
+                    "Rural Planning",
+                    "Software Engineering",
+                    "South and Southeast Asian Languages",
+                    "Sports",
+                    "Statistics",
+                    "Surveying and Mapping",
+                    "Tourism",
+                    "Water Management",
+                    "Water Science"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "New Kandy Road",
+                "City": "Malabe",
+                "Province": "N/A",
+                "PostCode": "10115",
+                "Website": "https://www.sliit.lk",
+                "college_name": "Sri Lanka Institute of Information Technology",
+                "university_name": "(SLIIT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1999. Acquired current status and 2000",
+            "AcademicYear": "November to October",
+            "AdmissionRequirements": [
+                "3 GCE 'A' passes obtained at the same sitting; 3 GCE 'A' level pass in a mathematics stream at the same sitting for Engineering degrees",
+                ""
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business Computing",
+                    "Information Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing",
+                "FieldsOfStudy": [
+                    "Computer Graphics",
+                    "Computer Networks",
+                    "Information Technology",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Education",
+                "FieldsOfStudy": [
+                    "Computer Education",
+                    "Foreign Languages Education",
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Human Resources",
+                    "Information Technology",
+                    "Management",
+                    "Marketing",
+                    "Science Education",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Education",
+                    "Information Management",
+                    "Information Technology"
+                ],
+                "Master'sDegree": [
+                    "Civil Engineering",
+                    "Computer Networks",
+                    "Electrical and Electronic Engineering",
+                    "Information Technology",
+                    "Materials Engineering",
+                    "Software Engineering"
+                ],
+                "Doctor'sDegrees": [
+                    "Civil Engineering",
+                    "Computer Networks",
+                    "Electrical and Electronic Engineering",
+                    "Information Technology",
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Software Engineering"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Pallekele\nKundasale",
+                "City": "Kandy",
+                "Province": "20168",
+                "PostCode": "N/A",
+                "Website": "https://www.siba.edu.lk",
+                "college_name": "Sri Lanka International Buddhist Academy",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2009",
+            "AcademicYear": "Jan to Dec",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Buddhist Studies",
+                "FieldsOfStudy": [
+                    "Asian Religious Studies",
+                    "Leadership",
+                    "Philosophy",
+                    "Religious Practice"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Education",
+                    "English",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology, Media and Management Studies",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Management",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Kandyan Dance",
+                "FieldsOfStudy": [
+                    "Dance"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Dance",
+                    "Management",
+                    "Religious Practice"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Cumaratunge Munidasa Mawatha\nPO Box 1490",
+                "City": "Colombo",
+                "Province": "Western Province",
+                "PostCode": "3",
+                "Website": "https://cmb.ac.lk",
+                "college_name": "University of Colombo",
+                "university_name": "(CMB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1921 as Ceylon University College, became University of Ceylon 1942, University of Ceylon, Colombo 1968, and Colombo Campus of University of Sri Lanka 1972. Again became an independent University with present title 1979.",
+            "AcademicYear": "October to September",
+            "AdmissionRequirements": [
+                "General Certificate of Education (GCE) Advanced ('A') level in 3 approved subjects with a minimum mark of 40% in the Common General Paper and a higher aggregate mark"
+            ],
+            "Languages": [
+                "Sinhala",
+                "Tamil",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Sripalee",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Design",
+                    "Fine Arts",
+                    "Mass Communication",
+                    "Media Studies",
+                    "Music",
+                    "Performing Arts",
+                    "Radio and Television Broadcasting",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Contemporary Indian Studies",
+                "FieldsOfStudy": [
+                    "South Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Research Evaluation",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "National"
+            },
+            {
+                "College": "Human Rights",
+                "FieldsOfStudy": [
+                    "Human Rights"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Policy Analysis and Research",
+                "FieldsOfStudy": [
+                    "Social Policy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Asian Religious Studies",
+                    "Demography and Population",
+                    "Economics",
+                    "English",
+                    "Geography",
+                    "History",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Media Studies",
+                    "Native Language",
+                    "Political Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Developmental Psychology",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Foreign Languages Education",
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Clinical Psychology",
+                    "Development Studies",
+                    "East Asian Studies",
+                    "Environmental Management",
+                    "Gender Studies",
+                    "Human Resources",
+                    "Human Rights",
+                    "Information Management",
+                    "Peace and Disarmament",
+                    "Psychology",
+                    "Public Administration",
+                    "Regional Planning",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Economics",
+                    "Finance",
+                    "Hotel Management",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Health Administration",
+                    "Medicine",
+                    "Molecular Biology",
+                    "Physical Therapy",
+                    "Toxicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Botany",
+                    "Chemistry",
+                    "Computer Science",
+                    "Mathematics",
+                    "Molecular Biology",
+                    "Natural Sciences",
+                    "Pharmacy",
+                    "Physics",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Biotechnology",
+                    "Environmental Studies",
+                    "Information Technology",
+                    "Measurement and Precision Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agro-technology and Rural Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biochemistry, Molecular Biology, Biotechnology",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Biotechnology",
+                    "Molecular Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resource Advancement",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Indigenous Medicine",
+                "FieldsOfStudy": [
+                    "Ayurvedic Medicine",
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Library and Information Sciences",
+                "FieldsOfStudy": [
+                    "Information Sciences",
+                    "Library Science"
+                ],
+                "Details": "National"
+            },
+            {
+                "College": "Postgraduate Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Cardiology",
+                    "Community Health",
+                    "Dentistry",
+                    "Dermatology",
+                    "Endocrinology",
+                    "Gastroenterology",
+                    "Health Administration",
+                    "Medicine",
+                    "Microbiology",
+                    "Nephrology",
+                    "Neurology",
+                    "Obstetrics and Gynaecology",
+                    "Oncology",
+                    "Ophthalmology",
+                    "Oral Pathology",
+                    "Otorhinolaryngology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pneumology",
+                    "Psychiatry and Mental Health",
+                    "Radiology",
+                    "Rehabilitation and Therapy",
+                    "Rheumatology",
+                    "Surgery",
+                    "Venereology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Computer Science",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Ayurvedic Medicine",
+                    "Biotechnology",
+                    "Computer Science",
+                    "Economics",
+                    "Engineering",
+                    "Finance",
+                    "Fine Arts",
+                    "Hotel Management",
+                    "Human Resources",
+                    "International Business",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Medicine",
+                    "Pharmacy",
+                    "Physical Therapy"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Analytical Chemistry",
+                    "Applied Chemistry",
+                    "Art Education",
+                    "Ayurvedic Medicine",
+                    "Banking",
+                    "Educational and Student Counselling",
+                    "Foreign Languages Education",
+                    "Health Administration",
+                    "Meteorology",
+                    "Microbiology",
+                    "Physics",
+                    "Science Education",
+                    "Toxicology"
+                ],
+                "Master'sDegree": [
+                    "Clinical Psychology",
+                    "Education",
+                    "Law",
+                    "Medicine",
+                    "Organic Chemistry",
+                    "Statistics"
+                ],
+                "Doctor'sDegrees": [
+                    "Education",
+                    "Law",
+                    "Management",
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Dalugama",
+                "City": "Kelaniya",
+                "Province": "Western Province",
+                "PostCode": "N/A",
+                "Website": "https://www.kln.ac.lk",
+                "college_name": "University of Kelaniya",
+                "university_name": "Kelaniya Vishwavidyalaya (KLN)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "The University of Kelaniya has its origin in the historic Vidyalankara Pirivena, founded in 1875 by Ratmalane Sri Dharmaloka Thero as a center of learning for Buddhist monks. With the establishment of modern universities in Sri Lanka in the 1940s and 1950s, the Vidyalankara Pirivena became the Vidyalankara University in 1959, later the Vidyalankara Campus of the University of Ceylon in 1972, and, ultimately, the University of Kelaniya in 1978",
+            "AcademicYear": "October to September",
+            "AdmissionRequirements": [
+                "General Certificate of Education (GCE) Advanced level in 3 approved subjects"
+            ],
+            "Languages": [
+                "Sinhala",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Asian Studies",
+                "FieldsOfStudy": [
+                    "Asian Studies",
+                    "Chinese",
+                    "Korean"
+                ],
+                "Details": "https://units.kln.ac.lk/cks"
+            },
+            {
+                "College": "Open and Distance Learning",
+                "FieldsOfStudy": [
+                    "Distance Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing and Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Engineering",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Asian Religious Studies",
+                    "Christian Religious Studies",
+                    "Classical Languages",
+                    "Design",
+                    "English",
+                    "Hindi",
+                    "Indic Languages",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Performing Arts",
+                    "Sanskrit",
+                    "Theatre",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biochemistry",
+                    "Community Health",
+                    "Forensic Medicine and Dentistry",
+                    "Health Education",
+                    "Medicine",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Parasitology",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Psychiatry and Mental Health",
+                    "Public Health",
+                    "Surgery",
+                    "Tropical Medicine"
+                ],
+                "Details": "Ragama"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Biochemistry",
+                    "Botany",
+                    "Chemistry",
+                    "Environmental Management",
+                    "Industrial Management",
+                    "Information Sciences",
+                    "Mathematics",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Physics",
+                    "Plant Pathology",
+                    "Statistics",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Economics",
+                    "Geography",
+                    "History",
+                    "Information Sciences",
+                    "Library Science",
+                    "Mass Communication",
+                    "Philosophy",
+                    "Sociology",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Archaeology",
+                "FieldsOfStudy": [
+                    "Archaeology"
+                ],
+                "Details": "Postgraduate studies only"
+            },
+            {
+                "College": "Pali and Buddhist Studies",
+                "FieldsOfStudy": [
+                    "Asian Religious Studies"
+                ],
+                "Details": "Postgraduate studies only"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Arts and Humanities",
+                    "Banking",
+                    "Botany",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Chemistry",
+                    "Christian Religious Studies",
+                    "Cinema and Television",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Dance",
+                    "Economics",
+                    "Electronics and Automation",
+                    "English",
+                    "Environmental Management",
+                    "Finance",
+                    "Geography",
+                    "Germanic Studies",
+                    "Hindi",
+                    "History",
+                    "Human Resources",
+                    "Information Technology",
+                    "Insurance",
+                    "International Studies",
+                    "Japanese",
+                    "Korean",
+                    "Leadership",
+                    "Library Science",
+                    "Linguistics",
+                    "Management",
+                    "Marketing",
+                    "Materials Engineering",
+                    "Mathematical Physics",
+                    "Mathematics",
+                    "Media Studies",
+                    "Medicine",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Occupational Therapy",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Robotics",
+                    "Sanskrit",
+                    "Software Engineering",
+                    "Speech Therapy and Audiology",
+                    "Statistics",
+                    "Theatre",
+                    "Tourism",
+                    "Visual Arts",
+                    "Zoology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Analytical Chemistry",
+                    "Archaeology",
+                    "Art History",
+                    "Ayurvedic Medicine",
+                    "Heritage Preservation",
+                    "Human Resources",
+                    "Industrial Management",
+                    "Information Technology",
+                    "Marketing",
+                    "Mathematics",
+                    "Museum Management",
+                    "Museum Studies",
+                    "Regional Planning"
+                ],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Computer Engineering",
+                    "Humanities and Social Science Education",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Puttalam Road",
+                "City": "Anuradhapura",
+                "Province": "North Central Province",
+                "PostCode": "N/A",
+                "Website": "http://busl.ac.lk",
+                "college_name": "Bhiksu University of Sri Lanka",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1997 as Buddhasravaka Bhiksu University. Acquired present status and title 2012. A state institution dedicated to Buddhist Monks' education",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "GCE A level with 4 or 3 passes and a minimum of 130 marks or equivalent"
+            ],
+            "Languages": [
+                "Sinhala",
+                "English"
+            ],
+            "StudentBody": "male"
+        },
+        "Divisions": [
+            {
+                "College": "Buddhist Studies",
+                "FieldsOfStudy": [
+                    "Asian Religious Studies",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages and Cultural Studies",
+                "FieldsOfStudy": [
+                    "English",
+                    "Sanskrit",
+                    "South and Southeast Asian Languages"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Archaeology",
+                    "Education",
+                    "Philosophy",
+                    "Sanskrit"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Asian Religious Studies",
+                    "English"
+                ],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Gurulugomi Mawatha, Pitipana North",
+                "City": "Homagama",
+                "Province": "Colombo",
+                "PostCode": "10206",
+                "Website": "http://www.bpu.ac.lk",
+                "college_name": "Buddhist and Pali University of Sri Lanka",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1982, acquired present status 1997.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "General Certificate of Education (GCE) Advanced ('A') level or recognized equivalent",
+                "The university may hold examinations to enable students of any affiliated College in Sri Lanka or abroad, and private students, to obtain its degrees and diplomas (examinations conducted in Sinhala and English)"
+            ],
+            "Languages": [
+                "Sinhala",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Buddhist Studies",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Asian Religious Studies",
+                    "Cultural Studies",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language Studies",
+                "FieldsOfStudy": [
+                    "English",
+                    "Sanskrit",
+                    "South and Southeast Asian Languages"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Archaeology",
+                    "Asian Religious Studies",
+                    "English",
+                    "Philosophy",
+                    "Sanskrit",
+                    "South and Southeast Asian Languages"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": "N/A",
+                "Master'sDegree": [
+                    "Archaeology",
+                    "Asian Religious Studies",
+                    "Philosophy",
+                    "Sanskrit"
+                ],
+                "Doctor'sDegrees": [
+                    "Asian Religious Studies",
+                    "English",
+                    "Indic Languages"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Vantharumoolai",
+                "City": "Chenkalady",
+                "Province": "Eastern Province",
+                "PostCode": "30350",
+                "Website": "http://www.esn.ac.lk",
+                "college_name": "Eastern University, Sri Lanka",
+                "university_name": "(EUSL)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1981 as Batticaloa University College, acquired present status and title 1986.",
+            "AcademicYear": "January to November (January-May; July-November)",
+            "AdmissionRequirements": [
+                "General Certificate of Education (GCE) with Advanced ('A') level in 3 subjects, with a total aggregate of not less than 135 and common general paper with a pass mark of 30%"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Trincomalee",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Information Management",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Physics",
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Agrobiology",
+                    "Animal Husbandry",
+                    "Crop Production",
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Culture",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Child Care and Development",
+                    "Comparative Religion",
+                    "Cultural Studies",
+                    "Education",
+                    "Fine Arts",
+                    "Geography",
+                    "History",
+                    "Islamic Studies",
+                    "Philosophy",
+                    "Social Sciences",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce and Management",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Healthcare Sciences",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Nursing"
+                ],
+                "Details": "Batticaloa"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Botany",
+                    "Chemistry",
+                    "Environmental Studies",
+                    "Mathematics",
+                    "Physics",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Swami Vipulananda Institute of Aesthetic Studies - SVIAS",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Fine Arts"
+                ],
+                "Details": "Kallady, Batticaloa"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Agriculture",
+                    "Botany",
+                    "Business Administration",
+                    "Chemistry",
+                    "Economics",
+                    "Education",
+                    "Fine Arts",
+                    "Geography",
+                    "Human Resources",
+                    "Marketing",
+                    "Mathematics and Computer Science",
+                    "Medicine",
+                    "Nursing",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Sociology",
+                    "Theatre",
+                    "Zoology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Management"
+                ],
+                "Master'sDegree": [
+                    "Comparative Religion",
+                    "Fine Arts",
+                    "Geography",
+                    "Natural Sciences",
+                    "Theatre"
+                ],
+                "Doctor'sDegrees": [
+                    "Fine Arts",
+                    "Natural Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "482/B, Millennium Drive, Chandrika Kumaranathunga Mawatha",
+                "City": "Malabe",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://horizoncampus.edu.lk",
+                "college_name": "Horizon Campus",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created in 2011 and is the higher education campus of Horizon College of Business and Technology.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Computer Networks",
+                    "Education",
+                    "Information Technology",
+                    "Marketing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Food Technology"
+                ],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "249/1, Malabe Road\nThalangama North\nKoswatta, Battaramulla",
+                "City": "Colombo",
+                "Province": "N/A",
+                "PostCode": "10120",
+                "Website": "https://www.kiu.ac.lk",
+                "college_name": "KAATSU International University",
+                "university_name": "(KIU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2009, first accredited 2015.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Acupuncture and Oriental Medicine",
+                    "Biomedicine",
+                    "Health Education",
+                    "Nursing",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Human Resources",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Acupuncture and Oriental Medicine",
+                    "Biomedicine",
+                    "Human Resources",
+                    "Marketing",
+                    "Nursing",
+                    "Psychology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Nursing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Manelwatta, Bollegala",
+                "City": "Kelaniya",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://niibs.edu.lk",
+                "college_name": "Nagananda International Institute for Buddhist Studies",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2015",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Sinhala",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Buddhist Studies",
+                "FieldsOfStudy": [
+                    "Ayurvedic Medicine",
+                    "Philosophy",
+                    "Sanskrit",
+                    "Southeast Asian Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": "N/A",
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 21, High Level Road",
+                "City": "Maharagama",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.nie.lk",
+                "college_name": "National Institute of Education",
+                "university_name": "(NIE)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created in 1986 in order to establish a unique institute for capacity building of educational managers, teacher educators and teachers, design and develop school curricula and conduct policy research on education. The NIE is also mandated to advise the Minister on matters related to the development of education in Sri Lanka.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling"
+                ],
+                "Master'sDegree": [
+                    "Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "488 A, Nawala Road",
+                "City": "Rajagiriya",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.nisd.lk",
+                "college_name": "National Institute of Social Development",
+                "university_name": "(NISD)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 1992 by National Institute of Social Development Act no.41 of 1992 and initially collaborated with University of Colombo. Awarded status of a degree-awarding institution in 2005 by the UGC, and Master's degree awarded from 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Social Work"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Social Work"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Pitipana - Thalagala Road",
+                "City": "Homagama",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.nsbm.ac.lk",
+                "college_name": "National School of Business Management Limited",
+                "university_name": "NSBM Green University (NSBM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2012",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Nutrition",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Human Resources",
+                    "Industrial Management",
+                    "Management",
+                    "Multimedia",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Multimedia",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Mechanical Engineering",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Biomedicine",
+                    "Business Administration",
+                    "Business Computing",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Human Resources",
+                    "Industrial Management",
+                    "Interior Design",
+                    "International Business",
+                    "Mechanical Engineering",
+                    "Multimedia",
+                    "Public Health",
+                    "Software Engineering",
+                    "Tourism",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Computer Networks",
+                    "Human Resources",
+                    "Industrial Management",
+                    "Management",
+                    "Software Engineering"
+                ],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Business and Commerce"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 21, Nawala",
+                "City": "Nugegoda",
+                "Province": "Western Province",
+                "PostCode": "10250",
+                "Website": "http://www.ou.ac.lk",
+                "college_name": "Open University of Sri Lanka",
+                "university_name": "(OUSL)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1980 to enable those of 18 years of age and over to pursue courses mainly in their own time and in their own homes. The multimedia learning system developed by the British Open University has served as a model.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Three GCE 'A' level passes in relevant subjects may be required for undergraduate entry to Bachelor programmes",
+                ""
+            ],
+            "Languages": [
+                "English",
+                "Sinhala",
+                "Tamil"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Distance Education",
+                    "Education",
+                    "Preschool Education",
+                    "Secondary Education",
+                    "Special Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering Technology",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Automotive Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Medical Technology",
+                    "Nursing",
+                    "Pharmacy",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human and Social Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Management",
+                    "Modern Languages",
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Botany",
+                    "Chemistry",
+                    "Computer Science",
+                    "Mathematics",
+                    "Physics",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Civil Engineering",
+                    "Education",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "English",
+                    "Industrial Engineering",
+                    "Law",
+                    "Management",
+                    "Medical Technology",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Pharmacy",
+                    "Psychology",
+                    "Science Education",
+                    "Social Sciences",
+                    "Software Engineering",
+                    "Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Development Studies",
+                    "Distance Education",
+                    "Education",
+                    "Environmental Studies",
+                    "Special Education",
+                    "Technology"
+                ],
+                "Master'sDegree": [
+                    "Education",
+                    "Natural Sciences"
+                ],
+                "Doctor'sDegrees": [
+                    "Education",
+                    "Natural Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Mihintale",
+                "City": "Anuradhapura",
+                "Province": "North Central Province",
+                "PostCode": "0001",
+                "Website": "https://www.rjt.ac.lk",
+                "college_name": "Rajarata University of Sri Lanka",
+                "university_name": "(RUSL)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1996.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Sinhala",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Food Technology",
+                    "Plant and Crop Protection",
+                    "Soil Management",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Engineering",
+                    "Health Education",
+                    "Information Technology",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business Computing",
+                    "Finance",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical and Allied Sciences",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Biochemistry",
+                    "Forensic Medicine and Dentistry",
+                    "Medicine",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Parasitology",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Psychiatry and Mental Health",
+                    "Radiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Humanities",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Economics",
+                    "Environmental Management",
+                    "Heritage Preservation",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Electrical and Electronic Engineering",
+                    "Food Technology",
+                    "Information Technology",
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Agriculture",
+                    "Applied Physics",
+                    "Archaeology",
+                    "Biology",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Business Computing",
+                    "Economics",
+                    "Electrical and Electronic Engineering",
+                    "Environmental Management",
+                    "Finance",
+                    "Food Technology",
+                    "Health Education",
+                    "Heritage Preservation",
+                    "History",
+                    "Information Technology",
+                    "Management",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Medicine",
+                    "Physics",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Management"
+                ],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "University Park",
+                "City": "Oluvil",
+                "Province": "Eastern Province",
+                "PostCode": "32360",
+                "Website": "http://www.seu.ac.lk",
+                "college_name": "South Eastern University of Sri Lanka",
+                "university_name": "(SEUSL)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1995. Acquired present status 1996.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Tamil"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Culture",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "English",
+                    "Geography",
+                    "History",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Sociology",
+                    "South and Southeast Asian Languages",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Mechanical Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Islamic Studies and Arabic Language",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Islamic Law",
+                    "Islamic Studies",
+                    "Literature",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Commerce",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Computer Graphics",
+                    "Information Technology",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Arabic",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Computer Science",
+                    "Engineering",
+                    "Finance",
+                    "Geography",
+                    "History",
+                    "Human Resources",
+                    "Information Technology",
+                    "Islamic Law",
+                    "Islamic Studies",
+                    "Linguistics",
+                    "Marketing",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Sociology",
+                    "South and Southeast Asian Languages",
+                    "Statistics",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Management",
+                    "South and Southeast Asian Languages"
+                ],
+                "Master'sDegree": [
+                    "South and Southeast Asian Languages"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "28/10, Malalasekara Mawatha",
+                "City": "Colombo",
+                "Province": "N/A",
+                "PostCode": "07",
+                "Website": "http://www.slida.lk",
+                "college_name": "Sri Lanka Institute of Development Administration",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created in 1982 as a public sector training organization for the development of knowledge and improvement of skills in public administration and management.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Public Management",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Management",
+                    "Public Administration"
+                ],
+                "Master'sDegree": [
+                    "Management",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 57, Thirunelvely",
+                "City": "Jaffna",
+                "Province": "Northern Province",
+                "PostCode": "40000",
+                "Website": "http://www.jfn.ac.lk",
+                "college_name": "University of Jaffna",
+                "university_name": "(JAF)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1974 as Jaffna Campus of University of Sri Lanka, acquired present status and title 1979.",
+            "AcademicYear": "August to May",
+            "AdmissionRequirements": [
+                "On the basis of the rank order on average 'Z' scores in the General Certificate of Education (Advanced level) (GCE/A/L)"
+            ],
+            "Languages": [
+                "Tamil",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Vavuniya",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Computer Science",
+                    "Economics",
+                    "Education",
+                    "Environmental Studies",
+                    "Finance",
+                    "Information Technology",
+                    "Management",
+                    "Marketing",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language Teaching",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Agronomy",
+                    "Applied Chemistry",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Physics"
+                ],
+                "Details": "Vavuniya Campus"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Economics",
+                    "Education",
+                    "English",
+                    "Fine Arts",
+                    "Geography (Human)",
+                    "History",
+                    "Indic Languages",
+                    "Islamic Studies",
+                    "Linguistics",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Sanskrit",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Economics",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "Vavuniya Campus"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Education",
+                    "South and Southeast Asian Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management Studies and Commerce",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biochemistry",
+                    "Community Health",
+                    "Forensic Medicine and Dentistry",
+                    "Medicine",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Parasitology",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Psychiatry and Mental Health",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Botany",
+                    "Chemistry",
+                    "Fishery",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Physics",
+                    "Statistics",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Studies",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education",
+                "FieldsOfStudy": [
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Siddha Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "Vavuniya Campus"
+            },
+            {
+                "College": "Sports Science",
+                "FieldsOfStudy": [
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Agriculture",
+                    "Dance",
+                    "Design",
+                    "Finance",
+                    "Fine Arts",
+                    "Human Resources",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Medical Technology",
+                    "Medicine",
+                    "Music",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Pharmacy"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Education",
+                    "Library Science"
+                ],
+                "Master'sDegree": [
+                    "Biochemistry",
+                    "Biology",
+                    "Botany",
+                    "Chemistry",
+                    "Computer Science",
+                    "Education",
+                    "Fine Arts",
+                    "Geography",
+                    "History",
+                    "Linguistics",
+                    "Management",
+                    "Mathematics",
+                    "Music",
+                    "Nursing",
+                    "Parasitology",
+                    "Pharmacology",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sanskrit",
+                    "Traditional Eastern Medicine",
+                    "Zoology"
+                ],
+                "Doctor'sDegrees": [
+                    "Agricultural Engineering",
+                    "Economics",
+                    "Education",
+                    "Geography",
+                    "Library Science",
+                    "Linguistics",
+                    "Management",
+                    "Philosophy",
+                    "Political Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Katubedda",
+                "City": "Moratuwa",
+                "Province": "Western Province",
+                "PostCode": "10400",
+                "Website": "http://www.mrt.ac.lk",
+                "college_name": "University of Moratuwa",
+                "university_name": "(MOR)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1966 as Ceylon College of Technology, became Katubedda Campus of University of Sri Lanka 1972 and acquired present status and title 1978.",
+            "AcademicYear": "June to March",
+            "AdmissionRequirements": [
+                "General Certificate of Education/Advanced Level (GCE/AL) with 3 approved subjects and total aggregates determined by the UGC according to number of places available"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Design",
+                    "Landscape Architecture",
+                    "Management",
+                    "Rural Planning",
+                    "Surveying and Mapping",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Electrical and Electronic Engineering",
+                    "Engineering",
+                    "Engineering Management",
+                    "Industrial Engineering",
+                    "Management Systems",
+                    "Marine Engineering",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Mining Engineering",
+                    "Polymer and Plastics Technology",
+                    "Technology",
+                    "Telecommunications Engineering",
+                    "Textile Design",
+                    "Textile Technology",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Business and Commerce",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Design",
+                    "Electrical Engineering",
+                    "Environmental Engineering",
+                    "Fashion Design",
+                    "Information Management",
+                    "Information Technology",
+                    "Landscape Architecture",
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Rural Planning",
+                    "Surveying and Mapping",
+                    "Telecommunications Engineering",
+                    "Textile Technology",
+                    "Town Planning",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Artificial Intelligence",
+                    "Educational Technology",
+                    "Engineering Management",
+                    "Environmental Engineering",
+                    "Information Technology",
+                    "Landscape Architecture",
+                    "Road Engineering",
+                    "Rural Planning",
+                    "Town Planning",
+                    "Transport Engineering",
+                    "Transport Management",
+                    "Water Management"
+                ],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Computer Science",
+                    "Engineering",
+                    "Information Technology"
+                ],
+                "Doctor'sDegrees": [
+                    "Architecture",
+                    "Information Technology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "University Park",
+                "City": "Peradeniya",
+                "Province": "Central Province",
+                "PostCode": "20400",
+                "Website": "http://www.pdn.ac.lk",
+                "college_name": "University of Peradeniya",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1942, incorporating Ceylon Medical College (1870) and Ceylon University College (1921), and became Peradeniya Campus of University of Sri Lanka 1972. Acquired present status and title 1978.",
+            "AcademicYear": "October to September",
+            "AdmissionRequirements": [
+                "General Certificate of Education (GCE) with Advanced ('A') level in 4 approved subjects"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Crop Production",
+                    "Food Science",
+                    "Food Technology",
+                    "Soil Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Allied Health Sciences",
+                "FieldsOfStudy": [
+                    "Medical Technology",
+                    "Nursing",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "Asian Religious Studies",
+                    "Business and Commerce",
+                    "Classical Languages",
+                    "Cultural Studies",
+                    "Economics",
+                    "Education",
+                    "English",
+                    "Geography",
+                    "History",
+                    "Indic Languages",
+                    "Islamic Studies",
+                    "Law",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sociology",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dental Sciences",
+                "FieldsOfStudy": [
+                    "Dental Hygiene",
+                    "Dentistry",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Engineering",
+                    "Engineering Management",
+                    "Mathematics and Computer Science",
+                    "Mechanical Engineering",
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Biochemistry",
+                    "Community Health",
+                    "Forensic Medicine and Dentistry",
+                    "Medicine",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Parasitology",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Psychiatry and Mental Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Botany",
+                    "Chemistry",
+                    "Geology",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary  Medicine and Animal Science",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate  Institute of Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Agrobiology",
+                    "Business Administration",
+                    "Crop Production",
+                    "Food Science",
+                    "Food Technology",
+                    "Plant and Crop Protection",
+                    "Soil Science",
+                    "Statistics",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Institute  of Science",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Institute of Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agricultural Equipment",
+                    "Agricultural Management",
+                    "Animal Husbandry",
+                    "Arabic",
+                    "Archaeology",
+                    "Biology",
+                    "Botany",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Dentistry",
+                    "Economics",
+                    "Electrical and Electronic Engineering",
+                    "English",
+                    "Finance",
+                    "Fine Arts",
+                    "Fishery",
+                    "Food Science",
+                    "Geography",
+                    "History",
+                    "Indic Languages",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Medical Technology",
+                    "Medicine",
+                    "Molecular Biology",
+                    "Nursing",
+                    "Operations Research",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Therapy",
+                    "Physics",
+                    "Political Sciences",
+                    "Production Engineering",
+                    "Psychology",
+                    "Radiology",
+                    "Sanskrit",
+                    "Sociology",
+                    "Statistics",
+                    "Veterinary Science",
+                    "Zoology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Archaeology",
+                    "Economics",
+                    "Education",
+                    "English",
+                    "Fine Arts",
+                    "Geography",
+                    "History",
+                    "Indic Languages",
+                    "Islamic Studies",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sanskrit",
+                    "Sociology",
+                    "Translation and Interpretation"
+                ],
+                "Master'sDegree": [
+                    "Agricultural Economics",
+                    "Animal Husbandry",
+                    "Archaeology",
+                    "Dentistry",
+                    "Economics",
+                    "English",
+                    "Fine Arts",
+                    "Food Technology",
+                    "Geography",
+                    "History",
+                    "Indic Languages",
+                    "Islamic Studies",
+                    "Oral Pathology",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sanskrit",
+                    "Sociology",
+                    "Zoology"
+                ],
+                "Doctor'sDegrees": [
+                    "Agriculture",
+                    "Archaeology",
+                    "Dentistry",
+                    "Economics",
+                    "Engineering",
+                    "English",
+                    "Fine Arts",
+                    "Geography",
+                    "History",
+                    "Indic Languages",
+                    "Islamic Studies",
+                    "Natural Sciences",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sanskrit",
+                    "Sociology",
+                    "Veterinary Science",
+                    "Zoology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Wellamadama",
+                "City": "Matara",
+                "Province": "Southern Province",
+                "PostCode": "81000",
+                "Website": "http://www.ruh.ac.lk",
+                "college_name": "University of Ruhuna",
+                "university_name": "(RUH)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1978 as Campus of University of Sri Lanka, and reconstituted as Ruhuna University College 1979. Acquired present title 1984.",
+            "AcademicYear": "January to December",
+            "AdmissionRequirements": [
+                "General Certificate of Education (GCE) Advanced ('A') level in either 4 approved subjects, or 3 approved subjects and a mark of not less than 25%"
+            ],
+            "Languages": [
+                "Sinhala",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Crop Production",
+                    "Food Science",
+                    "Soil Science"
+                ],
+                "Details": "Mapalana"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fisheries and Marine Science and Technology",
+                "FieldsOfStudy": [
+                    "Aquaculture",
+                    "Fishery",
+                    "Limnology",
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Asian Religious Studies",
+                    "Classical Languages",
+                    "Economics",
+                    "English",
+                    "Geography",
+                    "History",
+                    "Indic Languages",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Community Health",
+                    "Forensic Medicine and Dentistry",
+                    "Medical Technology",
+                    "Microbiology",
+                    "Nursing",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Parasitology",
+                    "Pathology",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Physiology",
+                    "Psychiatry and Mental Health",
+                    "Surgery"
+                ],
+                "Details": "Galle"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Botany",
+                    "Chemistry",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Agricultural Business",
+                    "Agricultural Management",
+                    "Aquaculture",
+                    "Archaeology",
+                    "Biotechnology",
+                    "Botany",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Finance",
+                    "Fishery",
+                    "Geography",
+                    "History",
+                    "Human Resources",
+                    "Information Technology",
+                    "Limnology",
+                    "Marine Science and Oceanography",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Medical Technology",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Sociology",
+                    "South and Southeast Asian Languages",
+                    "Technology",
+                    "Zoology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Statistics"
+                ],
+                "Master'sDegree": [
+                    "Agriculture",
+                    "Engineering",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [
+                    "Agriculture",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Gangodawila",
+                "City": "Nugegoda",
+                "Province": "Western Province",
+                "PostCode": "N/A",
+                "Website": "https://www.sjp.ac.lk",
+                "college_name": "University of Sri Jayewardenepura",
+                "university_name": "(SJP)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1959 as Vidyodaya University. Became Campus University of the single University of Sri Lanka 1972.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "General Certificate of Education with Advanced ('A') level in 4 approved subjects, or equivalent foreign qualification"
+            ],
+            "Languages": [
+                "Sinhala",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Allied Health Sciences",
+                "FieldsOfStudy": [
+                    "Medical Auxiliaries",
+                    "Midwifery",
+                    "Nursing",
+                    "Optometry",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Botany",
+                    "Chemistry",
+                    "Computer Science",
+                    "Food Science",
+                    "Forestry",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics",
+                    "Statistics",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dental Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Biological and Life Sciences",
+                    "Management",
+                    "Medicine",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "Asian Religious Studies",
+                    "Classical Languages",
+                    "Cultural Studies",
+                    "Economics",
+                    "English",
+                    "Geography",
+                    "History",
+                    "Indic Languages",
+                    "Mass Communication",
+                    "Modern Languages",
+                    "Sociology",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management Studies and Commerce",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Information Technology",
+                    "Management",
+                    "Marketing",
+                    "Mathematics and Computer Science",
+                    "Public Administration",
+                    "Real Estate"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biochemistry",
+                    "Community Health",
+                    "Forensic Medicine and Dentistry",
+                    "Health Education",
+                    "Health Sciences",
+                    "Medicine",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Parasitology",
+                    "Pathology",
+                    "Physiology",
+                    "Psychiatry and Mental Health",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Information Technology",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Urban and Aquatic Bioresources",
+                "FieldsOfStudy": [
+                    "Aquaculture",
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Dentistry",
+                    "Medicine"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Accountancy",
+                    "Criminology",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Physics",
+                    "Real Estate",
+                    "Sociology",
+                    "Statistics"
+                ],
+                "Master'sDegree": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Chemistry",
+                    "Criminology",
+                    "Cultural Studies",
+                    "Economics",
+                    "Geography",
+                    "History",
+                    "Indic Languages",
+                    "Mass Communication",
+                    "Mathematics",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Sanskrit",
+                    "Sociology"
+                ],
+                "Doctor'sDegrees": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Chemistry",
+                    "Criminology",
+                    "Cultural Studies",
+                    "Economics",
+                    "Geography",
+                    "History",
+                    "Indic Languages",
+                    "Mass Communication",
+                    "Mathematics",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Sanskrit",
+                    "Sociology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "21, Albert Crescent",
+                "City": "Colombo",
+                "Province": "N/A",
+                "PostCode": "07",
+                "Website": "http://www.vpa.ac.lk",
+                "college_name": "University of the Visual and Performing Arts",
+                "university_name": "(IAS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 1953 as Government College of Fine Arts. Became Institute of Aesthetic Studies in 1973. Acquired current title and status 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Dance and Drama",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Dance",
+                    "Performing Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual Arts",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Ceramic Art",
+                    "Fine Arts",
+                    "Painting and Drawing",
+                    "Printing and Printmaking",
+                    "Sculpture",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Acting",
+                    "Dance",
+                    "Fine Arts",
+                    "Music",
+                    "Performing Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Visual Arts"
+                ],
+                "Doctor'sDegrees": [
+                    "Visual Arts"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Badulla",
+                "Province": "N/A",
+                "PostCode": "90000",
+                "Website": "http://www.uwu.ac.lk",
+                "college_name": "Uva Wellassa University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Animal Science and Export Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Aquaculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Business Administration",
+                    "Hotel and Restaurant",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology",
+                    "Mineralogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technological Studies",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Computer Science",
+                    "Engineering",
+                    "Hotel and Restaurant",
+                    "Information Technology",
+                    "Management",
+                    "Mineralogy",
+                    "Polymer and Plastics Technology",
+                    "Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Actuarial Science"
+                ],
+                "Master'sDegree": [
+                    "Agriculture",
+                    "Natural Sciences"
+                ],
+                "Doctor'sDegrees": [
+                    "Agriculture",
+                    "Natural Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Lionel Jayathilake Mawatha\nKandulla",
+                "City": "Kuliyapitiya",
+                "Province": "North Western Province",
+                "PostCode": "60200",
+                "Website": "https://www.wyb.ac.lk",
+                "college_name": "Wayamba University of Sri Lanka",
+                "university_name": "(WUSL)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1999, acquired present status and title 2000.",
+            "AcademicYear": "Feb to Jan",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Plantation Management",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Biotechnology",
+                    "Crop Production",
+                    "Horticulture",
+                    "Landscape Architecture",
+                    "Plant and Crop Protection"
+                ],
+                "Details": "Makandura"
+            },
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Industrial Management",
+                    "Mathematics",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Studies and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Finance",
+                    "Insurance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Livestock, Fisheries and Nutrition",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Cattle Breeding",
+                    "Fishery",
+                    "Food Science",
+                    "Nutrition"
+                ],
+                "Details": "Makandura"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biochemistry",
+                    "Medicine",
+                    "Physiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Construction Engineering",
+                    "Electronic Engineering",
+                    "Mechanical Engineering",
+                    "Nanotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Polymer Electronics Research Group (PERG)",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Polymer and Plastics Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Medicine",
+                    "Surgery"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Management"
+                ],
+                "Master'sDegree": [
+                    "Natural Sciences"
+                ],
+                "Doctor'sDegrees": [
+                    "Agriculture",
+                    "Environmental Management",
+                    "Polymer and Plastics Technology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

@@ -1,0 +1,248 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "15 avenue du G\u00e9n\u00e9ral de Gaulle - BP 305",
+                "City": "Cayenne",
+                "Province": "N/A",
+                "PostCode": "97300",
+                "Website": "https://www.eda-guyane.fr",
+                "college_name": "EDA Guyane",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "EDA Guyane provides initial training for student lawyers and prepares and exams the Certificate of Aptitude for the Legal Profession (CAPA). It also provides training as part of the continuing education process for practising lawyers",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Lawyer Training",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus de Troubiran\nBP 20792",
+                "City": "Cayenne",
+                "Province": "Cedex",
+                "PostCode": "97337",
+                "Website": "https://www.univ-guyane.fr",
+                "college_name": "French Guyana University",
+                "university_name": "Universit\u00e9 de Guyane"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Established by the Bordeaux Law Faculty in 1883 as a Centre of Law Studies in Antilles-Guyane. It was expanded to include a Literature and Science Unit in 1963 and by 1971, it had gained its independent status with the addition of the Basic and Natural Science Unit. In 1982, the Ministry of Education awarded its full title of University. Became Universit\u00e9 des Antilles et de la Guyane, 1982. Acquired present title and status 2014",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Baccalaur\u00e9at or equivalent Secondary School Diploma"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities, Literature, Languages and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Educational Sciences",
+                    "History",
+                    "Information Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "based in Martinique and Guadeloupe"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Ecology",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Geology",
+                    "Mathematics and Computer Science",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education (IUFC)",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "English",
+                    "Management",
+                    "Portuguese",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher Training (INSPE)",
+                "FieldsOfStudy": [
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology (IUT Kourou)",
+                "FieldsOfStudy": [
+                    "Bioengineering",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Business Computing",
+                    "Electrical Engineering",
+                    "Hygiene",
+                    "Management",
+                    "Safety Engineering",
+                    "Sales Techniques",
+                    "Technology",
+                    "Telecommunications Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Biological and Life Sciences",
+                    "Business Administration",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Educational Sciences",
+                    "English",
+                    "Finance",
+                    "French",
+                    "Geography",
+                    "History",
+                    "Information Sciences",
+                    "Law",
+                    "Management",
+                    "Materials Engineering",
+                    "Mathematics and Computer Science",
+                    "Mathematics Education",
+                    "Modern Languages",
+                    "Natural Sciences",
+                    "Political Sciences",
+                    "Primary Education",
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [
+                    "Agronomy",
+                    "Applied Mathematics",
+                    "Astronomy and Space Science",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Mathematics and Computer Science",
+                    "Mechanical Engineering",
+                    "Physics",
+                    "Public Health",
+                    "Sports",
+                    "Technology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2091 Rte de Baduel",
+                "City": "Cayenne",
+                "Province": "N/A",
+                "PostCode": "97300",
+                "Website": "http://www.espe-guyane.fr",
+                "college_name": "French Guyana University \u2013 Insp\u00e9 of the Academy of Guyana",
+                "university_name": "Universit\u00e9 de Guyane \u2013 Insp\u00e9 de l'acad\u00e9mie de Guyane \u2013 Institut national sup\u00e9rieur du professorat et de l'\u00e9ducation"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 2013 as Ecole sup\u00e9rieure du professorat et de l'\u00e9ducation (ESPE), became Insp\u00e9 in 2019",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education",
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

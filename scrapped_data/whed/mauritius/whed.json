@@ -1,0 +1,727 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "R\u00e9duit",
+                "Province": "Moka",
+                "PostCode": "N/A",
+                "Website": "https://www.open.ac.mu",
+                "college_name": "Open University of Mauritius",
+                "university_name": "(OU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "The Open University of Mauritius (OU) has been established on 12 July 2012 according to the Open University of Mauritius ACT 2010. The Mauritius College of the Air, which was established in 1971, has integrated the Open University of Mauritius in July 2012. The Open University aims at delivering quality education to learners who are unable to be physically present on campus. With flexible study options, its prospective learners can study from home, work, or anywhere in the world, at a time that suits them and their lifestyle.",
+            "AcademicYear": "From January to December",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Distance Education",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business and Commerce",
+                    "Computer Engineering",
+                    "Management",
+                    "Preschool Education",
+                    "Teacher Trainers Education",
+                    "Tourism",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Media Studies",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Confucius",
+                "FieldsOfStudy": [
+                    "Chinese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Banking",
+                    "Business Administration",
+                    "Communication Studies",
+                    "Criminology",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "French",
+                    "Graphic Design",
+                    "Human Resources",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Journalism",
+                    "Law",
+                    "Library Science",
+                    "Management",
+                    "Marketing",
+                    "Media Studies",
+                    "Preschool Education",
+                    "Primary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Education",
+                    "Educational Administration",
+                    "Finance",
+                    "International and Comparative Education",
+                    "Leadership",
+                    "Nutrition",
+                    "Public Administration",
+                    "Public Health",
+                    "Taxation"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Royal Road",
+                "City": "Moka",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.mgirti.ac.mu",
+                "college_name": "Mahatma Gandhi Institute",
+                "university_name": "(MGI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1970.",
+            "AcademicYear": "August to July",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "French",
+                "Hindi",
+                "Urdu",
+                "Telugu",
+                "Marathi"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Indian Studies",
+                "FieldsOfStudy": [
+                    "Hindi",
+                    "South and Southeast Asian Languages",
+                    "Urdu"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Indological Studies",
+                "FieldsOfStudy": [
+                    "South Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mauritian and Area Studies",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "Cultural Studies",
+                    "Oriental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Performing Arts",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Music",
+                    "Performing Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Art Education",
+                    "Dance",
+                    "Fine Arts",
+                    "Graphic Design",
+                    "Hindi",
+                    "Philosophy",
+                    "Sanskrit",
+                    "Singing",
+                    "Southeast Asian Studies",
+                    "Urdu"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Hindi",
+                    "Musical Instruments",
+                    "Performing Arts"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenue de La Concorde\nRoche Brunes",
+                "City": "Rose Hill",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.udm.ac.mu",
+                "college_name": "Mascareignes University",
+                "university_name": "Universit\u00e9 des Mascareignes (UdM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1995 as Swami Dayanand Institute of Management. Acquired present title and status after merging with Institut Sup\u00e9rieur de Technologie, 2012.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "For Degree Courses: SC/GCE \u2018O\u2019 Level plus at least two principal subjects at HSG/GCE \u2018A\u2019 Level"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Public Relations",
+                    "Retailing and Wholesaling"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information and Communications Technology",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Information Technology",
+                    "Multimedia",
+                    "Software Engineering",
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sustainable Development and Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Energy Engineering",
+                    "Hotel Management",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Research and Innnovation",
+                "FieldsOfStudy": [
+                    "Energy Engineering",
+                    "Environmental Studies",
+                    "Political Sciences",
+                    "Waste Management"
+                ],
+                "Details": "IRII"
+            },
+            {
+                "College": "Geopolitics",
+                "FieldsOfStudy": [
+                    "Political Sciences"
+                ],
+                "Details": "Stanley Campus"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": "N/A"
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Computer Science",
+                    "Human Resources",
+                    "Industrial Engineering",
+                    "Marketing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "R\u00e9duit",
+                "Province": "Moka",
+                "PostCode": "N/A",
+                "Website": "http://www.mie.ac.mu",
+                "college_name": "Mauritius Institute of Education",
+                "university_name": "(MIE)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1974.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Home Economics",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Business Education",
+                    "English",
+                    "French",
+                    "Social Studies",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Computer Education",
+                    "Curriculum",
+                    "Educational Administration",
+                    "Multimedia",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics Education",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education"
+                ],
+                "Doctor'sDegrees": [
+                    "Education"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "R\u00e9duit",
+                "Province": "Moka",
+                "PostCode": "80837",
+                "Website": "http://www.uom.ac.mu",
+                "college_name": "University of Mauritius",
+                "university_name": "(UoM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1965.",
+            "AcademicYear": "August to May (August-November; January-May)",
+            "AdmissionRequirements": [
+                "General Certificate of Education (GCE) with pass at Ordinary 'O' level or equivalent in English Language, and either passes in 5 other subjects with at least 2 passes at 'A' level or passes in 3 other subjects at 'A' level, or the French Baccalaur\u00e9at, or the IGCSE and the International Baccalaur\u00e9at"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Biomedical and Biomaterials Research",
+                "FieldsOfStudy": [
+                    "Biomedicine"
+                ],
+                "Details": "CBBR"
+            },
+            {
+                "College": "Information Technology and Systems",
+                "FieldsOfStudy": [
+                    "Information Management",
+                    "Information Technology",
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Innovative Lifelong Learning",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Educational Technology",
+                    "Information Technology",
+                    "Multimedia"
+                ],
+                "Details": "CILL"
+            },
+            {
+                "College": "Professional Development and Lifelong Learning",
+                "FieldsOfStudy": [
+                    "Computer Education",
+                    "Information Technology",
+                    "Library Science",
+                    "Marine Transport",
+                    "Nursing",
+                    "Police Studies",
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Food Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Production Engineering",
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Finance",
+                    "International Business",
+                    "Law",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ocean Studies",
+                "FieldsOfStudy": [
+                    "Fishery",
+                    "Marine Engineering",
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Health Sciences",
+                    "Mathematics",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Studies and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Economics",
+                    "English",
+                    "French",
+                    "History",
+                    "Social Studies",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Agriculture",
+                    "Arts and Humanities",
+                    "Banking",
+                    "Business and Commerce",
+                    "Chemical Engineering",
+                    "Economics",
+                    "Energy Engineering",
+                    "English",
+                    "Environmental Management",
+                    "Finance",
+                    "Food Science",
+                    "Food Technology",
+                    "French",
+                    "Industrial Engineering",
+                    "Insurance",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Marine Science and Oceanography",
+                    "Mechanical Engineering",
+                    "Medicine",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Surgery",
+                    "Surveying and Mapping",
+                    "Tourism",
+                    "Town Planning",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "La Tour Koenig\nPointe aux Sables",
+                "City": "Port Louis",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.utm.ac.mu",
+                "college_name": "University of Technology, Mauritius",
+                "university_name": "(UTM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2000 following merger of Mauritius Institute of Public Administration and Management (MIPAM) and SITRAC.",
+            "AcademicYear": "August to June",
+            "AdmissionRequirements": [
+                "5 'O' level (pass) including English + 2 'A' level/'O' level in English (pass) + 3 'A' level/ French baccalaureat/IGCSE + International Baccalaureat"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business, Management and Finance",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Public Administration"
+                ],
+                "Details": "SBMF"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Dermatology",
+                    "Health Sciences",
+                    "Medicine",
+                    "Obstetrics and Gynaecology",
+                    "Orthopaedics",
+                    "Paediatrics",
+                    "Radiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Innovative Technologies and Engineering",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Engineering",
+                    "Industrial Engineering",
+                    "Software Engineering",
+                    "Systems Analysis"
+                ],
+                "Details": "SITE"
+            },
+            {
+                "College": "Sustainable Development and Tourism",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Leisure Studies",
+                    "Tourism"
+                ],
+                "Details": "SSDT"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Business Computing",
+                    "Commercial Law",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Design",
+                    "Economics",
+                    "Electronic Engineering",
+                    "Finance",
+                    "Graphic Design",
+                    "Health Administration",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Information Technology",
+                    "Insurance",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Medicine",
+                    "Occupational Health",
+                    "Public Administration",
+                    "Safety Engineering",
+                    "Software Engineering",
+                    "Surgery",
+                    "Telecommunications Engineering",
+                    "Tourism",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Banking",
+                    "Biology",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Data Processing",
+                    "E-Business/Commerce",
+                    "Educational Administration",
+                    "Finance",
+                    "Gender Studies",
+                    "Graphic Design",
+                    "Health Administration",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Industrial and Organizational Psychology",
+                    "Information Technology",
+                    "Insurance",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Mathematics and Computer Science",
+                    "Multimedia",
+                    "Public Administration",
+                    "Public Health",
+                    "Public Relations",
+                    "Retailing and Wholesaling",
+                    "Software Engineering",
+                    "Statistics",
+                    "Telecommunications Engineering",
+                    "Tourism",
+                    "Transport Management",
+                    "Women's Studies"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

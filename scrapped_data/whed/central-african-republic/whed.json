@@ -1,0 +1,249 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus ENAM, BP 157, Avenue de France",
+                "City": "Bangui",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.euclid.int",
+                "college_name": "EUCLID",
+                "university_name": "P\u00f4le Universitaire Euclide \u2013 Euclid University"
+            },
+            "InstitutionFunding": "Public",
+            "History": "EUCLID was registred in 2008 under a United Nations Treaty, under the references 49006 and 49007. EUCLID offers online and distance learning programmes",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Online distance learning",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Finance",
+                    "International Relations and Diplomacy",
+                    "Public Health",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Education",
+                    "Finance",
+                    "International Relations and Diplomacy",
+                    "Public Administration",
+                    "Public Health",
+                    "Sustainable Development",
+                    "Theology"
+                ],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Education",
+                    "Finance",
+                    "International Relations and Diplomacy",
+                    "Public Administration",
+                    "Public Health",
+                    "Sustainable Development",
+                    "Theology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenue des Martyrs, BP 1450",
+                "City": "Bangui",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.univ-bangui.org",
+                "college_name": "University of Bangui",
+                "university_name": "Universit\u00e9 de Bangui"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1969. Formerly Institut d'Etudes juridiques of the Fondation de l'Enseignement sup\u00e9rieur en Afrique centrale. Acquired present status 1985",
+            "AcademicYear": "September to June (September-December; January-March; April-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Baccalaur\u00e9at) or special entrance examination"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "Educational Sciences",
+                    "English",
+                    "Geography (Human)",
+                    "History",
+                    "Information Sciences",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Social Sciences",
+                    "Sociology",
+                    "Spanish"
+                ],
+                "Details": "FLSH"
+            },
+            {
+                "College": "Health and Sciences",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Biomedicine",
+                    "Community Health",
+                    "Health Education",
+                    "Health Sciences",
+                    "Laboratory Techniques",
+                    "Medicine",
+                    "Midwifery",
+                    "Nursing",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Public Health",
+                    "Social Work",
+                    "Surgery"
+                ],
+                "Details": "FACSS"
+            },
+            {
+                "College": "Law and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law",
+                    "Management",
+                    "Private Law",
+                    "Public Law",
+                    "Rural Planning"
+                ],
+                "Details": "FSEG"
+            },
+            {
+                "College": "Applied Linguistics",
+                "FieldsOfStudy": [
+                    "Applied Linguistics",
+                    "Translation and Interpretation"
+                ],
+                "Details": "ILA"
+            },
+            {
+                "College": "Business Management",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "IUGE"
+            },
+            {
+                "College": "Rural Development",
+                "FieldsOfStudy": [
+                    "Cattle Breeding",
+                    "Forestry",
+                    "Rural Studies",
+                    "Water Management"
+                ],
+                "Details": "ISDR"
+            },
+            {
+                "College": "Technology and Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Building Technologies",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Geological Engineering",
+                    "Geology",
+                    "Industrial Engineering",
+                    "Mathematics",
+                    "Mining Engineering",
+                    "Physics",
+                    "Science Education",
+                    "Technology"
+                ],
+                "Details": "IST"
+            },
+            {
+                "College": "Higher Teacher Training College",
+                "FieldsOfStudy": [
+                    "Agricultural Education",
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Arts and Humanities",
+                    "Biological and Life Sciences",
+                    "Cattle Breeding",
+                    "Earth Sciences",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "English",
+                    "Forestry",
+                    "Geography",
+                    "Geography (Human)",
+                    "History",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Modern Languages",
+                    "Pedagogy",
+                    "Physics",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Teacher Training"
+                ],
+                "Details": "Ecole nationale sup\u00e9rieure (ENS)"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Anthropology",
+                    "Applied Linguistics",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Computer Science",
+                    "Economics",
+                    "Educational Sciences",
+                    "Geography (Human)",
+                    "History",
+                    "Law",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Sociology",
+                    "Translation and Interpretation"
+                ],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

@@ -1,0 +1,2500 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rruga Studenti 30",
+                "City": "Gjirokastra",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://uogj.edu.al",
+                "college_name": "Eqrem \u00c7abej University of Gjirokastra",
+                "university_name": "Universiteti 'Eqrem \u00c7abej' Gjirokast\u00ebr (UOGJ)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as the Higher Pedagogical Institute in 1971. Earned university status and present title in 1991",
+            "AcademicYear": "October to September",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian",
+                "Greek",
+                "English",
+                "Italian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Social Sciences",
+                "FieldsOfStudy": [
+                    "Albanian",
+                    "Education",
+                    "Educational Sciences",
+                    "Geography",
+                    "Greek",
+                    "Greek (Classical)",
+                    "History",
+                    "Modern Languages",
+                    "Social Sciences",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Information Technology",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Albanian",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "English",
+                    "Finance",
+                    "Geography",
+                    "Greek",
+                    "History",
+                    "Italian",
+                    "Literature",
+                    "Management",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Nursing",
+                    "Physics",
+                    "Public Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Archaeology",
+                    "Art Management",
+                    "Linguistics",
+                    "Literature",
+                    "Science Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kod\u00ebr Kam\u00ebz",
+                "City": "Tiran\u00eb",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "http://www.ubt.edu.al",
+                "college_name": "Agricultural University of Tirana",
+                "university_name": "Universiteti Bujq\u00ebsor i Tiran\u00ebs (UBT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1951 as the Higher Agricultural Institute. Acquired present status 1991",
+            "AcademicYear": "October to July",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Environment",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Food Technology",
+                    "Horticulture",
+                    "Plant and Crop Protection"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biotechnology and Food Technology",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economy and Agribusiness",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry",
+                "FieldsOfStudy": [
+                    "Forestry",
+                    "Harvest Technology",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Science",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Environmental Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Agricultural Equipment",
+                    "Agricultural Management",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Forestry",
+                    "Horticulture",
+                    "Oenology",
+                    "Plant and Crop Protection",
+                    "Veterinary Science",
+                    "Viticulture",
+                    "Wood Technology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bulevardi Zogu I",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "1001",
+                "Website": "http://www.albanianuniversity.edu.al",
+                "college_name": "Albanian University",
+                "university_name": "(AU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004 as UFO University. Acquired current title 2010. A private, independent, and secular institution",
+            "AcademicYear": "October to May (October - January; February - May)",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture and Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Nursing",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Law",
+                    "Political Sciences",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Business Administration",
+                    "Economics",
+                    "Engineering",
+                    "Health Sciences",
+                    "Information Technology",
+                    "Political Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Advertising and Publicity",
+                    "Architecture",
+                    "Banking",
+                    "Business Administration",
+                    "Clinical Psychology",
+                    "Computer Engineering",
+                    "Dentistry",
+                    "Developmental Psychology",
+                    "Educational Psychology",
+                    "Electronic Engineering",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Law",
+                    "Mechanical Engineering",
+                    "Pharmacy",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Relations"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rruga e Dibr\u00ebs, Nr. 235",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ual.edu.al",
+                "college_name": "Aldent University",
+                "university_name": "Universiteti Aldent (ALU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded as a 2-year pre-university course for Dental Laboratory in 2003. Earned status as a Non-Public Higher University School in 2006. Acquired present status in 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Dental Technician",
+                "FieldsOfStudy": [
+                    "Dental Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Therapy",
+                "FieldsOfStudy": [
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Stomatology",
+                "FieldsOfStudy": [
+                    "Stomatology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Dental Technology",
+                    "Nursing",
+                    "Physical Therapy"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Dentistry",
+                    "Medicine",
+                    "Orthodontics",
+                    "Physical Therapy",
+                    "Stomatology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "L.1, Rruga e Currilave",
+                "City": "Durr\u00ebs",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.uamd.edu.al",
+                "college_name": "Aleksand\u00ebr Moisiu University of Durr\u00ebs",
+                "university_name": "Universiteti \"Aleksand\u00ebr Moisiu\" Durr\u00ebs (UAMD)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2006",
+            "AcademicYear": "October to June (October - February; March - June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Banking",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Computer Education",
+                    "Education",
+                    "Foreign Languages Education",
+                    "Mathematics Education",
+                    "Primary Education",
+                    "Science Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Science and Law",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Education",
+                    "Finance",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rruga \"Ismail Zyma\"",
+                "City": "Elbasan",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.uniel.edu.al",
+                "college_name": "Aleksand\u00ebr Xhuvani University of Elbasan",
+                "university_name": "Universiteti i Elbasanit Aleksand\u00ebr Xhuvani"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1909, acquired present status 1991",
+            "AcademicYear": "October to July (October-February; March-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Albanian",
+                    "Geography",
+                    "History",
+                    "Journalism",
+                    "Literature",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Medical Auxiliaries",
+                    "Medical Technology",
+                    "Midwifery",
+                    "Nursing",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Mathematics",
+                    "Nursing",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Information Technology",
+                    "Natural Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Applied Mathematics",
+                    "Education",
+                    "Educational Psychology",
+                    "Environmental Studies",
+                    "Linguistics",
+                    "Social Work"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rruga Sulejman Delvina",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.cit.edu.al",
+                "college_name": "Canadian Institute of Technology",
+                "university_name": "Instituti Kanadez I Teknologjis\u00eb (CIT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2011. Acquired current status in 2013",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination; Certificate of English language proficiency"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Industrial Engineering",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Industrial Engineering",
+                    "Software Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rr. Tiran\u00eb-Rinas, Km 12",
+                "City": "Vlora",
+                "Province": "N/A",
+                "PostCode": "1032",
+                "Website": "https://www.epoka.edu.al",
+                "college_name": "Epoka University",
+                "university_name": "Universiteti Epoka"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded as an institute of higher education in 2008. EPOKA University is an international higher education institution located on a smart campus between the international connections and trading crossroads of Durres Port and Rinas Airport in Tirana. The University commenced academic activities during the 2007-2008 academic year in compliance with the provisions of the Albanian higher education legislation.In 2012, based on the Decision of the Council of Ministers of the Republic of Albania No. 553, dated 22.08.2012, the legal status of the institution changed from \u201cInstitution of Higher Education (\u201cShkoll\u00eb e Lart\u00eb\u201d in Albanian) to \u201cUniversity\u201d",
+            "AcademicYear": "November to October",
+            "AdmissionRequirements": [
+                "Bachelor and Integrated Second Cycle Study Programs offered in English:\n1",
+                "Students holding a high school degree or equivalent degree;\n2",
+                "a",
+                "A minimum high school CGPA of 7",
+                "00 out of 10",
+                "00 or equivalent CGPA; b",
+                "For Bachelor in Civil Engineering, Computer Engineering, Electronics and Digital Communication the minimum high school grade average received at the \u201cMathematics\u201d and \"Physics\" subjects should be 7",
+                "00 out of 10",
+                "00 or equivalent to it",
+                "3",
+                "English proficiency level B1 according to CEFR in one of the following exams:\na",
+                "Cambridge\nb",
+                "IELTS\nc",
+                "TOEFL Internet-based Test (iBT)\nd",
+                "TOEFL Paper-based Test (ITP)\ne",
+                "TOEIC\nf",
+                "GESE\ng",
+                "APTIS (4 skills), which is the English Proficiency Exam of Epoka University and is conducted by British Council Albania at the premises of the University",
+                "In cases when the Student has completed his studies in a high school where teaching is conducted entirely in English, he is exempted from the obligation to submit this document",
+                "-Bachelor study programs offered in Albanian\n1",
+                "Students holding a high school degree or equivalent degree;\n2",
+                "A minimum high school CGPA of 6",
+                "50 out of 10",
+                "00 or equivalent CGPA",
+                "-Master of Science study programs\n1",
+                "Students holding a Bachelor degree or equivalent degree in disciplines determined by the Scientific Committe of the respective Department;\n2",
+                "A minimum CGPA of 2",
+                "50 out of 4",
+                "00 for the students who have completed their Bachelor study programs at Epoka University or 7",
+                "00 out of 10",
+                "00 or equivalent CGPA for students who have completed Bachelor study programs in other Higher Education Institutions (HEIs) ;\n3",
+                "Students who have completed their Bachelor study programs at Epoka University with a CGPA between 2",
+                "00 - 2",
+                "49 out of 4",
+                "00 or students who have completed their Bachelor study programs at other HEIs with a CGPA between 6",
+                "00 - 6",
+                "99 out of 10",
+                "00 shall be able to enroll in the Master of Science study program subject to the succesful passing of the Scientific Interview with the Scientific Committe of the respective Departement;\n4",
+                "English proficiency level B2 according to CEFR in one of the following exams:\na",
+                "Cambridge\nb",
+                "IELTS\nc",
+                "TOEFL Internet-based Test (iBT)\nd",
+                "TOEFL Paper-based Test (ITP)\ne",
+                "TOEIC\nf",
+                "GESE\ng",
+                "APTIS (4 skills), which is the English Proficiency Exam of Epoka University and is conducted by British Council Albania at the premises of the University",
+                "In cases when the Student has completed his first cycle (Bachelor) studies in a study program where teaching is conducted entirely in English, he is exempted from the obligation to submit this document",
+                "-\tPhD study program\nThe persons who are eligible for admission to the PhD program should:\n1",
+                "have obtained a Master of Science/Master of Arts, integrated second cycle studies or any other equivalent diploma in the field of the Doctorate (PhD) program or in a close field previously defined in the requirements established by the respective of the Scientific Committee;\n2",
+                "have a CGPA of at least 2",
+                "70 out of 4",
+                "00 or 8 out of 10 from the Master of Science/Master of Arts, integrated second cycle studies or any other equivalent diploma in the field of the Doctorate (PhD) program or in a close field previously defined in the requirements established by the respective Scientific Committee or an equivalent CGPA;\n3",
+                "Applicants must demonstrate that they have reached the minimum acceptable level of proficiency in use of the English language, having obtained the equivalent score for C1 level from the internationally recognized English Language Exams as stipulated in the Directive of the Minister of Education and Sports No",
+                "52, dated 03",
+                "12",
+                "2015 \"On defining the foreign language levels and international tests, on the admission to second and third cycle study programs, in Higher Education Institutions\" which are as follows:Cambridge\na",
+                "IELTS\nb",
+                "TOEFL Internet-based Test (iBT)\nc",
+                "TOEFL Paper-based Test (ITP)\nd",
+                "TOEIC\ne",
+                "GESE\nf",
+                "APTIS (4 skills), which is the English Proficiency Exam of Epoka University and is conducted by British Council Albania at the premises of the University",
+                "4",
+                "Applicant must be employed in a Higher Education Institution or in a Research Center",
+                ""
+            ],
+            "Languages": [
+                "English",
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture and Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Engineering Management",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Social Sciences",
+                "FieldsOfStudy": [
+                    "European Studies",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Banking",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Economics",
+                    "Marketing",
+                    "Political Sciences",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Banking",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Economics",
+                    "Engineering Management",
+                    "Political Sciences",
+                    "Telecommunications Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Boulevard \"Gjergj Fishta\", Nd.70",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "1023",
+                "Website": "http://www.uet.edu.al",
+                "college_name": "European University in Tirana",
+                "university_name": "Universiteti Europian i Tiran\u00ebs (EUT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2006",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination; Certificate of English, French, German, Italian, or Spanish proficiency"
+            ],
+            "Languages": [
+                "Albanian",
+                "English",
+                "German",
+                "Italian",
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Information Technology",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance",
+                    "Information Technology",
+                    "Management",
+                    "Mathematics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Constitutional Law",
+                    "European Union Law",
+                    "International Law",
+                    "Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Education",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Education",
+                    "Public Relations",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Doctoral Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Law",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Education",
+                    "Law",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Banking",
+                    "Business Administration",
+                    "Business Computing",
+                    "Commercial Law",
+                    "Communication Studies",
+                    "Criminal Law",
+                    "Educational Sciences",
+                    "Finance",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Political Sciences",
+                    "Private Law",
+                    "Psychology",
+                    "Public Law",
+                    "Sociology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rr. Gjergj Kastrioti",
+                "City": "Kor\u00e7\u00eb",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.unkorce.edu.al",
+                "college_name": "Fan S. Noli University, Kor\u00e7\u00eb",
+                "university_name": "Universiteti \"Fan S. Noli\", Kor\u00e7\u00eb (UNIKO)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as the Higher Agricultural Institute of Kor\u00e7a in 1971. Earned present status and title in 1992",
+            "AcademicYear": "October to July",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Farm Management",
+                    "Food Science",
+                    "Horticulture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Philology",
+                "FieldsOfStudy": [
+                    "Education",
+                    "History",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural and Human Sciences",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Midwifery",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Philosophy",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Economics",
+                    "Education",
+                    "Natural Sciences",
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Finance",
+                    "Primary Education",
+                    "Social Sciences",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rruga Dritan Hoxha 127/1",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "https://luarasi-univ.edu.al",
+                "college_name": "Luarasi University",
+                "university_name": "Universiteti Luarasi"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2003. Earned accreditation status in 2016",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Criminal Law",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Law"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Banking",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Criminal Law",
+                    "Management",
+                    "Public Law"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rruga Sami Frash\u00ebri 41",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "http://www.umb.edu.al",
+                "college_name": "Marin Barleti University",
+                "university_name": "Universiteti 'Marin Barleti'"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2005",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Sciences and Economics",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political and Social Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Modern Languages",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Business Administration",
+                    "Economics",
+                    "Information Technology",
+                    "Law",
+                    "Modern Languages",
+                    "Political Sciences",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Political Sciences",
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rruga e \u201cDibr\u00ebs\u201d Nr. 371",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "1005",
+                "Website": "http://www.umed.edu.al",
+                "college_name": "Medical University, Tirana",
+                "university_name": "Universiteti i Mjek\u00ebsis\u00eb, Tiran\u00eb (UMT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 2013",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Medical Sciences",
+                "FieldsOfStudy": [
+                    "Medical Auxiliaries",
+                    "Medical Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Health Sciences",
+                    "Midwifery",
+                    "Nursing",
+                    "Public Health",
+                    "Rehabilitation and Therapy"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Dentistry",
+                    "Medical Auxiliaries",
+                    "Medical Technology",
+                    "Medicine",
+                    "Midwifery",
+                    "Nursing",
+                    "Pharmacy",
+                    "Physical Therapy"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bulevardi Gjergj Fishta 52",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "1023",
+                "Website": "https://www.umsh.edu.al",
+                "college_name": "Mediterranean University of Albania",
+                "university_name": "(UMSh)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2007. Earned status in 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economic Sciences",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal Science and International Relations",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychological, Social and Political Sciences",
+                "FieldsOfStudy": [
+                    "Psychology",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Economics",
+                    "Law",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Economics",
+                    "Law",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rruga Pjeter Budi",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "http://umt.edu.al",
+                "college_name": "Metropolitan Tirana University",
+                "university_name": "Universiteti Metropolitan Tirana (UMT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "Insurance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Applied Sciences",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "Engineering Management",
+                    "Graphic Design",
+                    "Hotel Management",
+                    "Mechanical Engineering",
+                    "Software Engineering",
+                    "Surveying and Mapping",
+                    "Telecommunications Engineering",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Business Computing",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Economics",
+                    "Electrical and Electronic Engineering",
+                    "Electrical Engineering",
+                    "Finance",
+                    "Software Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Banking",
+                    "Computer Science",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering Management",
+                    "Finance",
+                    "Management",
+                    "Mechanical Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rruga Nehemia",
+                "City": "Bucimas",
+                "Province": "Pogradec",
+                "PostCode": "7304",
+                "Website": "http://www.ng-university.org",
+                "college_name": "Nehemiah Gateway University",
+                "university_name": "(NG University)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2008. Earned accreditation status in 2017",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized international equivalent; English language entrance examination; Admissions interview"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Leadership",
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rr. Bylis 12\nAutostrada Tiran\u00eb-Durr\u00ebs Km 5\nKashar",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "1051",
+                "Website": "http://www.universitetipolis.edu.al",
+                "college_name": "POLIS University",
+                "university_name": "Universiteti POLIS (U-POLIS)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded in 2006. Acquired university status in 2012.",
+            "AcademicYear": "October to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination; Certificate of English proficiency"
+            ],
+            "Languages": [
+                "Albanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture, Design and Engineering",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Architecture",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Design",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Planning, Environment and Urban Management",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Surveying and Mapping",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Research and Development",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Design",
+                    "Environmental Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Design",
+                    "Environmental Management",
+                    "Town Planning"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rr. Muhamet Gjollesha",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ust.edu.al",
+                "college_name": "Sports University of Tirana",
+                "university_name": "Universiteti i Sporteve t\u00eb Tiran\u00ebs (UST)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as the Technical College of Physical Education in 1948. Earned present title and status in 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Individual Sports",
+                "FieldsOfStudy": [
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional Education and Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sports Medicine",
+                "FieldsOfStudy": [
+                    "Sports Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Team Sports",
+                "FieldsOfStudy": [
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Sports"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Sports"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rruga e Kavaj\u00ebs",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "1023",
+                "Website": "https://tbu.edu.al",
+                "college_name": "Tirana Business University College",
+                "university_name": "(TBU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2010. Earned institutional accreditation in 2013",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Law"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Law"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rr. Jordan Misja",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "1001",
+                "Website": "https://www.beder.edu.al",
+                "college_name": "University College Bed\u00ebr",
+                "university_name": "Kolegji Universitar Bed\u00ebr (UCB)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2011",
+            "AcademicYear": "October to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian",
+                "English",
+                "Turkish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Faculty of Humanities",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Islamic Studies",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Faculty of Philology and Education",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Education",
+                    "Educational Sciences",
+                    "English",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Communication Studies",
+                    "Computer Science",
+                    "Educational Sciences",
+                    "English",
+                    "Islamic Studies",
+                    "Law"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Computer Science",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "English",
+                    "Islamic Studies",
+                    "Journalism",
+                    "Law",
+                    "Literature",
+                    "Pedagogy",
+                    "Psychology",
+                    "Public Relations"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "St. Vangjel Noti, no. 25",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://kub.edu.al",
+                "college_name": "University College of Business",
+                "university_name": "Kolegji Universitar i Biznesit (KUB)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2011",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economy",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Economics",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Law"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Boulevard \" D\u00ebshmoret e Kombit \", Square \" N\u00ebn\u00eb Tereza \"",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.artacademy.al",
+                "college_name": "University of Arts",
+                "university_name": "Universiteti i Arteve \u2013 Higher Institute of Arts; Academy of Arts (UART)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as the Higher Institute of Arts in 1966. Earned University level status in 1990. Earned present title in 2011",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Admission requirements subject to program discretion"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Multimedia",
+                    "Painting and Drawing",
+                    "Sculpture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Conducting",
+                    "Music",
+                    "Music Theory and Composition",
+                    "Musicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Performing Arts",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Dance",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Conducting",
+                    "Music Theory and Composition",
+                    "Musicology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Dance",
+                    "Fine Arts",
+                    "Music",
+                    "Theatre"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "\"Kodra e Diellit\"",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "1046",
+                "Website": "http://www.unyt.edu.al",
+                "college_name": "University of New York Tirana",
+                "university_name": "Universiteti i New York-ut n\u00eb Tiran\u00eb (UNYT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2002. Earned present status in 2004",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Information Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics, Business and Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language and Literature",
+                "FieldsOfStudy": [
+                    "English",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "English",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Law",
+                    "Political Sciences",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Mathematics",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Law",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Political Sciences",
+                    "Psychology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Computer Science",
+                    "Finance",
+                    "International Law",
+                    "International Relations and Diplomacy"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sheshi 2 Prilli 24",
+                "City": "Shkod\u00ebr",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.unishk.edu.al",
+                "college_name": "University of Shkodra, \"Luigj Gurakuqi\"",
+                "university_name": "Universiteti i Shkodr\u00ebs 'Luigj Gurakuqi' (USH)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Higher Pedagogical Institute in 1957. Acquired present status and title in 1991",
+            "AcademicYear": "October to July (October-January; February-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education Sciences",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Humanities and Social Science Education",
+                    "Pedagogy",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Science Education",
+                    "Secondary Education",
+                    "Social Work",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "German",
+                    "Italian",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Mathematics",
+                    "Nursing",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History",
+                    "Linguistics",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Law",
+                    "Modern Languages",
+                    "Natural Sciences",
+                    "Social Work",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Biology",
+                    "Business Administration",
+                    "Clinical Psychology",
+                    "Finance",
+                    "Industrial and Organizational Psychology",
+                    "Law",
+                    "Native Language Education",
+                    "Psychology",
+                    "Science Education",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Place, \u201cMother Tereza\u201d Nr. 183",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.unitir.edu.al",
+                "college_name": "University of Tirana",
+                "university_name": "Universiteti i Tiran\u00ebs (UT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as the \u201cState University of Tirana\u201d in 1957. Engineering faculties separated in 1991 to create the Polytechnic University of Tirana. Faculty of Medicine and Faculty of Technical Medical Sciences separated in 2013 to create the University of Medicine",
+            "AcademicYear": "October to July (October-December; January-July).",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "German",
+                    "Italian",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Philology",
+                "FieldsOfStudy": [
+                    "Albanian",
+                    "Geography",
+                    "History",
+                    "Journalism",
+                    "Linguistics",
+                    "Literature",
+                    "Philology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Criminal Law",
+                    "Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Industrial Chemistry",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Pharmacy",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Pedagogy",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Economics",
+                    "Geography",
+                    "History",
+                    "Journalism",
+                    "Law",
+                    "Modern Languages",
+                    "Natural Sciences",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Archaeology",
+                    "Biology",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Computer Science",
+                    "Development Studies",
+                    "Economics",
+                    "Educational Psychology",
+                    "Finance",
+                    "Food Science",
+                    "Food Technology",
+                    "Geography",
+                    "History",
+                    "Industrial and Organizational Psychology",
+                    "Journalism",
+                    "Law",
+                    "Library Science",
+                    "Linguistics",
+                    "Literature",
+                    "Mathematics",
+                    "Physics",
+                    "Plant Pathology",
+                    "Political Sciences",
+                    "Public Relations",
+                    "Social Work",
+                    "Sociology",
+                    "Tourism",
+                    "Translation and Interpretation"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Skel\u00eb, Rruga Kosova",
+                "City": "Vlor\u00eb",
+                "Province": "N/A",
+                "PostCode": "9401",
+                "Website": "http://univlora.edu.al",
+                "college_name": "University of Vlora \"Ismail Qemali\"",
+                "university_name": "Universiteti i Vlor\u00ebs \"Ismail Qemali\" (UV)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as a Technological University in 1994. Earned present status in 2014",
+            "AcademicYear": "October to May (October-January; February-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Management",
+                    "Marketing",
+                    "Public Administration",
+                    "Real Estate",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Albanian",
+                    "Educational Sciences",
+                    "English",
+                    "Italian",
+                    "Law",
+                    "Preschool Education",
+                    "Special Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Midwifery",
+                    "Nursing",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Sciences",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Education",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Fishery",
+                    "Information Technology",
+                    "Marine Engineering",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Information Sciences",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Public Health"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Computer Science",
+                    "Finance",
+                    "Physics"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rr. Dritan Hoxha",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.unizkm.al",
+                "college_name": "University Our Lady of Good Counsel",
+                "university_name": "Universit\u00e0 Cattolica Nostra Signora del Buon Consiglio (OLGC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2004. Earned official recognition as a Catholic institution in 2011",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Diplom\u00eb e Matur\u00ebs Shtet\u00ebrore) or foreign equivalent; Entrance Examination"
+            ],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Political Science",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Nursing",
+                    "Physical Therapy",
+                    "Stomatology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Health Sciences",
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Dentistry",
+                    "Economics",
+                    "European Studies",
+                    "Health Administration",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Medicine",
+                    "Orthodontics",
+                    "Pharmacy"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rruga Medar Shtylla",
+                "City": "Tirana",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "https://wisdom.edu.al",
+                "college_name": "Wisdom University College",
+                "university_name": "Kolegji Universitar \"Wisdom\" (\"Wisdom\" UC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Albanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Social Sciences",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Finance",
+                    "Law",
+                    "Psychology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

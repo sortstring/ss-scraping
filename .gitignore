@@ -1,0 +1,8 @@
+env/
+__pycache__
+cache.pkl
+last_updated.txt
+*.egg-info/
+build/
+dist/
+ss_scrapping/usnews/cachefiles/*.zip

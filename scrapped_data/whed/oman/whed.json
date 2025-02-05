@@ -1,0 +1,4193 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 44",
+                "City": "Sohar",
+                "Province": "N/A",
+                "PostCode": "311",
+                "Website": "https://www.su.edu.om",
+                "college_name": "Sohar University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Located in Sohar, Oman. First private University in Oman, founded 2001. Nationally accredited",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business Computing",
+                    "Commercial Law",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing and Information Technology",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Multimedia",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Arts",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Mathematics Education",
+                    "Music Education",
+                    "Native Language Education",
+                    "Physical Education",
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Environmental Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language Studies",
+                "FieldsOfStudy": [
+                    "English",
+                    "Foreign Languages Education",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Arabic",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Electrical and Electronic Engineering",
+                    "Information Technology",
+                    "Literacy Education",
+                    "Management",
+                    "Marketing",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Media Studies",
+                    "Music Education",
+                    "Physical Education",
+                    "Primary Education",
+                    "Public Law",
+                    "Software Engineering",
+                    "Teacher Trainers Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Curriculum",
+                    "Educational Administration",
+                    "Environmental Engineering",
+                    "Foreign Languages Education",
+                    "Public Law"
+                ],
+                "Doctor'sDegrees": [
+                    "Educational Administration",
+                    "Engineering"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 42",
+                "City": "Ibra",
+                "Province": "N/A",
+                "PostCode": "400",
+                "Website": "http://www.asu.edu.om",
+                "college_name": "A'Sharqiyah University",
+                "university_name": "(ASU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Professional Development and Continuous Learning",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Computer Science",
+                    "English",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied and Health Sciences",
+                "FieldsOfStudy": [
+                    "Fishery",
+                    "Food Science",
+                    "Marine Science and Oceanography",
+                    "Nutrition"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Finance",
+                    "Information Technology",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Electronic Engineering",
+                    "Environmental Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language and Foundation Studies",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Arts and Humanities",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Electronic Engineering",
+                    "Environmental Engineering",
+                    "Finance",
+                    "Fishery",
+                    "Food Science",
+                    "Information Technology",
+                    "Management",
+                    "Marine Science and Oceanography",
+                    "Nutrition",
+                    "Telecommunications Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 77",
+                "City": "Al Buraimi",
+                "Province": "N/A",
+                "PostCode": "512",
+                "Website": "http://www.buc.edu.om",
+                "college_name": "Al Buraimi University College",
+                "university_name": "(BUC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Foundation",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language and Literature",
+                "FieldsOfStudy": [
+                    "English",
+                    "Literature",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "English",
+                    "Finance",
+                    "Human Resources",
+                    "Information Technology",
+                    "Law",
+                    "Software Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 455",
+                "City": "Nizwa",
+                "Province": "N/A",
+                "PostCode": "611",
+                "Website": "N/A",
+                "college_name": "Al Dakhiliya Nursing Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Midwifery",
+                "FieldsOfStudy": [
+                    "Midwifery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 75",
+                "City": "Ibri",
+                "Province": "Al-Dhahira",
+                "PostCode": "516",
+                "Website": "N/A",
+                "college_name": "Al Dhahira Nursing Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1996",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Midwifery",
+                "FieldsOfStudy": [
+                    "Midwifery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Muladdah",
+                "Province": "Musanna",
+                "PostCode": "N/A",
+                "Website": "http://www.act.edu.om",
+                "college_name": "Al Musanna College of Technology",
+                "university_name": "(ACT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1993 through the upgrade of a vocational training institute into a fullly-fledged technical college",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Data Processing",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Human Resources",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Power Engineering",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 2",
+                "City": "Rustaq",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Al Rustaq Nursing Institute",
+                "university_name": "(RNI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1994",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O Box 3365",
+                "City": "Muscat",
+                "Province": "N/A",
+                "PostCode": "111",
+                "Website": "http://www.zcw.edu.om",
+                "college_name": "Al Zahra College for Women",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1999.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language and Literature",
+                "FieldsOfStudy": [
+                    "English",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance and Banking",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graphic Design",
+                "FieldsOfStudy": [
+                    "Graphic Design"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Computer Science",
+                    "English",
+                    "Law",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 1596",
+                "City": "Muscat/Qurm",
+                "Province": "Al Azaiba",
+                "PostCode": "130",
+                "Website": "https://www.aou.edu.om",
+                "college_name": "Arab Open University",
+                "university_name": "(AOU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "General Foundation",
+                "FieldsOfStudy": [
+                    "English",
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Studies",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education Studies",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language Studies",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business Computing",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Economics",
+                    "Education",
+                    "Information Technology",
+                    "Law",
+                    "Management",
+                    "Marketing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Educational Administration",
+                    "Educational Technology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 1842\nP.C. 130\nAl-Athaibah",
+                "City": "Halban",
+                "Province": "N/A",
+                "PostCode": "130",
+                "Website": "http://www.bayancollege.edu.om",
+                "college_name": "Bayan College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 2006",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "English Studies",
+                "FieldsOfStudy": [
+                    "English",
+                    "Literature",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media Studies",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Journalism",
+                    "Public Relations",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Advertising and Publicity",
+                    "English",
+                    "Journalism",
+                    "Literature",
+                    "Public Relations",
+                    "Radio and Television Broadcasting",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 3122",
+                "City": "Ruwi",
+                "Province": "N/A",
+                "PostCode": "112",
+                "Website": "http://www.cbfs.edu.om",
+                "college_name": "College of Banking and Financial Studies",
+                "university_name": "(CBFS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1983",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Executive Education and Training",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Insurance",
+                "FieldsOfStudy": [
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Islamic Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies and Research",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Insurance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Undergraduate Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Youth Entrepreneuship Support Initiative",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 2509",
+                "City": "Salalah",
+                "Province": "N/A",
+                "PostCode": "211",
+                "Website": "http://www.du.edu.om",
+                "college_name": "Dhofar University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Applied Sciences",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Chemistry",
+                    "Computer Science",
+                    "Education",
+                    "English",
+                    "Mathematics",
+                    "Physics",
+                    "Social Work",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce and Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Graphic Design",
+                    "Interior Design",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Arabic",
+                    "Computer Education",
+                    "Computer Engineering",
+                    "English",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Insurance",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Physics",
+                    "Science Education",
+                    "Social Work",
+                    "Teacher Training",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "English",
+                    "Foreign Languages Education",
+                    "Information Technology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 1816\nAthaibah",
+                "City": "Muscat",
+                "Province": "N/A",
+                "PostCode": "130",
+                "Website": "https://www.gutech.edu.om",
+                "college_name": "German University of Technology in Oman",
+                "university_name": "(GUtech)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007 in collaboration with RWTH Aachen University in Germany, and still affiliated to this institution today",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Economics",
+                "FieldsOfStudy": [
+                    "Service Trades",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences",
+                "FieldsOfStudy": [
+                    "Earth Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Urban Planning and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architectural and Environmental Design",
+                    "Artificial Intelligence",
+                    "Computer Science",
+                    "Cybersecurity",
+                    "Earth Sciences",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "International Business",
+                    "Logistics Management",
+                    "Mechanical Engineering",
+                    "Service Trades",
+                    "Town Planning"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Industrial Engineering",
+                    "Production Engineering",
+                    "Town Planning"
+                ],
+                "Doctor'sDegrees": [
+                    "Earth Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 74",
+                "City": "Al-Khuwair",
+                "Province": "N/A",
+                "PostCode": "133",
+                "Website": "http://www.hct.edu.om",
+                "college_name": "Higher College of Technology",
+                "university_name": "(HCT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1984 as Oman Technical Industrial College, acquired current status and title 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Environmental Studies",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Human Resources",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Structural Architecture",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fashion Design",
+                "FieldsOfStudy": [
+                    "Fashion Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Mathematics",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Photography",
+                "FieldsOfStudy": [
+                    "Photography"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Applied Chemistry",
+                    "Biology",
+                    "Civil Engineering",
+                    "Computer Networks",
+                    "Information Technology",
+                    "Laboratory Techniques",
+                    "Multimedia",
+                    "Structural Architecture",
+                    "Surveying and Mapping"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 327",
+                "City": "Ibra",
+                "Province": "N/A",
+                "PostCode": "400",
+                "Website": "https://www.ict.edu.om",
+                "college_name": "Ibra College of Technology",
+                "university_name": "(ICT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1982, governed by the Ministry of Manpower since 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Educational Technology",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Data Processing",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Finance",
+                    "Human Resources",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Power Engineering",
+                    "Structural Architecture",
+                    "Telecommunications Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 407",
+                "City": "Ibra",
+                "Province": "N/A",
+                "PostCode": "400",
+                "Website": "N/A",
+                "college_name": "Ibra Nursing Institute",
+                "university_name": "(IBRANI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1993",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 14",
+                "City": "Ibri",
+                "Province": "N/A",
+                "PostCode": "516",
+                "Website": "http://ibri.cas.edu.om",
+                "college_name": "Ibri College of Applied Sciences",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1995. Formerly College of Education - Ibri. Acquired present status 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Design",
+                    "Information Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 466\nAl Aqder",
+                "City": "Ibri",
+                "Province": "N/A",
+                "PostCode": "516",
+                "Website": "https://www.ibrict.edu.om",
+                "college_name": "Ibri College of Technology",
+                "university_name": "(IBRICT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2007",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Educational Technology",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Computer Networks",
+                    "Mathematics",
+                    "Software Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 3720",
+                "City": "Muscat",
+                "Province": "Ruwi",
+                "PostCode": "112",
+                "Website": "N/A",
+                "college_name": "Institute of Health Sciences",
+                "university_name": "(IHS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1982",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Medical Laboratory Sciences",
+                "FieldsOfStudy": [
+                    "Laboratory Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Oral Health",
+                "FieldsOfStudy": [
+                    "Oral Pathology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physiotherapy",
+                "FieldsOfStudy": [
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Radiography",
+                "FieldsOfStudy": [
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Laboratory Techniques",
+                    "Oral Pathology",
+                    "Physical Therapy",
+                    "Radiology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 2511",
+                "City": "Al Irfaan",
+                "Province": "N/A",
+                "PostCode": "111",
+                "Website": "https://www.icem.edu.om",
+                "college_name": "International College of Engineering and Management",
+                "university_name": "(ICEM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1995",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Fire Safety Engineering",
+                "FieldsOfStudy": [
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fire Safety Management",
+                "FieldsOfStudy": [
+                    "Fire Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health, Safety, Environmental Management",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Health Sciences",
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering (Well Engineering)",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Facilities Management",
+                "FieldsOfStudy": [
+                    "Industrial Management",
+                    "Occupational Health"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Environmental Management",
+                    "Fire Science",
+                    "Health Sciences",
+                    "Industrial Management",
+                    "Mechanical Engineering",
+                    "Occupational Health",
+                    "Protective Services",
+                    "Safety Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 532",
+                "City": "Sohar",
+                "Province": "Falaj Al Qabail",
+                "PostCode": "322",
+                "Website": "http://www.imco.edu.om",
+                "college_name": "International Maritime College Oman",
+                "university_name": "(IMCO)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2005",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering in Process Engineering",
+                "FieldsOfStudy": [
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Logistics and Transport Management",
+                "FieldsOfStudy": [
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Engineering (Marine Engineering Officer)",
+                "FieldsOfStudy": [
+                    "Marine Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nautical Studies (Deck Officer)",
+                "FieldsOfStudy": [
+                    "Nautical Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Marine Transport"
+                ],
+                "Details": "Postgraduate"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Marine Engineering",
+                    "Nautical Science",
+                    "Production Engineering",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Marine Transport"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Mutrah, Way No. 2621,Building No. 1986\nPO Box 710",
+                "City": "Ruwi",
+                "Province": "Muscat",
+                "PostCode": "112",
+                "Website": "http://www.majancollege.edu.om",
+                "college_name": "Majan College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1995.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "E-Business/Commerce",
+                    "Finance",
+                    "Human Resources",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Science",
+                    "E-Business/Commerce",
+                    "English",
+                    "Finance",
+                    "Marketing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": "N/A",
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 101\nAirport Heights - Seeb",
+                "City": "Muscat",
+                "Province": "N/A",
+                "PostCode": "133",
+                "Website": "http://muc.edu.om",
+                "college_name": "Mazoon College",
+                "university_name": "(MUC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration and Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Foundation",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "Information Management",
+                    "Information Technology",
+                    "International Economics",
+                    "Leadership",
+                    "Management",
+                    "Marketing",
+                    "Psychology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "English",
+                    "Literature"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Wilayat A\u2019Seeb, Al Rusayl, Knowledge Oasis Muscat\nPO Box 79",
+                "City": "Al Rusayl",
+                "Province": "N/A",
+                "PostCode": "124",
+                "Website": "http://www.mec.edu.om",
+                "college_name": "Middle East College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Engineering",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Environmental Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Data Processing",
+                    "Management Systems",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronics and Communications  Engineering",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Human Resources",
+                    "Management Systems"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Records Management and Archival Studies",
+                "FieldsOfStudy": [
+                    "Archiving",
+                    "Documentation Techniques",
+                    "Information Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Archiving",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Data Processing",
+                    "Documentation Techniques",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Finance",
+                    "Human Resources",
+                    "Information Management",
+                    "Library Science",
+                    "Management Systems",
+                    "Mechanical Engineering",
+                    "Software Engineering",
+                    "Surveying and Mapping",
+                    "Telecommunications Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Construction Engineering",
+                    "Electronic Engineering",
+                    "Information Technology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 100",
+                "City": "Muscat",
+                "Province": "133",
+                "PostCode": "N/A",
+                "Website": "http://www.mcbs.edu.om/en",
+                "college_name": "Modern College of Business and Science",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1996.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "ESL (English as a Second Language)",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Economics",
+                "FieldsOfStudy": [
+                    "Air Transport",
+                    "Business Administration",
+                    "Economics",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Management",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Air Transport",
+                    "Commercial Law",
+                    "Computer Science",
+                    "Information Management",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bawshar street\nP.O. Box 100",
+                "City": "Muscat",
+                "Province": "Al-Khuwair",
+                "PostCode": "133",
+                "Website": "http://www.mcbs.edu.om",
+                "college_name": "Modern College of Business and Science",
+                "university_name": "(MCBS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996. An affiliation with the University of Missouri, St. Louis, (UMSL), USA",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "English as a Second Language and Academic Preparation (CEAP)",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Computer Science",
+                "FieldsOfStudy": [
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Air Transport",
+                    "Commercial Law",
+                    "Computer Science",
+                    "Economics",
+                    "Finance",
+                    "Information Technology",
+                    "Marketing",
+                    "Occupational Health",
+                    "Statistics",
+                    "Transport and Communications",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Banking",
+                    "Finance",
+                    "Information Technology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 2910",
+                "City": "Ruwi",
+                "Province": "N/A",
+                "PostCode": "112",
+                "Website": "http://www.muscatcollege.edu.om",
+                "college_name": "Muscat College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Computer Science/Software Engineering",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science/Computer Systems and Networking",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Project Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Management",
+                    "Software Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "University Headquarters - Bousher Campus\nPO Box 620",
+                "City": "Muscat",
+                "Province": "Azaiba",
+                "PostCode": "N/A",
+                "Website": "https://nu.edu.om",
+                "college_name": "National University of Science and Technology",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created in 1996 as Caledonian College of Engineering, acquired current status and title in 2018 following merger with Oman Medical College (created 2001) and the Department of Pharmacy within Oman Medical College.",
+            "AcademicYear": "Sept - Jan; Feb - June",
+            "AdmissionRequirements": [
+                "Bachelor in Engineering:\tGeneral Education Diploma or equivalent with grade not less than C or equivalent in the Pure/Applied Mathematics, Physics/Chemistry or Industrial/Technical subjects; depending on the area of engineering chosen (Prior study of Chemistry is mandatory for those joining Chemical Engineering);\nDoctor of Medicine:\tGeneral Education Diploma or equivalent with not less than Grade B or equivalent in Chemistry and Biology individually;\nBachelor Program in Pharmacy: General Education Diploma or equivalent with not less than Grade C or equivalent in Chemistry and Biology individually"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Electronics and Automation",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Telecommunications Engineering",
+                    "Transport Management"
+                ],
+                "Details": "Caledonian Campus, Al Hail"
+            },
+            {
+                "College": "Medicine and Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Medicine"
+                ],
+                "Details": "Sohar Campus"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "Bousher Campus"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Computing",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Mechanical Engineering",
+                    "Medicine",
+                    "Pharmacy",
+                    "Power Engineering",
+                    "Surveying and Mapping"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Chemical Engineering",
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Engineering Management",
+                    "Information Technology",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 699",
+                "City": "Nizwa",
+                "Province": "N/A",
+                "PostCode": "611",
+                "Website": "https://nizwa.cas.edu.om",
+                "college_name": "Nizwa College of Applied Sciences",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1990. Formerly College of Education - Nizwa. Acquired present status 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Communication Studies",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business Administration",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Communication Studies",
+                    "International Business"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 477",
+                "City": "Nizwa",
+                "Province": "N/A",
+                "PostCode": "611",
+                "Website": "https://www.nct.edu.om",
+                "college_name": "Nizwa College of Technology",
+                "university_name": "(NCT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Nizwa Industrial College 2001, acquired current title 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Data Processing",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Human Resources",
+                    "Information Technology",
+                    "Marketing",
+                    "Mechanical Engineering",
+                    "Power Engineering",
+                    "Telecommunications Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 887",
+                "City": "Sohar",
+                "Province": "N/A",
+                "PostCode": "311",
+                "Website": "N/A",
+                "college_name": "North Batinah Nursing Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1996",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Midwifery",
+                "FieldsOfStudy": [
+                    "Midwifery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 680",
+                "City": "Barka",
+                "Province": "N/A",
+                "PostCode": "320",
+                "Website": "http://ocmtbeta.iitcoman.com",
+                "college_name": "Oman College of Management and Technology",
+                "university_name": "(OCMT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "General Foundation",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Administrative and Financial Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Sciences",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Interior Design",
+                "FieldsOfStudy": [
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Computer Science",
+                    "E-Business/Commerce",
+                    "Finance",
+                    "Information Technology",
+                    "Interior Design",
+                    "Marketing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 835",
+                "City": "Muscat",
+                "Province": "Mina Al Fahal",
+                "PostCode": "116",
+                "Website": "https://www.odc.edu.om",
+                "college_name": "Oman Dental College",
+                "university_name": "(ODC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2006. Has an academic affiliation with the University Complutense of Madrid (UCM).",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Dental Surgery",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Dentistry"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 100",
+                "City": "Muscat",
+                "Province": "N/A",
+                "PostCode": "393",
+                "Website": "http://www.ohimi.net",
+                "college_name": "Oman Health Information Management Institute",
+                "university_name": "(OHIMI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Health Information Management",
+                "FieldsOfStudy": [
+                    "Information Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Information Management"
+                ],
+                "Bachelor'sDegree": [
+                    "Information Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 3720 Ruwi",
+                "City": "Muscat /Wattayah",
+                "Province": "N/A",
+                "PostCode": "112",
+                "Website": "N/A",
+                "college_name": "Oman Nursing Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2000, merged with Muscat Nursing Institute 2012",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 1928",
+                "City": "Matrah",
+                "Province": "N/A",
+                "PostCode": "114",
+                "Website": "N/A",
+                "college_name": "Oman Pharmacy Institute",
+                "university_name": "Oman Assistant Pharmacy Institute (OPI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Pharmacy"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 634",
+                "City": "Mutrah - Al-Wataya",
+                "Province": "Hai Mina",
+                "PostCode": "114",
+                "Website": "N/A",
+                "college_name": "Oman Specialized Nursing Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Community Health",
+                "FieldsOfStudy": [
+                    "Community Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Midwifery"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Community Health",
+                    "Epidemiology",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Midwifery",
+                    "Nephrology",
+                    "Nursing",
+                    "Paediatrics",
+                    "Psychiatry and Mental Health"
+                ],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 2008, C.P.O",
+                "City": "Seeb",
+                "Province": "N/A",
+                "PostCode": "111",
+                "Website": "http://www.otc.edu.om",
+                "college_name": "Oman Tourism College",
+                "university_name": "(OTC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Hospitality and Training",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language Studies",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Management",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Hotel and Restaurant",
+                    "Management",
+                    "Marketing",
+                    "Public Relations",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 10",
+                "City": "Al Rustaq",
+                "Province": "N/A",
+                "PostCode": "329",
+                "Website": "https://rustaq.cas.edu.om",
+                "college_name": "Rustaq College of Education",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1987. Formerly College of Education - Al Rustaq. Acquired present status 2007. Formerly known as Rustaq College of Applied Sciences",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business Administration",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "English",
+                    "Information Technology",
+                    "International Business"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 347",
+                "City": "Salalah",
+                "Province": "N/A",
+                "PostCode": "215",
+                "Website": "https://salalah.cas.edu.om",
+                "college_name": "Salalah College of Applied Sciences",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1996. Formerly College of Education - Salalah. Acquired present status 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Communication Studies",
+                "FieldsOfStudy": [
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business Administration",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Information Technology",
+                    "Mass Communication"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Thumrait Rd. Salalah\nDhofar",
+                "City": "Salalah",
+                "Province": "N/A",
+                "PostCode": "608",
+                "Website": "https://www.sct.edu.om",
+                "college_name": "Salalah College of Technology",
+                "university_name": "(SCT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1979",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Human Resources",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Power Engineering",
+                    "Structural Architecture",
+                    "Surveying and Mapping"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 2935",
+                "City": "Salalah",
+                "Province": "Dhofar",
+                "PostCode": "211",
+                "Website": "N/A",
+                "college_name": "Salalah Nursing Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 1656, PC 114",
+                "City": "Muscat",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://scd.edu.om",
+                "college_name": "Scientific College of Design",
+                "university_name": "(SCD)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004",
+            "AcademicYear": "October to July",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture and Interior Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language Basic Sciences and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "English",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fashion Design",
+                "FieldsOfStudy": [
+                    "Fashion Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graphic Design",
+                "FieldsOfStudy": [
+                    "Graphic Design"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Architecture",
+                    "Computer Graphics",
+                    "Fashion Design",
+                    "Fine Arts",
+                    "Graphic Design",
+                    "Interior Design",
+                    "Photography",
+                    "Printing and Printmaking",
+                    "Visual Arts"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Fine Arts",
+                    "Interior Design"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Al-Aqur\nP.O. Box 77",
+                "City": "Shinas",
+                "Province": "N/A",
+                "PostCode": "324",
+                "Website": "https://www.shct.edu.om",
+                "college_name": "Shinas College of Technology",
+                "university_name": "(ShCT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2005",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "English Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informational Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Civil Engineering",
+                    "Computer Networks",
+                    "Data Processing",
+                    "Electrical Engineering",
+                    "Human Resources",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Software Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 135",
+                "City": "Sohar",
+                "Province": "N/A",
+                "PostCode": "311",
+                "Website": "https://sohar.cas.edu.om",
+                "college_name": "Sohar College of Applied Sciences",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1994. Formerly College of Education - Sohar. Acquired present status 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Engineering",
+                    "Information Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 299",
+                "City": "Sohar",
+                "Province": "Al Batinah North Governorate",
+                "PostCode": "311",
+                "Website": "N/A",
+                "college_name": "Sohar Nursing Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 34, Al-Khod",
+                "City": "Muscat",
+                "Province": "N/A",
+                "PostCode": "123",
+                "Website": "http://www.squ.edu.om",
+                "college_name": "Sultan Qaboos University",
+                "university_name": "(SQU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1980 with construction starting 1983. First students admitted 1986. An autonomous institution.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Shahada Amma) or equivalent"
+            ],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Community Services and Continuing Education",
+                "FieldsOfStudy": [
+                    "Continuing Education",
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Technology",
+                "FieldsOfStudy": [
+                    "Educational Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resource and Staff Development",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Systems",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "Linguistics",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture and Marine Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Crop Production",
+                    "Economics",
+                    "Fishery",
+                    "Food Science",
+                    "Marine Science and Oceanography",
+                    "Natural Resources",
+                    "Nutrition",
+                    "Soil Management",
+                    "Veterinary Science",
+                    "Water Management",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "English",
+                    "Geography",
+                    "History",
+                    "Information Sciences",
+                    "Journalism",
+                    "Library Science",
+                    "Social and Community Services",
+                    "Social Sciences",
+                    "Sociology",
+                    "Theatre",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Political Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Statistics",
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Psychology",
+                    "Educational Technology",
+                    "Islamic Studies",
+                    "Pedagogy",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Criminal Law",
+                    "Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Health Sciences",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Behavioural Sciences",
+                    "Biochemistry",
+                    "Child Care and Development",
+                    "Community Health",
+                    "Epidemiology",
+                    "Haematology",
+                    "Health Sciences",
+                    "Immunology",
+                    "Medicine",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Ophthalmology",
+                    "Oral Pathology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Radiology",
+                    "Statistics",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Community Health",
+                    "Nursing",
+                    "Psychiatry and Mental Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Applied Chemistry",
+                    "Biology",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Geophysics",
+                    "Laboratory Techniques",
+                    "Mathematics",
+                    "Medical Technology",
+                    "Natural Sciences",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Earthquake Monitoring",
+                "FieldsOfStudy": [
+                    "Seismology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Studies and Research",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Oil and Gas",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Omani",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Remote Sensing and Geographical Information System",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "Information Technology",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Water Science",
+                "FieldsOfStudy": [
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Economics",
+                    "Education",
+                    "Engineering",
+                    "Law",
+                    "Marine Science and Oceanography",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Political Sciences",
+                    "Social Sciences"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Translation and Interpretation"
+                ],
+                "Master'sDegree": [
+                    "Advertising and Publicity",
+                    "Agricultural Engineering",
+                    "Anatomy",
+                    "Applied Mathematics",
+                    "Arabic",
+                    "Architecture",
+                    "Biochemistry",
+                    "Biology",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Commercial Law",
+                    "Communication Arts",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Crop Production",
+                    "Curriculum",
+                    "Educational Administration",
+                    "Electrical Engineering",
+                    "Environmental Studies",
+                    "Foreign Languages Education",
+                    "Geography",
+                    "Humanities and Social Science Education",
+                    "Industrial Engineering",
+                    "Information Sciences",
+                    "International Relations and Diplomacy",
+                    "Irrigation",
+                    "Journalism",
+                    "Marine Science and Oceanography",
+                    "Mass Communication",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Media Studies",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Natural Resources",
+                    "Nursing",
+                    "Petroleum and Gas Engineering",
+                    "Physics",
+                    "Physiology",
+                    "Power Engineering",
+                    "Private Law",
+                    "Psychology",
+                    "Public Law",
+                    "Public Relations",
+                    "Science Education",
+                    "Social Work",
+                    "Sociology",
+                    "Soil Management",
+                    "Soil Science",
+                    "Sports Management",
+                    "Statistics",
+                    "Teacher Training",
+                    "Tourism",
+                    "Water Management",
+                    "Water Science"
+                ],
+                "Doctor'sDegrees": [
+                    "Applied Mathematics",
+                    "Arabic",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Crop Production",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Electrical Engineering",
+                    "Epidemiology",
+                    "Fishery",
+                    "Foreign Languages Education",
+                    "Genetics",
+                    "Harvest Technology",
+                    "Humanities and Social Science Education",
+                    "Industrial Engineering",
+                    "Information Sciences",
+                    "Irrigation",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Natural Resources",
+                    "Petroleum and Gas Engineering",
+                    "Physics",
+                    "Physiology",
+                    "Statistics",
+                    "Teacher Training",
+                    "Water Management",
+                    "Water Science"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 484",
+                "City": "Sur",
+                "Province": "N/A",
+                "PostCode": "411",
+                "Website": "https://sur.cas.edu.om",
+                "college_name": "Sur College of Applied Sciences",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1987. Formerly College of Education - Sur. Acquired present status 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Biotechnology",
+                "FieldsOfStudy": [
+                    "Biotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mass Communication Department",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Biotechnology",
+                    "Communication Studies",
+                    "Information Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 618",
+                "City": "Sur",
+                "Province": "Governorate of South Sharqiya",
+                "PostCode": "411",
+                "Website": "N/A",
+                "college_name": "Sur Nursing Institute",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Nursing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 890",
+                "City": "Al Buraimi",
+                "Province": "N/A",
+                "PostCode": "512",
+                "Website": "https://www.uob.edu.om",
+                "college_name": "University of Buraimi",
+                "university_name": "(UOB)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 2010",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Foundation Studies",
+                "FieldsOfStudy": [
+                    "English",
+                    "Information Technology",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Banking",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "E-Business/Commerce",
+                    "Finance",
+                    "Information Technology",
+                    "Interior Design",
+                    "International Business",
+                    "Management",
+                    "Mechanical Engineering",
+                    "Nursing",
+                    "Optometry",
+                    "Structural Architecture",
+                    "Telecommunications Engineering",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 33",
+                "City": "Birkat Al Mouz",
+                "Province": "N/A",
+                "PostCode": "616",
+                "Website": "https://www.unizwa.edu.om",
+                "college_name": "University of Nizwa",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004",
+            "AcademicYear": "September to August",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Analytical Chemistry",
+                    "Applied Chemistry",
+                    "Applied Mathematics",
+                    "Arabic",
+                    "Art Education",
+                    "Biological and Life Sciences",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Computer Education",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "English",
+                    "Fashion Design",
+                    "Foreign Languages Education",
+                    "French",
+                    "German",
+                    "Jewellery Art",
+                    "Mathematics",
+                    "Multimedia",
+                    "Organic Chemistry",
+                    "Physics",
+                    "Preschool Education",
+                    "Science Education",
+                    "Software Engineering",
+                    "Special Education",
+                    "Statistics",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics, Administration and Information Systems",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Environmental Engineering",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arabic",
+                    "Art Education",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Education",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Economics",
+                    "Education",
+                    "Electrical Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "Fashion Design",
+                    "Finance",
+                    "Fine Arts",
+                    "Foreign Languages Education",
+                    "German",
+                    "Information Sciences",
+                    "Interior Design",
+                    "International Business",
+                    "Jewellery Art",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Modern Languages",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Parks and Recreation",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Physics",
+                    "Preschool Education",
+                    "Science Education",
+                    "Special Education",
+                    "Speech Therapy and Audiology",
+                    "Statistics",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Analytical Chemistry",
+                    "Applied Chemistry",
+                    "Applied Mathematics",
+                    "Arabic",
+                    "Biological and Life Sciences",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Curriculum",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "English",
+                    "Foreign Languages Education",
+                    "Information Sciences",
+                    "Multimedia",
+                    "Organic Chemistry",
+                    "Software Engineering",
+                    "Teacher Training",
+                    "Translation and Interpretation"
+                ],
+                "Doctor'sDegrees": [
+                    "Chemistry",
+                    "Educational Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rusayl Knowledge Oasis-Muscat\nPO Box 197",
+                "City": "Sib",
+                "Province": "N/A",
+                "PostCode": "124",
+                "Website": "http://www.waljatcollege.edu.om",
+                "college_name": "Waljat College of Applied Sciences",
+                "university_name": "(WCAS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Arabic",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Biotechnology",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronic Engineering",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "English Language",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Computer Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

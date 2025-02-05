@@ -1,0 +1,146 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Isaac Wagemakerstraat 11",
+                "City": "San Nicolas",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ipaaruba.com",
+                "college_name": "Aruba Pedagogical Institute",
+                "university_name": "Instituto Pedagogico Arubano (IPA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1990",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Dutch"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Educational Needs",
+                "FieldsOfStudy": [
+                    "Special Education"
+                ],
+                "Details": "Graduate"
+            },
+            {
+                "College": "Teacher Training",
+                "FieldsOfStudy": [
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Primary Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Special Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "J. Irausquinplein 4",
+                "City": "Oranjestad",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ua.aw",
+                "college_name": "University of Aruba",
+                "university_name": "(UA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1988",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Dutch"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting, Finance and Marketing",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Science",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality and Tourism Management",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Development Studies",
+                    "Engineering",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Social Work",
+                    "Technology",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "International Business",
+                    "Law",
+                    "Tourism"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

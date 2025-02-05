@@ -1,0 +1,850 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "4101 University Drive",
+                "City": "Anchorage",
+                "Province": "Alaska",
+                "PostCode": "99508-4672",
+                "Website": "https://www.alaskapacific.edu",
+                "college_name": "Alaska Pacific University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1957 as Alaska Methodist University, and offered its first classes from 1960. Acquired current title 1978, remaining affiliated with the United Methodist Church",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL or IELTS test for international students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Public Policy",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Health Administration",
+                    "Leadership",
+                    "Management",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culture and Environment",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Environmental Studies",
+                    "Leisure Studies",
+                    "Marine Science and Oceanography",
+                    "Parks and Recreation",
+                    "Physical Education",
+                    "Primary Education",
+                    "Public Health",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Wellness",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Community Health",
+                    "Health Administration",
+                    "Nursing",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Administration",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Environmental Studies",
+                    "Health Sciences",
+                    "Marine Science and Oceanography",
+                    "Nursing",
+                    "Parks and Recreation",
+                    "Psychology",
+                    "Public Health",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Primary Education",
+                    "Small Business"
+                ],
+                "Master'sDegree": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Environmental Studies",
+                    "Health Administration",
+                    "Leadership",
+                    "Physical Education",
+                    "Psychology",
+                    "Writing"
+                ],
+                "Doctor'sDegrees": [
+                    "Psychology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2221 East Northern Lights Boulevard\nSuite 120",
+                "City": "Anchorage",
+                "Province": "Alaska",
+                "PostCode": "99508",
+                "Website": "http://www.chartercollege.edu",
+                "college_name": "Charter College-Anchorage",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1985",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "High school diploma or equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Healthcare",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Trades",
+                "FieldsOfStudy": [
+                    "Service Trades",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Health Administration",
+                    "Information Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "100 Stevenson Street",
+                "City": "Utqia\u0121vik",
+                "Province": "Alaska",
+                "PostCode": "99723",
+                "Website": "https://www.ilisagvik.edu",
+                "college_name": "I\u1e37isa\u0121vik College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created in 1986 as the North Slope Higher Education Center, became the Arctic Sivunmun I\u1e37isa\u0121vik College in 1991, acquired current title in 1995 and received first accreditation in 2003",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3211 Providence Drive",
+                "City": "Anchorage",
+                "Province": "Alaska",
+                "PostCode": "99508-8000",
+                "Website": "https://www.uaa.alaska.edu",
+                "college_name": "University of Alaska Anchorage",
+                "university_name": "(UAA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1954. Part of the University of Alaska System",
+            "AcademicYear": "August to May. Also Summer Session",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL or IELTS test for international students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Science",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Astronomy and Space Science",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Communication Arts",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Dance",
+                    "English",
+                    "Environmental Studies",
+                    "Fine Arts",
+                    "Geography",
+                    "Geology",
+                    "History",
+                    "Journalism",
+                    "Literature",
+                    "Mathematics",
+                    "Modern Languages",
+                    "Music",
+                    "Native American Studies",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sociology",
+                    "Theatre",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Public Policy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Community and Technical College",
+                "FieldsOfStudy": [
+                    "Air Transport",
+                    "Computer Science",
+                    "Cooking and Catering",
+                    "Design",
+                    "Electrical and Electronic Equipment and Maintenance",
+                    "Health Sciences",
+                    "Hotel and Restaurant",
+                    "Industrial Design",
+                    "Leisure Studies",
+                    "Physical Education",
+                    "Technology",
+                    "Technology Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Engineering Management",
+                    "Mechanical Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "Dental Hygiene",
+                    "Dietetics",
+                    "Health Sciences",
+                    "Medical Technology",
+                    "Nursing",
+                    "Occupational Health",
+                    "Public Health",
+                    "Rehabilitation and Therapy",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Air Transport",
+                    "Anthropology",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Communication Arts",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Criminology",
+                    "Dental Hygiene",
+                    "Dietetics",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Engineering Management",
+                    "English",
+                    "Finance",
+                    "Fine Arts",
+                    "French",
+                    "Geology",
+                    "German",
+                    "Health Sciences",
+                    "History",
+                    "Industrial Management",
+                    "International Studies",
+                    "Japanese",
+                    "Journalism",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Medical Technology",
+                    "Music",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Occupational Health",
+                    "Performing Arts",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Psychology",
+                    "Public Health",
+                    "Social Work",
+                    "Spanish",
+                    "Surveying and Mapping",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Anthropology",
+                    "Biological and Life Sciences",
+                    "Civil Engineering",
+                    "Clinical Psychology",
+                    "Dietetics",
+                    "Educational Administration",
+                    "Geology",
+                    "Management",
+                    "Mechanical Engineering",
+                    "Nursing",
+                    "Public Administration",
+                    "Public Health",
+                    "Social Work",
+                    "Special Education",
+                    "Teacher Training",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [
+                    "Nursing"
+                ],
+                "ResearchScholarship": [
+                    "Psychology"
+                ],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 75750",
+                "City": "Fairbanks",
+                "Province": "Alaska",
+                "PostCode": "99775-7520",
+                "Website": "https://www.uaf.edu",
+                "college_name": "University of Alaska Fairbanks",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1917 as Agricultural College and School of Mines. Acquired present title 1935. The main Campus of the University of Alaska System",
+            "AcademicYear": "September to May (September-December; January-May). Also Summer Session",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "Baccalaureate programmes have more specific requirements",
+                "TOEFL or IELTS test for international students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Security Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Civil Security",
+                    "Management",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Community and Technical College",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Natural Sciences",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Mines",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Geological Engineering",
+                    "Mechanical Engineering",
+                    "Mining Engineering",
+                    "Petroleum and Gas Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fisheries and Ocean Sciences",
+                "FieldsOfStudy": [
+                    "Fishery",
+                    "Marine Biology",
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liberal Arts",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Applied Linguistics",
+                    "Arctic Studies",
+                    "Communication Arts",
+                    "Criminology",
+                    "Cultural Studies",
+                    "English",
+                    "Film",
+                    "Fine Arts",
+                    "History",
+                    "Journalism",
+                    "Justice Administration",
+                    "Linguistics",
+                    "Literature",
+                    "Music",
+                    "Native Language",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Work",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Science and Mathematics",
+                "FieldsOfStudy": [
+                    "Astrophysics",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Environmental Studies",
+                    "Geology",
+                    "Mathematics",
+                    "Meteorology",
+                    "Natural Resources",
+                    "Physics",
+                    "Statistics",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rural and Community Development",
+                "FieldsOfStudy": [
+                    "Child Care and Development",
+                    "Indigenous Studies",
+                    "Native American Studies",
+                    "Native Language",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Educational and Student Counselling",
+                    "Foreign Languages Education",
+                    "Music Education",
+                    "Pedagogy",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate School",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Anthropology",
+                    "Applied Linguistics",
+                    "Arctic Studies",
+                    "Astrophysics",
+                    "Biochemistry",
+                    "Business Administration",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Communication Arts",
+                    "Computer Science",
+                    "Fine Arts",
+                    "Fishery",
+                    "Geological Engineering",
+                    "Geology",
+                    "Linguistics",
+                    "Marine Biology",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Meteorology",
+                    "Mining Engineering",
+                    "Music",
+                    "Natural Resources",
+                    "Neurosciences",
+                    "Petroleum and Gas Engineering",
+                    "Physics",
+                    "Psychology",
+                    "Rural Studies",
+                    "Special Education",
+                    "Statistics",
+                    "Surveying and Mapping",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Anthropology",
+                    "Arctic Studies",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Child Care and Development",
+                    "Civil Engineering",
+                    "Communication Arts",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Criminology",
+                    "Electrical Engineering",
+                    "English",
+                    "Film",
+                    "Fine Arts",
+                    "Fishery",
+                    "Geological Engineering",
+                    "Geology",
+                    "History",
+                    "Indigenous Studies",
+                    "Journalism",
+                    "Linguistics",
+                    "Management",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Meteorology",
+                    "Mining Engineering",
+                    "Music",
+                    "Music Education",
+                    "Native American Studies",
+                    "Native Language",
+                    "Natural Resources",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Petroleum and Gas Engineering",
+                    "Physics",
+                    "Political Sciences",
+                    "Primary Education",
+                    "Psychology",
+                    "Rural Studies",
+                    "Secondary Education",
+                    "Social Work",
+                    "Sports Management",
+                    "Wildlife"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Anthropology",
+                    "Applied Linguistics",
+                    "Arctic Studies",
+                    "Astrophysics",
+                    "Biochemistry",
+                    "Biology",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Educational and Student Counselling",
+                    "Electrical Engineering",
+                    "English",
+                    "Fishery",
+                    "Foreign Languages Education",
+                    "Geological Engineering",
+                    "Geology",
+                    "Indigenous Studies",
+                    "Justice Administration",
+                    "Literature",
+                    "Management",
+                    "Marine Biology",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Meteorology",
+                    "Mining Engineering",
+                    "Natural Resources",
+                    "Pedagogy",
+                    "Petroleum and Gas Engineering",
+                    "Physics",
+                    "Primary Education",
+                    "Rural Studies",
+                    "Secondary Education",
+                    "Special Education",
+                    "Statistics",
+                    "Wildlife",
+                    "Writing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [
+                    "Anthropology",
+                    "Astrophysics",
+                    "Biochemistry",
+                    "Botany",
+                    "Chemistry",
+                    "Engineering",
+                    "Fishery",
+                    "Geology",
+                    "Indigenous Studies",
+                    "Marine Biology",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Meteorology",
+                    "Natural Resources",
+                    "Neurosciences",
+                    "Physics"
+                ],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "11120 Glacier Highway",
+                "City": "Juneau",
+                "Province": "Alaska",
+                "PostCode": "99801-8681",
+                "Website": "https://uas.alaska.edu",
+                "college_name": "University of Alaska Southeast",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1956 as Juneau Douglas Community College, acquired present status and title 1972. Part of the University of Alaska System",
+            "AcademicYear": "September to May (September-December; January-May)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL or IELTS test for international students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Educational Technology",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Biology",
+                    "Communication Arts",
+                    "Communication Studies",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "Fine Arts",
+                    "Government",
+                    "History",
+                    "Literature",
+                    "Marine Biology",
+                    "Mathematics",
+                    "Psychology",
+                    "Sociology",
+                    "Visual Arts",
+                    "Women's Studies",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Career Education",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Electronics and Automation",
+                    "Environmental Engineering",
+                    "Fishery",
+                    "Health Sciences",
+                    "Law",
+                    "Marine Transport",
+                    "Metal Techniques",
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Business Administration",
+                    "Education",
+                    "English",
+                    "Environmental Studies",
+                    "Fishery",
+                    "History",
+                    "Indic Languages",
+                    "Indigenous Studies",
+                    "Literature",
+                    "Marine Biology",
+                    "Mathematics",
+                    "Parks and Recreation",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sociology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

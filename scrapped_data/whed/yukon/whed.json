@@ -1,0 +1,70 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 2799,\n500 College Drive",
+                "City": "Whitehorse",
+                "Province": "Yukon",
+                "PostCode": "Y1A 5K4",
+                "Website": "http://www.yukoncollege.yk.ca",
+                "college_name": "Yukon College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1963.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Health, Education and Human Services",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Health Sciences",
+                    "Social Work",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liberal Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management, Tourism and Hospitality",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Education",
+                    "Nordic Studies",
+                    "Public Administration",
+                    "Social Work"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

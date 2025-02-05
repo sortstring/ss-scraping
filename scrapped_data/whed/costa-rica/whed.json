@@ -1,0 +1,2422 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 2060\nCiudad Universitaria Rodr\u00edgo Facio",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "11501-2060",
+                "Website": "https://www.ucr.ac.cr",
+                "college_name": "University of Costa Rica",
+                "university_name": "Universidad de Costa Rica (UCR)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1940, incorporating former schools of the Universidad de Santo Tom\u00e1s. An autonomous institution",
+            "AcademicYear": "February to December (February-July; August-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato) or foreign equivalent, and entrance examination"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Atlantico",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Business Administration",
+                    "Education",
+                    "Environmental Engineering",
+                    "Public Health",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Guanacaste",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Education",
+                    "Engineering",
+                    "English",
+                    "Law",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Occidente",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Education",
+                    "Environmental Management",
+                    "Law",
+                    "Psychology",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pacifico",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Engineering",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sur",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Education",
+                    "English",
+                    "International Business",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Food Technology",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Art History",
+                    "Conducting",
+                    "Design",
+                    "Fine Arts",
+                    "Graphic Arts",
+                    "Graphic Design",
+                    "Music",
+                    "Musical Instruments",
+                    "Painting and Drawing",
+                    "Sculpture",
+                    "Singing",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Health Administration",
+                    "Public Administration",
+                    "Statistics",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Civics",
+                    "Education",
+                    "Educational Administration",
+                    "Foreign Languages Education",
+                    "Higher Education",
+                    "Humanities and Social Science Education",
+                    "Library Science",
+                    "Mathematics Education",
+                    "Music Education",
+                    "Physical Education",
+                    "Primary Education",
+                    "Science Education",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Architecture",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Letters",
+                "FieldsOfStudy": [
+                    "English",
+                    "Foreign Languages Education",
+                    "Literature",
+                    "Modern Languages",
+                    "Native Language Education",
+                    "Philology",
+                    "Philosophy",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medical Auxiliaries",
+                    "Medical Technology",
+                    "Medicine",
+                    "Microbiology",
+                    "Nursing",
+                    "Nutrition",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Public Health",
+                    "Speech Therapy and Audiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Biology",
+                    "Chemistry",
+                    "Geology",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Meteorology",
+                    "Natural Sciences",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Archiving",
+                    "Communication Studies",
+                    "Geography",
+                    "History",
+                    "Mass Communication",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Abnormal Haemoglobin and Related Disorders",
+                "FieldsOfStudy": [
+                    "Pathology"
+                ],
+                "Details": "CIHATA"
+            },
+            {
+                "College": "Agricultural Economics and Agribusiness",
+                "FieldsOfStudy": [
+                    "Agricultural Business"
+                ],
+                "Details": "CIEDA"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "IIA"
+            },
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agronomy"
+                ],
+                "Details": "CIA"
+            },
+            {
+                "College": "Animal Nutrition",
+                "FieldsOfStudy": [
+                    "Animal Husbandry"
+                ],
+                "Details": "CINA"
+            },
+            {
+                "College": "Atomic, Molecular and Nuclear Sciences",
+                "FieldsOfStudy": [
+                    "Atomic and Molecular Physics",
+                    "Nuclear Physics"
+                ],
+                "Details": "CICANUM"
+            },
+            {
+                "College": "Cellular and Molecular Biology",
+                "FieldsOfStudy": [
+                    "Cell Biology",
+                    "Molecular Biology"
+                ],
+                "Details": "CIBCM"
+            },
+            {
+                "College": "Central American History",
+                "FieldsOfStudy": [
+                    "History",
+                    "Latin American Studies"
+                ],
+                "Details": "CIHAC"
+            },
+            {
+                "College": "Clodomiro Picado",
+                "FieldsOfStudy": [
+                    "ICP"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Crop Protection",
+                "FieldsOfStudy": [
+                    "Crop Production"
+                ],
+                "Details": "CIPROC"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "IICE"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "INIE"
+            },
+            {
+                "College": "Electro-Chemistry and Chemical Energy",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "CELEQ"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "INII"
+            },
+            {
+                "College": "Environmental Pollution",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "CICA"
+            },
+            {
+                "College": "Food Science and Technology",
+                "FieldsOfStudy": [
+                    "Food Science",
+                    "Food Technology"
+                ],
+                "Details": "CITA"
+            },
+            {
+                "College": "Geology",
+                "FieldsOfStudy": [
+                    "Geology"
+                ],
+                "Details": "CICG"
+            },
+            {
+                "College": "Geophysics",
+                "FieldsOfStudy": [
+                    "Geophysics",
+                    "Seismology"
+                ],
+                "Details": "CIGEFI"
+            },
+            {
+                "College": "Grains and Seeds",
+                "FieldsOfStudy": [
+                    "Plant Pathology"
+                ],
+                "Details": "CIGRAS"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "INISA"
+            },
+            {
+                "College": "Latin American Identity and Culture",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Latin American Studies"
+                ],
+                "Details": "CIICLA"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "IIJ"
+            },
+            {
+                "College": "Linguistics",
+                "FieldsOfStudy": [
+                    "Linguistics"
+                ],
+                "Details": "INIL"
+            },
+            {
+                "College": "Materials Engineering",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "CICIMA"
+            },
+            {
+                "College": "Mathematics and Applied Mathematics",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Mathematics"
+                ],
+                "Details": "CIMPA"
+            },
+            {
+                "College": "Mathematics and Meta-Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "CIMM"
+            },
+            {
+                "College": "Microstructures",
+                "FieldsOfStudy": [
+                    "Microelectronics"
+                ],
+                "Details": "CIEMIC"
+            },
+            {
+                "College": "Natural Products",
+                "FieldsOfStudy": [
+                    "Natural Resources"
+                ],
+                "Details": "CIPRONA"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "INIFAR"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Philosophy"
+                ],
+                "Details": "IIF"
+            },
+            {
+                "College": "Population Studies",
+                "FieldsOfStudy": [
+                    "Demography and Population"
+                ],
+                "Details": "Central American, CCP"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "IIP"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "CICAP"
+            },
+            {
+                "College": "Sea Sciences and Limnology",
+                "FieldsOfStudy": [
+                    "Limnology",
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "CIMAR"
+            },
+            {
+                "College": "Social Studies",
+                "FieldsOfStudy": [
+                    "Social Studies"
+                ],
+                "Details": "IIS"
+            },
+            {
+                "College": "Space Studies",
+                "FieldsOfStudy": [
+                    "CINESPA"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tropical Diseases",
+                "FieldsOfStudy": [
+                    "Tropical Medicine"
+                ],
+                "Details": "CIET"
+            },
+            {
+                "College": "Women's Studies",
+                "FieldsOfStudy": [
+                    "Women's Studies"
+                ],
+                "Details": "CIEM"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Agriculture",
+                    "Arts and Humanities",
+                    "Biomedicine",
+                    "Business Administration",
+                    "Computer Science",
+                    "Education",
+                    "Engineering",
+                    "Fine Arts",
+                    "Government",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Social Sciences",
+                    "Theatre"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 1901-1002\nBarrio Los Yoses, frente a Pollos Kentucky\nCalle 21",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.uam.ac.cr",
+                "college_name": "American University",
+                "university_name": "Universidad Americana"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Englsh Language Education",
+                "FieldsOfStudy": [
+                    "English",
+                    "Foreign Languages Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "De Servicentro la Galera, 800 Metros Norte\nCurridabat",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "11803",
+                "Website": "http://www.uaca.ac.cr",
+                "college_name": "Autonomous University of Central America",
+                "university_name": "Universidad Aut\u00f3noma de Centro Am\u00e9rica (UACA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1976 as an independent institution authorized by the government. Includes eight independent self-governing Colleges",
+            "AcademicYear": "January to December (January-April; May-August; September-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato) or foreign equivalent, and entrance examination"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education and Sport",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Nursing",
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado postal 519-2100",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ucatolica.ac.cr",
+                "college_name": "Catholic University of Costa Rica",
+                "university_name": "Universidad Cat\u00f3lica de Costa Rica"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993 by the Conferencia Episcopal de Costa Rica. Also known as Universidad Cat\u00f3lica de Costa Rica Anselmo Llorente y Lafuente",
+            "AcademicYear": "January to December (January-April; May-August; September-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato)"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Religious Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "100 metros sur y 75 metros oeste de la helader\u00eda Pops,\nCurridabat",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://icap.ac.cr",
+                "college_name": "Central American Institute of Public Administration",
+                "university_name": "Instituto Centroamericano de Administraci\u00f3n P\u00fablica (ICAP)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1954, postgraduate programme added 1980",
+            "AcademicYear": "January to December",
+            "AdmissionRequirements": [
+                "Graduate certificate at university level"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Air Transport",
+                    "Business Administration",
+                    "Development Studies",
+                    "Health Administration",
+                    "Human Resources",
+                    "International Economics",
+                    "Management",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "International Economics",
+                    "Public Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "C\u00e1rtago",
+                "Province": "N/A",
+                "PostCode": "159-7050",
+                "Website": "https://www.tec.ac.cr",
+                "college_name": "Costa Rica Institute of Technology",
+                "university_name": "Instituto Tecnol\u00f3gico de Costa Rica \u2013 Tecnol\u00f3gico de Costa Rica (TEC) (ITCR)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1971. A State institution financed by the government",
+            "AcademicYear": "February to November (February-May; August-November)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato) or equivalent, and entrance examination"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Alajuela",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Lim\u00f3n",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "San Carlos",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Production Engineering",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "San Jos\u00e9",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Rural Planning",
+                    "Technology Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agrobusiness",
+                "FieldsOfStudy": [
+                    "Agricultural Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Biotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry",
+                "FieldsOfStudy": [
+                    "Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction Engineering",
+                "FieldsOfStudy": [
+                    "Construction Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culture and Sport",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical and Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronic Engineering",
+                "FieldsOfStudy": [
+                    "Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry Engineering",
+                "FieldsOfStudy": [
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Design",
+                "FieldsOfStudy": [
+                    "Industrial Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Material Science and Engineering",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Occupational Safety and Environmental Health",
+                "FieldsOfStudy": [
+                    "Environmental Engineering",
+                    "Occupational Health",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Production Engineering",
+                "FieldsOfStudy": [
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Philosophy",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology Education",
+                "FieldsOfStudy": [
+                    "Technology Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Business Administration",
+                    "Engineering",
+                    "Natural Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 4442-1000",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.earth.ac.cr/en",
+                "college_name": "EARTH University",
+                "university_name": "Universidad EARTH (EARTH)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1990",
+            "AcademicYear": "January to December (3 trimesters)",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 250-2120\nfrente Principal del Museo Nacional",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ufederada.ac.cr",
+                "college_name": "Federated University of Costa Rica",
+                "university_name": "Universidad Federada de Costa Rica (UNIFE)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1995",
+            "AcademicYear": "January to December (January-May; May-August; September-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato)"
+            ],
+            "Languages": [
+                "Spanish",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "San Judas",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Health Sciences",
+                    "Journalism",
+                    "Medicine",
+                    "Surgery"
+                ],
+                "Details": "University College"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 8063-1000\nEscuela Santa Marta de Montes de Oca",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ufidelitas.ac.cr",
+                "college_name": "Fidelitas University",
+                "university_name": "Universidad Fid\u00e9litas"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1980 as Collegium Fidelitas, acquired present status and title 1995",
+            "AcademicYear": "January to December (January-April; May-August; September-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato) or foreign equivalent"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economic and Social Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Advertising and Publicity",
+                    "Business Administration",
+                    "Design",
+                    "Law",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Zapote, 75 metros al oeste del Registro Nacional",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://uescuelalibre.cr",
+                "college_name": "Free School of Law University",
+                "university_name": "Universidad Escuela Libre de Derecho \u2013 Escuela Libre de Derecho"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 408-1002\n100 Oeste y 100 Norte Santa Teresita\nBarrio Aranjuez",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://uh.ac.cr",
+                "college_name": "Hispano-American University",
+                "university_name": "Universidad Hispanoamericana"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1992. A private institution authorized by the government",
+            "AcademicYear": "January to December (January-May; May-September; September-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato)"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture and Engineering",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economic Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Bilingual and Bicultural Education",
+                    "Education",
+                    "Educational Administration",
+                    "Preschool Education",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Nursing",
+                    "Nutrition",
+                    "Psychology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Design",
+                    "Law",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 1447-1002",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://uia.ac.cr",
+                "college_name": "International University of the Americas",
+                "university_name": "Universidad Internacional de las Am\u00e9ricas (UIA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1986 by the International Foundation of the Americas. Acquired present status 1987",
+            "AcademicYear": "January to December (January-April; May-August; September-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato) or foreign equivalent, and entrance examination"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economic Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "International Business",
+                    "International Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "International Relations and Diplomacy",
+                    "Social Sciences",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 10235",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "1000",
+                "Website": "http://www.ulacit.ac.cr",
+                "college_name": "Latin American University of Science and Technology",
+                "university_name": "Universidad Latinoamericana de Ciencia y Tecnolog\u00eda (ULACIT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1988",
+            "AcademicYear": "January to December",
+            "AdmissionRequirements": [
+                "Secondary school certficate (bachillerato)"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Educational Administration",
+                    "Law",
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Industrial Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 1561-2050\n300 Norte y 150 Este de Mu\u00f1oz y Nanne \nLourdes",
+                "City": "San Pedro de Montes de Oca",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ulatina.ac.cr",
+                "college_name": "Latin University of Costa Rica",
+                "university_name": "Universidad Latina de Costa Rica (ULATINA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded as college 1979, acquired present status 1989. Branches in major cities in Costa Rica and Panama",
+            "AcademicYear": "January to December (January-April; May-August; September-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato) or foreign equivalent"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Economics",
+                    "Human Resources",
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "English",
+                    "History",
+                    "Philosophy",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Engineering",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Health Sciences",
+                    "Nursing",
+                    "Optometry",
+                    "Pharmacy",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Journalism",
+                    "Law",
+                    "Public Relations",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Environmental Management",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Hotel and Restaurant",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sede Central, Villa Bonita",
+                "City": "Alajuela",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.utn.ac.cr",
+                "college_name": "National Technical University",
+                "university_name": "Universidad T\u00e9cnica Nacional"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Atenas",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Food Technology",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Central",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business and Commerce",
+                    "Electronic Engineering",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Occupational Health",
+                    "Production Engineering",
+                    "Safety Engineering",
+                    "Software Engineering",
+                    "Transport Management"
+                ],
+                "Details": "Alajuela"
+            },
+            {
+                "College": "Guanacaste",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Environmental Engineering",
+                    "Information Technology",
+                    "Irrigation",
+                    "Management",
+                    "Safety Engineering",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pac\u00edfico",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Graphic Design",
+                    "Hotel Management",
+                    "Information Technology",
+                    "Production Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "San Carlos",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business and Commerce",
+                    "Human Resources",
+                    "Occupational Health",
+                    "Safety Engineering",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida 1, Calle 1",
+                "City": "Heredia",
+                "Province": "Heredia",
+                "PostCode": "86-3000",
+                "Website": "http://www.una.ac.cr",
+                "college_name": "National University",
+                "university_name": "Universidad Nacional (UNA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1973.",
+            "AcademicYear": "February to November (Two semesters divided into: February-June and August-November)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato) and entrance examination"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Exact and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Industrial Chemistry",
+                    "Information Technology",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Science Education",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Epidemiology",
+                    "Health Sciences",
+                    "Parks and Recreation",
+                    "Physical Education",
+                    "Sports",
+                    "Sports Medicine",
+                    "Toxicology",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Land and Sea Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Earth Sciences",
+                    "Environmental Management",
+                    "Forestry",
+                    "Geography",
+                    "Marine Science and Oceanography",
+                    "Surveying and Mapping",
+                    "Tropical Agriculture",
+                    "Tropical Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy and Letters",
+                "FieldsOfStudy": [
+                    "Applied Linguistics",
+                    "English",
+                    "French",
+                    "Gender Studies",
+                    "Human Rights",
+                    "Information Sciences",
+                    "Justice Administration",
+                    "Latin American Studies",
+                    "Library Science",
+                    "Literature",
+                    "Philosophy",
+                    "Publishing and Book Trade",
+                    "Spanish",
+                    "Theology",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Education",
+                    "Economics",
+                    "History",
+                    "International Business",
+                    "International Relations and Diplomacy",
+                    "Leadership",
+                    "Management",
+                    "Psychology",
+                    "Social Policy",
+                    "Social Sciences",
+                    "Social Studies",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Economics",
+                    "Latin American Studies",
+                    "Natural Sciences",
+                    "Social Sciences",
+                    "Sociology",
+                    "Sports"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2 Km al norte del Liceo UNESCO\nSan Isidro",
+                "City": "P\u00e9rez Zeled\u00f3n",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://uisil.ac.cr",
+                "college_name": "San Isidro Labrador International University",
+                "university_name": "Universidad Internacional San Isidro Labrador"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "100 metros este del Parque Moraz\u00e1n\nAvenida 3, Calle 11",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.usanmarcos.ac.cr",
+                "college_name": "San Marcos University",
+                "university_name": "Universidad San Marcos \u2013 Universidad en Ciencias Administrativas San Marcos (USAM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato)"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 474-2050\nDe la Rotonda La Betania 500m al este, Carretera a Sabanilla, Mercedes de Montes de Oca",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.uned.ac.cr",
+                "college_name": "State University of Distance Education",
+                "university_name": "Universidad Estatal a Distancia (UNED)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1977 to give access to higher education to those who are unable to attend university, particularly those living in rural areas. An autonomous institution financed by the State",
+            "AcademicYear": "January to November (January-April; May-August; September-November)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato) or equivalent"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Civics",
+                    "Education",
+                    "Educational Psychology",
+                    "Educational Technology",
+                    "English",
+                    "French",
+                    "Mathematics Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Science Education",
+                    "Secondary Education",
+                    "Special Education",
+                    "Teacher Training",
+                    "Technology Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Exact and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Computer Science",
+                    "Health Administration",
+                    "Industrial Engineering",
+                    "Mathematics",
+                    "Natural Resources",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Constitutional Law",
+                    "Criminology",
+                    "Family Studies",
+                    "Human Rights",
+                    "International Law",
+                    "Labour Law",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Secretarial Studies"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Administration",
+                    "Education",
+                    "Law",
+                    "Natural Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 7170\nEscuela de Postgrado",
+                "City": "Turrialba",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.catie.ac.cr",
+                "college_name": "Tropical Agriculture Research and Higher Education Centre",
+                "university_name": "Centro Agron\u00f3mico Tropical de Investigaci\u00f3n y Ense\u00f1anza (CATIE)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1946, acquired present status 1973",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Graduate",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Economics",
+                    "Forest Management",
+                    "Forestry",
+                    "Sociology",
+                    "Tropical Agriculture"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Agriculture",
+                    "Natural Resources"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 138-6100, Ciudad Col\u00f3n",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.upeace.org",
+                "college_name": "University for Peace",
+                "university_name": "Universidad para la Paz (UPEACE)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1980 by the General Assembly of the United Nations",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Bachelor's degree with sufficient average grade, TOEFL and entrance examination (essay)"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Environment and Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Economics",
+                    "Environmental Studies",
+                    "International Relations and Diplomacy",
+                    "Peace and Disarmament",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Law",
+                "FieldsOfStudy": [
+                    "Human Rights",
+                    "Peace and Disarmament",
+                    "Religion"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Peace and Conflict Studies",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Government",
+                    "Human Rights",
+                    "International Relations and Diplomacy",
+                    "Peace and Disarmament"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 11870-1000\n200 mts. este del ICE de Tib\u00e1s",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "11870-1000",
+                "Website": "http://www.unibe.ac.cr",
+                "college_name": "University of Ibero-America",
+                "university_name": "Universidad de Iberoam\u00e9rica (UNIBE)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1995",
+            "AcademicYear": "January to December",
+            "AdmissionRequirements": [
+                "Secondary school certificate (bachillerato)"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado 638-1007\nSabana Oeste, 400 Oeste del Ministerio de Agricultura",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://ucimed.com",
+                "college_name": "University of Medical Sciences",
+                "university_name": "Universidad de Ciencias M\u00e9dicas (UCIMED)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1976.",
+            "AcademicYear": "January to December (January-June; July-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Microbiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nutrition",
+                "FieldsOfStudy": [
+                    "Nutrition"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physiotherapy",
+                "FieldsOfStudy": [
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Curridabat",
+                "Province": "San Jos\u00e9",
+                "PostCode": "11803",
+                "Website": "https://usantapaula.com",
+                "college_name": "University Saint Paula",
+                "university_name": "Universidad Santa Paula (USP)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "High school diploma, psychological interview, interview with the programme director"
+            ],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Occupational Therapy",
+                "FieldsOfStudy": [
+                    "Occupational Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Therapy",
+                "FieldsOfStudy": [
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Respiratory Therapy",
+                "FieldsOfStudy": [
+                    "Respiratory Therapy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Apartado postal 1380-1000",
+                "City": "San Jos\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.veritas.cr",
+                "college_name": "Veritas University",
+                "university_name": "Universidad Veritas (UVERITAS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994 as a non-profit private university",
+            "AcademicYear": "January to December",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Dental Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "Facultad Aut\u00f3noma de Ciencias Odontol\u00f3gicas"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cinema and TV",
+                "FieldsOfStudy": [
+                    "Cinema and Television"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fashion Design",
+                "FieldsOfStudy": [
+                    "Fashion Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Interior Design",
+                "FieldsOfStudy": [
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Photography",
+                "FieldsOfStudy": [
+                    "Photography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Product Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

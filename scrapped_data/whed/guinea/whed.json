@@ -1,0 +1,3263 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 4844",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://univ-adieng.com",
+                "college_name": "Amadou Dieng University",
+                "university_name": "Universit\u00e9 Amadou Dieng (UAD)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics, Law and Humanities",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Insurance",
+                    "International Business",
+                    "Law",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering Sciences",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Geological Engineering",
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Transversale T4\nLambanyi\nCit\u00e9 Onco 5 - Carrefour Canadien\nRatoma",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Avicenne University",
+                "university_name": "Universit\u00e9 Avicenne (UA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Computing (MIAGE)",
+                "FieldsOfStudy": [
+                    "Business Computing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Commune de Ratoma\nP.O. Box 953",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.univ-barackobama.com",
+                "college_name": "Barack Obama University",
+                "university_name": "Universit\u00e9 Barack Obama (UBO)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009. Opened 2010.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Mining Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Letters and Humanities",
+                "FieldsOfStudy": [
+                    "English",
+                    "Journalism",
+                    "Mass Communication",
+                    "Modern Languages",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 2016\nArchev\u00each\u00e9 de Conakry\nCol\u00e9ah - Route du Niger",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://ucao-uuco.com",
+                "college_name": "Catholic University of West Africa",
+                "university_name": "Universit\u00e9 Catholique de l\u2019Afrique de l\u2019Ouest \u00e0 Conakry \u2013 Universit\u00e9 Catholique de l\u2019Afrique de l\u2019Ouest Unit\u00e9 Universitaire \u00e0 Conakry (UCAO-UUCO)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Language and Communication",
+                "FieldsOfStudy": [
+                    "Information Sciences",
+                    "Journalism",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Sciences, Law, Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law",
+                    "Management",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Engineering",
+                    "Geology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology",
+                "FieldsOfStudy": [
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Banking",
+                    "Finance",
+                    "Law",
+                    "Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 273",
+                "City": "Kankan",
+                "Province": "Conakry",
+                "PostCode": "N/A",
+                "Website": "http://www.mbembatoure.com",
+                "college_name": "El Hadj Bemba Tour\u00e9 University",
+                "university_name": "Universit\u00e9 El Hadj Bemba Tour\u00e9 (UEBT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007. Opened 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Geology",
+                "FieldsOfStudy": [
+                    "Geology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arabic Language",
+                "FieldsOfStudy": [
+                    "Arabic"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Biology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Computing (MIAGE)",
+                "FieldsOfStudy": [
+                    "Business Computing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining Engineering",
+                "FieldsOfStudy": [
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology",
+                "FieldsOfStudy": [
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Management and Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Galileo Institute of Computer Science and Engineering",
+                "university_name": "Institut Sup\u00e9rieur d\u2019Informatique et d\u2019Ing\u00e9nierie Galil\u00e9e (ISIIG)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy Engineering",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 1147",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://uganc.org",
+                "college_name": "Gamal Abdel Nasser University of Conakry",
+                "university_name": "Universit\u00e9 Gamal Abdel Nasser de Conakry \u2013 Universit\u00e9 de Conakry (UGANC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1962 as Institut Polytechnique, became University 1984. Acquired present status 1989. Previously known as Universit\u00e9 de Conakry. A State institution under the supervision of the Ministry of Education.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (baccalaur\u00e9at) and competitive entrance examination"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Study and Research (ECRE)",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine, Pharmacy and Odontostomatology",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Dentistry",
+                    "Medicine",
+                    "Paediatrics",
+                    "Pharmacy",
+                    "Stomatology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Biomedicine",
+                    "Chemistry",
+                    "Computer Science",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Polytechnic",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Food Science",
+                    "Food Technology",
+                    "Industrial Engineering",
+                    "Maintenance Technology",
+                    "Mechanical Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Applied Chemistry",
+                    "Biology",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Engineering Management",
+                    "Environmental Studies",
+                    "Mathematics",
+                    "Molecular Biology",
+                    "Traditional and Complementary Medicine and Therapy"
+                ],
+                "Doctor'sDegrees": [
+                    "Dentistry",
+                    "Environmental Studies",
+                    "Pharmacy",
+                    "Stomatology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "030 BP 970\nKip\u00e9",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://uglcsonfonia.org",
+                "college_name": "General Lansana Conte University",
+                "university_name": "Universit\u00e9 G\u00e9n\u00e9ral Lansana Cont\u00e9 (UGLC SC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded as Universit\u00e9 des Sciences Humaines, Juridiques et Economiques de Sonfonia-Conakry 2005. Acquired current title 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "English",
+                    "Linguistics",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Juridical and Political Sciences",
+                "FieldsOfStudy": [
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Geography (Human)",
+                    "History",
+                    "Philosophy",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Doctoral Studies",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Arabic",
+                    "Business Administration",
+                    "Education",
+                    "Educational Administration",
+                    "English",
+                    "History",
+                    "Linguistics",
+                    "Literature",
+                    "Philosophy",
+                    "Social Studies",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Doctor'sDegrees": [
+                    "Geography (Human)",
+                    "History",
+                    "Linguistics",
+                    "Literature",
+                    "Philosophy",
+                    "Social Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "030 BP 970\nKip\u00e9",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://uglcs.org/home",
+                "college_name": "G\u00e9n\u00e9ral Lansana Cont\u00e9 University of Sonfonia",
+                "university_name": "Universit\u00e9 G\u00e9n\u00e9ral Lansana Cont\u00e9 de Sonfonia \u2013 Universit\u00e9 de Sonfonia (UGLC-SC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2005 as Universit\u00e9 des Sciences Humaines, Juridiques et Economiques de Sonfonia\u2013Conakry. Acquired present title 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Linguistics",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Arts and Humanities",
+                    "English",
+                    "Linguistics",
+                    "Modern Languages"
+                ],
+                "Details": "FLSL"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "FSEG"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "FSJP"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Geography (Human)",
+                    "History",
+                    "Philosophy",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hotel Management",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Arabic",
+                    "Education",
+                    "English",
+                    "History",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Private Law",
+                    "Sociology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 1961",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.isfad-gn.org",
+                "college_name": "Higher Institute for Distance Education",
+                "university_name": "Institut sup\u00e9rieur de Formation \u00e0 Distance (ISFAD)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "School leaving certificate"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Community Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Social and Community Services",
+                    "Social Sciences",
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Quartier Faranah Kora\nsur la Route National Faranah-Dabola\nP.O. Box 131",
+                "City": "Faranah",
+                "Province": "Faranah",
+                "PostCode": "N/A",
+                "Website": "https://isav.edu.gn",
+                "college_name": "Higher Institute of Agronomy and Veterinary Medicine of Faranah",
+                "university_name": "Institut Sup\u00e9rieur Agronomique et V\u00e9t\u00e9rinaire de Faranah \u2013 Institut sup\u00e9rieur agronomique et v\u00e9t\u00e9rinaire Val\u00e9ry Giscard d'Estaing (ISAV)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1978. Acquired present status and title 1991.",
+            "AcademicYear": "April to December.",
+            "AdmissionRequirements": [
+                "Undergraduate: Baccalaur\u00e9at or equivalent; Postgraduate: Licence",
+                ""
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Economics",
+                "FieldsOfStudy": [
+                    "Agricultural Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture Extension",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agroforestry",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Animal Sciences",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Cattle Breeding",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Water and Forest Environment",
+                "FieldsOfStudy": [
+                    "Forestry",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Doctoral Studies",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Nutrition",
+                    "Vegetable Production",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agriculture",
+                    "Water Management"
+                ],
+                "Doctor'sDegrees": [
+                    "Nutrition",
+                    "Vegetable Production"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Dixinn",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://isau.edu.gn",
+                "college_name": "Higher Institute of Architecture and Town Planning of Conakry",
+                "university_name": "Institut sup\u00e9rieur d'Architecture et d'Urbanisme de Conakry (ISAU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Urban Studies",
+                "FieldsOfStudy": [
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Architecture",
+                    "Urban Studies"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Lambanyi\nP.O. Box 795",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.isseg-gn.org",
+                "college_name": "Higher Institute of Educational Sciences of Guinea",
+                "university_name": "Institut sup\u00e9rieur des Sciences de l'Education de Guin\u00e9e (ISSEG)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991. Formerly Ecole Normale Sup\u00e9rieure de Man\u00e9ah. Acquired present status and title 2003.",
+            "AcademicYear": "October to July",
+            "AdmissionRequirements": [
+                "University degree (Ma\u00eetrise) and entrance examination",
+                "Professional experience may also be required in some sections",
+                ""
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "College and High School Science Teachers and Inspectors Training",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Geology",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics",
+                    "Secondary Education",
+                    "Technology"
+                ],
+                "Details": "DFPCL/Sciences/APES/IES"
+            },
+            {
+                "College": "College and High School Social Sciences Teachers Training",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "English",
+                    "French",
+                    "Geography (Human)",
+                    "History",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Secondary Education",
+                    "Social Sciences"
+                ],
+                "Details": "DF-PCL/Sciences Sociales"
+            },
+            {
+                "College": "Educational Planning and Administration",
+                "FieldsOfStudy": [
+                    "Educational Administration"
+                ],
+                "Details": "DF-PAGE"
+            },
+            {
+                "College": "Pedagogy and Educational Sciences",
+                "FieldsOfStudy": [
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "Educational Testing and Evaluation",
+                    "Pedagogy",
+                    "Psychology"
+                ],
+                "Details": "DEPSE"
+            },
+            {
+                "College": "Teacher, Education Counselor, Teacher Trainers and Elementary School Inspectors Training",
+                "FieldsOfStudy": [
+                    "Educational and Student Counselling",
+                    "Teacher Trainers Education",
+                    "Teacher Training"
+                ],
+                "Details": "DFPEN/CPMF/IEE"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO Box 2421",
+                "City": "Dubr\u00e9ka",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Higher Institute of Fine Arts of Guinea",
+                "university_name": "Institut sup\u00e9rieur des Arts de Guin\u00e9e \u2013 Institut superieur des arts Mory Kant\u00e9 (ISAG)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2004",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Cinema and Audio-Visual Arts",
+                "FieldsOfStudy": [
+                    "Cinema and Television"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Drama",
+                "FieldsOfStudy": [
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music and Musicology",
+                "FieldsOfStudy": [
+                    "Music",
+                    "Musicology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Fine Arts"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 954\nQuartier de Kountia\nCommune de Coyah",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://isic-guinee.info",
+                "college_name": "Higher Institute of Information and Communication of Kountia - Coyah",
+                "university_name": "Institut sup\u00e9rieur de l'Information et de la Communication de Kountia - Coyah \u2013 ISIC Kountia (ISIC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 84",
+                "City": "Bok\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://geominesboke.org",
+                "college_name": "Higher Institute of Mining and Geology of Bok\u00e9",
+                "university_name": "Institut sup\u00e9rieur des Mines et G\u00e9ologie de Bok\u00e9 (ISMGB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1962 as Facult\u00e9 de l\u2019Institut Polytechnique de Conakry, relocated in Bok\u00e9 1972 and acquired current status and title 1991.",
+            "AcademicYear": "October to June",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Environment and Industrial Safety",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geology",
+                "FieldsOfStudy": [
+                    "Geology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Metallurgical Engineering",
+                "FieldsOfStudy": [
+                    "Metallurgical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining Engineering",
+                "FieldsOfStudy": [
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 2201",
+                "City": "Dalaba",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Higher Institute of Science and Veterinary Medicine of Dalaba",
+                "university_name": "Institut sup\u00e9rieur des Sciences et de M\u00e9decine v\u00e9t\u00e9rinaire de Dalaba (ISSMV)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Animal Products Control and Technology",
+                "FieldsOfStudy": [
+                    "Food Science",
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fishery and Aquaculture",
+                "FieldsOfStudy": [
+                    "Aquaculture",
+                    "Fishery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Veterinary Science"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 84",
+                "City": "Mamou",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.istmamou.96.lt",
+                "college_name": "Higher Institute of Technology of Mamou",
+                "university_name": "Institut sup\u00e9rieur de Technologie de Mamou \u2013 IST-Mamou (IST)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Biomedical Equipment Technology",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energy Engineering",
+                "FieldsOfStudy": [
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Instrumentation and Physical Measurement",
+                "FieldsOfStudy": [
+                    "Instrument Making",
+                    "Measurement and Precision Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Laboratory Techniques",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Laboratory Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Design and Manufacturing",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "030 BP 230\nRoute le prince",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://isim-unt.net",
+                "college_name": "Institute of Computer Science and Management - New Technologies University",
+                "university_name": "Institut Sup\u00e9rieur d'Informatique et de Management - Universit\u00e9 Nouvelles Technologies (ISIM-UNT)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1995.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Insurance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "International Relations and Diplomacy",
+                    "Justice Administration",
+                    "Private Law",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Computer Graphics",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Industrial Maintenance",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 209",
+                "City": "Kankan",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ujnk.org",
+                "college_name": "Julius N'y\u00e9r\u00e9r\u00e9 University of Kankan",
+                "university_name": "Universit\u00e9 Julius N'y\u00e9r\u00e9r\u00e9 de Kankan (UJNK)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1963 as school, became Institut polytechnique 1967 and acquired present status and title 1989. A State institution under the supervision of the Ministry of Education.",
+            "AcademicYear": "October to June (October-December; January-March; April-June)",
+            "AdmissionRequirements": [
+                "Secondary School Certificate (baccalaur\u00e9at) and competitive entrance examination"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Ecology",
+                    "Environmental Studies",
+                    "Geography",
+                    "History",
+                    "Philosophy",
+                    "Physics",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language and Literature",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "English",
+                    "Foreign Languages Education",
+                    "Linguistics",
+                    "Literature",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "FSEG"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "FSN"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Geography",
+                    "History",
+                    "Philosophy",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "FSS"
+            },
+            {
+                "College": "Information Sciences",
+                "FieldsOfStudy": [
+                    "Archiving",
+                    "Documentation Techniques",
+                    "Information Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Pharmacy",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Dentistry",
+                    "Forensic Medicine and Dentistry",
+                    "Health Sciences",
+                    "Medical Parasitology",
+                    "Medicine",
+                    "Ophthalmology",
+                    "Optometry",
+                    "Pharmacology",
+                    "Rheumatology",
+                    "Stomatology",
+                    "Tropical Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Chemistry",
+                    "Ecology",
+                    "Environmental Studies",
+                    "Geography (Human)",
+                    "History",
+                    "Philosophy",
+                    "Physics",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 2248\nTombolia-Cit\u00e9",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://univ-roihassan2.com",
+                "college_name": "King Hassan II University",
+                "university_name": "Universit\u00e9 Roi Hassan II (URHII)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Human Sciences",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "English",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical and Applied Sciences",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Nongo\nCommune de Ratoma\nP.O. Box 1367",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.univ-kag.org",
+                "college_name": "Kofi Annan University of Guinea",
+                "university_name": "Universit\u00e9 Kofi Annan de Guin\u00e9e (UKAG)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1999.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Computer Science",
+                    "English",
+                    "French",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Mass Communication",
+                    "Modern Languages",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine and Paramedical Sciences",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Midwifery",
+                    "Nursing",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professionalized Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Finance",
+                    "Hotel Management",
+                    "Insurance",
+                    "Tourism",
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Mining Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "Polytechnique"
+            },
+            {
+                "College": "Vocational Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Information Technology",
+                    "Insurance",
+                    "Management",
+                    "Marketing",
+                    "Sales Techniques",
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Quartier Sogb\u00e8",
+                "City": "Kissidougou",
+                "Province": "Faranah",
+                "PostCode": "N/A",
+                "Website": "http://lapartdieu.org",
+                "college_name": "La Part-Dieu University",
+                "university_name": "Universit\u00e9 La Part-Dieu (USTK)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2011.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Journalism",
+                    "Mass Communication",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biomedical Sciences",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Environmental Sciences",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Engineering",
+                    "Environmental Studies",
+                    "Geological Engineering",
+                    "Mining Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Law",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance",
+                    "Law",
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 105\nKipp\u00e9\nCommune de Ratoma",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.universitelasource.org",
+                "college_name": "La Source University",
+                "university_name": "Universit\u00e9 La Source (US)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004. Acquired present status and title 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Computer Science",
+                    "Economics",
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law, Economics, Social Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Law",
+                    "Mass Communication",
+                    "Political Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Medicine",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "MIAGE",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Geology",
+                    "Mining Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 2838\nComplexe Scolaire St. Georges\nTaouyah",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.univmercure-gn.org",
+                "college_name": "Mercure International University",
+                "university_name": "Universit\u00e9 Mercure International (UMI)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Foreign Languages",
+                "FieldsOfStudy": [
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial and Commercial Management",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hygiene, Sanitation and Environment",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Hygiene",
+                    "Sanitary Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Communication",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law, Juridical and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Logistics and Transport",
+                "FieldsOfStudy": [
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "MIAGE",
+                "FieldsOfStudy": [
+                    "Business Computing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology",
+                "FieldsOfStudy": [
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Post Graduate",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Doctor'sDegrees": [
+                    "Economics"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 287\nMatoto",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://universite-mandela.com",
+                "college_name": "Nelson Mandela University",
+                "university_name": "Universit\u00e9 Nelson Mandela (UNM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration, Economics and Law",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Advertising and Publicity",
+                    "Banking",
+                    "Business and Commerce",
+                    "Commercial Law",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Industrial Management",
+                    "Institutional Administration",
+                    "Insurance",
+                    "Labour and Industrial Relations",
+                    "Management",
+                    "Management Systems",
+                    "Marketing",
+                    "Private Administration",
+                    "Public Administration",
+                    "Public Relations",
+                    "Secretarial Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Agricultural Education",
+                    "Art Education",
+                    "Bilingual and Bicultural Education",
+                    "Business Education",
+                    "Continuing Education",
+                    "Curriculum",
+                    "Distance Education",
+                    "Education",
+                    "Education of the Gifted",
+                    "Education of the Handicapped",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Research",
+                    "Educational Sciences",
+                    "Educational Technology",
+                    "Educational Testing and Evaluation",
+                    "Foreign Languages Education",
+                    "Health Education",
+                    "Higher Education Teacher Training",
+                    "Home Economics Education",
+                    "Humanities and Social Science Education",
+                    "Industrial Arts Education",
+                    "International and Comparative Education",
+                    "Literacy Education",
+                    "Music Education",
+                    "Native Language Education",
+                    "Natives Education",
+                    "Philosophy of Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Science Education",
+                    "Secondary Education",
+                    "Special Education",
+                    "Staff Development",
+                    "Teacher Trainers Education",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and New Technologies",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Electrical and Electronic Engineering",
+                    "Engineering",
+                    "Engineering Management",
+                    "Safety Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Political Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Higher Institute of Arabic Civilization",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Environmental Studies",
+                    "Middle Eastern Studies",
+                    "North African Studies",
+                    "Peace and Disarmament",
+                    "Social Work",
+                    "Sports Management",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Law"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Nongo-Conteyah,\nCommune de Ratoma\nP.O. Box 6420",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://uncgn.com",
+                "college_name": "Nongo Conakry University",
+                "university_name": "Universit\u00e9 Nongo Conakry (UNC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Commercial Law",
+                    "Computer Networks",
+                    "Development Studies",
+                    "Engineering",
+                    "Finance",
+                    "Human Resources",
+                    "Peace and Disarmament",
+                    "Sociology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law, Political and Social Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "New Technologies",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Commercial Law",
+                    "Computer Networks",
+                    "Development Studies",
+                    "Engineering",
+                    "Finance",
+                    "Human Resources",
+                    "Peace and Disarmament",
+                    "Telecommunications Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "030 BP 33\nQuartier Hamdallaye\nCommune de Ratoma",
+                "City": "Kip\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://urenelevesque.com",
+                "college_name": "Ren\u00e9 L\u00e9vesque University",
+                "university_name": "Universit\u00e9 Ren\u00e9 L\u00e9vesque (URL)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "English",
+                    "Journalism",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Law",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "International Business",
+                    "Law",
+                    "Modern Languages",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information and Communication Technology",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Commercial Law",
+                    "Human Resources",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business and Commerce",
+                    "Commercial Law",
+                    "Human Resources",
+                    "Marketing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 766\nQuartier Kip\u00e9-Dadia\nCommune de Ratoma",
+                "City": "Conakry",
+                "Province": "Ratoma",
+                "PostCode": "030",
+                "Website": "http://www.esthguinee.com",
+                "college_name": "School of Tourism and Hospitality of Guinea",
+                "university_name": "Ecole Sup\u00e9rieure du Tourisme et de l'H\u00f4tellerie de Guin\u00e9e (ESTH)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2006 as a faculty of the University G\u00e9n\u00e9ral Lansana Cont\u00e9 de Sonfonia (GLSC). Acquired automous status 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Food Science and Nutrition",
+                "FieldsOfStudy": [
+                    "Food Science",
+                    "Nutrition"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality Management",
+                "FieldsOfStudy": [
+                    "Hotel Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "Tourisme Management"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "030 BP 109\nCommune de Ratoma\nQuartier Lambanyi\nKiroty",
+                "City": "Kip\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.utad-petel-edu.org",
+                "college_name": "Thierno Amadou Diallo University",
+                "university_name": "Universit\u00e9 Thierno Amadou Diallo (UTAD)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Computing (MIAGE)",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Political Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining and Geological Engineering",
+                "FieldsOfStudy": [
+                    "Geological Engineering",
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology",
+                "FieldsOfStudy": [
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport and  Logistics",
+                "FieldsOfStudy": [
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Dapompa",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://utmakabarry.com",
+                "college_name": "Thierno Macka Barry University",
+                "university_name": "Universit\u00e9 Thierno Macka Barry (UTMB)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Sales Techniques",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "Insurance",
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Private Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Justice Administration",
+                    "Private Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Law",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Public Administration",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Finance",
+                    "Human Resources",
+                    "Law",
+                    "Management",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Autoroute Yimbaya-Matoto\nQuartier Tannerie\nMatoto",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Titi CAMARA University",
+                "university_name": "Universit\u00e9 Titi Camara \u2013 Universit\u00e9 Roi Mohamed VI (UTICA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Computing (MIAGE)",
+                "FieldsOfStudy": [
+                    "Business Computing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hydrogeotechnics",
+                "FieldsOfStudy": [
+                    "Geological Engineering",
+                    "Hydraulic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining Engineering",
+                "FieldsOfStudy": [
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology",
+                "FieldsOfStudy": [
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 212",
+                "City": "Foulaya",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.univ-kindia.org",
+                "college_name": "University Centre of Kindia",
+                "university_name": "Centre Universitaire de Kindia (CUK)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Digital and University Publishing Centre",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Development Studies (Postgraduate)",
+                "FieldsOfStudy": [
+                    "Development Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Languages and Literature",
+                "FieldsOfStudy": [
+                    "English",
+                    "Linguistics",
+                    "Literature",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Geography (Human)",
+                    "History",
+                    "Philosophy",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Development Studies"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 50",
+                "City": "N\u2019Z\u00e9r\u00e9kor\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University Centre of N\u2019Z\u00e9r\u00e9kor\u00e9",
+                "university_name": "Centre Universitaire de N\u2019Z\u00e9r\u00e9kor\u00e9"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2001.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Environmental Sciences",
+                "FieldsOfStudy": [
+                    "Environmental Engineering",
+                    "Meteorology",
+                    "Natural Resources",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technological Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 523\nMacenta\nBoma Sud",
+                "City": "N\u2019Z\u00e9r\u00e9kor\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "University for Community Development",
+                "university_name": "Universit\u00e9 pour D\u00e9veloppement Communautaire (UDECOM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agro-industrial and Food Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Computing (MIAGE)",
+                "FieldsOfStudy": [
+                    "Business Computing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment Studies",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance and Management",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology",
+                "FieldsOfStudy": [
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Finance",
+                    "Management",
+                    "Sociology"
+                ],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 1134\nRoute de Prince Cosa - Enco 5 - P\u00e9n\u00e9trante de Simambossia\nQuartier Simambossia",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://iuheg-info.com",
+                "college_name": "University Institute of Advanced Studies of Guinea",
+                "university_name": "Institut Universitaire des Hautes Etudes de Guin\u00e9e (IUHEG)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities (FLSH)",
+                "FieldsOfStudy": [
+                    "English",
+                    "Geography (Human)",
+                    "Journalism",
+                    "Mass Communication",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law, Economic and Management Sciences (FDSEG)",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Insurance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Sciences and New Technologies (FSTNT)",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Geological Engineering",
+                    "Industrial Engineering",
+                    "Industrial Maintenance",
+                    "Mining Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kinifi, Lambanyi\nCommune de Ratoma\nP.O. Box 1382",
+                "City": "Conakry",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://universiteunic.com",
+                "college_name": "University International College",
+                "university_name": "Coll\u00e8ge Universitaire International (UNIC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1987 as Ecole Moyenne Sup\u00e9rieur d\u2019Informatique et de Gestion (EMSIG). Became Institut des Ecoles d\u2019Ing\u00e9nieurs 1993, Universit\u00e9 Consulaire (UNIC) 1999. Acquired current status and title 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Computing (MIAGE)",
+                "FieldsOfStudy": [
+                    "Business Computing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology",
+                "FieldsOfStudy": [
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Telecommunications Engineering",
+                "FieldsOfStudy": [
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Quartier Ansoumanya\nCarrefour Cimenterie\nFace Station Shell",
+                "City": "Dubr\u00e9ka",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.uwog-edu.com",
+                "college_name": "Winfrey OPRAH University of Guinea",
+                "university_name": "Universit\u00e9 Winfrey OPRAH de Guin\u00e9e (UWOG)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2012.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law, Political, Social Sciences and Humanities",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Literature",
+                    "Political Sciences",
+                    "Social and Community Services",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical Sciences and New Information Technologies",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Commercial Law",
+                    "Development Studies",
+                    "Human Resources",
+                    "Management",
+                    "Sociology",
+                    "Statistics"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

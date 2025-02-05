@@ -1,0 +1,5464 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Koryun 2",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0025",
+                "Website": "https://www.ysmu.am",
+                "college_name": "Yerevan State Medical University named after Mkhitar Heratsi",
+                "university_name": "Erevani Mxitar Heracu Anvan Petakan Bjshkakan Hamalsaran (YSMU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1920, acquired present status and title 1995",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Armenian",
+                "Russian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "General Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Endocrinology",
+                    "Haematology",
+                    "Laboratory Techniques",
+                    "Medicine",
+                    "Neurology",
+                    "Obstetrics and Gynaecology",
+                    "Oncology",
+                    "Orthopaedics",
+                    "Paediatrics",
+                    "Pharmacology",
+                    "Radiology",
+                    "Surgery",
+                    "Urology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Military Medicine",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Military Science",
+                    "Rehabilitation and Therapy",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Armenian",
+                    "History",
+                    "Management",
+                    "Microbiology",
+                    "Modern Languages",
+                    "Organic Chemistry",
+                    "Pathology",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate and Continuing Education",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Cardiology",
+                    "Cosmetology",
+                    "Dentistry",
+                    "Dermatology",
+                    "Endocrinology",
+                    "Health Administration",
+                    "Medicine",
+                    "Neurology",
+                    "Nursing",
+                    "Obstetrics and Gynaecology",
+                    "Oncology",
+                    "Ophthalmology",
+                    "Orthodontics",
+                    "Orthopaedics",
+                    "Paediatrics",
+                    "Pharmacology",
+                    "Plastic Surgery",
+                    "Radiology",
+                    "Rehabilitation and Therapy",
+                    "Stomatology",
+                    "Surgery",
+                    "Traditional and Complementary Medicine and Therapy",
+                    "Venereology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Dermatology",
+                    "Ecology",
+                    "Epidemiology",
+                    "Gender Studies",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Hygiene",
+                    "Law",
+                    "Physical Therapy",
+                    "Pneumology",
+                    "Psychiatry and Mental Health",
+                    "Psychology",
+                    "Public Health",
+                    "Rehabilitation and Therapy",
+                    "Venereology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Stomatology",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Dental Technology",
+                    "Forensic Medicine and Dentistry",
+                    "Histology",
+                    "Orthodontics",
+                    "Paediatrics",
+                    "Physics",
+                    "Physiology",
+                    "Rehabilitation and Therapy",
+                    "Stomatology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Cardiology",
+                    "Dental Technology",
+                    "Dentistry",
+                    "Medicine",
+                    "Obstetrics and Gynaecology",
+                    "Pharmacy",
+                    "Rehabilitation and Therapy",
+                    "Surgery"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Alex Manoogian Street 1",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0025",
+                "Website": "https://www.ysu.am",
+                "college_name": "Yerevan State University",
+                "university_name": "Yerevani Petakan Hamalsaran (YSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1919",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Competitive entrance examination following general or special secondary school certificate"
+            ],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Armenian Philology",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "Art Criticism",
+                    "Linguistics",
+                    "Literature",
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Biology",
+                    "Biophysics",
+                    "Biotechnology",
+                    "Botany",
+                    "Cell Biology",
+                    "Ecology",
+                    "Environmental Management",
+                    "Genetics",
+                    "Microbiology",
+                    "Physiology",
+                    "Plant and Crop Protection",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "International Economics",
+                    "Management",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "European Languages and Communication",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "German",
+                    "Italian",
+                    "Literature",
+                    "Philology",
+                    "Romance Languages",
+                    "Spanish",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geography and Geology",
+                "FieldsOfStudy": [
+                    "Geochemistry",
+                    "Geography",
+                    "Geography (Human)",
+                    "Geological Engineering",
+                    "Geology",
+                    "Geophysics",
+                    "Mineralogy",
+                    "Petrology",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Art History",
+                    "Cultural Studies",
+                    "Demography and Population",
+                    "Ethnology",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informatics and Applied Mathematics",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Science",
+                    "Information Technology",
+                    "Software Engineering",
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Relations",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "History",
+                    "International Relations and Diplomacy",
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "Criminology",
+                    "European Union Law",
+                    "International Law",
+                    "Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Mechanics",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Finance",
+                    "Insurance",
+                    "Mathematics",
+                    "Mechanics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Oriental Studies",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Oriental Studies",
+                    "Persian",
+                    "Turkish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacology and Chemistry",
+                "FieldsOfStudy": [
+                    "Analytical Chemistry",
+                    "Chemistry",
+                    "Ecology",
+                    "Inorganic Chemistry",
+                    "Organic Chemistry",
+                    "Pharmacology",
+                    "Physical Chemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy and Psychology",
+                "FieldsOfStudy": [
+                    "Ethics",
+                    "Logic",
+                    "Philosophy",
+                    "Psychology",
+                    "Social Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Astrophysics",
+                    "Nuclear Physics",
+                    "Optics",
+                    "Physics",
+                    "Solid State Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Radiophysics",
+                "FieldsOfStudy": [
+                    "Mathematics",
+                    "Microelectronics",
+                    "Microwaves",
+                    "Physics",
+                    "Radiophysics",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Russian Philology",
+                "FieldsOfStudy": [
+                    "Linguistics",
+                    "Literature",
+                    "Russian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology",
+                "FieldsOfStudy": [
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "History of Religion",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Applied Mathematics",
+                    "Biology",
+                    "Computer Science",
+                    "Economics",
+                    "Geography",
+                    "Geology",
+                    "History",
+                    "Journalism",
+                    "Law",
+                    "Philology",
+                    "Radiophysics",
+                    "Sociology",
+                    "Theology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "40 Marshal Baghramyan Ave.",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0019",
+                "Website": "http://www.aua.am",
+                "college_name": "American University of Armenia",
+                "university_name": "(AUA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991 as a graduate institution. Launched undergraduate education 2013. Affiliated with the University of California and licensed by the Republic of Armenia Ministry of Education, Science, Culture and Sports",
+            "AcademicYear": "July 1 - June 30.",
+            "AdmissionRequirements": [
+                "Undergraduate degree",
+                "English language proficiency (TOEFL = 550), GRE or GMAT"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Research and Development",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering Research",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "Acopian"
+            },
+            {
+                "College": "Health Services Research and Development",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal Resource",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Policy Analysis",
+                "FieldsOfStudy": [
+                    "Political Sciences"
+                ],
+                "Details": "Turpanjian"
+            },
+            {
+                "College": "Research in Applied Linguistics",
+                "FieldsOfStudy": [
+                    "Applied Linguistics",
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rural Development",
+                "FieldsOfStudy": [
+                    "Rural Planning"
+                ],
+                "Details": "Turpanjian"
+            },
+            {
+                "College": "Business and Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Economics",
+                    "Foreign Languages Education",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Engineering",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Engineering",
+                    "Information Sciences",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Armenak Armenakyan 125",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0047",
+                "Website": "http://shirakatsi.org",
+                "college_name": "Anania Shirakatsi University of International Relations",
+                "university_name": "Anania Shirakatsi Mijazgain Haraberutyunneri Hamalsaran (SUIR)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1990. Acquired present status 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "German",
+                    "Modern Languages",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Studies",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Titogradyan 14",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0087",
+                "Website": "http://www.armedin.am/en",
+                "college_name": "Armenian Medical Institute",
+                "university_name": "Haikakan B\u017ehshkakan Hamalsaran (\u0410\u041cI)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1990. Acquired present status 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian",
+                "Russian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Stomatology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Teryan Street 74",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0009",
+                "Website": "http://www.anau.am",
+                "college_name": "Armenian National Agricultural University",
+                "university_name": "Hayastani Petakan Agrarayin Hamalsaran \u2013 Armenian State Agrarian University (ASAU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1930 as Armenian Agricultural Academy. Acquired present status 1994 and title 2005",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agribusiness and Marketing",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Political Sciences",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture Mechanization and Automobile Transportation",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agricultural Equipment",
+                    "Automotive Engineering",
+                    "Electrical Engineering",
+                    "Machine Building",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Armenian",
+                    "Biology",
+                    "Ecology",
+                    "Forestry",
+                    "Horticulture",
+                    "Modern Languages",
+                    "Plant and Crop Protection",
+                    "Russian",
+                    "Vegetable Production"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Banking",
+                    "Computer Science",
+                    "Economics",
+                    "Finance",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foodstuff Technologies",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Chemistry",
+                    "Food Technology",
+                    "Horticulture",
+                    "Leather Techniques",
+                    "Packaging Technology",
+                    "Physical Education",
+                    "Physics",
+                    "Thermal Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hydro Melioration, Land Management and Land Cadastre",
+                "FieldsOfStudy": [
+                    "Construction Engineering",
+                    "History",
+                    "Materials Engineering",
+                    "Philosophy",
+                    "Real Estate",
+                    "Soil Conservation",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine and Sanity Expertize",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Animal Husbandry",
+                    "Biochemistry",
+                    "Epidemiology",
+                    "Hygiene",
+                    "Microbiology",
+                    "Obstetrics and Gynaecology",
+                    "Parasitology",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Rehabilitation and Therapy",
+                    "Veterinary Science",
+                    "Virology",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Accountancy",
+                    "Agricultural Equipment",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Applied Chemistry",
+                    "Banking",
+                    "Biochemistry",
+                    "Botany",
+                    "Cell Biology",
+                    "Construction Engineering",
+                    "Crop Production",
+                    "Ecology",
+                    "Economics",
+                    "Finance",
+                    "Food Technology",
+                    "Forestry",
+                    "Fruit Production",
+                    "Genetics",
+                    "Geophysics",
+                    "Horticulture",
+                    "Machine Building",
+                    "Management",
+                    "Mechanical Engineering",
+                    "Mineralogy",
+                    "Molecular Biology",
+                    "Obstetrics and Gynaecology",
+                    "Oncology",
+                    "Pathology",
+                    "Pharmacology",
+                    "Plant and Crop Protection",
+                    "Real Estate",
+                    "Soil Science",
+                    "Statistics",
+                    "Surgery",
+                    "Surveying and Mapping",
+                    "Veterinary Science",
+                    "Viticulture",
+                    "Water Science"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Shirvanzade 7",
+                "City": "Sisian",
+                "Province": "N/A",
+                "PostCode": "3502",
+                "Website": "https://anau.am/education/educational-branches/sisian-branch",
+                "college_name": "Armenian National Agricultural University \u2013 Sisian Branch",
+                "university_name": "Hayastani Petakan Agrarayin Hamalsaran"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2004",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agrotechnological and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Food Technology",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economical, Raw Material and Social Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Abovyan 64",
+                "City": "Vanadzor",
+                "Province": "N/A",
+                "PostCode": "2009",
+                "Website": "https://anau.am/en/education/educational-branches/vanadzor-branch",
+                "college_name": "Armenian National Agricultural University \u2013 Vanadzor Branch",
+                "university_name": "Hayastani Petakan Agrarayin Hamalsaran"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2004",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture Mechanization",
+                "FieldsOfStudy": [
+                    "Agricultural Equipment"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agronomy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Animal Husbandry",
+                "FieldsOfStudy": [
+                    "Animal Husbandry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Expertise, Standardization and Certification of Agricultural Raw and Foodstuff",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Food Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry and Landscaping",
+                "FieldsOfStudy": [
+                    "Forestry",
+                    "Landscape Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Land Management and Land Cadastre",
+                "FieldsOfStudy": [
+                    "Soil Management",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology of Milk and Dairy Products",
+                "FieldsOfStudy": [
+                    "Dairy",
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Sanitary Expertize",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Alek Manukyan 11",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0070",
+                "Website": "https://sportedu.am/index.php?lng=en",
+                "college_name": "Armenian State Institute of Physical Culture and Sport",
+                "university_name": "Hayastani Fizikakan Kulturayi ev Sporti Petakan Institut (ASIPCS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "The Armenian State Institute of Physical Culture was founded on the 21st of July, 1945. In 2016 'The Armenian State Institute of Physical Culture\" non-profit organization acquired status of foundation with the name of 'Armenian State Institute of Physical Culture and Sport'",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Health Technologies, sport tourism and management",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Management",
+                    "Marketing",
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sport Pedagogy and Management",
+                "FieldsOfStudy": [
+                    "Modern Languages",
+                    "Pedagogy",
+                    "Physical Education",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Training rehabilitation",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Journalism",
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Physical Education"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tigran Mets 17",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "3750010",
+                "Website": "https://aspu.am",
+                "college_name": "Armenian State Pedagogical University After Khachatur Abovyan",
+                "university_name": "Kh. Abovyani Anvan Petakan Manakavarzhakan Hamalsaran \u2013 \"Armenian State Pedagogical University after Khachatur Abovyan\" Foundation Charter (ASPU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1922, acquired present status 2008",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Democracy and Human Rights Education",
+                "FieldsOfStudy": [
+                    "Human Rights"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Basic Studies",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "ASPU Yerevan Basic College SNGO"
+            },
+            {
+                "College": "Art Education",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Conducting",
+                    "Cultural Studies",
+                    "Design",
+                    "Fine Arts",
+                    "Handicrafts",
+                    "Music",
+                    "Music Education",
+                    "Musical Instruments",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology, Chemistry and Geography",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Geography",
+                    "Physiology",
+                    "Science Education",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Culture",
+                "FieldsOfStudy": [
+                    "Architectural Restoration",
+                    "Cinema and Television",
+                    "Cultural Studies",
+                    "Dance",
+                    "Journalism",
+                    "Museum Studies",
+                    "Music",
+                    "Photography",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education Management",
+                "FieldsOfStudy": [
+                    "Educational Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Psychology and Sociology",
+                "FieldsOfStudy": [
+                    "Developmental Psychology",
+                    "Educational Psychology",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "Foreign Languages Education",
+                    "German",
+                    "Modern Languages",
+                    "Romance Languages",
+                    "Russian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Jurisprudence",
+                "FieldsOfStudy": [
+                    "History",
+                    "History of Law",
+                    "Humanities and Social Science Education",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics, Physics and Informatics",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Physics",
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philology",
+                "FieldsOfStudy": [
+                    "Ancient Languages",
+                    "Armenian",
+                    "Humanities and Social Science Education",
+                    "Literature",
+                    "Philology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Preschool Education",
+                "FieldsOfStudy": [
+                    "Mathematics Education",
+                    "Native Language Education",
+                    "Preschool Education",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Special Education",
+                "FieldsOfStudy": [
+                    "Psychology",
+                    "Special Education",
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy",
+                "FieldsOfStudy": [
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Biology",
+                    "Chemistry",
+                    "Cultural Studies",
+                    "Engineering",
+                    "Geography",
+                    "History",
+                    "Mathematics",
+                    "Pedagogy",
+                    "Philology",
+                    "Physics",
+                    "Psychology",
+                    "Sociology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "128 Nalbandyan Street.",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0025",
+                "Website": "http://www.asue.am",
+                "college_name": "Armenian State University of Economics",
+                "university_name": "Hayastani Petakan Tntesagitakan Hamalsaran (ASUE)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1930 as a Cooperative-Economics Institute. Became Yerevani Petakan Tntesagitakan Institut (Yerevan State Institute of Economics) in 1975, Yerevan State Institute of Economics in 1999. Acquired present status and title 2006",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Finance and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Accounting and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science and Statistics",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Business Computing",
+                    "Computer Science",
+                    "E-Business/Commerce",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance",
+                    "Insurance",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Industrial and Production Economics",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing and Business Organization",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Regulation of Economy and International Economic R\u0435lations",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "International Economics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Accountancy",
+                    "Applied Mathematics",
+                    "Economics",
+                    "Finance",
+                    "International Economics",
+                    "Management"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "V. Sargsyan 32",
+                "City": "Gyumri",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://asuegb.am",
+                "college_name": "Armenian State University of Economics \u2013 Gyumri Branch",
+                "university_name": "Hayastani Petakan Tntesagitakan Hamalsaran \u2013 Gyumrii Masnachuoh (ASUEGB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "General Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "4 Vayk Street",
+                "City": "Yeghegnadzor",
+                "Province": "Vayots Dzor",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Armenian State University of Economics \u2013 Yeghegnadzor Branch",
+                "university_name": "Hayastani Petakan Tntesagitakan Hamalsaran \u2013 Yeghegnadzor Masnachuoh"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2007",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Economic Relations",
+                "FieldsOfStudy": [
+                    "International Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Tourism Management",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sebastia 3/7",
+                "City": "Yerevan",
+                "Province": "56-51-45",
+                "PostCode": "0065",
+                "Website": "http://mkhitargosh.am",
+                "college_name": "Armenian-Russian International University Mkhitar Gosh",
+                "university_name": "Vanadzori Mkhitar Gosh hay-rusakan Midjazgayn Hamalsaran \u2013 Mkhitar Gosh Armenian-Russian International University"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996. Acquired present status 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "Literature",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "German",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Finance",
+                    "International Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Pharmacy",
+                    "Stomatology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Hanrapetutyan str. 71\n(former Alaverdyan) 2nd lane. 19 sh.",
+                "City": "Yerevan",
+                "Province": "tadevosyangroup@mail.ru",
+                "PostCode": "0010",
+                "Website": "http://datporc.com",
+                "college_name": "Azpat-Veteran Yerevan Institute of Forensic Examination and Psychology",
+                "university_name": "Azpat-Veteran Datakan Porcagitutyan Ev Hogebanutyan Institut \u2013 Azpat-Veteran Institute of Yerevan"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1994, acquired present status 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Acharyan 1",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0040",
+                "Website": "http://cmsa.am",
+                "college_name": "Crisis Management State Academy of the Republic of Armenia",
+                "university_name": "Chgnajamayin Karavarman Petakan Akademia \u2013 Crisis Management State Academy of the Ministry of Emergency Situations of the Republic of Armenia (CMSA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1992",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Civil protection",
+                "FieldsOfStudy": [
+                    "Civil Security"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Crisis Management",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Crisis management (Graduate)",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Exploitation and Equipment of Special Transport and Fire Rescue Equipment",
+                "FieldsOfStudy": [
+                    "Fire Science",
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fire protection",
+                "FieldsOfStudy": [
+                    "Fire Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Protection in Emergency Situations",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rescue Work",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rescue Work (Graduate)",
+                "FieldsOfStudy": [
+                    "Protective Services"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Azatutyan 24/2",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0014",
+                "Website": "http://www.eiu.am",
+                "college_name": "Eurasia International University",
+                "university_name": "Yevrasia Mijazgain Hamalsaran (EIU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996 as Mkhitar Gosh Migazgain Hamalsaran - Yerevan. Acquired present status 2001 and title 2004.",
+            "AcademicYear": "September to May (September-December; February-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate and entrance examination"
+            ],
+            "Languages": [
+                "Armenian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Foreign Languages and Literature",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "German",
+                    "Literature",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Administrative Law",
+                    "Constitutional Law",
+                    "Economics",
+                    "European Union Law",
+                    "Fiscal Law",
+                    "German",
+                    "Government",
+                    "Management",
+                    "Public Administration",
+                    "Public Law"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "10 Davit Anhaght\nZeitun district",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0037",
+                "Website": "https://eua.am",
+                "college_name": "European University",
+                "university_name": "Evropakan Hamalsaran (EUA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2001. Offers both academic and vocational training using both traditional Armenian and European curricula. Formerly known as European Regional Educational Academy",
+            "AcademicYear": "September to May",
+            "AdmissionRequirements": [
+                "Mijnakarg Yndhanur Krtoutian Attestat or equivalent secondary school certificate"
+            ],
+            "Languages": [
+                "Armenian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "International Business",
+                    "International Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informational Technologies",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and International Relations",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Linguistics and Tourism",
+                "FieldsOfStudy": [
+                    "Linguistics",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy and Psychology",
+                "FieldsOfStudy": [
+                    "Pedagogy",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Economics",
+                    "Electronics and Automation",
+                    "International Economics",
+                    "Law",
+                    "Linguistics",
+                    "Management",
+                    "Public Law",
+                    "Tourism"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Arabkir 27 str., 1/6 building",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "375010",
+                "Website": "http://www.finacademy.am",
+                "college_name": "Financial Academy",
+                "university_name": "Finansakan Akademia \u2013 MFB Finance Academy"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1999 as Banking Economical Institute. Acquired present title and state status 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Atestat"
+            ],
+            "Languages": [
+                "Armenian",
+                "Russian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Banking and Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "David Anhaght Street 10",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0037",
+                "Website": "https://www.ufar.am",
+                "college_name": "French University in Armenia",
+                "university_name": "Hayastani Fransiakan Hamalsaran \u2013 Fondation Universit\u00e9 Fran\u00e7aise en Arm\u00e9nie (UFAR)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2000",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian",
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Computer Science and Applied Mathematics",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "International Business",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Economics",
+                    "Management",
+                    "Marketing",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Hrant Hakobyan 1",
+                "City": "Gavar",
+                "Province": "Gegharkunik Region",
+                "PostCode": "378630",
+                "Website": "http://gsu.am",
+                "college_name": "Gavar State University",
+                "university_name": "Gavari Petakan Hamalsaran (GSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1993",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate and state entrance examination"
+            ],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Correspondense",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Armenian",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Ecology",
+                    "Geography (Human)",
+                    "History",
+                    "Law",
+                    "Literature",
+                    "Natural Resources",
+                    "Pedagogy",
+                    "Primary Education",
+                    "Russian",
+                    "Surveying and Mapping",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "History",
+                    "Law",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Ecology",
+                    "Geography",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philology",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "Literature",
+                    "Modern Languages",
+                    "Russian"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avangard Street, House 4",
+                "City": "Goris",
+                "Province": "Syunik Region",
+                "PostCode": "3204",
+                "Website": "http://www.gorsu.am",
+                "college_name": "Goris State University",
+                "university_name": "Gorisi Petakan Hamalsaran (GSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1967 acquired present status 1984",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Management",
+                    "Marine Engineering",
+                    "Modern Languages",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "History",
+                    "Law",
+                    "Literature",
+                    "Pedagogy",
+                    "Physical Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Hrazdan Centre",
+                "City": "Hrazdan",
+                "Province": "Kotayk Region",
+                "PostCode": "2301",
+                "Website": "http://www.hinstitute.am",
+                "college_name": "Humanitarian Institute of Hrazdan",
+                "university_name": "Hrazdani Humanitar Institut \u2013 Hrazdan Institute of Humanities (HIH)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996. Acquired present status 2002",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate and entrance examination"
+            ],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Economic and Finance Policy",
+                    "Economics",
+                    "Finance",
+                    "Geography (Human)",
+                    "History",
+                    "Industrial and Production Economics",
+                    "Marketing",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Banking",
+                    "Civil Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "Finance",
+                    "History of Law",
+                    "Labour Law",
+                    "Law",
+                    "Private Law",
+                    "Public Administration",
+                    "Real Estate"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Pedagogy",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1 Charents St.\n9th floor",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0025",
+                "Website": "http://www.iatc.am",
+                "college_name": "International Accountancy Training Center Educational Fund",
+                "university_name": "Yerevan \"International Accountancy Training Center\" Educational Fund (IATC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Audit",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "M. Baghramyan 24d",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0019",
+                "Website": "http://www.isec.am",
+                "college_name": "International Scientific Educational Center of the National Academy of Sciences of Republic of Armenia",
+                "university_name": "RA NAS International Scientific Educational Centre (ISEC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Armenology and Social Sciences",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "History",
+                    "Law",
+                    "Oriental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry and Earth Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Geology",
+                    "Geophysics",
+                    "Information Sciences",
+                    "Natural Sciences",
+                    "Seismology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematical and Technical Sciences",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electronics and Automation",
+                    "Mathematics",
+                    "Mechanics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Ecology",
+                    "Molecular Biology",
+                    "Natural Sciences",
+                    "Physiology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Anthropology",
+                    "Applied Mathematics",
+                    "Archaeology",
+                    "Architecture",
+                    "Art History",
+                    "Astrophysics",
+                    "Biochemistry",
+                    "Biotechnology",
+                    "Botany",
+                    "Building Technologies",
+                    "Cell Biology",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Criminal Law",
+                    "Criminology",
+                    "Design",
+                    "Electronics and Automation",
+                    "Ethnology",
+                    "Fine Arts",
+                    "Genetics",
+                    "Handicrafts",
+                    "History",
+                    "History of Law",
+                    "Inorganic Chemistry",
+                    "Law",
+                    "Literature",
+                    "Logic",
+                    "Mathematics",
+                    "Mechanics",
+                    "Molecular Biology",
+                    "Music",
+                    "Optics",
+                    "Organic Chemistry",
+                    "Philosophy",
+                    "Physical Chemistry",
+                    "Physics",
+                    "Physiology",
+                    "Radiophysics",
+                    "Sociology",
+                    "Software Engineering",
+                    "Solid State Physics",
+                    "Sound Engineering (Acoustics)"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1A, Sajat-Nova Street",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0001",
+                "Website": "http://www.conservatory.am",
+                "college_name": "Komitas State Conservatory of Yerevan",
+                "university_name": "Yerevani Komitasi Anvan Petakan Conservatoria \u2013 Yerevan State Conservatory after Komitas (YSC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1921",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Orchestra",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Piano",
+                "FieldsOfStudy": [
+                    "Musical Instruments"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Vocal Theory",
+                "FieldsOfStudy": [
+                    "Conducting",
+                    "Music Theory and Composition",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Music"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ankakhutyan Square 1",
+                "City": "Gyumri",
+                "Province": "N/A",
+                "PostCode": "377526",
+                "Website": "N/A",
+                "college_name": "Komitas State Conservatory of Yerevan \u2013 Gyumri Branch",
+                "university_name": "Yerevani Komitasi Anvan Petakan Conservatoria \u2013 Gyumrii Masnachuoh (YSCGC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Paruyr Sevak 4",
+                "City": "Gyumri",
+                "Province": "Shirak Region",
+                "PostCode": "3126",
+                "Website": "http://shsu.am",
+                "college_name": "M. Nalbandyan State University of Shirak Foundation",
+                "university_name": "Shiraki M. Nalbandyani Anvan Petakan Hamalsaran Himnadram (SUSh)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1934 as a branch of the Armenian State Pedagogical University. Became Gyumri State Pedagogical Institute named after M. Nalbandyan in 1991, acquired current status and title in 2016",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "All-Institute",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "English",
+                    "French",
+                    "Geography",
+                    "History",
+                    "Information Technology",
+                    "Law",
+                    "Mathematics",
+                    "Military Science",
+                    "Pedagogy",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Russian",
+                    "Social Work",
+                    "Sociology",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Arts",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "Computer Graphics",
+                    "Design",
+                    "English",
+                    "French",
+                    "German",
+                    "Journalism",
+                    "Library Science",
+                    "Literature",
+                    "Music",
+                    "Painting and Drawing",
+                    "Russian",
+                    "Service Trades",
+                    "Tourism",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Applied Mathematics",
+                    "Astronomy and Space Science",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Geography",
+                    "Information Technology",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mechanics",
+                    "Physics",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Military Training",
+                "FieldsOfStudy": [
+                    "Military Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy",
+                "FieldsOfStudy": [
+                    "Pedagogy",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Law Studies",
+                "FieldsOfStudy": [
+                    "History",
+                    "Law",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": "N/A",
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "54A Mashtots Avenue",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "375033",
+                "Website": "http://must.am",
+                "college_name": "Medical University after Saint Tereza",
+                "university_name": "Yerevani Surb Terezayi Anvan Gutyan Qureri Bghshkakan Institut \u2013 St. Theresa Medical University (MUST)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1992, acquired present status 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Armenian",
+                "Russian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Stomatology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Programming",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "105, Teryan Str.",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0009",
+                "Website": "http://polytech.am",
+                "college_name": "National Polytechnic University of Armenia",
+                "university_name": "Hayastani Azgayin Polytekhnikakan Hamalsaran (NPUA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "National Polytechnic University of Armenia, the legal successor of Yerevan Polytechnic Institute (YerPI) was founded in 1933. In 1991, YerPI was reorganized into State Engineering University of Armenia (SEUA), which was reestablished and renamed as 'National Polytechnic University of Armenia' Foundation (NPUA) in November, 2014. The central campus of NPUA is located in Yerevan (the Capital City), and the branch campuses \u2013 in Gyumri, Vanadsor and Kapan, thus embracing in its sphere all the industrial regions of the country. The University has a leading role in the reformations of the higher education system of Armenia. NPUA is a member of European University Association (EUA), the Black Sea Universities Network (BSUN), the Association of Technical Universities of the RF, Network University of CIS countries, etc.",
+            "AcademicYear": "September to June included (First semester: September-January; Second semester: February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate and entrance examination"
+            ],
+            "Languages": [
+                "Armenian",
+                "English",
+                "Russian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Gyumri Regional Branch",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Design",
+                    "Economics",
+                    "Electronics and Automation",
+                    "Information Technology",
+                    "Power Engineering",
+                    "Textile Technology",
+                    "Transport Engineering"
+                ],
+                "Details": "The Gyumri campus of NPUA was founded in 1959 (at present, the Gyumri branch of the National Polytechnic University of Armenia)"
+            },
+            {
+                "College": "Kapan Regional Branch",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Economics",
+                    "Information Technology",
+                    "Metallurgical Engineering",
+                    "Mining Engineering"
+                ],
+                "Details": "The Kapan Campus of NPUA started its functioning in 1984, initially - as a Training-Consulting Centre and later, in 1997 it was reorganized as a campus of NPUA to meet the needs of growing economy of the Syunik region"
+            },
+            {
+                "College": "Vanadzor Regional Branch",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Economics",
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Software Engineering",
+                    "Transport Management"
+                ],
+                "Details": "Vanadzor branch of National Polytechnic University of Armenia (NPUA) was founded in 1959 with the object to prepare highly qualified engineers to meet demands of industrial companies of Lori region"
+            },
+            {
+                "College": "Foreign Students",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Biomedical Engineering",
+                    "Chemical Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Information Technology",
+                    "Microelectronics",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Mathematics",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Correspondence Education",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Mechanical Engineering",
+                    "Metallurgical Engineering",
+                    "Mining Engineering",
+                    "Nuclear Engineering",
+                    "Power Engineering",
+                    "Telecommunications Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Energetics and Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Engineering Management",
+                    "Environmental Studies",
+                    "Nuclear Engineering",
+                    "Power Engineering",
+                    "Safety Engineering",
+                    "Thermal Engineering"
+                ],
+                "Details": "The Institute offers Undergraduate and Graduate programs in Power Engineering, Energy Management, Environmental Protection Engineering, Economics and Programs encompassing all aspects of Electrical Engineering"
+            },
+            {
+                "College": "Information and Communication Technologies and Electronics",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Computer Engineering",
+                    "Computer Graphics",
+                    "Computer Networks",
+                    "Economics",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Engineering Management",
+                    "Information Management",
+                    "Information Technology",
+                    "Measurement and Precision Engineering",
+                    "Meteorology",
+                    "Microelectronics",
+                    "Nanotechnology",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering, Machine-Building, Transportation Systems and Design",
+                "FieldsOfStudy": [
+                    "Air Transport",
+                    "Design",
+                    "Economics",
+                    "Instrument Making",
+                    "Measurement and Precision Engineering",
+                    "Mechanical Engineering",
+                    "Road Transport",
+                    "Robotics",
+                    "Transport Engineering",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mining, Metalurgy and Chemical Technologies",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Chemical Engineering",
+                    "Economics",
+                    "Environmental Engineering",
+                    "Food Technology",
+                    "Materials Engineering",
+                    "Metallurgical Engineering",
+                    "Mining Engineering"
+                ],
+                "Details": "The Institute provides a comprehensive education aimed at preparing qualified specialists in the fields of mining and mineral extraction, metallurgy, chemical technologies of organic and inorganic materials"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Biotechnology",
+                    "Chemical Engineering",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Energy Engineering",
+                    "Engineering Management",
+                    "Environmental Studies",
+                    "Information Technology",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Measurement and Precision Engineering",
+                    "Mechanics",
+                    "Metallurgical Engineering",
+                    "Microelectronics",
+                    "Mining Engineering",
+                    "Nuclear Engineering",
+                    "Power Engineering",
+                    "Thermal Engineering",
+                    "Transport and Communications"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Mher Mkrtchyan 2",
+                "City": "Gyumri",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://npuagb.am",
+                "college_name": "National Polytechnic University of Armenia \u2013 Gyumri Branch",
+                "university_name": "Hayastani Petakan Tchartaragitakan Hamalsaran (NPUAGB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Construction Engineering",
+                "FieldsOfStudy": [
+                    "Construction Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical Engineering, Information and Automation Systems",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Electronics and Automation",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Physical Education",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Economics and Management",
+                "FieldsOfStudy": [
+                    "Industrial and Production Economics",
+                    "Industrial Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering and Transport System",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics and Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Textile Engineering",
+                "FieldsOfStudy": [
+                    "Textile Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Kapan",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.haphkapan.com",
+                "college_name": "National Polytechnic University of Armenia \u2013 Kapan Branch",
+                "university_name": "Hayastani Petakan Tchartaragitakan Hamalsaran"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Natural Sciences and Information System",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Electronics and Automation",
+                    "Information Technology",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology and Industrial Economics",
+                "FieldsOfStudy": [
+                    "Construction Engineering",
+                    "Economics",
+                    "Management",
+                    "Materials Engineering",
+                    "Measurement and Precision Engineering",
+                    "Metallurgical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Shinararner str. 12",
+                "City": "Vanadzor",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://polytechvan.am",
+                "college_name": "National Polytechnic University of Armenia \u2013 Vanadzor Branch",
+                "university_name": "Hayastani Petakan Tchartaragitakan Hamalsaran"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1959",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Natural Sciences and Information Systems",
+                "FieldsOfStudy": [
+                    "Industrial and Production Economics",
+                    "Information Technology",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology and Economics",
+                "FieldsOfStudy": [
+                    "Applied Physics",
+                    "Arts and Humanities",
+                    "Engineering",
+                    "Graphic Design",
+                    "Industrial Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Metallurgical Engineering",
+                    "Physical Education",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Teryan Street 105",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0009",
+                "Website": "http://nuaca.am",
+                "college_name": "National University of Architecture and Construction of Armenia",
+                "university_name": "Chartarapetut\u2019yan yev shinarararut\u2019yan Hayastani azgayin hamalsaran (NUACA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1921 as a Technical Faculty of Yerevan State University. Became Yerevan State University of Architecture and Construction in 2000. Acquired current title 2014",
+            "AcademicYear": "September to August",
+            "AdmissionRequirements": [
+                "Secondary school certificate or university diploma and entrance examination"
+            ],
+            "Languages": [
+                "Armenian",
+                "Russian",
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Construction",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Construction Engineering",
+                    "Geology",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architectural and Environmental Design",
+                    "Architectural Restoration",
+                    "Architecture",
+                    "Art History",
+                    "Environmental Studies",
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Computer Graphics",
+                    "Design",
+                    "Heating and Refrigeration",
+                    "Hydraulic Engineering",
+                    "Painting and Drawing",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Technology",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Economics",
+                    "Management",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Architecture",
+                    "Building Technologies",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Economics",
+                    "Hydraulic Engineering",
+                    "Industrial Maintenance",
+                    "Management",
+                    "Surveying and Mapping",
+                    "Transport Engineering",
+                    "Water Management"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Alex Manukyan 15a",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0070",
+                "Website": "https://www.northern.am",
+                "college_name": "Northern University",
+                "university_name": "Hyusisain Hamalsaran"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996. Acquired present status 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics, Management and Informatics",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Economics",
+                    "Management",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philology and Pedagogy",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "Germanic Languages",
+                    "Journalism",
+                    "Literature",
+                    "Pedagogy",
+                    "Psychology",
+                    "Romance Languages",
+                    "Russian"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Accountancy",
+                    "Law",
+                    "Literature",
+                    "Taxation"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "7 Azgaldyan Str.",
+                "City": "Vardenis",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Pedagogical Institute of Vardenis named after V. Hambardzumyan",
+                "university_name": "Vardenisi Viktor Hambardzumyan Avan Mankavarjakan Institut"
+            },
+            "InstitutionFunding": "Private",
+            "History": "N/A",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Armenian Language and Literature",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher's Training",
+                "FieldsOfStudy": [
+                    "Pedagogy",
+                    "Primary Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tigran Mets Street 1",
+                "City": "Gyumri",
+                "Province": "Shirak Region",
+                "PostCode": "3101",
+                "Website": "http://progress-hamalsaran.am",
+                "college_name": "Progress University of Gyumri",
+                "university_name": "Gyumrii Progres Hamalsaran"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1990. Acquired present status 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Armenian Secondary school certificate"
+            ],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Medical",
+                "FieldsOfStudy": [
+                    "Dental Technology",
+                    "Midwifery",
+                    "Nursing",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Linguistics",
+                    "Modern Languages",
+                    "Pedagogy",
+                    "Psychology",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kievyan 8",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0028",
+                "Website": "https://paara.am",
+                "college_name": "Public Administration Academy of the Republic of Armenia",
+                "university_name": "(PAARA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1994",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Languages and Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Finance",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Governance and Political Analysis",
+                "FieldsOfStudy": [
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology of Management",
+                "FieldsOfStudy": [
+                    "Industrial and Organizational Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Economics",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Law"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "123 Hovsep Emin street",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0051",
+                "Website": "https://www.rau.am/eng",
+                "college_name": "Russian-Armenian (Slavonic) University",
+                "university_name": "Rus-Haikakan (Slavonakan) Hamalsaran \u2013 Russian-Armenian University (RAU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Russian-Armenian University was founded following the interstate agreement between the Republic of Armenia and Russian Federation in 1997",
+            "AcademicYear": "September to January; March to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Russian",
+                "Armenian",
+                "English",
+                "French",
+                "German",
+                "Arabic",
+                "Hindi",
+                "Persian",
+                "Spanish"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Physical Education and Health",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Physical Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biomedicine and Pharmacy",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Bioengineering",
+                    "Biological and Life Sciences",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Molecular Biology",
+                    "Pharmacology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Physics",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Materials Engineering",
+                    "Microelectronics",
+                    "Nanotechnology",
+                    "Optical Technology",
+                    "Physics",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "History",
+                    "Literature",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Psychology",
+                    "Regional Studies",
+                    "Russian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Politics",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "European Union Law",
+                    "History of Law",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electronics and Automation",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media, Advertising and Film Production",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Cinema and Television",
+                    "Film",
+                    "Journalism",
+                    "Media Studies",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Oriental Studies",
+                "FieldsOfStudy": [
+                    "Oriental Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Accountancy",
+                    "Administrative Law",
+                    "Applied Mathematics",
+                    "Astronomy and Space Science",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Biophysics",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "Criminology",
+                    "Data Processing",
+                    "Ecology",
+                    "Economics",
+                    "Electronics and Automation",
+                    "European Union Law",
+                    "Finance",
+                    "Germanic Languages",
+                    "History",
+                    "History of Law",
+                    "Information Technology",
+                    "International Economics",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Journalism",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Management",
+                    "Mathematics",
+                    "Molecular Biology",
+                    "Organic Chemistry",
+                    "Parasitology",
+                    "Physics",
+                    "Political Sciences",
+                    "Private Law",
+                    "Psychology",
+                    "Public Law",
+                    "Regional Studies",
+                    "Romance Languages",
+                    "Science Education",
+                    "Slavic Languages",
+                    "Software Engineering",
+                    "Statistics",
+                    "Teacher Training",
+                    "Telecommunications Engineering",
+                    "Zoology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Isahakyan 36",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0009",
+                "Website": "http://www.safa.am",
+                "college_name": "State Academy of Fine Arts of Armenia",
+                "university_name": "Hayastani Gegharvesti Petakan Akademia \u2013 Yerevan State Academy of Fine Arts (SAFA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1945 as Yerevan State Institute of Fine Arts, acquired present status and title 1999",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Design and Decorative Applied Arts",
+                "FieldsOfStudy": [
+                    "Computer Graphics",
+                    "Design",
+                    "Fashion Design",
+                    "Fine Arts",
+                    "Graphic Arts",
+                    "Handicrafts",
+                    "Sculpture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Fine Arts",
+                    "Graphic Arts",
+                    "Painting and Drawing",
+                    "Sculpture"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Design",
+                    "Fine Arts",
+                    "Handicrafts"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Getapnya aj",
+                "City": "Dilijan",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "State Academy of Fine Arts of Armenia \u2013 Dilijan Branch",
+                "university_name": "Hayastani Gegharvesti Petakan Akademia \u2013 Dilijan Masnachuoh"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1999",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Arts and Handicrafts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Handicrafts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ankakhutyan Square 1",
+                "City": "Gyumri",
+                "Province": "Shirak",
+                "PostCode": "3101",
+                "Website": "http://hgpa-gyumri.blogspot.com",
+                "college_name": "State Academy of Fine Arts of Armenia \u2013 Gyumri Branch of Academy of Fine Arts of Armenia",
+                "university_name": "Hayastani Gegharvesti Petakan Akademia \u2013 Hayastani Gegharvesti Akademiayi Gyumru Masnachyu \u2013 State Academy of Fine Arts of Armenia (SAFA Gyumri)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Gyumri branch of State Academy of Fine Arts of Armenia was established in 1997. The Academy has five chairs : Fine Arts, Graphic, Fashion modeling, Design and Decorative arts, Theory of Art and History. Since 2009 the Academy is involved in 4 programs of TEMPUS project",
+            "AcademicYear": "September to January ; February to June",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian",
+                "English",
+                "Russian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Graphic Arts",
+                "FieldsOfStudy": [
+                    "Graphic Arts",
+                    "Painting and Drawing",
+                    "Photography",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Theory of Fine Arts",
+                "FieldsOfStudy": [
+                    "Art Criticism",
+                    "Art History",
+                    "Art Management",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Painting",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Painting and Drawing",
+                    "Photography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sculpture",
+                "FieldsOfStudy": [
+                    "Sculpture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Decorative Applied Arts/Potter\u2019s Art",
+                "FieldsOfStudy": [
+                    "Ceramic Art",
+                    "Engraving",
+                    "Handicrafts",
+                    "Jewellery Art",
+                    "Weaving"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Folk Crafts",
+                "FieldsOfStudy": [
+                    "Fashion Design",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Teryan 105\n1st Building, 4th Floor",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0009",
+                "Website": "https://mkhu.am",
+                "college_name": "University after Movses Khorenatsi",
+                "university_name": "Yerevani Movses Khorenatsu Anvan Hamalsaran \u2013 Yerevan University Named after Movses Khorenats (MKHU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996. Acquired present status 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Economic and Finance Policy",
+                    "Economics",
+                    "Finance",
+                    "International Economics",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Elementary Education Pedagogy and Methodology",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Psychology",
+                    "Hygiene",
+                    "Pedagogy",
+                    "Primary Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informatics and Applied Mathematics",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Computer Engineering",
+                    "Computer Graphics",
+                    "Computer Science",
+                    "Electronics and Automation",
+                    "Foreign Languages Education",
+                    "Mathematics Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "International Law",
+                    "Law",
+                    "Notary Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philology",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "Humanities and Social Science Education",
+                    "Linguistics",
+                    "Literature",
+                    "Native Language Education",
+                    "Philology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Romance-Germanic Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "German",
+                    "Linguistics",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sebastia 3A",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://education.am/culture.htm",
+                "college_name": "University of Culture",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996. Activity partially suspended since 2011",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Cultural Studies",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Folklore",
+                    "Music",
+                    "Musical Instruments",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Industrial Design",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Khorhrdarani St., 32/1 Building",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0015",
+                "Website": "http://mtih.am",
+                "college_name": "University of Economy and Law after Avetik Mkrtchyan",
+                "university_name": "Avetik Mkrtchyan Tntesairavagitakan Hamalsaran (MTIH)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1990 as Yerevani Tntesairavagitakan Hamalsaran (Yerevan University of Economics and Law). Acquired present status 2001. Acquired present title 2008",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "English Language and Literature",
+                "FieldsOfStudy": [
+                    "English",
+                    "Literature",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Relations",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy and Language Teaching Methods",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Pedagogy",
+                    "Primary Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Miasnikyan 5",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0025",
+                "Website": "http://uier-edu.am",
+                "college_name": "University of International Economic Relations",
+                "university_name": "Yerevani Martig Artakin Tntesakan Kaperi Hamalsaran \u2013 Mardig University of International Economic Relations (MARTIG UIER)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991. Acquired present status 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Behavioural Sciences",
+                    "Economics",
+                    "Finance",
+                    "Marketing",
+                    "Statistics",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Sciences",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Graphics",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Data Processing",
+                    "Software Engineering",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Banking",
+                    "Econometrics",
+                    "Economics",
+                    "Environmental Studies",
+                    "Finance",
+                    "International Business",
+                    "International Economics",
+                    "Mathematics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Commercial Law",
+                    "Economics",
+                    "Finance",
+                    "Government",
+                    "International Business",
+                    "Management",
+                    "Real Estate"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "Environmental Studies",
+                    "Ethics",
+                    "European Union Law",
+                    "History of Law",
+                    "Insurance",
+                    "International Law",
+                    "Labour Law",
+                    "Law",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Computing",
+                    "Commercial Law",
+                    "Communication Studies",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Babajanyan 38a, Avan.",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "375040",
+                "Website": "http://utm.am",
+                "college_name": "University of Traditional Medicine",
+                "university_name": "Avandakan B\u017ehshkutyan Hamalsaran (UTM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991. Acquired present status 2001",
+            "AcademicYear": "From September to June (Sep-Jan; Apr-June)",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "c. , 19a Koryun",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.urartuuniversity.com",
+                "college_name": "Urartu University of Practical Psychology and Sociology",
+                "university_name": "Yerevani Gorcnakan Hogebanutyan ev Sociologiai Urartu Hamalsaran"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991. Acquired present status 2002",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "High school diploma"
+            ],
+            "Languages": [
+                "Armenian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Clinical Psychology",
+                    "Educational Psychology",
+                    "Industrial and Organizational Psychology",
+                    "Physical Therapy",
+                    "Psychology",
+                    "Psychotherapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Modern Languages",
+                    "Natural Sciences",
+                    "Pedagogy",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Psychology",
+                    "Social Sciences"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tigran Mets 36",
+                "City": "Vanadzor",
+                "Province": "Lori Region",
+                "PostCode": "2021",
+                "Website": "https://www.vsu.am",
+                "college_name": "Vanadzor State University after Hovh. Tumanyan",
+                "university_name": "Vanadzori Hovhannes T\u2019umanyani anvan petakan hamalsaran \u2013 Vanadzor State University after H. Tumanyan (VSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1969. Acquired present title 2014. Formerly known as Vanadzori Hovhannes Toumanyani anvan Petakan Mankavar\u017eakan Institut (Vanadzor State Pedagogical Institute named after Hovhannes Toumanyan)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate and entrance examination"
+            ],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "English",
+                    "History",
+                    "Journalism",
+                    "Literature",
+                    "Russian",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Biology",
+                    "Chemistry",
+                    "Ecology",
+                    "Information Technology",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Pharmacology",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Studies",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Law",
+                    "Management",
+                    "Musicology",
+                    "Pedagogy",
+                    "Primary Education",
+                    "Psychology",
+                    "Service Trades",
+                    "Social Work",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Armenian",
+                    "Biological and Life Sciences",
+                    "Botany",
+                    "Ecology",
+                    "History",
+                    "Literature",
+                    "Physical Chemistry",
+                    "Teacher Training"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Futchiki 27/5",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0048",
+                "Website": "http://www.yau.am",
+                "college_name": "Yerevan Agricultural University",
+                "university_name": "Yerevani Gyughatntesakan Hamalsaran (YAU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1992",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "105 Teryan\n5th building of SEUA",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0009",
+                "Website": "http://galick.do.am",
+                "college_name": "Yerevan Galik University",
+                "university_name": "Yerevani Galik Hamalsaran"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1989, acquired current status 2001",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "Foreign Languages Education",
+                    "French",
+                    "German",
+                    "Modern Languages",
+                    "Philology",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Publishing and Book Trade",
+                    "Radio and Television Broadcasting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "International Law",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Notary Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Banking",
+                    "Economics",
+                    "Electronics and Automation",
+                    "Finance",
+                    "International Economics",
+                    "International Relations and Diplomacy",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Primary Education",
+                "FieldsOfStudy": [
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Grigor Lusavorich 7/1",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0015",
+                "Website": "http://www.gladzor.am",
+                "college_name": "Yerevan Gladzor University",
+                "university_name": "Gladzor Karavarman Hamalsaran \u2013 Gladzor Management University"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1990 as Gladzor University, acquired present status 2001, acquired current title 2006",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Armenian Language and Literature",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Language",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "German",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technologies and Systems",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Relations",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Accountancy",
+                    "Administrative Law",
+                    "Banking",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Computer Science",
+                    "Constitutional Law",
+                    "Economics",
+                    "European Union Law",
+                    "Finance",
+                    "Fiscal Law",
+                    "Germanic Languages",
+                    "History",
+                    "International Law",
+                    "Labour Law",
+                    "Law",
+                    "Literature",
+                    "Management",
+                    "Mass Communication",
+                    "Private Law",
+                    "Public Law",
+                    "Romance Languages"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Abelyan 6",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "375038",
+                "Website": "http://www.academedu.org",
+                "college_name": "Yerevan Haybusak University",
+                "university_name": "Yerevani Haybusak Hamalsaran (YHU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991. Acquired present status 2001. Joined with Armenian Open University after L. Kalashyan, International Relations Institute after H. Lazaryan, and Yerevan Haybusak University base College into a structure called International Academy of Education (IAE) 2006",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian",
+                "English",
+                "Russian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Fashion Design",
+                    "Graphic Arts"
+                ],
+                "Details": "Roslin"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Economics",
+                    "Finance",
+                    "Information Technology",
+                    "Management",
+                    "Public Health",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "Journalism",
+                    "Literature",
+                    "Modern Languages",
+                    "Pedagogy",
+                    "Psychology",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and International Relations after Lazarian",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "International Relations and Diplomacy",
+                    "Oriental Studies",
+                    "Persian",
+                    "Political Sciences",
+                    "Tourism"
+                ],
+                "Details": "Lazaryan"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Mkhitar Heratsi St.\n2/1 building",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "025",
+                "Website": "http://mashtotsuniversity.am",
+                "college_name": "Yerevan Mesrop Mashtots University",
+                "university_name": "Yerevani Mesrop Mashtoci Anvan Mankavargakan Hamalsaran \u2013 Yerevan University Named after Mesrop Mashtots"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1990. Acquired present status 2002",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting and Audit",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Armenian Language and Literature",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Fashion Design",
+                    "Industrial Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "French",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "International Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Socio-cultural Services and Tourism",
+                "FieldsOfStudy": [
+                    "Social and Community Services",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher Training and Methodics for Elementary Education",
+                "FieldsOfStudy": [
+                    "Primary Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher Training and Psychology",
+                "FieldsOfStudy": [
+                    "Psychology",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Amiryan 26",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0002",
+                "Website": "http://www.ysitc.am",
+                "college_name": "Yerevan State Institute of Theatre and Cinema",
+                "university_name": "Erevani Tatroni ev Kinoyi Petakan Institut \u2013 Yerevan State Institute of Theatre and Cinematography (YSITC/ETKPI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1944, acquired present status and title 1997",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate; College graduation or diploma of other institution"
+            ],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Goris",
+                "FieldsOfStudy": [
+                    "Performing Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Gyumri",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Cinema and Television"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Vanadzor",
+                "FieldsOfStudy": [
+                    "Performing Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Art History, Theory and Management",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Art Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Film, TV and Animation",
+                "FieldsOfStudy": [
+                    "Cinema and Television",
+                    "Clothing and Sewing",
+                    "Display and Stage Design",
+                    "Film",
+                    "Sound Engineering (Acoustics)",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Part-Time Studies",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Art History",
+                    "Art Management",
+                    "Arts and Humanities",
+                    "Cinema and Television",
+                    "Dance",
+                    "Singing",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theatre",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Cinema and Television",
+                    "Film",
+                    "Theatre"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Usanoghakan Street 3",
+                "City": "Ijevan",
+                "Province": "N/A",
+                "PostCode": "377260",
+                "Website": "http://ijevan.ysu.am",
+                "college_name": "Yerevan State University \u2013 Ijevan Branch",
+                "university_name": "Yerevani Petakan Hamalsaran \u2013 Ijevan Masnachuogh (YSUIB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1994.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Armenian"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Arts",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Painting and Drawing",
+                    "Sculpture",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Economics",
+                    "Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "Arts and Humanities",
+                    "English",
+                    "French",
+                    "History",
+                    "Literature",
+                    "Pedagogy",
+                    "Psychology",
+                    "Russian",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Information Technology",
+                    "Mathematics",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Tumanyan 42",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "375002",
+                "Website": "http://www.brusov.am/index.php",
+                "college_name": "Yerevan State University of Languages and Social Sciences after V. Brusov",
+                "university_name": "Yerevani V. Bryowsovi Anvan Petakan Hamalsaran \u2013 Brusov State University (BSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1935. Renamed Yerevan State Linguistic University after V. Brusov 2000, acquired current title 2014",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "Secondary school certificate"
+            ],
+            "Languages": [
+                "Armenian",
+                "Russian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "Armenian",
+                    "English",
+                    "European Languages",
+                    "Foreign Languages Education",
+                    "French",
+                    "German",
+                    "Korean",
+                    "Linguistics",
+                    "Oriental Languages",
+                    "Pedagogy",
+                    "Physical Education",
+                    "Romance Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Russian Language, Literature and Foreign Languages",
+                "FieldsOfStudy": [
+                    "Literature",
+                    "Russian",
+                    "Slavic Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Translation and Intercultural Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "English",
+                    "French",
+                    "German",
+                    "Journalism",
+                    "Linguistics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Regional Studies",
+                    "Tourism",
+                    "Translation and Interpretation",
+                    "Turkish"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "English",
+                    "French",
+                    "German",
+                    "Germanic Languages",
+                    "International Relations and Diplomacy",
+                    "Linguistics",
+                    "Literature",
+                    "Pedagogy",
+                    "Political Sciences",
+                    "Romance Languages",
+                    "Slavic Languages",
+                    "Teacher Training"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Malkhasyanc 1/8",
+                "City": "Yerevan",
+                "Province": "N/A",
+                "PostCode": "0051",
+                "Website": "N/A",
+                "college_name": "Yerevan University of Management",
+                "university_name": "Yerevani Karavarman Hamalsaran (YUM)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Created 1996 and acquired current status 2001",
+            "AcademicYear": "September to January; February to July",
+            "AdmissionRequirements": [
+                "Undergrduate, Secondary School Certificate (original), military papers (for male students), centralized admission exam; Maste'r degrees - Bachelor's degree"
+            ],
+            "Languages": [
+                "Armenian",
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Orthodontics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Criminal Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Linguistics",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "Linguistics",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

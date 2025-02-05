@@ -1,0 +1,1364 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "PO BOX 4285",
+                "City": "Kigali",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://ur.ac.rw",
+                "college_name": "University of Rwanda",
+                "university_name": "(UR)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "The University of Rwanda (UR) was established in 2013 through a merger of the former seven Public Higher Learning Institutions - the National University of Rwanda (NUR), Kigali Institute of Science and Technology (KIST), Kigali Institute of Education (KIE), Institute of Agriculture and Animal Husbandry (ISAE), Kigali Health Institute (KHI), School of Finance and Banking (SFB) and Umutara Polytechnic (UP). Later, it also integrated 3 Nursing Schools.The oldest of these institutions that merged to form UR was the National University of Rwanda created in 1963. UR is the largest and most comprehensive university in Rwanda with about 31,760 students (2015/2016) registered in its six colleges: College of Arts and Social Sciences (CASS), College of Agriculture, Animal Sciences and Veterinary Medicine (CAVM), College of Business and Economics (CBE), College of Education (CE), College of Medicine and Health Sciences (CMHS) and College of Science and Technology (CST). UR offers courses on 14 campuses scattered around Rwanda.",
+            "AcademicYear": "September to May",
+            "AdmissionRequirements": [
+                "Secondary school certificate or equivalent, or foreign equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Agricultural Equipment",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Crop Production",
+                    "Food Science",
+                    "Forestry",
+                    "Horticulture",
+                    "Irrigation",
+                    "Rural Planning",
+                    "Rural Studies",
+                    "Soil Management",
+                    "Soil Science",
+                    "Veterinary Science",
+                    "Water Management"
+                ],
+                "Details": "Formerly Institute of Agriculture and Animal Husbandry (ISAE)"
+            },
+            {
+                "College": "Arts and Social Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Arts and Humanities",
+                    "Communication Arts",
+                    "English",
+                    "French",
+                    "Journalism",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Political Sciences",
+                    "Publishing and Book Trade",
+                    "Social Sciences",
+                    "Swahili",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "Banking",
+                    "Business Administration",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "Human Resources",
+                    "Insurance",
+                    "International Economics",
+                    "Marketing",
+                    "Statistics",
+                    "Transport Management"
+                ],
+                "Details": "Formerly School of Finance and Banking"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Business Education",
+                    "Education",
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education",
+                    "Mathematics Education",
+                    "Physical Education",
+                    "Primary Education",
+                    "Science Education",
+                    "Secondary Education"
+                ],
+                "Details": "Formerly Kigali Institute of Education"
+            },
+            {
+                "College": "Medicine and Health Sciences",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Clinical Psychology",
+                    "Community Health",
+                    "Dentistry",
+                    "Dietetics",
+                    "Health Sciences",
+                    "Medical Auxiliaries",
+                    "Medical Technology",
+                    "Medicine",
+                    "Midwifery",
+                    "Nursing",
+                    "Nutrition",
+                    "Ophthalmology",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Public Health"
+                ],
+                "Details": "Formerly Kigali Health Institute"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Applied Chemistry",
+                    "Applied Mathematics",
+                    "Applied Physics",
+                    "Architecture",
+                    "Biology",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical and Electronic Engineering",
+                    "Engineering",
+                    "Food Science",
+                    "Food Technology",
+                    "Industrial Management",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Natural Sciences",
+                    "Real Estate",
+                    "Technology"
+                ],
+                "Details": "Formerly Kigali Institute of Science and Technology and Umtuara\u00a8Polytechnic"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Medicine"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Education",
+                    "Educational and Student Counselling",
+                    "Medicine",
+                    "Technology Education",
+                    "Vocational Education"
+                ],
+                "Master'sDegree": [
+                    "Agricultural Engineering",
+                    "Animal Husbandry",
+                    "Business Administration",
+                    "Chemistry",
+                    "Clinical Psychology",
+                    "Commercial Law",
+                    "Computer Engineering",
+                    "Curriculum",
+                    "Development Studies",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Epidemiology",
+                    "Gender Studies",
+                    "Health Administration",
+                    "History of Law",
+                    "Information Sciences",
+                    "Information Technology",
+                    "International Law",
+                    "Medical Technology",
+                    "Medicine",
+                    "Meteorology",
+                    "Natural Resources",
+                    "Nursing",
+                    "Peace and Disarmament",
+                    "Pharmacy",
+                    "Physics",
+                    "Public Administration",
+                    "Public Health",
+                    "Road Engineering",
+                    "Social Sciences",
+                    "Soil Science",
+                    "Telecommunications Engineering",
+                    "Translation and Interpretation",
+                    "Transport Economics",
+                    "Transport Engineering",
+                    "Water Management",
+                    "Water Science"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "KK 3 Ave",
+                "City": "Kigali",
+                "Province": "City of Kigali",
+                "PostCode": "250",
+                "Website": "https://www.auca.ac.rw",
+                "college_name": "Adventist University of Central Africa",
+                "university_name": "(AUCA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1978. Officially opened in 1984. The Adventist University of Central is located in Rwanda, in Kigali City, just 4km away from the Kigali International Airport. AUCA has three campuses: (1) two in Kigli the capital - Masoro campus (Main), Gishushu campus for Science and Technology, and 92) Ngoma Nursing campus in the Western Province. AUCA is the first private university to be established in Rwanda, and it enjoys a track record reputation in quality teaching since then, locally and regionally. AUCA runs both undergraduate and masters programmes. Programmes include Nursing, Education (English Language and Literature, IT, Geography and History), Information Management, Software Engineering, Networks and Communication Systems, Theology, Finance, Accounting, Management, Marketing, Medicine. AUCA also hosts one of the prestigious medical schools, the Adventist School of Medicine of East-Central Africa (ASOME), at its Masoro campus in Kigali city. ASOME started its first cohort of medical students in March 2021.",
+            "AcademicYear": "September to August",
+            "AdmissionRequirements": [
+                "Secondary school certificate and entrance examination"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Midwifery",
+                    "Nursing"
+                ],
+                "Details": "Ngoma Adventist College of Health Sciences"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Human Resources",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Educational Technology",
+                    "English",
+                    "Mathematics Education",
+                    "Phonetics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Information Management",
+                    "Information Technology",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Networks",
+                    "Education",
+                    "Finance",
+                    "Information Management",
+                    "Information Technology",
+                    "Management",
+                    "Marketing",
+                    "Medicine",
+                    "Midwifery",
+                    "Nursing",
+                    "Software Engineering",
+                    "Theology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Teacher Training"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 49",
+                "City": "Butar\u00e9",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.cur.ac.rw",
+                "college_name": "Catholic University of Rwanda",
+                "university_name": "(CUR)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2010.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Catechesis and Religious Science",
+                "FieldsOfStudy": [
+                    "Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business and Commerce",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Computer Education",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "Mathematics Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health and Human Nutrition",
+                "FieldsOfStudy": [
+                    "Nutrition",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Family Studies",
+                    "Social Work",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Biomedicine",
+                    "Business and Commerce",
+                    "Family Studies",
+                    "Nutrition",
+                    "Public Health",
+                    "Religious Studies",
+                    "Social Welfare",
+                    "Welfare and Protective Services"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Musanze Street\nNM 155",
+                "City": "Musanze",
+                "Province": "Province du Nord",
+                "PostCode": "N/A",
+                "Website": "https://www.ines.ac.rw",
+                "college_name": "INES-Ruhengeri",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate or equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Applied Fundamental Sciences",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Biomedical Engineering",
+                    "Biotechnology",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Economics",
+                    "Environmental Engineering",
+                    "Food Technology",
+                    "Hydraulic Engineering",
+                    "Law",
+                    "Library Science",
+                    "Public Administration",
+                    "Road Engineering",
+                    "Software Engineering",
+                    "Statistics",
+                    "Surveying and Mapping"
+                ],
+                "Details": "AFS"
+            },
+            {
+                "College": "Economics, Social Sciences and Management",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Economics",
+                    "Entrepreneurship",
+                    "Finance",
+                    "International Economics",
+                    "Management",
+                    "Public Administration",
+                    "Real Estate",
+                    "Social Sciences"
+                ],
+                "Details": "ESSM"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Applied Linguistics",
+                    "Education",
+                    "English",
+                    "French"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Biomedicine",
+                    "Biotechnology",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Economics",
+                    "English",
+                    "French",
+                    "Government",
+                    "Law",
+                    "Management",
+                    "Public Administration",
+                    "Real Estate",
+                    "Statistics"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Entrepreneurship",
+                    "Finance",
+                    "Haematology",
+                    "Management",
+                    "Microbiology",
+                    "Software Engineering",
+                    "Taxation"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 49\nAvenue des sports",
+                "City": "Nyanza",
+                "Province": "Southern Province",
+                "PostCode": "N/A",
+                "Website": "http://www.ilpd.ac.rw",
+                "college_name": "Institute of Legal Practice and Development",
+                "university_name": "Institut sup\u00e9rieur de Pratique et de D\u00e9veloppement du Droit (ILPD)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "French",
+                "Kinyarwanda"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Continuing Legal Education",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Criminal Law",
+                    "Human Rights",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal Practice",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legislative Drafting",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "E-learning Course"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Law"
+                ],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 62\nMuhanga District",
+                "City": "Gitarama",
+                "Province": "Southern Province",
+                "PostCode": "RW 00250",
+                "Website": "http://www.uck.ac.rw",
+                "college_name": "Kabgayi Catholic Institute",
+                "university_name": "Institut catholique de Kabgayi \u2013 Kaminuza Gatolika ya Kabgayi (ICK)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002. Started as Universit\u00e9 Catholique de Kabgayi became Institut Catholique de Kabgayi, 2010.",
+            "AcademicYear": "January to December",
+            "AdmissionRequirements": [
+                "Secondary School Advanced Certificate of Education or Equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Research and Professional Development",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Development Studies",
+                    "Information Technology",
+                    "Management",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Development Sciences",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Rural Planning",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journamism and Communication Studies",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Journalism",
+                    "Library Science",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social, Economic Sciences and Management",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Anthropology",
+                    "Economics",
+                    "Management",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Development Studies",
+                    "Economics",
+                    "Environmental Management",
+                    "Journalism",
+                    "Management",
+                    "Public Relations",
+                    "Rural Studies",
+                    "Sociology",
+                    "Urban Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 31\nOpposite Free Methodist Church",
+                "City": "Rusizi",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.kp.ac.rw",
+                "college_name": "Kibogora Polytechnic",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2012. Acquired present status, 2015.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Development Studies",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Economics",
+                    "Finance",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "African Languages",
+                    "Biology",
+                    "Business Education",
+                    "Chemistry",
+                    "Education",
+                    "English",
+                    "Foreign Languages Education",
+                    "French",
+                    "History",
+                    "Humanities and Social Science Education",
+                    "Mathematics Education",
+                    "Natural Sciences",
+                    "Physics",
+                    "Science Education",
+                    "Swahili"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Medical Technology",
+                    "Midwifery",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Midwifery",
+                    "Nursing"
+                ],
+                "Bachelor'sDegree": [
+                    "Business Education",
+                    "Mathematics Education",
+                    "Medical Technology",
+                    "Nursing",
+                    "Science Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Education"
+                ],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 2280",
+                "City": "Kigali",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ulk.ac.rw",
+                "college_name": "Kigali Independent University",
+                "university_name": "Universit\u00e9 libre de Kigali (ULK)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996. Acquired present status 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school leaving certificate or equivalent"
+            ],
+            "Languages": [
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Business Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Development Studies",
+                    "Economics",
+                    "Finance",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Demography and Population",
+                    "Development Studies",
+                    "International Relations and Diplomacy",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Administration",
+                    "Computer Science",
+                    "Demography and Population",
+                    "Development Studies",
+                    "Economics",
+                    "Finance",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Private Law",
+                    "Public Law",
+                    "Rural Studies",
+                    "Sociology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Development Studies",
+                    "Economics",
+                    "Finance",
+                    "Government",
+                    "International Law",
+                    "Law",
+                    "Public Law"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 619",
+                "City": "Huye",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.piass.ac.rw",
+                "college_name": "Protestant Institute of Arts and Social Sciences",
+                "university_name": "Institut protestant des Arts et des Sciences sociales (PIASS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1990 as Faculty of Protestant Theology of Butare (Facult\u00e9 de Th\u00e9ologie Protestante de Butare)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Candidates must have sat Rwanda \u2018A2\u2019 level examination and obtained at least pass mark",
+                "Candidates with certificate from neighbouring countries such as Burundi, Tanzania, Kenya, Uganda, and Republic Democratic of Congo must have their grade first equated by the National Examination Board before seeking admission",
+                ""
+            ],
+            "Languages": [
+                "English",
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Development Studies",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Environmental Management",
+                    "Natural Resources",
+                    "Peace and Disarmament",
+                    "Rural Studies",
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology and Religious Studies",
+                "FieldsOfStudy": [
+                    "Religious Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Development Studies",
+                    "Education",
+                    "Environmental Management",
+                    "Natural Resources",
+                    "Peace and Disarmament",
+                    "Religious Studies",
+                    "Theology",
+                    "Urban Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kigali Heights Plot 772\nKG 7 Avenue, 5th Floor\nPO Box 6955",
+                "City": "Kigali",
+                "Province": "Northen Province",
+                "PostCode": "6955",
+                "Website": "https://ughe.org",
+                "college_name": "University of Global Health Equity",
+                "university_name": "(UGHE)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 2014",
+            "AcademicYear": "School of Medicine: January - December\nMGHD: September - August",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Educational Development and Quality",
+                "FieldsOfStudy": [
+                    "Educational Sciences"
+                ],
+                "Details": "This center is responsible for quality assurance in teaching, assessment, pedagogical research and academic systems improvement. This center also runs the Mcs program in Health professions Education (in partnership with "
+            },
+            {
+                "College": "Gender Equity",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "This center runs the MGHD track in Gender, Sexual and Reproductive Health"
+            },
+            {
+                "College": "Global Surgery",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Public Health"
+                ],
+                "Details": "This center runs the MGHD track in Global Surgery"
+            },
+            {
+                "College": "Leadership in Global Health Equity",
+                "FieldsOfStudy": [
+                    "This center runs several executive education program in health care such as global health equity",
+                    "digital health",
+                    "health financing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing and Midwifery",
+                "FieldsOfStudy": [
+                    "Midwifery",
+                    "Nursing"
+                ],
+                "Details": "This center runs the Msc in Nursing and Midwifery Leadership"
+            },
+            {
+                "College": "One Health",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "This center runs the MGHD program in One Health"
+            },
+            {
+                "College": "Population Health",
+                "FieldsOfStudy": [
+                    "This center is runs several research and projects",
+                    "and will establish a Demographic surveillance Site in Rwanda"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Global Health",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Public Health"
+                ],
+                "Details": "This institute runs the Master of Sciences in Global Health Delivery Program"
+            },
+            {
+                "College": "Global Health Equity Research",
+                "FieldsOfStudy": [
+                    "This institute is responsible for research and innovation programs at UGHE"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Surgery"
+                ],
+                "Details": "The school of medicine runs the MBBS/MGHD Dual degree program and the PhD program in Basic Medical Sciences and Health Equity"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Medicine",
+                    "Surgery"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education",
+                    "Nursing and Midwifery",
+                    "Public Health"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "KG 7 Ave",
+                "City": "Kigali",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://uok.ac.rw",
+                "college_name": "University of Kigali",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2013.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Management and Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology and Architecture",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Architecture",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Child Care and Development",
+                    "Computer Science",
+                    "Economics",
+                    "Finance",
+                    "Information Technology",
+                    "Law",
+                    "Management",
+                    "Marketing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Education"
+                ],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Education",
+                    "Finance",
+                    "Human Resources",
+                    "Information Technology",
+                    "Management",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "BP 6392",
+                "City": "Kigali",
+                "Province": "Southern Province",
+                "PostCode": "N/A",
+                "Website": "http://www.unilak.ac.rw",
+                "college_name": "University of Lay Adventist of Kigali",
+                "university_name": "Universit\u00e9 des La\u00efcs Adventistes de Kigali"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1997 as Independent Institute of Lay Adventist of Kigali (INILAK). Acquired present status 2009.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate or equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Computing and Information Sciences",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Information Management",
+                    "Information Technology",
+                    "Management",
+                    "Rural Studies",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economic Sciences and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Studies",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Private Law",
+                    "Public Law",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Environmental Management",
+                    "Information Management",
+                    "Information Technology",
+                    "Law",
+                    "Rural Studies",
+                    "Software Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Computer Engineering",
+                    "Criminal Law",
+                    "Development Studies",
+                    "Environmental Studies",
+                    "Information Management",
+                    "Information Technology",
+                    "International Law",
+                    "Law"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 25",
+                "City": "Byumba",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.utab.ac.rw",
+                "college_name": "University of Technology and Arts of Byumba",
+                "university_name": "(UTAB)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002 as Polytechnic University of Rural Development of Byumba (PURDEB) and became Institut Polytechnique de Byumba (IPB). Acquired present status 2015.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Environmental Management",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agriculture",
+                    "Crop Production",
+                    "Environmental Management",
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Economics",
+                    "Education",
+                    "English",
+                    "French",
+                    "Geography",
+                    "History",
+                    "Mathematics",
+                    "Swahili"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences, Management and Development Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Anthropology",
+                    "Development Studies",
+                    "Management",
+                    "Rural Studies",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Agricultural Business",
+                    "Animal Husbandry",
+                    "Anthropology",
+                    "Crop Production",
+                    "Development Studies",
+                    "Education",
+                    "Forest Management",
+                    "Forestry",
+                    "Management",
+                    "Rural Studies",
+                    "Social Work"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Education"
+                ],
+                "Master'sDegree": [
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

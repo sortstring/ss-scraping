@@ -1,0 +1,80 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Anse Royale Campus, P.O. Box 1348",
+                "City": "Anse",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://unisey.ac.sc",
+                "college_name": "University of Seychelles",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "3 GCE A-levels at grades EED or above; or 2 GCE A-levels at grade E or above plus 3 GCSE/GCE O-levels at grade C or above in different subjects; or 2 GCE A-levels at grade E or above plus 2 GCE AS-levels at grade D or above in different subjects, and hold GCSE/GCE O-levels English at grade C or above or have passed a recognised English proficiency test within the past 3 years",
+                ""
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Social Development",
+                "FieldsOfStudy": [
+                    "Education",
+                    "English",
+                    "French",
+                    "Information Technology",
+                    "Social and Community Services",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Sustainable Development",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Environmental Management",
+                    "Law",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Enterprise and Professional Development",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "Human Resources",
+                    "Management"
+                ],
+                "Details": "The Guy Morel Institute"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Law"
+                ],
+                "Bachelor'sDegree": [
+                    "Environmental Management",
+                    "Social and Community Services",
+                    "Social Work"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

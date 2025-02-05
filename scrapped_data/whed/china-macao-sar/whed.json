@@ -1,0 +1,976 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida Wai Long\nTaipa",
+                "City": "Macao",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.must.edu.mo",
+                "college_name": "Macau University of Science and Technology",
+                "university_name": "Universidade de Ci\u00eancia e Tecnologia de Macau (MUST)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2000",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Chinese",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "General Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese Medicine",
+                "FieldsOfStudy": [
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality and Tourism Management",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Arts",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Cultural Research",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Space Science",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sustainable Development",
+                "FieldsOfStudy": [
+                    "Development Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Research in Medicine and Health",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida da Universidade\nTaipa",
+                "City": "Macao",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.um.edu.mo",
+                "college_name": "University of Macau",
+                "university_name": "Universidade de Macau (UM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1981, as University of East Asia, a private institution. The University of Macau (UM) is since 1988 a public international university located in Macau. Acquired present status and title 1991. It has a multicultural campus and a global education system supported by residential faculties and colleges within an international education structure. Eighty percent of its faculty members are from outside Macau. With English as the main medium of instruction, the University is committed to producing creative and socially responsible graduates with a global mindset and international competitiveness",
+            "AcademicYear": "September to June",
+            "AdmissionRequirements": [
+                "- For Undergraduate admission, please refer to  https://reg",
+                "um",
+                "edu",
+                "mo/admissions\n- For Postgraduate admission, please visit the following page https://grs",
+                "um",
+                "edu",
+                "mo/index",
+                "php/prospective-students"
+            ],
+            "Languages": [
+                "Portuguese",
+                "English",
+                "Chinese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Asia-Pacific Academy of Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Continuing Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Macau Studies",
+                "FieldsOfStudy": [
+                    "Regional Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Chinese",
+                    "Design",
+                    "English Studies",
+                    "Fine Arts",
+                    "History",
+                    "Japanese",
+                    "Literature",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Portuguese",
+                    "Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Finance",
+                    "Information Management",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Chinese",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "English",
+                    "Mathematics",
+                    "Physical Education",
+                    "Physics",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Molecular Biology",
+                    "Pharmacy",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Comparative Law",
+                    "European Union Law",
+                    "International Business",
+                    "International Law",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Artificial Intelligence",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Coastal Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Information Sciences",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Robotics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Economics",
+                    "Government",
+                    "History",
+                    "Psychology",
+                    "Public Administration",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Advanced Studies in Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Humanities and Social Science Education",
+                    "Law",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chinese Medical Sciences",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Traditional Eastern Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Collaborative Innovation Educational",
+                "FieldsOfStudy": [
+                    "Artificial Intelligence",
+                    "Cognitive Sciences",
+                    "Education",
+                    "Robotics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Microelectronics",
+                "FieldsOfStudy": [
+                    "Microelectronics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Physics and Materials Engineering",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Materials Engineering",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "State Key Laboratory of Internet of Things for Smart City",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "State Key Laboratory of Quality Research in Chinese",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Education",
+                    "Law",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Estrada Marginal da Ilha Verde 14-17",
+                "City": "Macao",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.usj.edu.mo",
+                "college_name": "University of Saint Joseph",
+                "university_name": "Universidade de S\u00e3o Jos\u00e9 (USJ)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996. Formerly known as Instituto Inter-Universit\u00e1rio de Macau (Macao Inter-University Institute). Acquired current status and title 2009",
+            "AcademicYear": "September to July",
+            "AdmissionRequirements": [
+                "Successful completion of Year 12 of secondary studies"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Language",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "Japanese",
+                    "Portuguese",
+                    "Russian",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Russian",
+                "FieldsOfStudy": [
+                    "Russian"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "African Research and Development Studies",
+                "FieldsOfStudy": [
+                    "African Studies",
+                    "Development Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts Research for Human Expression",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economic and Cultural Relations between China and Portuguese-speaking Countries",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Sciences",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Global and Strategic Studies",
+                "FieldsOfStudy": [
+                    "Political Sciences",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Heritage Studies",
+                "FieldsOfStudy": [
+                    "Heritage Preservation",
+                    "History",
+                    "Southeast Asian Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychological Research and Practice",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts, Letters and Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education",
+                    "Philosophy",
+                    "Psychology",
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Christian Studies",
+                "FieldsOfStudy": [
+                    "Christian Religious Studies",
+                    "Religion",
+                    "Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Intelligent Systems and Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Design",
+                    "Information Technology",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management, Leadership and Government",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Government",
+                    "International Business",
+                    "Leadership",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3\u00b0 Andar, Edif\u00edcio Royal Centre\nAvenida do Dr. Rodrigo Rodrigues",
+                "City": "Macao",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.cityu.edu.mo",
+                "college_name": "City University of Macau",
+                "university_name": "Universidade da Cidade de Macau (CUM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1981 as the University of East Asia (UEA), restructured 1988 to become the public University of Macau, Macao Polytechnic Institute and the privately-owned East Asia Open Institute (Macau). Renamed 1992 Asia International Open University (Macau) by collaboration of East Asia Open Institute (Macau) and the Portuguese National Open University, and 2011 Universidade da Cidade de Macau (City University of Macau).",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Chinese",
+                "English",
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Faculty of Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Social Science",
+                "FieldsOfStudy": [
+                    "Humanities and Social Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Tourism and Management",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economic Research",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Open",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Macau Development",
+                "FieldsOfStudy": [
+                    "Development Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Gaming",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Linguistic Studies",
+                "FieldsOfStudy": [
+                    "Linguistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Macau Social and Economic Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Economics",
+                    "Social Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Official Portuguese-speaking Countries",
+                "FieldsOfStudy": [
+                    "Portuguese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Studies",
+                "FieldsOfStudy": [
+                    "Continuing Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Colina de Mong-H\u00e1",
+                "City": "Macao",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ift.edu.mo",
+                "college_name": "Institute for Tourism Studies",
+                "university_name": "Instituto de Forma\u00e7\u00e3o Tur\u00edstica (IFT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1995.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English",
+                "Chinese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Advanced Tourism Studies",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "Macao-Europe"
+            },
+            {
+                "College": "Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional and Continuing Education",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Cooking and Catering"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Est. Repouso No.35",
+                "City": "Macao",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.kwnc.edu.mo",
+                "college_name": "Kiang Wu Nursing College of Macau",
+                "university_name": "Instituto de Enfermagem Kiang Wu de Macau (KWNC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1923 as Kiang Wu Nursing School. Acquired present status and title 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Chinese",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Nursing"
+                ],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rua Lu\u00eds Gonzaga Gomes",
+                "City": "Macao",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ipm.edu.mo",
+                "college_name": "Macao Polytechnic Institute",
+                "university_name": "Instituto Polit\u00e9cnico de Macau (IPM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Chinese",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Seniors",
+                "FieldsOfStudy": [
+                    "Adult Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "MPI-Bell Centre of English",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Gaming Teaching",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "One Country Two Systems",
+                "FieldsOfStudy": [
+                    "Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Portuguese Language Teaching",
+                "FieldsOfStudy": [
+                    "Portuguese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social, Economic and Public Policy",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education and Special Projects",
+                "FieldsOfStudy": [
+                    "Continuing Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language and Translation",
+                "FieldsOfStudy": [
+                    "Modern Languages",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education and Sports",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rua de Xangai No. 175, Edif. ACM, 9\u00b0 Andar",
+                "City": "Macao",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.mim.edu.mo",
+                "college_name": "Macau Institute of Management",
+                "university_name": "Instituto de Gest\u00e3o de Macau (MIM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1988, acquired present status and title 2000.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Chinese",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Alameda Dr. Carlos d\u2019Assump\u00e7\u00e3o No. 255 China Civil Plaza 8/F",
+                "City": "Macao",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.mmc.edu.mo",
+                "college_name": "Macau Millennium College",
+                "university_name": "Instituto Mil\u00e9nio de Macau (MMC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2001.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Chinese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Literature",
+                "FieldsOfStudy": [
+                    "Asian Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Cultural Studies",
+                    "Hotel Management",
+                    "Management"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

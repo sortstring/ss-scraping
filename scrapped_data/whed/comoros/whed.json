@@ -1,0 +1,175 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Mavingouni",
+                "City": "Moroni",
+                "Province": "Grande Comore",
+                "PostCode": "N/A",
+                "Website": "http://www.univ-comores.km",
+                "college_name": "University of the Comoros",
+                "university_name": "Universit\u00e9 des Comores (UDC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2003",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Patsy",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Arabic",
+                    "Arts and Humanities",
+                    "Biological and Life Sciences",
+                    "Business Administration",
+                    "Earth Sciences",
+                    "Economics",
+                    "Environmental Studies",
+                    "French",
+                    "Geography (Human)",
+                    "Human Resources",
+                    "Law",
+                    "Literature",
+                    "Modern Languages",
+                    "Social Sciences",
+                    "Sustainable Development",
+                    "Teacher Training",
+                    "Tourism"
+                ],
+                "Details": "Centre Universitaire de Patsy (CUP)"
+            },
+            {
+                "College": "Moh\u00e9li",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Agriculture",
+                    "Agronomy",
+                    "Business Administration",
+                    "Economics",
+                    "Teacher Training"
+                ],
+                "Details": "Centre Universitaire de Moh\u00e9li (CUM)"
+            },
+            {
+                "College": "Arabic Letters and Islamic Sciences - Imam Shafioun",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Islamic Law",
+                    "Islamic Studies",
+                    "Islamic Theology",
+                    "Koran",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Archiving",
+                    "Chinese",
+                    "Documentation Techniques",
+                    "English",
+                    "French",
+                    "Geography (Human)",
+                    "History",
+                    "Literature",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Economics",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Economics",
+                    "Law",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Earth Sciences",
+                    "Environmental Studies",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teachers Training and Education Research",
+                "FieldsOfStudy": [
+                    "Teacher Training"
+                ],
+                "Details": "IFERE, Moroni"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Environmental Studies",
+                    "Hotel Management",
+                    "Information Technology",
+                    "Mathematics",
+                    "Statistics",
+                    "Tourism"
+                ],
+                "Details": "IUT"
+            },
+            {
+                "College": "Medicine and Public Health",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Obstetrics and Gynaecology"
+                ],
+                "Details": "EMSP"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Banking",
+                    "Commercial Law",
+                    "Economics",
+                    "Educational Sciences",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Finance",
+                    "Fiscal Law",
+                    "Foreign Languages Education",
+                    "French",
+                    "Islamic Law",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Nursing",
+                    "Public Administration",
+                    "Statistics"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

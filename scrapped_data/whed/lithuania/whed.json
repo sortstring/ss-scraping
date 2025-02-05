@@ -1,0 +1,2598 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Herkaus Manto street 84",
+                "City": "Klaip\u0117da",
+                "Province": "N/A",
+                "PostCode": "92294",
+                "Website": "https://www.ku.lt",
+                "college_name": "Klaip\u0117da University",
+                "university_name": "Klaip\u0117dos universitetas (KU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "A multidisciplinary educational institution established in 1991",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos Atestatas)"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Health Sciences",
+                    "Holistic Medicine",
+                    "Medical Technology",
+                    "Nursing",
+                    "Parks and Recreation",
+                    "Physical Therapy",
+                    "Public Health",
+                    "Social Work",
+                    "Sports",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Technology and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Coastal Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Marine Engineering",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Economics",
+                    "Fine Arts",
+                    "Management",
+                    "Parks and Recreation",
+                    "Pedagogy",
+                    "Performing Arts",
+                    "Public Administration",
+                    "Social Work",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Baltic Region History and Archaeology",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Baltic Languages",
+                    "History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Research Institute",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Ecology",
+                    "Environmental Management",
+                    "Marine Biology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Ecology",
+                    "Economics",
+                    "Educational Sciences",
+                    "Environmental Studies",
+                    "Ethnology",
+                    "Geography",
+                    "Management",
+                    "Philology",
+                    "Political Sciences",
+                    "Transport Engineering"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Ateities street 20",
+                "City": "Vilnius",
+                "Province": "Vilnius district",
+                "PostCode": "08303",
+                "Website": "https://www.mruni.eu",
+                "college_name": "Mykolas Romeris University",
+                "university_name": "Mykolo Romerio universitetas (MRU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1990. Renamed Lietuvos Teis\u0117s Universitetas (Law University of Lithuania) in 2000. Acquired present title and status in 2004. Established shortly after Lithuania regained its independence, MRU is dedicated to advancing the values of democracy, transparency, human dignity, and inclusivity. Over the years, MRU has grown alongside the nation, playing a pivotal role in fostering public governance, legal expertise, and research that contributes to both national and global progress. In 2004 named after Mykolas Romeris, and a leading statesman of interwar Lithuania, the university embodies his commitment to the rule of law and democratic principles.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Certificate of Secondary Education (Brandos atestatas)",
+                "Students are admitted according to average marks in selected exams, plus the average of annual marks in relative subjects",
+                "Admission requirements for overseas students are available on the University website"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Human and Social Studies",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Technology",
+                    "English",
+                    "Pedagogy",
+                    "Philology",
+                    "Psychology",
+                    "Public Relations",
+                    "Social Work",
+                    "Teacher Training",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law School",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Civil Law",
+                    "Commercial Law",
+                    "Comparative Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "European Union Law",
+                    "History of Law",
+                    "International Law",
+                    "International Studies",
+                    "Labour Law",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Governance and Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Digital Technology",
+                    "Economics",
+                    "Environmental Management",
+                    "Finance",
+                    "International Business",
+                    "Leadership",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Security Academy",
+                "FieldsOfStudy": [
+                    "Criminal Law",
+                    "Criminology",
+                    "Law",
+                    "Police Studies",
+                    "Protective Services",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sudovian Academy",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Civil Security",
+                    "Communication Studies",
+                    "Cybersecurity",
+                    "Education",
+                    "English",
+                    "Finance",
+                    "Law",
+                    "Logistics Management",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Economics",
+                    "Educational Sciences",
+                    "Law",
+                    "Management",
+                    "Philology",
+                    "Psychology"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Universiteto street 3",
+                "City": "Vilnius",
+                "Province": "N/A",
+                "PostCode": "01513",
+                "Website": "https://www.vu.lt",
+                "college_name": "Vilnius University",
+                "university_name": "Vilniaus universitetas (VU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1579 as Academica et Universitas Vilnensis with two Faculties: Philosophy and Theology. Reorganized 1781 and again 1803 as the Imperial University of Vilnius. Closed by Tsarist Government 1832 when Faculties of Medicine and Theology became separate Academies. Reopened 1919. Closed during German occupation 1943.",
+            "AcademicYear": "September to July (September-January; February-July)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos Atestatas)"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Gender Studies",
+                "FieldsOfStudy": [
+                    "Gender Studies",
+                    "Men Studies",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Oriental Studies",
+                "FieldsOfStudy": [
+                    "Arabic",
+                    "Asian Studies",
+                    "Chinese",
+                    "Japanese",
+                    "Middle Eastern Studies",
+                    "Oriental Languages",
+                    "Sanskrit"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Religious Studies and Research",
+                "FieldsOfStudy": [
+                    "Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry",
+                "FieldsOfStudy": [
+                    "Analytical Chemistry",
+                    "Chemistry",
+                    "Inorganic Chemistry",
+                    "Organic Chemistry",
+                    "Polymer and Plastics Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication",
+                "FieldsOfStudy": [
+                    "Archiving",
+                    "Communication Studies",
+                    "Information Management",
+                    "Information Sciences",
+                    "Journalism",
+                    "Library Science",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "Insurance",
+                    "International Business",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "Archaeology",
+                    "Contemporary History",
+                    "History",
+                    "Medieval Studies",
+                    "Modern History"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Computer Science",
+                    "English",
+                    "German",
+                    "Management",
+                    "Native Language",
+                    "Philology"
+                ],
+                "Details": "Kaunas"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Civil Law",
+                    "Commercial Law",
+                    "Criminal Law",
+                    "International Law",
+                    "Labour Law",
+                    "Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Informatics",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Software Engineering",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Ergotherapy",
+                    "Hygiene",
+                    "Medicine",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Paediatrics",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biophysics",
+                    "Botany",
+                    "Ecology",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Genetics",
+                    "Geography",
+                    "Geology",
+                    "Meteorology",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Natural Sciences",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philology",
+                "FieldsOfStudy": [
+                    "Classical Languages",
+                    "Dutch",
+                    "English",
+                    "Finnish",
+                    "French",
+                    "German",
+                    "Greek",
+                    "Latin",
+                    "Native Language",
+                    "Philology",
+                    "Polish",
+                    "Russian",
+                    "Scandinavian Languages",
+                    "Slavic Languages",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Clinical Psychology",
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "Industrial and Organizational Psychology",
+                    "Philosophy",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physics",
+                "FieldsOfStudy": [
+                    "Applied Physics",
+                    "Astrophysics",
+                    "Biophysics",
+                    "Physics",
+                    "Radiophysics",
+                    "Solid State Physics",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Research",
+                "FieldsOfStudy": [
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biotechnology",
+                "FieldsOfStudy": [
+                    "Biotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "German",
+                    "Romance Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Relations and Political Science",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Informatics",
+                "FieldsOfStudy": [
+                    "Mathematics and Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theoretical Physics and Astronomy",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Finance",
+                    "International Business",
+                    "International Law",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "International"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Arts and Humanities",
+                    "Biochemistry",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Chemical Engineering",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Education",
+                    "Information Sciences",
+                    "Mathematics",
+                    "Medicine",
+                    "Physics",
+                    "Public Health",
+                    "Social Sciences"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Savi\u010diaus street 17",
+                "City": "Vilnius",
+                "Province": "N/A",
+                "PostCode": "01127",
+                "Website": "http://www.ehu.lt",
+                "college_name": "European Humanities University",
+                "university_name": "Europos Humanitarinis Universitetas (EHU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded in 1992 in Minsk, Belarus. Closed by authorities in 2004. Relaunched in Lithuania in 2005. Acquired current status as an official Lithuanian university in 2006",
+            "AcademicYear": "October to September (October - February; March - September)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Vidurin\u0117s Mokyklos Baigimo Atestatas); Entrance examination"
+            ],
+            "Languages": [
+                "Russian",
+                "Belarusian",
+                "English",
+                "German"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Studies",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Foreign Languages",
+                "FieldsOfStudy": [
+                    "English",
+                    "French",
+                    "German",
+                    "Italian",
+                    "Native Language"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Cultural Studies",
+                    "Heritage Preservation",
+                    "History",
+                    "Social Sciences",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "European Union Law",
+                    "International Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Media",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Design",
+                    "Information Sciences",
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Political Science",
+                "FieldsOfStudy": [
+                    "European Studies",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Philosophy"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Arkli\u0173 g. 18",
+                "City": "Vilnius",
+                "Province": "N/A",
+                "PostCode": "01305",
+                "Website": "http://www.ism.lt",
+                "college_name": "ISM University of Management and Economics",
+                "university_name": "ISM Vadybos ir ekonomikos universitetas (ISM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded by BI Norwegian Business School in 1999. Formerly International School of Management (ISM), Tarptautin\u0117 Ausk\u0161toji Mokykla (ISM)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Lithuanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Doctoral Studies",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Executive Studies",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "Co-operation with the BI Norwegian Business School"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "International Business",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Undergraduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business Education",
+                    "Economics",
+                    "Finance",
+                    "International Business",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Management",
+                    "Social Sciences"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "K. Donelai\u010dio street 73",
+                "City": "Kaunas",
+                "Province": "N/A",
+                "PostCode": "44249",
+                "Website": "http://www.ktu.lt",
+                "college_name": "Kaunas University of Technology",
+                "university_name": "Kauno Technologijos Universitetas (KTU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1922, became University of Lithuania 1922 and University of Kaunas 1940. Technical Department detached and re-organized into Kaunas Polytechnic Institute 1950. Acquired university status 1990",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos Atestatas)"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English",
+                "German",
+                "French",
+                "Russian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Computational Technologies",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Mechanical Engineering",
+                    "Systems Analysis"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Studies",
+                "FieldsOfStudy": [
+                    "Engineering Management",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechatronics Science, Studies and Information",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Micro-systems and Nanotechnology Research",
+                "FieldsOfStudy": [
+                    "Nanotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education and Health",
+                "FieldsOfStudy": [
+                    "Health Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemical Technology",
+                "FieldsOfStudy": [
+                    "Applied Chemistry",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Food Science",
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering and Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Civil Engineering",
+                    "Real Estate",
+                    "Regional Planning",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Design and Technology",
+                "FieldsOfStudy": [
+                    "Fashion Design",
+                    "Furniture Design",
+                    "Multimedia",
+                    "Polymer and Plastics Technology",
+                    "Printing and Printmaking",
+                    "Textile Design",
+                    "Textile Technology",
+                    "Wood Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electrical and Electronics Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Linguistics",
+                    "Media Studies",
+                    "Philosophy",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informatics",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "Panevezys"
+            },
+            {
+                "College": "Mathematics and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Applied Physics",
+                    "Mathematics Education",
+                    "Radiophysics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering and Design",
+                "FieldsOfStudy": [
+                    "Industrial Engineering",
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Packaging Technology",
+                    "Production Engineering",
+                    "Thermal Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences, Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Educational Sciences",
+                    "Educational Technology",
+                    "Pedagogy",
+                    "Public Administration",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technologies and Business",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Electronics and Automation",
+                    "Mechanical Engineering",
+                    "Transport Engineering"
+                ],
+                "Details": "Panev\u0117\u017eys"
+            },
+            {
+                "College": "Telecommunications and Electronics",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Electronic Engineering",
+                    "Engineering Management",
+                    "Measurement and Precision Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture and Construction",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Construction Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biomedical Engineering",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Defence Technologies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Engineering",
+                "FieldsOfStudy": [
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Natural Resources",
+                    "Waste Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food",
+                "FieldsOfStudy": [
+                    "Food Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Telematics Science",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Materials Science",
+                "FieldsOfStudy": [
+                    "Chemistry",
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechatronics",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Metrology",
+                "FieldsOfStudy": [
+                    "Measurement and Precision Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ultrasound Research",
+                "FieldsOfStudy": [
+                    "Sound Engineering (Acoustics)"
+                ],
+                "Details": "Prof. K. Bar\u0161auskas"
+            },
+            {
+                "College": "Economics and Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Economics",
+                    "Finance",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Dariaus ir Gir\u0117no street 21",
+                "City": "Vilnius",
+                "Province": "N/A",
+                "PostCode": "03109",
+                "Website": "http://www.ksu.lt",
+                "college_name": "Kazimieras Simonavi\u010dius University",
+                "university_name": "Kazimiero Simonavi\u010diaus Universitetas (KSU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos Atestatas)"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Competence Development",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Entrepreneurship and Innovation",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Research and Development",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Internet Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Klaip\u00e8da",
+                "FieldsOfStudy": [
+                    "Information Sciences",
+                    "Law",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Creative Society and Economy",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Business Administration",
+                    "Communication Studies",
+                    "Economics",
+                    "Information Sciences",
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kretingos street 36",
+                "City": "Klaip\u0117da",
+                "Province": "N/A",
+                "PostCode": "92307",
+                "Website": "http://www.lcc.lt",
+                "college_name": "LCC International University",
+                "university_name": "LCC Tarptautinis universitetas (LCC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Established as Lithuania Christian College in the summer of 1991 in Panev\u0117\u017eys. Relocated to the Baltic port city, Klaip\u0117da, in 1992. Acquired present status and title in 2000",
+            "AcademicYear": "September to May (September-December; January-May) plus June and July summer sessions.",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos Atestatas); English proficiency test"
+            ],
+            "Languages": [
+                "English",
+                "Lithuanian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Intensive English Studies",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teaching English to Speakers of Other Languages",
+                "FieldsOfStudy": [
+                    "Foreign Languages Education"
+                ],
+                "Details": "TESOL - Graduate"
+            },
+            {
+                "College": "English and Literature",
+                "FieldsOfStudy": [
+                    "English",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Lithuanian Studies",
+                "FieldsOfStudy": [
+                    "Baltic Languages",
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "English"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Gedimino avenue 42",
+                "City": "Vilnius",
+                "Province": "N/A",
+                "PostCode": "01110",
+                "Website": "https://www.lmta.lt",
+                "college_name": "Lithuanian Academy of Music and Theatre",
+                "university_name": "Lietuvos Muzikos ir Teatro Akademija (LMTA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded in 1933, an internationally recognized institution training artists for a professional career in music, theatre, dance and film and offers related theoretical studies. Formerly Lietuvos Muzikos Akademija. In 1949 the Conservatoire of Kaunas and the Conservatoire of Vilnius (founded in 1945) were merged into the Lithuanian State Conservatoire. In 1992 the Conservatoire was renamed Lithuanian Academy of Music (LMA), and in 2004 Lithuanian Academy of Music and Theatre (LMTA)",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos Atestatas)"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English",
+                "German",
+                "Russian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Conducting",
+                    "Music",
+                    "Music Theory and Composition",
+                    "Musical Instruments",
+                    "Opera",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theatre and Film",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Art Criticism",
+                    "Art History",
+                    "Art Management",
+                    "Cinema and Television",
+                    "Film",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Art History",
+                    "Ethnology",
+                    "Film",
+                    "Musicology",
+                    "Theatre"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sporto street 6",
+                "City": "Kaunas",
+                "Province": "N/A",
+                "PostCode": "44221",
+                "Website": "http://www.lsu.lt",
+                "college_name": "Lithuanian Sports University",
+                "university_name": "Lietuvos sporto universitetas (LSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1934.",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos Atestatas); Certificate of English proficiency"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Sport Biomedicine",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Biomedicine",
+                    "Physical Therapy",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sport Education",
+                "FieldsOfStudy": [
+                    "Health Education",
+                    "Physical Education",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "National Wellness",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Sport Science and Innovations",
+                "FieldsOfStudy": [
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Sports"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "A. Mickevi\u010diaus g. 9",
+                "City": "Kaunas",
+                "Province": "N/A",
+                "PostCode": "44307",
+                "Website": "http://www.lsmuni.lt",
+                "college_name": "Lithuanian University of Health Sciences",
+                "university_name": "Lietuvos sveikatos moksl\u0173 universitetas (LSMU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1922 as a Faculty of Medicine of Kaunas University. Reorganized into a separate Kaunas Medical Institute 1950. Became Kaunas Medical Academy 1989. Acquired present title 2010 following merge with Lithuanian Veterinary Academy",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos atestatas); Entrance examination"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Veterinary Science",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anatomy",
+                    "Biology",
+                    "Education",
+                    "Genetics",
+                    "Mathematics",
+                    "Medicine",
+                    "Modern Languages",
+                    "Oncology",
+                    "Pharmacology",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Odontology",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Behavioral Medicine",
+                "FieldsOfStudy": [
+                    "Psychology",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "Palanga"
+            },
+            {
+                "College": "Cardiology",
+                "FieldsOfStudy": [
+                    "Cardiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Endocrinology",
+                "FieldsOfStudy": [
+                    "Endocrinology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Neuroscience",
+                "FieldsOfStudy": [
+                    "Neurosciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.Vi\u0161inskio street 38",
+                "City": "\u0160iauliai",
+                "Province": "N/A",
+                "PostCode": "76352",
+                "Website": "http://www.su.lt",
+                "college_name": "\u0160iauliai University",
+                "university_name": "\u0160iauli\u0173 universitetas (\u0160U)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1948 as Teacher Training Institute. Acquired present status and title 1997 with the merging of \u0160iauliai Pedagogigal Institute and \u0160iauliai Polytechnical Faculty of Kaunas Technological University.",
+            "AcademicYear": "September to June (September-December; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Vidurines Mokyklos Baigimo Atestatas); Curriculum Vitae; Letter of Motivation; Certificate of English language proficiency"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English",
+                "Russian"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Fine Arts",
+                    "Graphic Arts",
+                    "Interior Design",
+                    "Music",
+                    "Painting and Drawing",
+                    "Technology",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Educational Research",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Sports",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Classical Languages",
+                    "Comparative Literature",
+                    "Heritage Preservation",
+                    "History",
+                    "International and Comparative Education",
+                    "International Studies",
+                    "Linguistics",
+                    "Literature",
+                    "Mass Communication",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Management",
+                    "Production Engineering",
+                    "Public Administration",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Welfare and Disability Studies",
+                "FieldsOfStudy": [
+                    "Health Education",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Special Education",
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology and Natural Science",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Ecology",
+                    "Electrical and Electronic Engineering",
+                    "Electrical Engineering",
+                    "Environmental Studies",
+                    "Industrial Design",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Power Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Educational Sciences",
+                    "Ethics",
+                    "Management",
+                    "Modern Languages",
+                    "Psychology",
+                    "Public Administration",
+                    "Social Work",
+                    "Special Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informatics, Mathematics and E-Studies",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Mathematics and Computer Science",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Education"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Maironio street 6",
+                "City": "Vilnius",
+                "Province": "N/A",
+                "PostCode": "01124",
+                "Website": "http://www.vda.lt",
+                "college_name": "Vilnius Academy of Arts",
+                "university_name": "Vilniaus dail\u0117s akademija (VDA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1793 as the Department of Architecture at the University of the Grand Duchy of Lithuania. Reorganized 1941 and acquired present status and title 1990. A State institution",
+            "AcademicYear": "September to May (September-December; February-May)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos Atestatas)"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Cultural Management and Cultural Policy",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Heritage Preservation"
+                ],
+                "Details": "UNESCO Chair"
+            },
+            {
+                "College": "Applied Arts",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Ceramic Art",
+                    "Clothing and Sewing",
+                    "Design",
+                    "Fashion Design",
+                    "Fine Arts",
+                    "Textile Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture and Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Ceramic Art",
+                    "Glass Art",
+                    "Graphic Arts",
+                    "Painting and Drawing",
+                    "Sculpture",
+                    "Textile Design"
+                ],
+                "Details": "Kaunas"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Clothing and Sewing",
+                    "Design",
+                    "Furniture Design",
+                    "Jewellery Art",
+                    "Sculpture"
+                ],
+                "Details": "Telsia"
+            },
+            {
+                "College": "Humanities and Social Sciences",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Art History",
+                    "Modern Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Visual and Applied Arts",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Graphic Arts",
+                    "Heritage Preservation",
+                    "Painting and Drawing",
+                    "Philosophy",
+                    "Photography",
+                    "Sculpture",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Art Criticism",
+                    "Design",
+                    "Fine Arts"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sauletekio al. 11",
+                "City": "Vilnius",
+                "Province": "N/A",
+                "PostCode": "10223",
+                "Website": "http://www.vgtu.lt",
+                "college_name": "Vilnius Gediminas Technical University",
+                "university_name": "Vilniaus Gedimino Technikos Universitetas (VGTU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Vilnius branch of Kaunas Polytechnic Institute in 1956. Became Vilnius Civil Engineering Institute in 1969. Acquired present status in 1990 and title in 1996.",
+            "AcademicYear": "September to June (September-February, February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos Atestatas) or foreign equivalent; Entrance examination based on applicant's background and chosen program; Certificate of English proficiency"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "International Studies",
+                "FieldsOfStudy": [
+                    "International Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Regional Planning",
+                    "Structural Architecture",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "International Business",
+                    "International Economics",
+                    "Law",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Civil Engineering",
+                "FieldsOfStudy": [
+                    "Bridge Engineering",
+                    "Building Technologies",
+                    "Civil Engineering",
+                    "Construction Engineering",
+                    "Economics",
+                    "Fire Science",
+                    "Geological Engineering",
+                    "Materials Engineering",
+                    "Mechanics",
+                    "Real Estate",
+                    "Safety Engineering",
+                    "Structural Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Creative Industries",
+                "FieldsOfStudy": [
+                    "European Languages",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Sports",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronics",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Electronics and Automation",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Hydraulic Engineering",
+                    "Road Engineering",
+                    "Surveying and Mapping",
+                    "Urban Studies",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fundamental Sciences",
+                "FieldsOfStudy": [
+                    "Bioengineering",
+                    "Chemistry",
+                    "Computer Graphics",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanics",
+                "FieldsOfStudy": [
+                    "Industrial Management",
+                    "Machine Building",
+                    "Mechanical Engineering",
+                    "Mechanics",
+                    "Metal Techniques",
+                    "Printing and Printmaking"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport Engineering",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Railway Transport",
+                    "Road Transport",
+                    "Transport and Communications",
+                    "Transport Engineering",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aviation",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Air Transport",
+                    "Mechanics"
+                ],
+                "Details": "Antanas Gustaitis"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Baltic Languages",
+                    "English",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Physical Education",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture",
+                "FieldsOfStudy": [
+                    "Architecture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Aviation",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Bioinformatics",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Building Physics",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Buildings",
+                "FieldsOfStudy": [
+                    "Building Technologies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Planning and Environment Economics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Calibration",
+                "FieldsOfStudy": [
+                    "Measurement and Precision Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction Technology and Management",
+                "FieldsOfStudy": [
+                    "Construction Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Constructions and Materials",
+                "FieldsOfStudy": [
+                    "Construction Engineering",
+                    "Materials Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Protection",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Protection and Working Conditions",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geodesy",
+                "FieldsOfStudy": [
+                    "Geology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geotechnical Engineering",
+                "FieldsOfStudy": [
+                    "Geological Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "High Magnetic Fields",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Systems",
+                "FieldsOfStudy": [
+                    "Information Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Internet and Intelligent Technologies",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Labour Safety",
+                "FieldsOfStudy": [
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Material Physics",
+                "FieldsOfStudy": [
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nuclear Hydrophysics",
+                "FieldsOfStudy": [
+                    "Nuclear Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Numerical Modeling",
+                "FieldsOfStudy": [
+                    "Computer Graphics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Open Source",
+                "FieldsOfStudy": [
+                    "Information Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Parallel Computations",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Property Valuation",
+                "FieldsOfStudy": [
+                    "Real Estate"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Roads",
+                "FieldsOfStudy": [
+                    "Road Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Special Structures",
+                "FieldsOfStudy": [
+                    "Structural Architecture"
+                ],
+                "Details": "Kompozitas"
+            },
+            {
+                "College": "Strength Mechanics",
+                "FieldsOfStudy": [
+                    "Mechanics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Telecommunications",
+                "FieldsOfStudy": [
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Territorial Planning",
+                "FieldsOfStudy": [
+                    "Regional Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport",
+                "FieldsOfStudy": [
+                    "Transport and Communications"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Urban Analysis",
+                "FieldsOfStudy": [
+                    "Urban Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Vibroacoustics and Diagnostics",
+                "FieldsOfStudy": [
+                    "Sound Engineering (Acoustics)"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Welding and Material Science",
+                "FieldsOfStudy": [
+                    "Materials Engineering",
+                    "Metal Techniques"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Art History",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Economics",
+                    "Electrical and Electronic Engineering",
+                    "English",
+                    "Environmental Studies",
+                    "Management",
+                    "Materials Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Sauletekio avenue 22",
+                "City": "Vilnius",
+                "Province": "N/A",
+                "PostCode": "10225",
+                "Website": "https://www.vm.vu.lt/en",
+                "college_name": "Vilnius University \u2013 International Business School at Vilnius University",
+                "university_name": "Vilniaus universitetas \u2013 Vilniaus universiteto Tarptautinio verslo mokykla"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Integrated as a faculty of Vilnius University in 2016.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos Atestatas) or foreign equivalent; Certificate of English proficiency"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Business Administration",
+                    "International Business"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "K. Donelai\u010dio street 58",
+                "City": "Kaunas",
+                "Province": "N/A",
+                "PostCode": "44248",
+                "Website": "https://www.vdu.lt",
+                "college_name": "Vytautas Magnus University",
+                "university_name": "Vytauto Did\u017eiojo Universitetas (VMU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Established as University of Lithuania in 1922. Closed in 1950, then re-established in 1980. Aleksandras Stulginskis University and the Lithuanian University of Educational Sciences integrated in 2019. A State Institution.",
+            "AcademicYear": "September to June (September-December; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos Atestatas)"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Art Criticism",
+                    "Art History",
+                    "Fine Arts",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Catholic Theology",
+                "FieldsOfStudy": [
+                    "Canon Law",
+                    "Christian Religious Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "English",
+                    "Ethnology",
+                    "Folklore",
+                    "French",
+                    "German",
+                    "History",
+                    "Literature",
+                    "Native Language",
+                    "Philology",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Informatics",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Mathematics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Commercial Law",
+                    "International Law",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Environmental Studies",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Science and Diplomacy",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Psychology",
+                    "Social Welfare",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Art Criticism",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Ecology",
+                    "Education",
+                    "Environmental Studies",
+                    "Ethnology",
+                    "History",
+                    "Law",
+                    "Management",
+                    "Philology",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology",
+                    "Theology"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "K. Donelai\u010dio street 58",
+                "City": "Kaunas",
+                "Province": "N/A",
+                "PostCode": "44248",
+                "Website": "https://svietimas.vdu.lt",
+                "college_name": "Vytautas Magnus University \u2013 Vytautas Magnus University Education Academy",
+                "university_name": "Vytauto Did\u017eiojo Universitetas \u2013 Vytauto Did\u017eiojo universitetas \u0160vietimo akademija \u2013 Lithuanian University of Educational Sciences (VMU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded as Pedagogical Institute of the Republic in 1935. Received the title of Vilnius Pedagogical Institute in 1991. Renamed once again as Lithuanian University of Educational Sciences in 2011. Reorganized as a part of Vytautas Magnus University and earned present title in 2018.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos Atestatas)"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Dance",
+                    "Education",
+                    "Educational Psychology",
+                    "Ethics",
+                    "Music Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Social Work",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Student\u0173 street 11",
+                "City": "Kaunas",
+                "Province": "N/A",
+                "PostCode": "53361",
+                "Website": "https://zua.vdu.lt",
+                "college_name": "Vytautas Magnus University \u2013 Vytautas Magnus University Agriculture Academy",
+                "university_name": "Vytauto Did\u017eiojo Universitetas \u2013 Vytauto Did\u017eiojo universiteto \u017dem\u0117s \u016bkio akademija \u2013 Aleksandras Stulginskis University (VMU Agriculture Academy)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "The Agricultural Academy was established on September 3rd, 1924 in Dotnuva. On October 8th, 1996, the name of Lithuanian Academy of Agriculture was changed to Lithuanian University of Agriculture. Lithuanian University of Agriculture was granted the name of Aleksandras Stulginskis University in 2011. Earned present status and title in 2019",
+            "AcademicYear": "September to June (September-January; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Brandos Atestatas)"
+            ],
+            "Languages": [
+                "Lithuanian",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agricultural Equipment",
+                    "Energy Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agronomy",
+                "FieldsOfStudy": [
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Biology",
+                    "Crop Production",
+                    "Horticulture",
+                    "Soil Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Rural Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry and Ecology",
+                "FieldsOfStudy": [
+                    "Ecology",
+                    "Forest Management",
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Water and Land Management",
+                "FieldsOfStudy": [
+                    "Agricultural Management",
+                    "Hydraulic Engineering",
+                    "Rural Planning",
+                    "Surveying and Mapping",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Rural Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rural Culture",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Agricultural Engineering",
+                    "Agronomy",
+                    "Ecology",
+                    "Economics",
+                    "Forestry",
+                    "Management",
+                    "Soil Science",
+                    "Water Management"
+                ],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

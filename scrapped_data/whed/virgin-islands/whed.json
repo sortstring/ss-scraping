@@ -1,0 +1,274 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2 John Brewers Bay",
+                "City": "Saint Thomas",
+                "Province": "Virgin Islands",
+                "PostCode": "00802-9990",
+                "Website": "https://www.uvi.edu",
+                "college_name": "University of the Virgin Islands",
+                "university_name": "Univ of VI (UVI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1962 as College of the Virgin Islands (CVI), acquired present status and title 1986",
+            "AcademicYear": "August to June (August-December; January-June). Also Summer Session (June-July)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Liberal Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "Criminal Law",
+                    "English",
+                    "Music Education",
+                    "Police Studies",
+                    "Psychology",
+                    "Public Administration",
+                    "Social Sciences",
+                    "Social Work",
+                    "Speech Studies",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Mathematics",
+                "FieldsOfStudy": [
+                    "Applied Mathematics",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Environmental Studies",
+                    "Marine Biology",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Natural Sciences",
+                    "Physics",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Data Processing",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Child Care and Development",
+                    "Education",
+                    "Preschool Education",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Applied Mathematics",
+                    "Aquaculture",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Criminology",
+                    "English",
+                    "Horticulture",
+                    "Hotel and Restaurant",
+                    "Information Technology",
+                    "Management",
+                    "Marine Biology",
+                    "Marketing",
+                    "Mathematics",
+                    "Music Education",
+                    "Nursing",
+                    "Physics",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Social Sciences",
+                    "Social Work",
+                    "Speech Studies",
+                    "Theatre",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": "N/A",
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Environmental Studies",
+                    "Leadership",
+                    "Marine Science and Oceanography",
+                    "Mathematics Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Social Work"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [
+                    "Leadership"
+                ],
+                "EducationSpecialistDegree": [
+                    "Educational Psychology"
+                ]
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "RR1 Box 10000\nKingshill",
+                "City": "St. Croix",
+                "Province": "Virgin Islands",
+                "PostCode": "00850-9781",
+                "Website": "https://www.uvi.edu/about/campuses/st-croix-campus.html",
+                "college_name": "University of the Virgin Islands \u2013 University of the Virgin Islands-Albert A. Sheen",
+                "university_name": "Univ of VI-St. Croix"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1964 as St. Croix location of the University of the Virgin Islands, acquired current title 2011",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Liberal Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education",
+                    "Performing Arts",
+                    "Social Sciences",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics and Computer Science",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Criminology",
+                    "English",
+                    "Hotel and Restaurant",
+                    "Information Technology",
+                    "Management",
+                    "Marine Transport",
+                    "Marketing",
+                    "Nursing",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Secondary Education",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Leadership",
+                    "Mathematics Education",
+                    "Psychology",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [
+                    "Leadership"
+                ],
+                "EducationSpecialistDegree": [
+                    "Educational Psychology"
+                ]
+            }
+        }
+    }
+]

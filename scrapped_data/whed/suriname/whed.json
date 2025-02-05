@@ -1,0 +1,342 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Universiteitscampus\nLeysweg 86\nP.O. Box 9212",
+                "City": "Paramaribo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.uvs.edu",
+                "college_name": "Anton de Kom University of Suriname",
+                "university_name": "Anton de Kom Universiteit van Suriname (AdeKUS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1968 incorporating School of Medicine, founded 1882, and School of Law, 1948. Reorganized 1983. Under the supervision of the Ministry of Education, Sciences and Culture",
+            "AcademicYear": "October to September",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent"
+            ],
+            "Languages": [
+                "Dutch"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematical and Physical Sciences",
+                "FieldsOfStudy": [
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Physical Therapy",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Law",
+                    "Public Administration",
+                    "Social Studies",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technological Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Building Technologies",
+                    "Construction Engineering",
+                    "Energy Engineering",
+                    "Environmental Management",
+                    "Forestry",
+                    "Geology",
+                    "Information Technology",
+                    "Mechanical Engineering",
+                    "Mining Engineering",
+                    "Natural Resources",
+                    "Soil Science",
+                    "Water Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Technology",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "INTEC"
+            },
+            {
+                "College": "Graduate Studies and Research",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "International Relations and Diplomacy",
+                    "Public Health"
+                ],
+                "Details": "IGSR"
+            },
+            {
+                "College": "Medical Science",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "MWI"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "IMWO"
+            },
+            {
+                "College": "Women, Gender and Development Studies",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Gender Studies",
+                    "Women's Studies"
+                ],
+                "Details": "IWGDS"
+            },
+            {
+                "College": "Suriname Agricultural Research Centre",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "CELOS"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agriculture",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Dutch",
+                    "Earth Sciences",
+                    "Economics",
+                    "Educational Sciences",
+                    "Electrical Engineering",
+                    "Environmental Studies",
+                    "History",
+                    "Law",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Medicine",
+                    "Physical Therapy",
+                    "Physics",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Sociology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Biology",
+                    "Business Administration",
+                    "Dutch",
+                    "Earth Sciences",
+                    "Education",
+                    "Geology",
+                    "Law",
+                    "Mineralogy",
+                    "Natural Resources",
+                    "Physical Therapy",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Sustainable Development"
+                ],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Burenstraat 23",
+                "City": "Paramaribo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.fhrinstitute.sr",
+                "college_name": "FHR Institute for Higher Education",
+                "university_name": "FHR Lim A Po Institute for Higher Education (FHR)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2000. Formerly known as FHR Institute for Social Studies",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Dutch"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Governance, Law and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Government",
+                    "Law",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Comparative Law",
+                    "Human Resources",
+                    "International Law",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Slangenhoutstraat 99a",
+                "City": "Paramaribo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ptc.edu.sr",
+                "college_name": "Polytechnic College Suriname",
+                "university_name": "Stichting Polytechnic College Suriname (PTC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1997",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Dutch"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Health",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Logistics",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Real Estate"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Food Technology",
+                    "Information Technology",
+                    "Laboratory Techniques",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Agricultural Business",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Food Technology",
+                    "Information Technology",
+                    "Laboratory Techniques",
+                    "Mechanical Engineering",
+                    "Real Estate",
+                    "Water Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Data Processing"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

@@ -1,0 +1,510 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Wildey",
+                "Province": "Saint Michael",
+                "PostCode": "N/A",
+                "Website": "https://www.aubmed.org",
+                "college_name": "American University of Barbados",
+                "university_name": "(AUB)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2011",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Medical Science Resource",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Anatomy",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [
+                    "Medicine"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Bridgetown",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.cavehill.uwi.edu",
+                "college_name": "University of the West Indies - Cave Hill Campus",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1962 when the University of the West Indies (UWI) was granted its charter",
+            "AcademicYear": "August to July",
+            "AdmissionRequirements": [
+                "General Certificate of Education, CXC's, Associate degree or equivalent"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Sport",
+                "FieldsOfStudy": [
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Caribbean Law Institute",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "CLIC"
+            },
+            {
+                "College": "CLR James",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Creative Imagination",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Fine Arts"
+                ],
+                "Details": "Errol Barrow"
+            },
+            {
+                "College": "English Language Learning",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Resource Management and Environmental Studies",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Natural Resources"
+                ],
+                "Details": "CERMES"
+            },
+            {
+                "College": "Shridath Ramphal",
+                "FieldsOfStudy": [
+                    "International Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Economic Studies",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Social Studies"
+                ],
+                "Details": "Sir Arthur Lewis Institute"
+            },
+            {
+                "College": "Culture, Creative and Performing Arts",
+                "FieldsOfStudy": [
+                    "Cultural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities and Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "History",
+                    "Linguistics",
+                    "Literature",
+                    "Modern Languages",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Commercial Law",
+                    "Criminal Law",
+                    "International Law",
+                    "Law",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Sciences",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Epidemiology",
+                    "Medicine",
+                    "Ophthalmology",
+                    "Paediatrics",
+                    "Psychiatry and Mental Health",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Government",
+                    "Management",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Gender and Development Studies",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Gender Studies"
+                ],
+                "Details": "Nita Barrow Unit"
+            },
+            {
+                "College": "Social and Economic Studies",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Social Sciences"
+                ],
+                "Details": "Sir Arthur Lewis"
+            },
+            {
+                "College": "Caribbean Lexicography",
+                "FieldsOfStudy": [
+                    "Richard and Jeannette Allsopp"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chronic Disease",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Management",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "Sagicor"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Caribbean Studies",
+                    "Chemistry",
+                    "Computer Science",
+                    "Criminology",
+                    "Cultural Studies",
+                    "Dance",
+                    "Development Studies",
+                    "Ecology",
+                    "Economics",
+                    "Education",
+                    "Electrical and Electronic Equipment and Maintenance",
+                    "Environmental Studies",
+                    "Finance",
+                    "Fine Arts",
+                    "French",
+                    "Gender Studies",
+                    "Health Sciences",
+                    "History",
+                    "Hotel and Restaurant",
+                    "Hotel Management",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Labour and Industrial Relations",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Management",
+                    "Mathematics",
+                    "Medicine",
+                    "Meteorology",
+                    "Microbiology",
+                    "Music",
+                    "Music Education",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Software Engineering",
+                    "Spanish",
+                    "Sports",
+                    "Surgery",
+                    "Theology",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "African Studies",
+                    "Banking",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Building Technologies",
+                    "Business Administration",
+                    "Caribbean Studies",
+                    "Chemistry",
+                    "Commercial Law",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "Ecology",
+                    "Economic and Finance Policy",
+                    "Economics",
+                    "Education",
+                    "Energy Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Finance",
+                    "Fine Arts",
+                    "Gender Studies",
+                    "Government",
+                    "Health Administration",
+                    "Heritage Preservation",
+                    "History",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Information Technology",
+                    "International Business",
+                    "Labour and Industrial Relations",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Medicine",
+                    "Microbiology",
+                    "Modern Languages",
+                    "Natural Resources",
+                    "Nursing",
+                    "Performing Arts",
+                    "Pharmacology",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Private Law",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Public Law",
+                    "Social Policy",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Sports Management",
+                    "Tourism",
+                    "Transport and Communications",
+                    "Transport Management"
+                ],
+                "Doctor'sDegrees": [
+                    "Anaesthesiology",
+                    "Community Health",
+                    "Medicine",
+                    "Obstetrics and Gynaecology",
+                    "Ophthalmology",
+                    "Orthopaedics",
+                    "Paediatrics",
+                    "Psychiatry and Mental Health",
+                    "Surgery"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Open Learning Centre, Open Campus\nThe University of the West Indies\nP.O. Box 1314, BB 11000",
+                "City": "Bridgetown",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.open.uwi.edu",
+                "college_name": "University of the West Indies Open Campus",
+                "university_name": "UWI Open Campus (Open UWI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2008, a campus of the University of the West Indies providing online, face-to face and blended education in 17 Caribbean countries",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Academic Programming and Delivery",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Adult Education",
+                    "Banking",
+                    "Business Administration",
+                    "Child Care and Development",
+                    "Continuing Education",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "Educational Technology",
+                    "English",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Information Management",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Mathematics Education",
+                    "Physical Education",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Secondary Education",
+                    "Secretarial Studies",
+                    "Social Work",
+                    "Sociology",
+                    "Sports",
+                    "Teacher Training",
+                    "Tourism"
+                ],
+                "Details": "APAD"
+            },
+            {
+                "College": "Consortium for Social Development and Research",
+                "FieldsOfStudy": [
+                    "Child Care and Development",
+                    "Development Studies",
+                    "Gender Studies",
+                    "Labour and Industrial Relations",
+                    "Preschool Education",
+                    "Social Work"
+                ],
+                "Details": "CSDR"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Economics",
+                    "Educational Administration",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Management",
+                    "Marketing",
+                    "Mathematics Education",
+                    "Physical Education",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Psychology",
+                    "Secondary Education",
+                    "Social Work",
+                    "Sociology",
+                    "Sports",
+                    "Teacher Training",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Adult Education",
+                    "Child Care and Development",
+                    "Continuing Education",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Sciences",
+                    "Educational Technology",
+                    "English",
+                    "Human Resources",
+                    "Information Management",
+                    "Management",
+                    "Marketing",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

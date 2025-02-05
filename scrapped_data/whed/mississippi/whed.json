@@ -1,0 +1,3495 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1000 ASU Drive",
+                "City": "Alcorn State",
+                "Province": "Mississippi",
+                "PostCode": "39096-7500",
+                "Website": "https://www.alcorn.edu",
+                "college_name": "Alcorn State University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1871 as Alcorn University, acquired present title 1974.",
+            "AcademicYear": "August to May",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Applied Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Automation",
+                    "Biology",
+                    "Biotechnology",
+                    "Botany",
+                    "Child Care and Development",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Dietetics",
+                    "Environmental Studies",
+                    "Information Technology",
+                    "Nutrition",
+                    "Political Sciences",
+                    "Robotics",
+                    "Soil Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Science",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "English",
+                    "Fine Arts",
+                    "Mass Communication",
+                    "Mathematics and Computer Science",
+                    "Military Science",
+                    "Social Sciences",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Psychology",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Health Education",
+                    "Leisure Studies",
+                    "Physical Education",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agricultural Management",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Automation",
+                    "Biology",
+                    "Botany",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Chemistry",
+                    "Child Care and Development",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Criminology",
+                    "Dietetics",
+                    "Education",
+                    "English",
+                    "Environmental Studies",
+                    "Fine Arts",
+                    "Health Education",
+                    "History",
+                    "Information Technology",
+                    "Leisure Studies",
+                    "Mass Communication",
+                    "Mathematics and Computer Science",
+                    "Military Science",
+                    "Nursing",
+                    "Nutrition",
+                    "Parks and Recreation",
+                    "Physical Education",
+                    "Political Sciences",
+                    "Psychology",
+                    "Robotics",
+                    "Secondary Education",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Soil Science",
+                    "Sports Management",
+                    "Teacher Training"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agricultural Economics",
+                    "Animal Husbandry",
+                    "Biotechnology",
+                    "Botany",
+                    "Business Administration",
+                    "Education",
+                    "History",
+                    "Leadership",
+                    "Nursing",
+                    "Physical Education",
+                    "Secondary Education",
+                    "Soil Science",
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [
+                    "Nursing"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1500 Peachtree Street",
+                "City": "Jackson",
+                "Province": "Mississippi",
+                "PostCode": "39202",
+                "Website": "https://www.belhaven.edu",
+                "college_name": "Belhaven University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1883 as Belhaven College. Acquired current title 2010.",
+            "AcademicYear": "July to June",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Ministry and Human Services",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Criminology",
+                    "Cultural Studies",
+                    "International Studies",
+                    "Law",
+                    "Psychology",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science & Mathematics",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Health Sciences",
+                    "Mathematics",
+                    "Nursing",
+                    "Sports Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Dance",
+                    "Design",
+                    "Film",
+                    "Fine Arts",
+                    "Music",
+                    "Theatre",
+                    "Visual Arts",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Education",
+                    "English",
+                    "History",
+                    "Law",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "Art Therapy",
+                    "Bible",
+                    "Biochemistry",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Christian Religious Studies",
+                    "Classical Languages",
+                    "Computer Science",
+                    "Criminology",
+                    "Cultural Studies",
+                    "Dance",
+                    "Education",
+                    "English",
+                    "Film",
+                    "Fine Arts",
+                    "Graphic Design",
+                    "Health Administration",
+                    "Hotel Management",
+                    "Information Technology",
+                    "International Studies",
+                    "Leadership",
+                    "Logistics Management",
+                    "Management",
+                    "Mathematics",
+                    "Music",
+                    "Music Education",
+                    "Nursing",
+                    "Political Sciences",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Health",
+                    "Public Relations",
+                    "Sales Techniques",
+                    "Social Work",
+                    "Sports Management",
+                    "Sports Medicine",
+                    "Theatre",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Bible",
+                    "Business Administration",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Entrepreneurship",
+                    "Fine Arts",
+                    "Leadership",
+                    "Literacy Education",
+                    "Primary Education",
+                    "Public Administration",
+                    "Secondary Education",
+                    "Sports Management"
+                ],
+                "Doctor'sDegrees": [
+                    "Educational Administration"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 160\n201 West Main Street",
+                "City": "Blue Mountain",
+                "Province": "Mississippi",
+                "PostCode": "38610",
+                "Website": "https://bmc.edu",
+                "college_name": "Blue Mountain Christian University",
+                "university_name": "(BMCU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created as Blue Mountain College 1873. Acquired present title 2022.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Biblical and Associated Studies",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Christian Religious Studies",
+                    "Missionary Studies",
+                    "Pastoral Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts and Speech",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Music",
+                    "Religious Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language and Literature",
+                "FieldsOfStudy": [
+                    "English",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics and Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Mathematics",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Behavioral Sciences",
+                "FieldsOfStudy": [
+                    "History",
+                    "Psychology",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Actuarial Science",
+                    "Arts and Humanities",
+                    "Bible",
+                    "Biology",
+                    "Business Administration",
+                    "Christian Religious Studies",
+                    "Computer Science",
+                    "Criminology",
+                    "English",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Medical Technology",
+                    "Music",
+                    "Music Education",
+                    "Musical Instruments",
+                    "Nursing",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Physics",
+                    "Primary Education",
+                    "Psychology",
+                    "Religious Music",
+                    "Secondary Education",
+                    "Spanish",
+                    "Speech Studies",
+                    "Sports",
+                    "Sports Management",
+                    "Theatre",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Education",
+                    "Literacy Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1003 W Sunflower Road",
+                "City": "Cleveland",
+                "Province": "Mississippi",
+                "PostCode": "38733",
+                "Website": "https://www.deltastate.edu",
+                "college_name": "Delta State University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1925 as Delta State Teachers' College. Acquired present status and title 1974.",
+            "AcademicYear": "August to May (August-December; January-May)",
+            "AdmissionRequirements": [
+                "Complete the College Preparatory Curriculum at a certain level (a minimum 3",
+                "2 GPA; or a minimum 2",
+                "5 GPA and score 16 or higher on the ACT - at least 766 SAT; or a minimum 2",
+                "0 GPA and score 18 or higher on ACT, at least 860 SAT)",
+                "TOEFL test score of at least 525 for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "English",
+                    "Fine Arts",
+                    "Gender Studies",
+                    "History",
+                    "Literature",
+                    "Mathematics",
+                    "Music",
+                    "Physics",
+                    "Social Sciences",
+                    "Social Work",
+                    "Speech Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Aviation",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Air Transport",
+                    "Business Administration",
+                    "Business Computing",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Human Sciences",
+                "FieldsOfStudy": [
+                    "Consumer Studies",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Educational Research",
+                    "Family Studies",
+                    "Health Education",
+                    "Physical Education",
+                    "Sports",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Air Transport",
+                    "Biology",
+                    "Business Administration",
+                    "Business Computing",
+                    "Chemistry",
+                    "Communication Arts",
+                    "Consumer Studies",
+                    "Criminology",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Educational Research",
+                    "Environmental Studies",
+                    "Family Studies",
+                    "Finance",
+                    "Fine Arts",
+                    "Gender Studies",
+                    "Health Administration",
+                    "Health Education",
+                    "History",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Music",
+                    "Music Education",
+                    "Nursing",
+                    "Parks and Recreation",
+                    "Physical Education",
+                    "Physics",
+                    "Primary Education",
+                    "Psychology",
+                    "Social Sciences",
+                    "Social Studies",
+                    "Social Work",
+                    "Sound Engineering (Acoustics)",
+                    "Speech Therapy and Audiology",
+                    "Sports",
+                    "Teacher Training"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Health Sciences"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Air Transport",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Criminology",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "English",
+                    "Nursing",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Sports",
+                    "Surveying and Mapping",
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [
+                    "Education",
+                    "Nursing"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": [
+                    "Curriculum",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Higher Education",
+                    "Primary Education"
+                ]
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1440 John R. Lynch Street",
+                "City": "Jackson",
+                "Province": "Mississippi",
+                "PostCode": "39217",
+                "Website": "https://www.jsums.edu",
+                "college_name": "Jackson State University",
+                "university_name": "(JSU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1877.",
+            "AcademicYear": "August to May (August-December; January-May). Also Summer Session (June-July)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Entrepreneurship",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Secretarial Studies",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Human Development",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Communication Disorders",
+                    "Epidemiology",
+                    "Health Administration",
+                    "Health Education",
+                    "Public Health",
+                    "Social Work",
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Liberal Arts",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "English",
+                    "Fine Arts",
+                    "History",
+                    "Mass Communication",
+                    "Military Science",
+                    "Modern Languages",
+                    "Music",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sociology",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science, Engineering and Technology",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Mathematics",
+                    "Meteorology",
+                    "Physics",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Business Administration",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Communication Disorders",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Criminology",
+                    "Earth Sciences",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "English",
+                    "Entrepreneurship",
+                    "Finance",
+                    "Fine Arts",
+                    "French",
+                    "Graphic Design",
+                    "Health Administration",
+                    "Health Education",
+                    "Higher Education",
+                    "History",
+                    "Industrial Engineering",
+                    "Jazz and Popular Music",
+                    "Journalism",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Media Studies",
+                    "Meteorology",
+                    "Music",
+                    "Music Education",
+                    "Musical Instruments",
+                    "Parks and Recreation",
+                    "Physics",
+                    "Political Sciences",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Health",
+                    "Rehabilitation and Therapy",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Spanish",
+                    "Special Education",
+                    "Speech Therapy and Audiology",
+                    "Statistics",
+                    "Theatre",
+                    "Translation and Interpretation"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Clinical Psychology",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Criminology",
+                    "Educational and Student Counselling",
+                    "Engineering",
+                    "English",
+                    "Health Education",
+                    "History",
+                    "Journalism",
+                    "Literacy Education",
+                    "Mathematics",
+                    "Media Studies",
+                    "Music Education",
+                    "Parks and Recreation",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychiatry and Mental Health",
+                    "Public Administration",
+                    "Public Health",
+                    "Regional Planning",
+                    "Safety Engineering",
+                    "Social Work",
+                    "Sociology",
+                    "Special Education",
+                    "Sports",
+                    "Teacher Training",
+                    "Technology Education",
+                    "Town Planning",
+                    "Urban Studies"
+                ],
+                "Doctor'sDegrees": [
+                    "Preschool Education",
+                    "Public Health"
+                ],
+                "ResearchScholarship": [
+                    "Business Administration",
+                    "Chemistry",
+                    "Clinical Psychology",
+                    "Computer Engineering",
+                    "Educational Administration",
+                    "Environmental Studies",
+                    "Higher Education",
+                    "Preschool Education",
+                    "Public Administration",
+                    "Public Health",
+                    "Regional Planning",
+                    "Social Work",
+                    "Town Planning"
+                ],
+                "EducationSpecialistDegree": [
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Psychometrics",
+                    "Special Education"
+                ]
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1701 North State St",
+                "City": "Jackson",
+                "Province": "Mississippi",
+                "PostCode": "39210",
+                "Website": "https://www.millsaps.edu",
+                "college_name": "Millsaps College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1890. A private institution affiliated with the United Methodist Church.",
+            "AcademicYear": "August to May (August-December; January-May. Also Summer Session (June-July)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Pre-Professional",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Medicine",
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Letters",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Classical Languages",
+                    "Communication Studies",
+                    "Education",
+                    "English",
+                    "Fine Arts",
+                    "History",
+                    "Modern Languages",
+                    "Music",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Religious Studies",
+                    "Sociology",
+                    "Teacher Training",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Geology",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "Else"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Ancient Civilizations",
+                    "Anthropology",
+                    "Applied Mathematics",
+                    "Art History",
+                    "Biochemistry",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Cognitive Sciences",
+                    "Communication Studies",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "European Studies",
+                    "Fine Arts",
+                    "Geology",
+                    "Geophysics",
+                    "Government",
+                    "Greek",
+                    "History",
+                    "Latin American Studies",
+                    "Mathematics",
+                    "Music",
+                    "Neurosciences",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religion",
+                    "Religious Studies",
+                    "Sociology",
+                    "Spanish",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "200 South Capitol St.",
+                "City": "Clinton",
+                "Province": "Mississippi",
+                "PostCode": "39056",
+                "Website": "https://www.mc.edu",
+                "college_name": "Mississippi College",
+                "university_name": "(MC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1826 as Hampstead Academy, acquired present title 1830.",
+            "AcademicYear": "August to May. Also Summer Session (May-August)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Art",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Fine Arts",
+                    "Graphic Design",
+                    "Interior Design"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biology",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Chemistry and Biochemistry",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Chemistry",
+                    "Physical Chemistry",
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Christian Studies",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Pastoral Studies",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "Journalism",
+                    "Media Studies",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Counseling",
+                "FieldsOfStudy": [
+                    "Educational and Student Counselling",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering, Computer Science & Physics",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English and Philosophy",
+                "FieldsOfStudy": [
+                    "English",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "History and Political Science",
+                "FieldsOfStudy": [
+                    "History",
+                    "Justice Administration",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Kinesiology",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics",
+                "FieldsOfStudy": [
+                    "Mathematics",
+                    "Mathematics Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Modern Languages",
+                "FieldsOfStudy": [
+                    "French",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music",
+                    "Music Education",
+                    "Religious Music",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physician Assistant Studies",
+                "FieldsOfStudy": [
+                    "Medical Auxiliaries"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sociology and Social Work",
+                "FieldsOfStudy": [
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher Education & Leadership",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Humanities and Social Science Education",
+                    "Primary Education",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business Education",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Applied Mathematics",
+                    "Art Education",
+                    "Biochemistry",
+                    "Biology",
+                    "Business Administration",
+                    "Business Computing",
+                    "Business Education",
+                    "Chemistry",
+                    "Child Care and Development",
+                    "Christian Religious Studies",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Technology",
+                    "Electrical Engineering",
+                    "English",
+                    "Entrepreneurship",
+                    "Family Studies",
+                    "Finance",
+                    "Fine Arts",
+                    "Foreign Languages Education",
+                    "French",
+                    "Graphic Design",
+                    "Health Administration",
+                    "History",
+                    "Interior Design",
+                    "International Business",
+                    "International Studies",
+                    "Journalism",
+                    "Justice Administration",
+                    "Kinesiology",
+                    "Law",
+                    "Linguistics",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Media Studies",
+                    "Medical Auxiliaries",
+                    "Music",
+                    "Music Education",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Physics",
+                    "Physiology",
+                    "Political Sciences",
+                    "Primary Education",
+                    "Protective Services",
+                    "Psychiatry and Mental Health",
+                    "Psychology",
+                    "Public Health",
+                    "Public Relations",
+                    "Rehabilitation and Therapy",
+                    "Religious Music",
+                    "Science Education",
+                    "Secondary Education",
+                    "Social Sciences",
+                    "Social Work",
+                    "Spanish",
+                    "Special Education",
+                    "Sports",
+                    "Sports Management",
+                    "Teacher Training",
+                    "Visual Arts",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Applied Mathematics",
+                    "Art Education",
+                    "Biology",
+                    "Business Administration",
+                    "Business Computing",
+                    "Business Education",
+                    "Chemistry",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Technology",
+                    "English",
+                    "Family Studies",
+                    "Finance",
+                    "Fine Arts",
+                    "Graphic Design",
+                    "Health Administration",
+                    "History",
+                    "Justice Administration",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Medical Auxiliaries",
+                    "Music",
+                    "Music Education",
+                    "Nursing",
+                    "Physiology",
+                    "Political Sciences",
+                    "Primary Education",
+                    "Protective Services",
+                    "Psychiatry and Mental Health",
+                    "Psychology",
+                    "Rehabilitation and Therapy",
+                    "Science Education",
+                    "Social Sciences",
+                    "Special Education",
+                    "Sports Management",
+                    "Teacher Training",
+                    "Visual Arts"
+                ],
+                "Doctor'sDegrees": [
+                    "Educational Administration",
+                    "Law",
+                    "Psychology"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": [
+                    "Curriculum",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Primary Education"
+                ]
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 6018\nLee Hall, Suite 4000",
+                "City": "Mississippi State",
+                "Province": "Mississippi",
+                "PostCode": "39762",
+                "Website": "https://www.msstate.edu",
+                "college_name": "Mississippi State University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1878 as A and M College, a Land-Grant college. Renamed Mississippi State College 1932, and acquired present title 1958 after doctoral programmes began. Campus at Meridian.",
+            "AcademicYear": "August to May (August-December; January-May). Also Summer Session (May-August)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture and Life Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agricultural Education",
+                    "Agricultural Engineering",
+                    "Animal Husbandry",
+                    "Biochemistry",
+                    "Dairy",
+                    "Entomology",
+                    "Food Science",
+                    "Landscape Architecture",
+                    "Meat and Poultry",
+                    "Molecular Biology",
+                    "Nutrition",
+                    "Plant Pathology",
+                    "Soil Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture, Art and Design",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Ceramic Art",
+                    "Construction Engineering",
+                    "Engineering Management",
+                    "Fine Arts",
+                    "Graphic Design",
+                    "Heritage Preservation",
+                    "Interior Design",
+                    "Painting and Drawing",
+                    "Photography",
+                    "Printing and Printmaking",
+                    "Sculpture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "African American Studies",
+                    "Anthropology",
+                    "Astronomy and Space Science",
+                    "Biology",
+                    "Chemistry",
+                    "Communication Studies",
+                    "Economics",
+                    "English",
+                    "French",
+                    "Gender Studies",
+                    "Geography",
+                    "German",
+                    "History",
+                    "International Business",
+                    "Mathematics",
+                    "Middle Eastern Studies",
+                    "Military Science",
+                    "Music",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Administration",
+                    "Religion",
+                    "Social Work",
+                    "Sociology",
+                    "Spanish",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "International Business",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Sciences",
+                    "Music",
+                    "Music Education",
+                    "Physical Education",
+                    "Physiology",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Biomedical Engineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Mechanical Engineering",
+                    "Software Engineering"
+                ],
+                "Details": "James Worth Bagley"
+            },
+            {
+                "College": "Forest Resources",
+                "FieldsOfStudy": [
+                    "Aquaculture",
+                    "Fishery",
+                    "Forest Products",
+                    "Forestry",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Aeronautical and Aerospace Engineering",
+                    "African American Studies",
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agricultural Education",
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Anthropology",
+                    "Aquaculture",
+                    "Architecture",
+                    "Asian Studies",
+                    "Astronomy and Space Science",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Business Administration",
+                    "Business Computing",
+                    "Ceramic Art",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Classical Languages",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Cooking and Catering",
+                    "Criminology",
+                    "Dairy",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Educational Sciences",
+                    "Electrical Engineering",
+                    "Engineering Management",
+                    "English",
+                    "Entomology",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Fashion Design",
+                    "Finance",
+                    "Fine Arts",
+                    "Fishery",
+                    "Food Science",
+                    "Foreign Languages Education",
+                    "Forestry",
+                    "French",
+                    "Gender Studies",
+                    "Geography",
+                    "Geology",
+                    "German",
+                    "Graphic Design",
+                    "Heritage Preservation",
+                    "History",
+                    "Horticulture",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Interior Design",
+                    "International Business",
+                    "Journalism",
+                    "Kinesiology",
+                    "Landscape Architecture",
+                    "Logistics Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Meat and Poultry",
+                    "Mechanical Engineering",
+                    "Media Studies",
+                    "Medical Technology",
+                    "Meteorology",
+                    "Microbiology",
+                    "Middle Eastern Studies",
+                    "Military Science",
+                    "Molecular Biology",
+                    "Music",
+                    "Music Education",
+                    "Natural Resources",
+                    "Nutrition",
+                    "Painting and Drawing",
+                    "Petroleum and Gas Engineering",
+                    "Philosophy",
+                    "Photography",
+                    "Physical Education",
+                    "Physics",
+                    "Physiology",
+                    "Plant Pathology",
+                    "Political Sciences",
+                    "Primary Education",
+                    "Printing and Printmaking",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Relations",
+                    "Religion",
+                    "Sculpture",
+                    "Secondary Education",
+                    "Social Work",
+                    "Sociology",
+                    "Software Engineering",
+                    "Soil Science",
+                    "Spanish",
+                    "Special Education",
+                    "Sports",
+                    "Sports Management",
+                    "Statistics",
+                    "Sustainable Development",
+                    "Technology",
+                    "Theatre",
+                    "Veterinary Science",
+                    "Wildlife"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Aeronautical and Aerospace Engineering",
+                    "Anthropology",
+                    "Astronomy and Space Science",
+                    "Bioengineering",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Botany",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Curriculum",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Educational Technology",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "English",
+                    "Environmental Studies",
+                    "Finance",
+                    "Fine Arts",
+                    "Foreign Languages Education",
+                    "French",
+                    "Geography",
+                    "Geology",
+                    "German",
+                    "Heritage Preservation",
+                    "Higher Education",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Kinesiology",
+                    "Management",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Meteorology",
+                    "Microbiology",
+                    "Music Education",
+                    "Physics",
+                    "Political Sciences",
+                    "Psychometrics",
+                    "Public Administration",
+                    "Rehabilitation and Therapy",
+                    "Sociology",
+                    "Special Education",
+                    "Sports",
+                    "Sports Management",
+                    "Statistics",
+                    "Taxation",
+                    "Teacher Training",
+                    "Zoology"
+                ],
+                "Doctor'sDegrees": [
+                    "Educational Administration"
+                ],
+                "ResearchScholarship": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Applied Physics",
+                    "Bioengineering",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Clinical Psychology",
+                    "Cognitive Sciences",
+                    "Computer Science",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Finance",
+                    "Higher Education",
+                    "History",
+                    "Industrial Engineering",
+                    "Management",
+                    "Marketing",
+                    "Mechanical Engineering",
+                    "Physics",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Secondary Education",
+                    "Sociology",
+                    "Special Education",
+                    "Sports"
+                ],
+                "EducationSpecialistDegree": [
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Educational Technology",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Special Education",
+                    "Teacher Training",
+                    "Technology"
+                ]
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1100 College Street",
+                "City": "Columbus",
+                "Province": "Mississippi",
+                "PostCode": "39701",
+                "Website": "https://www.muw.edu",
+                "college_name": "Mississippi University for Women",
+                "university_name": "(W)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1884 as Industrial Institute and College, changed name to Mississippi State College for Women 1920, and acquired present title 1974. The first college for women in America.",
+            "AcademicYear": "August to May (August-December; January-May). Also Summer Session (May-August)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Communication Studies",
+                    "Design",
+                    "English",
+                    "Family Studies",
+                    "Fine Arts",
+                    "Graphic Design",
+                    "History",
+                    "Literature",
+                    "Mathematics",
+                    "Music",
+                    "Photography",
+                    "Physical Therapy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Secondary Education",
+                    "Spanish",
+                    "Theatre",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing & Health Sciences",
+                "FieldsOfStudy": [
+                    "Kinesiology",
+                    "Nursing",
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business & Professional Studies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Cooking and Catering",
+                    "Criminology",
+                    "Hotel and Restaurant",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Family Studies",
+                    "Health Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Nursing"
+                ],
+                "Bachelor'sDegree": [
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Communication Studies",
+                    "Cooking and Catering",
+                    "English",
+                    "Family Studies",
+                    "Fine Arts",
+                    "Gender Studies",
+                    "Health Administration",
+                    "Higher Education",
+                    "History",
+                    "Human Resources",
+                    "Kinesiology",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Music",
+                    "Nursing",
+                    "Physics",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Health",
+                    "Spanish",
+                    "Speech Therapy and Audiology",
+                    "Sports Management",
+                    "Theatre",
+                    "Women's Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Education",
+                    "Fine Arts",
+                    "Health Education",
+                    "Leadership",
+                    "Nursing",
+                    "Public Health",
+                    "Secondary Education",
+                    "Speech Therapy and Audiology",
+                    "Teacher Training",
+                    "Theatre",
+                    "Women's Studies",
+                    "Writing"
+                ],
+                "Doctor'sDegrees": [
+                    "Nursing"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "14000 Highway 82 W",
+                "City": "Itta Bena",
+                "Province": "Mississippi",
+                "PostCode": "38941",
+                "Website": "https://www.mvsu.edu",
+                "college_name": "Mississippi Valley State University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1946.",
+            "AcademicYear": "August to May (August-December; January-May). Also Summer Session (May or June-July)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board ACT or SAT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Criminal Justice",
+                "FieldsOfStudy": [
+                    "Criminology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Health Education",
+                    "Music",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Science Education",
+                    "Secondary Education",
+                    "Special Education",
+                    "Sports",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering Technology",
+                "FieldsOfStudy": [
+                    "Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English and Foreign Languages",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Fine Arts",
+                    "Graphic Design",
+                    "Music",
+                    "Music Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mass Communication",
+                "FieldsOfStudy": [
+                    "Mass Communication"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mathematics, Computer and Information Sciences",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Mathematics",
+                    "Mathematics Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences and Environmental Health",
+                "FieldsOfStudy": [
+                    "Bioinformatics",
+                    "Biology",
+                    "Chemistry",
+                    "Natural Sciences",
+                    "Public Health",
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Law",
+                    "Rural Planning",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Computer Science",
+                    "Criminology",
+                    "Education",
+                    "Engineering",
+                    "English",
+                    "Fine Arts",
+                    "Graphic Design",
+                    "History",
+                    "Law",
+                    "Mathematics",
+                    "Music",
+                    "Music Education",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Public Relations",
+                    "Science Education",
+                    "Secondary Education",
+                    "Social Work",
+                    "Sociology",
+                    "Sports",
+                    "Technology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Bioinformatics",
+                    "Business Administration",
+                    "Criminology",
+                    "Primary Education",
+                    "Public Health",
+                    "Rural Planning",
+                    "Social Work",
+                    "Special Education",
+                    "Sports Management",
+                    "Teacher Training"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "150 East Rust Avenue",
+                "City": "Holly Springs",
+                "Province": "Mississippi",
+                "PostCode": "38635",
+                "Website": "https://www.rustcollege.edu",
+                "college_name": "Rust College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 1866",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "English",
+                    "Journalism",
+                    "Mass Communication",
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Mathematics",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Biology",
+                    "Business Administration",
+                    "Business Education",
+                    "Chemistry",
+                    "Child Care and Development",
+                    "Computer Science",
+                    "Education",
+                    "English",
+                    "Health Sciences",
+                    "Humanities and Social Science Education",
+                    "Journalism",
+                    "Mass Communication",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Medicine",
+                    "Music",
+                    "Political Sciences",
+                    "Primary Education",
+                    "Science Education",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "4229 Highway 15 North",
+                "City": "Laurel",
+                "Province": "Mississippi",
+                "PostCode": "39440",
+                "Website": "https://southeasternbaptist.edu",
+                "college_name": "Southeastern Baptist College",
+                "university_name": "(SBC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1948",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Christian Ministries",
+                "FieldsOfStudy": [
+                    "Christian Religious Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pastoral Ministries",
+                "FieldsOfStudy": [
+                    "Pastoral Studies"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Christian Religious Studies",
+                    "Pastoral Studies"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "100 East Capitol Street\nSuite 100",
+                "City": "Jackson",
+                "Province": "Mississippi",
+                "PostCode": "39201",
+                "Website": "https://www.strayer.edu/campus-locations/mississippi/jackson",
+                "college_name": "Strayer University \u2013 Strayer University-Jackson Campus",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "A campus of Strayer University, with the main campus located in Washington D.C.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Criminal Justice",
+                "FieldsOfStudy": [
+                    "Criminology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Services",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Criminology",
+                    "Information Technology",
+                    "Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Education",
+                    "Health Administration",
+                    "Human Resources",
+                    "Management",
+                    "Public Administration"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "500 West County Line Road",
+                "City": "Tougaloo",
+                "Province": "Mississippi",
+                "PostCode": "39174",
+                "Website": "https://www.tougaloo.edu",
+                "college_name": "Tougaloo College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Created 1869",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Health Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "English",
+                    "Fine Arts",
+                    "French",
+                    "German",
+                    "Japanese",
+                    "Mass Communication",
+                    "Music",
+                    "Music Education",
+                    "Secondary Education",
+                    "Spanish"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Physics",
+                    "Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Economics",
+                    "History",
+                    "Hotel Management",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "African American Studies",
+                    "Art Education",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Child Care and Development",
+                    "Computer Science",
+                    "Economics",
+                    "Education",
+                    "English",
+                    "Fine Arts",
+                    "French",
+                    "German",
+                    "Health Education",
+                    "History",
+                    "Hotel Management",
+                    "Japanese",
+                    "Mass Communication",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Music",
+                    "Music Education",
+                    "Parks and Recreation",
+                    "Physical Education",
+                    "Physics",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Science Education",
+                    "Secondary Education",
+                    "Social Work",
+                    "Sociology",
+                    "Spanish",
+                    "Special Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Child Care and Development",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 1848\nUniversity",
+                "City": "Mississippi",
+                "Province": "Mississippi",
+                "PostCode": "38677",
+                "Website": "https://olemiss.edu",
+                "college_name": "University of Mississippi",
+                "university_name": "(UM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1844. A State institution.",
+            "AcademicYear": "August to May (August-December; January-May)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Liberal Arts",
+                "FieldsOfStudy": [
+                    "African American Studies",
+                    "Anthropology",
+                    "Arabic",
+                    "Astronomy and Space Science",
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Chinese",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "Fine Arts",
+                    "French",
+                    "German",
+                    "History",
+                    "International Studies",
+                    "Italian",
+                    "Japanese",
+                    "Korean",
+                    "Mathematics",
+                    "Military Science",
+                    "Modern Languages",
+                    "Music",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Portuguese",
+                    "Psychology",
+                    "Religion",
+                    "Russian",
+                    "Sociology",
+                    "Spanish",
+                    "Swahili",
+                    "Theatre",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Sciences",
+                "FieldsOfStudy": [
+                    "Communication Disorders",
+                    "Criminology",
+                    "Health Administration",
+                    "Health Education",
+                    "Hotel Management",
+                    "Nutrition",
+                    "Parks and Recreation",
+                    "Physical Therapy",
+                    "Social Work",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dental Hygiene",
+                    "Dentistry",
+                    "Orthodontics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Geological Engineering",
+                    "Information Management",
+                    "Mechanical Engineering",
+                    "Telecommunications Engineering",
+                    "Water Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Related Professions",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Health Sciences",
+                    "Medical Technology",
+                    "Occupational Therapy",
+                    "Physical Therapy",
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and New Media",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "African American Studies",
+                    "Anthropology",
+                    "Arabic",
+                    "Art History",
+                    "Banking",
+                    "Biochemistry",
+                    "Biology",
+                    "Biomedical Engineering",
+                    "Business Administration",
+                    "Business Computing",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Chinese",
+                    "Civil Engineering",
+                    "Classical Languages",
+                    "Communication Disorders",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Criminology",
+                    "Dental Hygiene",
+                    "Dietetics",
+                    "Economics",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "English",
+                    "Entrepreneurship",
+                    "Film",
+                    "Finance",
+                    "Fine Arts",
+                    "Forensic Medicine and Dentistry",
+                    "French",
+                    "Geological Engineering",
+                    "Geology",
+                    "German",
+                    "Health Administration",
+                    "Health Education",
+                    "Health Sciences",
+                    "History",
+                    "Hotel Management",
+                    "Humanities and Social Science Education",
+                    "Insurance",
+                    "International Studies",
+                    "Journalism",
+                    "Law",
+                    "Linguistics",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Medical Technology",
+                    "Music",
+                    "Nursing",
+                    "Nutrition",
+                    "Parks and Recreation",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physics",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Radiology",
+                    "Real Estate",
+                    "Science Education",
+                    "Social Work",
+                    "Sociology",
+                    "Spanish",
+                    "Special Education",
+                    "Speech Studies",
+                    "Sports",
+                    "Sports Management",
+                    "Theatre",
+                    "Writing"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Health Administration"
+                ],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Anthropology",
+                    "Biology",
+                    "Chemistry",
+                    "Communication Disorders",
+                    "Communication Studies",
+                    "Criminology",
+                    "Economics",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "English",
+                    "Fine Arts",
+                    "Food Science",
+                    "French",
+                    "Gender Studies",
+                    "German",
+                    "Health Administration",
+                    "Higher Education",
+                    "History",
+                    "Hotel Management",
+                    "Journalism",
+                    "Linguistics",
+                    "Marketing",
+                    "Mathematics",
+                    "Medical Technology",
+                    "Music",
+                    "Music Education",
+                    "Musicology",
+                    "Nutrition",
+                    "Parks and Recreation",
+                    "Public Health",
+                    "Singing",
+                    "Social Work",
+                    "Spanish",
+                    "Sports",
+                    "Sports Management",
+                    "Taxation",
+                    "Teacher Training",
+                    "Writing"
+                ],
+                "Doctor'sDegrees": [
+                    "Education",
+                    "Educational Administration",
+                    "Health Administration",
+                    "Higher Education",
+                    "Law",
+                    "Occupational Therapy",
+                    "Physical Therapy",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Special Education"
+                ],
+                "ResearchScholarship": [
+                    "Accountancy",
+                    "Aeronautical and Aerospace Engineering",
+                    "Biological and Life Sciences",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Clinical Psychology",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Conducting",
+                    "Criminology",
+                    "Curriculum",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "Experimental Psychology",
+                    "Finance",
+                    "Fine Arts",
+                    "Foreign Languages Education",
+                    "French",
+                    "Geological Engineering",
+                    "German",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Higher Education",
+                    "History",
+                    "Hotel Management",
+                    "Humanities and Social Science Education",
+                    "Hydraulic Engineering",
+                    "Kinesiology",
+                    "Linguistics",
+                    "Management",
+                    "Marketing",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Music Education",
+                    "Nutrition",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Physics",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Science Education",
+                    "Secondary Education",
+                    "Singing",
+                    "Social Welfare",
+                    "Sociology",
+                    "Spanish",
+                    "Special Education",
+                    "Sports",
+                    "Teacher Training",
+                    "Telecommunications Engineering",
+                    "Toxicology",
+                    "Water Science"
+                ],
+                "EducationSpecialistDegree": [
+                    "Curriculum",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Special Education"
+                ]
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "2500 North State Street",
+                "City": "Jackson",
+                "Province": "Mississippi",
+                "PostCode": "39216",
+                "Website": "https://www.umc.edu",
+                "college_name": "University of Mississippi \u2013 University of Mississippi Medical Center",
+                "university_name": "(UMMC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1955.",
+            "AcademicYear": "August to May",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dental Hygiene",
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Biomedicine",
+                    "Biophysics",
+                    "Microbiology",
+                    "Neurology",
+                    "Nursing",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Toxicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Related Professions",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Health Sciences",
+                    "Laboratory Techniques",
+                    "Medical Auxiliaries",
+                    "Occupational Therapy",
+                    "Physical Therapy",
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Molecular Biology",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Population Health",
+                "FieldsOfStudy": [
+                    "Community Health",
+                    "Health Administration",
+                    "Statistics"
+                ],
+                "Details": "John D. Bower"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Nursing"
+                ],
+                "Bachelor'sDegree": [
+                    "Dental Hygiene",
+                    "Health Administration",
+                    "Nursing",
+                    "Pharmacy",
+                    "Radiology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Biochemistry",
+                    "Data Processing",
+                    "Health Sciences",
+                    "Nursing"
+                ],
+                "Master'sDegree": [
+                    "Bioinformatics",
+                    "Biomedicine",
+                    "Health Administration",
+                    "Medical Technology",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy",
+                    "Statistics"
+                ],
+                "Doctor'sDegrees": [
+                    "Dentistry",
+                    "Health Administration",
+                    "Medicine",
+                    "Nursing",
+                    "Occupational Therapy",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Speech Therapy and Audiology"
+                ],
+                "ResearchScholarship": [
+                    "Anatomy",
+                    "Biochemistry",
+                    "Bioinformatics",
+                    "Biomedicine",
+                    "Biophysics",
+                    "Cell Biology",
+                    "Community Health",
+                    "Health Sciences",
+                    "Immunology",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Neurosciences",
+                    "Nursing",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physiology",
+                    "Statistics"
+                ],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "118 College Drive",
+                "City": "Hattiesburg",
+                "Province": "Mississippi",
+                "PostCode": "39406-0001",
+                "Website": "https://www.usm.edu",
+                "college_name": "University of Southern Mississippi",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1910 as Normal College, acquired present status and title 1962. Organizational structure revised 1990.",
+            "AcademicYear": "August to May (August-December; January-May) Also Summer Session (May-August)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Sciences",
+                "FieldsOfStudy": [
+                    "Aeronautical and Aerospace Engineering",
+                    "Anthropology",
+                    "Architecture",
+                    "Arts and Humanities",
+                    "Biology",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Construction Engineering",
+                    "Criminology",
+                    "Dance",
+                    "Design",
+                    "Earth Sciences",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "Forensic Medicine and Dentistry",
+                    "Geography",
+                    "Geology",
+                    "History",
+                    "Interior Design",
+                    "International Studies",
+                    "Journalism",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Media Studies",
+                    "Medical Technology",
+                    "Military Science",
+                    "Music",
+                    "Natural Sciences",
+                    "Performing Arts",
+                    "Political Sciences",
+                    "Polymer and Plastics Technology",
+                    "Science Education",
+                    "Social Sciences",
+                    "Sociology",
+                    "Theatre",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Economic Development",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Finance",
+                    "Leadership",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Human Sciences",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Education",
+                    "Family Studies",
+                    "Information Sciences",
+                    "Kinesiology",
+                    "Library Science",
+                    "Nutrition",
+                    "Psychology",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing and Health Professions",
+                "FieldsOfStudy": [
+                    "Medical Technology",
+                    "Nursing",
+                    "Nutrition",
+                    "Speech Therapy and Audiology",
+                    "Sports",
+                    "Sports Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science",
+                    "Biochemistry",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Engineering",
+                    "Geography",
+                    "Geology",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Medical Technology",
+                    "Natural Sciences",
+                    "Physics",
+                    "Polymer and Plastics Technology",
+                    "Science Education",
+                    "Statistics",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Anthropology",
+                    "Architecture",
+                    "Art Management",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Child Care and Development",
+                    "Communication Studies",
+                    "Construction Engineering",
+                    "Criminology",
+                    "Dance",
+                    "Dietetics",
+                    "Economics",
+                    "Entrepreneurship",
+                    "Family Studies",
+                    "Fine Arts",
+                    "Foreign Languages Education",
+                    "French",
+                    "Geography",
+                    "Geology",
+                    "Health Administration",
+                    "Health Education",
+                    "Health Sciences",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Industrial Engineering",
+                    "Information Sciences",
+                    "Information Technology",
+                    "Interior Design",
+                    "International Business",
+                    "Jazz and Popular Music",
+                    "Journalism",
+                    "Kinesiology",
+                    "Law",
+                    "Library Science",
+                    "Management",
+                    "Marine Biology",
+                    "Marine Engineering",
+                    "Marine Science and Oceanography",
+                    "Media Studies",
+                    "Medical Technology",
+                    "Music",
+                    "Music Education",
+                    "Nursing",
+                    "Nutrition",
+                    "Painting and Drawing",
+                    "Philosophy",
+                    "Physics",
+                    "Political Sciences",
+                    "Polymer and Plastics Technology",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Health",
+                    "Rehabilitation and Therapy",
+                    "Science Education",
+                    "Sociology",
+                    "Spanish",
+                    "Speech Therapy and Audiology",
+                    "Sports",
+                    "Sports Management",
+                    "Sports Medicine",
+                    "Sustainable Development",
+                    "Theatre",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Biology",
+                    "Biomedicine",
+                    "Business Administration",
+                    "Chemistry",
+                    "Child Care and Development",
+                    "Coastal Studies",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Criminology",
+                    "Curriculum",
+                    "Education",
+                    "Education of the Handicapped",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "English",
+                    "Environmental Studies",
+                    "Family Studies",
+                    "Fine Arts",
+                    "Food Science",
+                    "Geography",
+                    "Geology",
+                    "Higher Education",
+                    "History",
+                    "Kinesiology",
+                    "Literature",
+                    "Marine Science and Oceanography",
+                    "Mathematics",
+                    "Medical Technology",
+                    "Music",
+                    "Music Education",
+                    "Nutrition",
+                    "Physics",
+                    "Polymer and Plastics Technology",
+                    "Public Health",
+                    "Public Relations",
+                    "Science Education",
+                    "Secondary Education",
+                    "Special Education",
+                    "Sports",
+                    "Theatre",
+                    "Writing"
+                ],
+                "Doctor'sDegrees": [
+                    "Music",
+                    "Speech Therapy and Audiology"
+                ],
+                "ResearchScholarship": [
+                    "Adult Education",
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Coastal Studies",
+                    "Communication Studies",
+                    "Computer Science",
+                    "Criminal Law",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Technology",
+                    "English",
+                    "Food Science",
+                    "Geography",
+                    "History",
+                    "International Studies",
+                    "Literature",
+                    "Marine Science and Oceanography",
+                    "Mass Communication",
+                    "Mathematics and Computer Science",
+                    "Music",
+                    "Music Education",
+                    "Nursing",
+                    "Nutrition",
+                    "Physics",
+                    "Polymer and Plastics Technology",
+                    "Psychology",
+                    "Science Education",
+                    "Sports"
+                ],
+                "EducationSpecialistDegree": [
+                    "Educational Administration"
+                ]
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "710 William Carey Parkway",
+                "City": "Hattiesburg",
+                "Province": "Mississippi",
+                "PostCode": "39401",
+                "Website": "https://www.wmcarey.edu",
+                "college_name": "William Carey University",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1906 as South Mississippi College, acquired present title 2006. Previously known as William Carey College.",
+            "AcademicYear": "August to May. Also Summer Session (May-August)",
+            "AdmissionRequirements": [
+                "Graduation from high school or equivalent, and College Board SAT or ACT examination",
+                "TOEFL test for foreign students"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Osteopathic Medicine",
+                "FieldsOfStudy": [
+                    "Osteopathy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Letters",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Fine Arts",
+                    "History",
+                    "Law",
+                    "Literature",
+                    "Modern Languages",
+                    "Philosophy",
+                    "Social Sciences",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business Computing",
+                    "Economics",
+                    "Finance",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Music Education",
+                    "Physical Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Scandinavian Languages"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Missions and Ministry Studies",
+                "FieldsOfStudy": [
+                    "Religion"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music",
+                    "Music Education",
+                    "Religious Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural and Behavioral Sciences",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Mathematics",
+                    "Physics",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Christian Religious Studies",
+                    "Criminology",
+                    "Cultural Studies",
+                    "Education",
+                    "English",
+                    "Fine Arts",
+                    "Forensic Medicine and Dentistry",
+                    "Health Administration",
+                    "Health Education",
+                    "Health Sciences",
+                    "History",
+                    "Management",
+                    "Mass Communication",
+                    "Mathematics",
+                    "Music",
+                    "Nursing",
+                    "Parks and Recreation",
+                    "Physical Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Social Sciences",
+                    "Spanish",
+                    "Speech Studies",
+                    "Theatre"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Anatomy",
+                    "Biomedicine",
+                    "Business Administration",
+                    "Christian Religious Studies",
+                    "Communication Disorders",
+                    "Education",
+                    "Education of the Handicapped",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "English",
+                    "Health Administration",
+                    "Health Education",
+                    "History",
+                    "Information Management",
+                    "Music Education",
+                    "Nursing",
+                    "Psychology",
+                    "Religious Music",
+                    "Sports Management",
+                    "Teacher Training",
+                    "Theology"
+                ],
+                "Doctor'sDegrees": [
+                    "Education",
+                    "Educational Administration",
+                    "Higher Education",
+                    "Music",
+                    "Nursing",
+                    "Osteopathy",
+                    "Pharmacy",
+                    "Physical Therapy"
+                ],
+                "ResearchScholarship": [
+                    "Education",
+                    "Educational Administration",
+                    "Health Administration",
+                    "Health Education",
+                    "Music",
+                    "Nursing"
+                ],
+                "EducationSpecialistDegree": [
+                    "Education",
+                    "Education of the Handicapped",
+                    "Educational Administration",
+                    "Higher Education"
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,2512 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Plot 50661, Fairgrounds Office Park\nPrivate bag 000319",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.bac.ac.bw",
+                "college_name": "Botswana Accountancy College",
+                "university_name": "(BAC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1996 as joint venture between the Ministry of Finance and Development Planning (MFDP), the Debswana Diamond Company and the Botswana Institute of Accountants (BIA). Gaborone Main Campus opened 1999, Francistown campus opened 2007. School of Computing and Information Systems is run in Partnership with University of Sunderland (UK), the School of Business and Leisure is run in Partnership with Sheffield Hallam University and University of Derby (UK)",
+            "AcademicYear": "Professional Programmes (AAT, CIMA, ACCA, BICA) enrol twice a year: January and June; the academic year starts in September",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Francistown",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Botswana Accountancy College ICT Industry Skills (BIISC)",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Leisure",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Leisure Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computing and Information Systems",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance and Professional Studies",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Post Graduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Business Computing",
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Data Processing",
+                    "Entrepreneurship",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Information Technology",
+                    "International Business",
+                    "Leadership",
+                    "Management",
+                    "Telecommunications Technology",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Taxation"
+                ],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Plot 10071 Boseja\nPrivate Bag 16",
+                "City": "Palapye",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.biust.ac.bw",
+                "college_name": "Botswana International University of Science and Technology",
+                "university_name": "(BIUST)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2006",
+            "AcademicYear": "May to August",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Business Management, Entrepreneurship and General Education",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Communication Studies",
+                    "Entrepreneurship",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Technology",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Geological Engineering",
+                    "Industrial Engineering",
+                    "Materials Engineering",
+                    "Mechanical Engineering",
+                    "Metallurgical Engineering",
+                    "Mining Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science",
+                    "Biological and Life Sciences",
+                    "Biotechnology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Environmental Studies",
+                    "Information Technology",
+                    "Mathematics",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Applied Chemistry",
+                    "Applied Mathematics",
+                    "Biological and Life Sciences",
+                    "Biotechnology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Data Processing",
+                    "Earth Sciences",
+                    "Electrical and Electronic Engineering",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Geological Engineering",
+                    "Geology",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Instrument Making",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Mechatronics",
+                    "Metallurgical Engineering",
+                    "Mining Engineering",
+                    "Physics",
+                    "Production Engineering",
+                    "Software Engineering",
+                    "Statistics",
+                    "Telecommunications Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Applied Mathematics",
+                    "Biological and Life Sciences",
+                    "Biotechnology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical and Electronic Engineering",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Environmental Studies",
+                    "Geological Engineering",
+                    "Geology",
+                    "Industrial Engineering",
+                    "Information Technology",
+                    "Instrument Making",
+                    "Materials Engineering",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Mechatronics",
+                    "Metallurgical Engineering",
+                    "Mining Engineering",
+                    "Physics",
+                    "Production Engineering",
+                    "Statistics",
+                    "Telecommunications Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Private Bag 0027",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.buan.ac.bw",
+                "college_name": "Botswana University of Agriculture and Natural Resources",
+                "university_name": "(BUAN)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1967 as Botswana Agricultural College. Became Botswana College of Agriculture - an associate Institution of the University of Botswana - 1991. Acquired present title and status 2016",
+            "AcademicYear": "August to May",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Agri-Business, Education and Extension",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agricultural Education",
+                    "Rural Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Crop Production",
+                    "Food Science",
+                    "Food Technology",
+                    "Soil Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Animal and Veterinary Sciences",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Resources",
+                "FieldsOfStudy": [
+                    "Aquaculture",
+                    "Forestry",
+                    "Meteorology",
+                    "Natural Resources",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Research and Graduate Studies",
+                "FieldsOfStudy": [
+                    "Agricultural Education",
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Animal Husbandry",
+                    "Crop Production"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Agricultural Economics",
+                    "Agricultural Education",
+                    "Agriculture",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Applied Mathematics",
+                    "Biological and Life Sciences",
+                    "Crop Production",
+                    "Ecology",
+                    "Environmental Management",
+                    "Food Science",
+                    "Food Technology",
+                    "Horticulture",
+                    "Soil Management",
+                    "Water Management",
+                    "Wildlife"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Agricultural Education",
+                    "Agricultural Engineering",
+                    "Agricultural Equipment",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Crop Production",
+                    "Horticulture",
+                    "Hydraulic Engineering",
+                    "Rural Planning",
+                    "Soil Management",
+                    "Soil Science",
+                    "Water Management"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Private Bag 00331\nPlot 38796, Block 6, Lephala Road",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://abm.ac.bw",
+                "college_name": "ABM University College",
+                "university_name": "Academy of Business Management University (ABMUC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1989",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Francistown",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Gaphatshwa",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Masunga",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "ABMA Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Information Systems",
+                "FieldsOfStudy": [
+                    "Business Computing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Management",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Electronic Engineering",
+                "FieldsOfStudy": [
+                    "Electronic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial Management",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Management",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing Management",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Procurement and Supply Operations",
+                "FieldsOfStudy": [
+                    "Business and Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Secretarial Studies",
+                "FieldsOfStudy": [
+                    "Secretarial Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism and Hospitality Management",
+                "FieldsOfStudy": [
+                    "Hotel and Restaurant",
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Insurance",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Plot 136 Finance park\nP.O. Box 26456",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://awilcollege.ac.bw",
+                "college_name": "Awil College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2015. Formerly known as AFDA Botswana",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Acting",
+                "FieldsOfStudy": [
+                    "Acting"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Film Production",
+                "FieldsOfStudy": [
+                    "Film"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Music"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "TV Production",
+                "FieldsOfStudy": [
+                    "Cinema and Television"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Acting",
+                    "Cinema and Television",
+                    "Film",
+                    "Music"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Private Bag 149, Suite 268, Kgale View Postnet \n11 Koi Street, Peolwane",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://baisago.ac.bw",
+                "college_name": "Ba Isago University",
+                "university_name": "BA ISAGO"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002 as a University College, acquired university status 2015",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Francistown",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Maun",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Built Environment, Arts and Science",
+                "FieldsOfStudy": [
+                    "Landscape Architecture",
+                    "Occupational Health",
+                    "Real Estate",
+                    "Safety Engineering",
+                    "Surveying and Mapping"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Commerce",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "Business Administration",
+                    "Entrepreneurship",
+                    "Finance",
+                    "Insurance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Psychology",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Special Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Para-Legal studies",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies and Research",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Actuarial Science",
+                    "Banking",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Communication Studies",
+                    "Economics",
+                    "Education",
+                    "Educational and Student Counselling",
+                    "Entrepreneurship",
+                    "Environmental Management",
+                    "Finance",
+                    "Health Sciences",
+                    "Hotel and Restaurant",
+                    "Human Resources",
+                    "Insurance",
+                    "Landscape Architecture",
+                    "Law",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Public Administration",
+                    "Public Relations",
+                    "Real Estate",
+                    "Retailing and Wholesaling",
+                    "Safety Engineering",
+                    "Special Education",
+                    "Surveying and Mapping",
+                    "Taxation",
+                    "Tourism",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Architecture and Planning",
+                    "Real Estate",
+                    "Taxation"
+                ],
+                "Master'sDegree": [
+                    "Architectural and Environmental Design",
+                    "Banking",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Economics",
+                    "Educational Administration",
+                    "Finance",
+                    "Health Sciences",
+                    "Insurance",
+                    "Marketing",
+                    "Preschool Education",
+                    "Public Administration",
+                    "Sustainable Development",
+                    "Tourism",
+                    "Town Planning"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Plot 5824 Masetlheng Tlokweng\nP.O. Box 203156, Old Naledi Kiosk",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.boitekanelo.ac.bw",
+                "college_name": "Boitekanelo College",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2007 as Boitekanelo Training Institute (BTI). Acquired present title and status 2011",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Mogoditshane",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Allied Health",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "Medical Auxiliaries",
+                    "Medical Technology",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Community Development",
+                    "Health Education",
+                    "Occupational Health",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rehabilitation Sciences",
+                "FieldsOfStudy": [
+                    "Educational and Student Counselling",
+                    "Occupational Therapy",
+                    "Psychology",
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Business Computing",
+                    "Community Development",
+                    "Educational and Student Counselling",
+                    "Health Administration",
+                    "Health Education",
+                    "Health Sciences",
+                    "Nursing",
+                    "Occupational Health",
+                    "Psychology",
+                    "Public Health",
+                    "Speech Therapy and Audiology"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Plot: B/hurst Industrial, plot 6407\nTlhwane Road\nP.O. Box 211292 Bontleng",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.bosabosele.ac.bw",
+                "college_name": "Bosa Bosele Training Institute",
+                "university_name": "(BBTI)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998 as Bosa Bosele Training College (BBTC)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Francistown",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Community Development",
+                "FieldsOfStudy": [
+                    "Community Development"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Day Care Management",
+                "FieldsOfStudy": [
+                    "Child Care and Development"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Early Childhood Education",
+                "FieldsOfStudy": [
+                    "Preschool Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "HIV/AIDS Care and Counselling",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism and Media Studies",
+                "FieldsOfStudy": [
+                    "Journalism",
+                    "Media Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Proficiency of Insurance",
+                "FieldsOfStudy": [
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Security Risk and Loss Control",
+                "FieldsOfStudy": [
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Supply Chain Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Community Development",
+                    "Management",
+                    "Preschool Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 501564\nBotho Education Park, Kgale",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.bothouniversity.com",
+                "college_name": "Botho University",
+                "university_name": "(BU)"
+            },
+            "InstitutionFunding": "Private-for-profit",
+            "History": "Founded 1997. A Pan African University",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Francistown",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Eswatini",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Engineering",
+                    "Health Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Lesotho",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Engineering",
+                    "Health Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Namibia",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Insurance",
+                    "Management",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Technology",
+                "FieldsOfStudy": [
+                    "Computer Networks",
+                    "Computer Science",
+                    "Cybersecurity",
+                    "Data Processing",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Insurance",
+                    "Software Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health and Education",
+                "FieldsOfStudy": [
+                    "Business Computing",
+                    "Environmental Management",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Information Management",
+                    "Occupational Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospitality and Sustainable Tourism",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Occupational Health",
+                    "Tourism"
+                ],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Computer Networks",
+                    "Computer Science",
+                    "Cybersecurity",
+                    "Data Processing",
+                    "Electrical Engineering",
+                    "Electronic Engineering",
+                    "Environmental Management",
+                    "Finance",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Hotel and Restaurant",
+                    "Information Management",
+                    "Insurance",
+                    "Management",
+                    "Occupational Health",
+                    "Software Engineering",
+                    "Telecommunications Engineering",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Garamotlhose Junction\nWestern Bye-Pass, Block 6\nPlot 39972",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "39972",
+                "Website": "https://www.bou.ac.bw",
+                "college_name": "Botswana Open University",
+                "university_name": "(BOU)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2017 as a result of the transformation of Botswana College of Distance and Open Learning (BOCODOL) established 1998. Headquarters located in Gaborone and made up of five regional campuses in Gaborone, Francistown, Palapye, Maun and Kang",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Francistown",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "Regional"
+            },
+            {
+                "College": "Gaborone",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education"
+                ],
+                "Details": "Regional"
+            },
+            {
+                "College": "Kang",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "Regional"
+            },
+            {
+                "College": "Maun",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education"
+                ],
+                "Details": "Regional"
+            },
+            {
+                "College": "Palapye",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education"
+                ],
+                "Details": "Regional"
+            },
+            {
+                "College": "Business and Management Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Business Computing",
+                    "Entrepreneurship",
+                    "Human Resources",
+                    "Leadership",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Distance Education",
+                    "Education",
+                    "Educational Administration",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Special Education",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science and Technology",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Behavioural Sciences",
+                    "Community Development",
+                    "Environmental Studies",
+                    "Psychology",
+                    "Public Administration",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Community Development",
+                    "Education",
+                    "Entrepreneurship",
+                    "Human Resources",
+                    "Information Technology",
+                    "Labour and Industrial Relations",
+                    "Leadership",
+                    "Management",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Public Health",
+                    "Social Work",
+                    "Special Education"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Educational Administration",
+                    "Sustainable Development"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Plot 13139-41 BBS Mall\nBroadhurst\nP.O. Box 70587",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ddtcollegeofmedicine.com",
+                "college_name": "DDT College of Medicine",
+                "university_name": "(DDTCOM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2015",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Doctor Assistance",
+                "FieldsOfStudy": [
+                    "Medical Auxiliaries"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Laboratory Sciences",
+                "FieldsOfStudy": [
+                    "Laboratory Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physiotherapy",
+                "FieldsOfStudy": [
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Laboratory Techniques",
+                    "Medical Auxiliaries",
+                    "Pharmacy",
+                    "Physical Therapy"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Along Molepolole Road\nPlot 39250 Block 6\nP.O. Box 1299",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.gips.ac.bw",
+                "college_name": "Gaborone Institute of Professional Studies",
+                "university_name": "GIPS Botswana (GIPS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Francistown",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Maun",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Accounting and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Management and Marketing",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Automotive Engineering",
+                    "Maintenance Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [
+                    "Automotive Engineering",
+                    "Maintenance Technology"
+                ],
+                "Bachelor'sDegree": [
+                    "Computer Science"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 201095\nBroadhurst Industrial Lot 6398\nLejara Road",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.guc.ac.bw",
+                "college_name": "Gaborone University College of Law and Professional Studies",
+                "university_name": "(GUC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2006",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "BBS",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Delta",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Francistown",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Main Mall",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Maun",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Mmopane",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering, Technical and Vocational Education",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Engineering",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Education",
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Professional Programmes",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Civil Engineering",
+                    "Community Development",
+                    "Construction Engineering",
+                    "Development Studies",
+                    "Education",
+                    "Entrepreneurship",
+                    "Family Studies",
+                    "Health Sciences",
+                    "Human Resources",
+                    "Insurance",
+                    "Law",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Occupational Health",
+                    "Preschool Education",
+                    "Public Administration",
+                    "Public Health",
+                    "Social and Preventive Medicine",
+                    "Special Education",
+                    "Tourism",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Business Administration",
+                    "Education",
+                    "Higher Education",
+                    "Management",
+                    "Taxation"
+                ],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Research",
+                    "Educational Testing and Evaluation",
+                    "Higher Education",
+                    "Marketing",
+                    "Occupational Health",
+                    "Preschool Education",
+                    "Public Health"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 389 AAH\nMasa Square\nFirst Floor, Plot 20705\nBlock 3 Industrial",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://gim.ac.bw",
+                "college_name": "Granjo Institute of Management",
+                "university_name": "Granjo (GIM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2017",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Fraud Auditing and Forensic Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Plot 6035, Khama Crescent\nExtension 2, Main Mall\nP.O. Box 80348",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.isbs.ac.bw",
+                "college_name": "Imperial School of Business and Science",
+                "university_name": "(ISBS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2003. ISBS was formerly known as Damelin Botswana",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting and Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technology",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Banking",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "E-Business/Commerce",
+                    "Entrepreneurship",
+                    "Finance",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Occupational Health",
+                    "Public Health",
+                    "Tourism",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Management"
+                ],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 1357\nPlot 21222/254",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.idmbls.com",
+                "college_name": "Institute of Development Management",
+                "university_name": "IDM Botswana (IDM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1974 as a regional organisation in Botswana, Lesotho and Swaziland (BLS) countries to help meet the management needs of the Region through management development activities including training, consultancy, research, and the establishment of a Management Resource Centre",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Francistown",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Serowe",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Information Resource Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Archiving",
+                    "Business Administration",
+                    "Finance",
+                    "Information Management",
+                    "Information Technology",
+                    "Management",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resource Management and Organizational Development",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Human Resources",
+                    "Management",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Archiving",
+                    "Community Development",
+                    "Education",
+                    "Educational Administration",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Public Health",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Plot 1440, Kamushongo Road\nG/West Industrial",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.kitsocollege.ac.bw",
+                "college_name": "Kitso International College",
+                "university_name": "(KIC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2017",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business and Strategic Planning",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Environmental Management",
+                    "Management",
+                    "Occupational Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technical and Vocational Training",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Electrical and Electronic Equipment and Maintenance",
+                    "Entrepreneurship",
+                    "Maintenance Technology",
+                    "Mechanical Equipment and Maintenance",
+                    "Protective Services",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Environmental Management",
+                    "Management",
+                    "Occupational Health"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Plot 937\nAfrican Mall",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://lbc.ac.bw",
+                "college_name": "Logan Business College",
+                "university_name": "(LBC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2017",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Banking and Finance",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Project Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Data Science",
+                "FieldsOfStudy": [
+                    "Data Processing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "e-Business",
+                "FieldsOfStudy": [
+                    "E-Business/Commerce"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Early Childhood Education",
+                "FieldsOfStudy": [
+                    "Preschool Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forensic Financial Accounting",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Higher Education (Postgraduate)",
+                "FieldsOfStudy": [
+                    "Higher Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing Management",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism Management",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Banking",
+                    "Business Administration",
+                    "Data Processing",
+                    "E-Business/Commerce",
+                    "Finance",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Higher Education"
+                ],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 201432\nPlot 61739, Gundakuni Street\nPhase 4 (Next to Letlhabile Primary School)",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.megasize.ac.bw",
+                "college_name": "Megasize College",
+                "university_name": "Mega-Size College"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1993",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Fleet Management",
+                "FieldsOfStudy": [
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Procurement and Supply",
+                "FieldsOfStudy": [
+                    "Management",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "Environmental Studies",
+                    "Logistics Management",
+                    "Management",
+                    "Occupational Health",
+                    "Preschool Education",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "P.O. Box 402134\nPlot 36158, Block 8",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.neweracollege.ac.bw",
+                "college_name": "New Era College",
+                "university_name": "New Era College of Arts, Science and Technology"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Commerce",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Entrepreneurship",
+                    "Finance",
+                    "Leadership",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Tourism",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Electrical and Electronic Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Special and Inclusive Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Special Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Electrical and Electronic Engineering",
+                    "Telecommunications Engineering"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Kgakgamatso House\nGoo-Radimpe Ward\nPlot 6644 Goora Dimpe\nP.O. Box AE500AEH, Gaborone",
+                "City": "Ramotswa",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.phronesisbw.com",
+                "college_name": "Phronesis International College",
+                "university_name": "(PIC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2018",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Counselling",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Counselling Psychotherapy",
+                "FieldsOfStudy": [
+                    "Psychotherapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Guidance and Counselling",
+                "FieldsOfStudy": [
+                    "Educational and Student Counselling"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rehabilitation Counselling",
+                "FieldsOfStudy": [
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Educational and Student Counselling",
+                    "Psychology",
+                    "Psychotherapy",
+                    "Rehabilitation and Therapy"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Private Bag UB 0022\nPlot 4775 Notwane Road",
+                "City": "Gaborone",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ub.bw",
+                "college_name": "University of Botswana",
+                "university_name": "(UB)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1964 as University of Basutoland, Bechuanaland and Swaziland. Acquired present status and title 1982",
+            "AcademicYear": "August to May (August-December; January-May)",
+            "AdmissionRequirements": [
+                "Botswana General Certificate of Secondary Education (BGCSE); Cambridge Overseas School Certificate (COSC) or General Certificate of Education (GCE) or recognized foreign equivalent",
+                "Direct entrance to second year on completion of studies in another tertiary Institution"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Continuing Education",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Hotel and Restaurant",
+                    "Management",
+                    "Marketing",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Community Development",
+                    "Consumer Studies",
+                    "Continuing Education",
+                    "Educational Sciences",
+                    "Educational Technology",
+                    "Family Studies",
+                    "Foreign Languages Education",
+                    "Humanities and Social Science Education",
+                    "Mathematics Education",
+                    "Native Language Education",
+                    "Primary Education",
+                    "Science Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Technology",
+                "FieldsOfStudy": [
+                    "Architecture and Planning",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Industrial Design",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Nursing",
+                    "Pharmacy",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Humanities",
+                "FieldsOfStudy": [
+                    "African Languages",
+                    "Chinese",
+                    "English",
+                    "French",
+                    "History",
+                    "Information Sciences",
+                    "Library Science",
+                    "Literature",
+                    "Media Studies",
+                    "Performing Arts",
+                    "Portuguese",
+                    "Religious Studies",
+                    "Theology",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Biomedicine",
+                    "Health Education",
+                    "Medicine",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Psychiatry and Mental Health",
+                    "Public Health",
+                    "Radiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Environmental Studies",
+                    "Geology",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Demography and Population",
+                    "Economics",
+                    "Law",
+                    "Political Sciences",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Botswana Transport Technology Transfer Unit",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Centre for Scientific Research, Indigenous Knowledge and Innovation",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Clean Energy Research Centre",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Okavango Research Institute",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "San Research Centre",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Education",
+                    "Engineering",
+                    "Health Sciences",
+                    "Mathematics and Computer Science",
+                    "Medicine",
+                    "Natural Sciences",
+                    "Social Sciences",
+                    "Technology",
+                    "Welfare and Protective Services"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Accountancy",
+                    "African Languages",
+                    "Applied Physics",
+                    "Archaeology",
+                    "Architecture",
+                    "Art Education",
+                    "Arts and Humanities",
+                    "Biological and Life Sciences",
+                    "Biotechnology",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Business Education",
+                    "Chemistry",
+                    "Child Care and Development",
+                    "Chinese",
+                    "Civil Engineering",
+                    "Community Development",
+                    "Computer Education",
+                    "Computer Science",
+                    "Consumer Studies",
+                    "Continuing Education",
+                    "Criminology",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Electrical and Electronic Engineering",
+                    "Engineering",
+                    "English",
+                    "Entrepreneurship",
+                    "Environmental Studies",
+                    "Family Studies",
+                    "Finance",
+                    "Fine Arts",
+                    "Geophysics",
+                    "History",
+                    "Home Economics Education",
+                    "Hotel and Restaurant",
+                    "Industrial Design",
+                    "Industrial Engineering",
+                    "Information Management",
+                    "Information Sciences",
+                    "Information Technology",
+                    "International Business",
+                    "Law",
+                    "Leadership",
+                    "Literature",
+                    "Logistics Management",
+                    "Management",
+                    "Marketing",
+                    "Mass Communication",
+                    "Mathematics",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Media Studies",
+                    "Medicine",
+                    "Meteorology",
+                    "Music Education",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Parks and Recreation",
+                    "Pastoral Studies",
+                    "Physical Education",
+                    "Physics",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Relations",
+                    "Radiophysics",
+                    "Real Estate",
+                    "Regional Planning",
+                    "Science Education",
+                    "Secondary Education",
+                    "Social Sciences",
+                    "Social Work",
+                    "Sociology",
+                    "Special Education",
+                    "Sports",
+                    "Sports Management",
+                    "Statistics",
+                    "Surgery",
+                    "Surveying and Mapping",
+                    "Theatre",
+                    "Tourism",
+                    "Town Planning",
+                    "Transport Management"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [
+                    "Development Studies",
+                    "Education",
+                    "Statistics"
+                ],
+                "Master'sDegree": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Archiving",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Community Development",
+                    "Community Health",
+                    "Construction Engineering",
+                    "Continuing Education",
+                    "Control Engineering",
+                    "Curriculum",
+                    "Demography and Population",
+                    "Development Studies",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Educational and Student Counselling",
+                    "Educational Research",
+                    "Educational Technology",
+                    "Educational Testing and Evaluation",
+                    "Electrical and Electronic Engineering",
+                    "Energy Engineering",
+                    "Engineering Management",
+                    "English",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Finance",
+                    "Foreign Languages Education",
+                    "French Studies",
+                    "Gender Studies",
+                    "Geological Engineering",
+                    "Geology",
+                    "Government",
+                    "Human Resources",
+                    "Humanities and Social Science Education",
+                    "Hydraulic Engineering",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Management",
+                    "Mass Communication",
+                    "Mathematics Education",
+                    "Mechanical Engineering",
+                    "Media Studies",
+                    "Medicine",
+                    "Microbiology",
+                    "Native Language Education",
+                    "Nursing",
+                    "Obstetrics and Gynaecology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Physical Education",
+                    "Political Sciences",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Production Engineering",
+                    "Protective Services",
+                    "Psychiatry and Mental Health",
+                    "Public Administration",
+                    "Public Health",
+                    "Religious Education",
+                    "Science Education",
+                    "Social and Community Services",
+                    "Social Policy",
+                    "Social Work",
+                    "Statistics",
+                    "Structural Architecture",
+                    "Surgery",
+                    "Theatre",
+                    "Transport Engineering"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

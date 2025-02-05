@@ -1,0 +1,3893 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Caixa postal 257\nPra\u00e7a 25 de Junho",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.uem.mz",
+                "college_name": "Eduardo Mondlane University",
+                "university_name": "Universidade Eduardo Mondlane (UEM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1962 as Estudios Gerais Universit\u00e1rios, became Universidade de Louren\u00e7o Marques 1968, acquired present title 1976. A State institution responsible to the Ministry of Higher Education.",
+            "AcademicYear": "February to December (February-June; August-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or equivalent, and entrance examination"
+            ],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Academic Development",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "African Studies",
+                "FieldsOfStudy": [
+                    "African Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biotechnology",
+                "FieldsOfStudy": [
+                    "Biotechnology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Coordination of Gender Affairs",
+                "FieldsOfStudy": [
+                    "Gender Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Distance Education",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Animal Husbandry",
+                    "Architecture and Planning",
+                    "Business and Commerce",
+                    "Educational Administration",
+                    "Public Administration"
+                ],
+                "Details": "CEND"
+            },
+            {
+                "College": "Engineering Studies",
+                "FieldsOfStudy": [
+                    "Engineering"
+                ],
+                "Details": "UP"
+            },
+            {
+                "College": "Human Rights",
+                "FieldsOfStudy": [
+                    "Human Rights"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Studies, Safety and Environment",
+                "FieldsOfStudy": [
+                    "Environmental Engineering",
+                    "Industrial Engineering",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal Clinic",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Non-formal Education Resources",
+                "FieldsOfStudy": [
+                    "Educational Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Analysis",
+                "FieldsOfStudy": [
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychological Studies and Support",
+                "FieldsOfStudy": [
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Water Economics and Governance",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Water Science"
+                ],
+                "Details": "International"
+            },
+            {
+                "College": "Studies on the Southern African Development Community (SADC) Regional Integration Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "CEDIR"
+            },
+            {
+                "College": "Agronomy and Forest Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Forestry",
+                    "Horticulture",
+                    "Plant and Crop Protection"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture and Planning",
+                "FieldsOfStudy": [
+                    "Architecture and Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Economics",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Curriculum",
+                    "Education",
+                    "Educational Administration",
+                    "Mathematics Education",
+                    "Psychology",
+                    "Science Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Hydraulic Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Letters and Social Sciences",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Geography (Human)",
+                    "History",
+                    "Linguistics",
+                    "Literature",
+                    "Modern Languages",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Sociology",
+                    "Translation and Interpretation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Chemistry",
+                    "Computer Science",
+                    "Geology",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Veterinary Science",
+                "FieldsOfStudy": [
+                    "Animal Husbandry",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business and Entrepreneurship",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "Chibuto"
+            },
+            {
+                "College": "Communication and Arts",
+                "FieldsOfStudy": [
+                    "Information Sciences",
+                    "Journalism",
+                    "Music",
+                    "Theatre"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel Management and Tourism",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism"
+                ],
+                "Details": "Inhambane"
+            },
+            {
+                "College": "Marine and Coastal Sciences",
+                "FieldsOfStudy": [
+                    "Coastal Studies",
+                    "Marine Science and Oceanography"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rural Development",
+                "FieldsOfStudy": [
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sport Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Av. Correia de Brito, n\u00ba 1259 - Ponta-Gea",
+                "City": "Beira",
+                "Province": "Sofala",
+                "PostCode": "N/A",
+                "Website": "http://www.isctac.org",
+                "college_name": "Alberto Chipande Institute of Science and Technology",
+                "university_name": "Instituto Superior de Ci\u00eancias e Tecnologia Alberto Chipande"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Economics",
+                    "Human Resources",
+                    "Hygiene",
+                    "Management",
+                    "Marine Transport",
+                    "Occupational Health",
+                    "Taxation",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Technology",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Science",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Pharmacy",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Juridical and Criminal Sciences",
+                "FieldsOfStudy": [
+                    "Criminology",
+                    "Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political and Social Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Caixa Postal 821\nRua Marqu\u00eas de Soveral, 960",
+                "City": "Beira",
+                "Province": "Sofala",
+                "PostCode": "N/A",
+                "Website": "http://www.ucm.ac.mz",
+                "college_name": "Catholic University of Mozambique",
+                "university_name": "Universidade Cat\u00f3lica de Mo\u00e7ambique (UCM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996.",
+            "AcademicYear": "January to December",
+            "AdmissionRequirements": [
+                "Secondary school certificate or equivalent"
+            ],
+            "Languages": [
+                "Portuguese",
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Gur\u00fa\u00e8 Extension",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Educational Administration",
+                    "Educational Psychology",
+                    "Law",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Maputo Extension",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administrative Law",
+                    "Business Administration",
+                    "Health Administration",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Political Sciences",
+                    "Public Administration",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nacala Extension",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Educational Administration",
+                    "Human Resources",
+                    "Law",
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Xai-Xai Extension",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Human Rights",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Crop Production",
+                    "Educational Administration",
+                    "Forestry",
+                    "Health Administration",
+                    "Horticulture",
+                    "Plant and Crop Protection",
+                    "Public Administration",
+                    "Regional Planning",
+                    "Rural Planning",
+                    "Rural Studies",
+                    "Soil Science"
+                ],
+                "Details": "Cuamba"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Architecture",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Development Studies",
+                    "Economics",
+                    "Educational Administration",
+                    "Geography",
+                    "Government",
+                    "Human Resources",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Marine Transport",
+                    "Marketing",
+                    "Natural Resources",
+                    "Political Sciences",
+                    "Public Relations",
+                    "Regional Planning",
+                    "Regional Studies",
+                    "Social and Community Services",
+                    "Town Planning"
+                ],
+                "Details": "Beira"
+            },
+            {
+                "College": "Education and Communication",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Adult Education",
+                    "Advertising and Publicity",
+                    "Anthropology",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Communication Studies",
+                    "Development Studies",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Psychology",
+                    "Human Resources",
+                    "Industrial and Organizational Psychology",
+                    "Management",
+                    "Marketing",
+                    "Public Relations",
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Architecture",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Clinical Psychology",
+                    "Communication Studies",
+                    "Development Studies",
+                    "Economics",
+                    "Educational Administration",
+                    "Electronic Engineering",
+                    "Engineering",
+                    "Food Technology",
+                    "Information Technology",
+                    "Law",
+                    "Management",
+                    "Public Administration",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forestry and Faunal Resources Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Educational Administration",
+                    "Forestry",
+                    "Law",
+                    "Natural Resources",
+                    "Sustainable Development",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Clinical Psychology",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Laboratory Techniques",
+                    "Medicine",
+                    "Nursing",
+                    "Pharmacy",
+                    "Social Work"
+                ],
+                "Details": "Beira"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Information Technology",
+                    "Law",
+                    "Public Administration",
+                    "Religious Studies"
+                ],
+                "Details": "Nampula\n"
+            },
+            {
+                "College": "Natural Resources Management and Mineralogy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Development Studies",
+                    "Environmental Management",
+                    "Geological Engineering",
+                    "Human Resources",
+                    "Information Technology",
+                    "Law",
+                    "Mineralogy",
+                    "Mining Engineering",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences and Political Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Development Studies",
+                    "Economics",
+                    "Educational Administration",
+                    "Government",
+                    "Health Administration",
+                    "Human Resources",
+                    "Information Technology",
+                    "International Relations and Diplomacy",
+                    "Law",
+                    "Management",
+                    "Public Administration"
+                ],
+                "Details": "Nampula"
+            },
+            {
+                "College": "Tourism Management and Information Technology",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Education",
+                    "Development Studies",
+                    "Economics",
+                    "Educational Administration",
+                    "Educational Psychology",
+                    "Environmental Management",
+                    "Hotel and Restaurant",
+                    "Hotel Management",
+                    "Human Resources",
+                    "Information Technology",
+                    "Law",
+                    "Management",
+                    "Natural Resources",
+                    "Regional Studies",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Distance Learning",
+                "FieldsOfStudy": [
+                    "Art Education",
+                    "Education",
+                    "Environmental Management",
+                    "Humanities and Social Science Education",
+                    "Information Technology",
+                    "Mathematics Education",
+                    "Native Language Education",
+                    "Physical Education",
+                    "Public Administration",
+                    "Science Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bairro de Lu\u00eds CabralRua 5011",
+                "City": "Maputo",
+                "Province": "Maputo",
+                "PostCode": "N/A",
+                "Website": "https://isdb.co.mz",
+                "college_name": "Don Bosco Institute of Science and Management",
+                "university_name": "Instituto Superior Dom Bosco (ISDB)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Administrative Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Education",
+                    "Management",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hotel and Tourism",
+                "FieldsOfStudy": [
+                    "Hotel Management",
+                    "Tourism",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Industrial Maintenance",
+                "FieldsOfStudy": [
+                    "Electrical Engineering",
+                    "Maintenance Technology",
+                    "Mechanical Engineering",
+                    "Technology Education",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Recinto da Escola Agr\u00e1ria",
+                "City": "Chokwe",
+                "Province": "Gaza",
+                "PostCode": "1",
+                "Website": "http://www.ispg.ac.mz/",
+                "college_name": "Gaza Polytechnic Institute",
+                "university_name": "Instituto Superior Polit\u00e9cnico de Gaza \u2013 Campus Politecnico, Ch\u00f3kwe (ISPG)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Agriculture",
+                    "Ecology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Animal Husbandry",
+                    "Aquaculture",
+                    "Forestry",
+                    "Hydraulic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Agricultural Economics"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Av. das Ind\u00fastrias, 2671\nMachava",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.isarc.edu.mz",
+                "college_name": "Institute of Art and Culture",
+                "university_name": "Instituto Superior de Artes e Cultura (ISArC)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Art",
+                "FieldsOfStudy": [
+                    "Design",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Cultural Studies",
+                "FieldsOfStudy": [
+                    "Cinema and Television",
+                    "Cultural Studies",
+                    "Dance"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Posto Administrativo de Macu\u00e1cua\nno Recinto da Escola Secund\u00e1ria Tim\u00f3teo Valente Fuel",
+                "City": "Manjacaze",
+                "Province": "Gaza",
+                "PostCode": "N/A",
+                "Website": "http://isgn.ac.mz",
+                "college_name": "Institute of Business Management",
+                "university_name": "Instituto Superior de Gest\u00e3o de Neg\u00f3cios (ISGN)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2011.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural Business",
+                "FieldsOfStudy": [
+                    "Agricultural Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Agricultural Economics",
+                "FieldsOfStudy": [
+                    "Agricultural Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Banking",
+                "FieldsOfStudy": [
+                    "Banking"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Communication",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Clinical Psychology",
+                "FieldsOfStudy": [
+                    "Clinical Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Entrepreneurship",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Administration",
+                "FieldsOfStudy": [
+                    "Educational Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Psychology",
+                "FieldsOfStudy": [
+                    "Educational Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Management",
+                "FieldsOfStudy": [
+                    "Environmental Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial and Banking Management",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Manangement",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "International Relations and Political Sciences",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus Mapulango, Maputo\nRua Irm\u00e3os Roby, N\u00ba 224",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://iscim.ac.mz",
+                "college_name": "Institute of Communication and Image Studies",
+                "university_name": "Instituto Superior de Comunica\u00e7\u00e3o e Imagem (ISCIM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Computing",
+                "FieldsOfStudy": [
+                    "Business Computing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication and Corporate Relations",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Science",
+                "FieldsOfStudy": [
+                    "Computer Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Multimedia",
+                "FieldsOfStudy": [
+                    "Multimedia"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Namaacha - Changalane",
+                "Province": "Maputo",
+                "PostCode": "N/A",
+                "Website": "http://www.oneworlduniversity.org",
+                "college_name": "Institute of Education and Technology - One World University",
+                "university_name": "Instituto Superior de Educa\u00e7\u00e3o e Tecnologia - One World University (ISET/OWU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2005 as Instituto Superior de Educa\u00e7\u00e3o e Tecnologia (ISET). Acquired current title 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Community Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy",
+                "FieldsOfStudy": [
+                    "Pedagogy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pedagogy",
+                "FieldsOfStudy": [
+                    "Pedagogy"
+                ],
+                "Details": "Distance Mode"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Av. Tomas Nduda n\u00b0 977",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.iscisa.ac.mz",
+                "college_name": "Institute of Health Sciences",
+                "university_name": "Instituto Superior de Ci\u00eancias de Sa\u00fade (ISCISA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2003.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Biomedicine and Laboratory Technology",
+                "FieldsOfStudy": [
+                    "Biomedical Engineering",
+                    "Laboratory Techniques"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Clinical Psychology",
+                "FieldsOfStudy": [
+                    "Clinical Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Gynaecology and Obstetrics Nursing",
+                "FieldsOfStudy": [
+                    "Obstetrics and Gynaecology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hospital Administration and Management",
+                "FieldsOfStudy": [
+                    "Health Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nutrition",
+                "FieldsOfStudy": [
+                    "Nutrition"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Occupational Therapy",
+                "FieldsOfStudy": [
+                    "Occupational Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Paediatric Nursing",
+                "FieldsOfStudy": [
+                    "Nursing",
+                    "Paediatrics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pathological Anatomy",
+                "FieldsOfStudy": [
+                    "Anatomy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Therapy",
+                "FieldsOfStudy": [
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Radiology",
+                "FieldsOfStudy": [
+                    "Radiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Rehabilitation and Therapy",
+                "FieldsOfStudy": [
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Community Services",
+                "FieldsOfStudy": [
+                    "Social and Community Services"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Speech Therapy and Audiology",
+                "FieldsOfStudy": [
+                    "Speech Therapy and Audiology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Surgery",
+                "FieldsOfStudy": [
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rua Dami\u00e3o de G\u00f3is, 100\nSommerchield",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.isri.ac.mz",
+                "college_name": "Institute of International Relations",
+                "university_name": "Instituto Superior de Rela\u00e7\u00f5es Internacionais (ISRI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1986 to train diplomats and those concerned with international relations, acquired present status 1997.",
+            "AcademicYear": "February to December (February -June; Augustus-December)",
+            "AdmissionRequirements": [
+                "Secondary school certificate and entrance examination"
+            ],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "International Relations and Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Public Administration"
+                ],
+                "Details": "Postgraduate"
+            },
+            {
+                "College": "International Relations and Diplomacy",
+                "FieldsOfStudy": [
+                    "International Relations and Diplomacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management for the Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Management"
+                ],
+                "Details": "Postgraduate"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration and Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Public Administration"
+                ],
+                "Details": "Postgraduate"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Estrada naciona numero 1, km 60\nposto Administrativo de Maluana",
+                "City": "Manhi\u00e7a",
+                "Province": "Maputo",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Institute of Local Studies and Development",
+                "university_name": "Instituto Superior de Estudos e Desenvolvimento Local (ISEDEL)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2012.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Educational Psychology",
+                "FieldsOfStudy": [
+                    "Educational Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Management, Hygiene and Occupational Safety",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Hygiene",
+                    "Occupational Health",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Family Therapy and Community Health",
+                "FieldsOfStudy": [
+                    "Community Health",
+                    "Rehabilitation and Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Geography Education, Planification and Municipal Development",
+                "FieldsOfStudy": [
+                    "Development Studies",
+                    "Humanities and Social Science Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Medical Anthropology and Public Health",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nutrition and Food Technology",
+                "FieldsOfStudy": [
+                    "Nutrition",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Psychotherapy and Social Work",
+                "FieldsOfStudy": [
+                    "Psychotherapy",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration and Political Science",
+                "FieldsOfStudy": [
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Av. Mao Tse Tung n\u00ba 1137-1159",
+                "City": "Maputo",
+                "Province": "Maputo",
+                "PostCode": "N/A",
+                "Website": "http://www.isg.ac.mz",
+                "college_name": "Institute of Management, Business and Education",
+                "university_name": "Instituto Superior de Gest\u00e3o, Administra\u00e7\u00e3o e Educa\u00e7\u00e3o (ISG)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2013.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting, Taxation and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "Postgraduate"
+            },
+            {
+                "College": "Projects Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "Postgraduate"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Eduardo Mondlane Nr 245\nDistrito Municipal Nr 1\nBairro da Polana",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.isgecof.ac.mz",
+                "college_name": "Institute of Management, Business and Finance",
+                "university_name": "Instituto Superior de Gest\u00e3o, Com\u00e9rcio e Finan\u00e7as (ISGECOF)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Entrepreneurship and Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Management",
+                "FieldsOfStudy": [
+                    "Environmental Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Finance",
+                "FieldsOfStudy": [
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Management",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration and Local Government",
+                "FieldsOfStudy": [
+                    "Government",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration, Commerce and Finance",
+                "FieldsOfStudy": [
+                    "Business and Commerce",
+                    "Finance",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida Vlademir Lenine, 1985",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.isap.gov.mz",
+                "college_name": "Institute of Public Administration",
+                "university_name": "Instituto Superior de Administra\u00e7\u00e3o P\u00fablica (ISAP)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Economics",
+                    "Finance",
+                    "Government",
+                    "History",
+                    "Human Resources",
+                    "Information Management",
+                    "Management",
+                    "Political Sciences",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Nacala-Porto",
+                "Province": "Nampula",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Institute of Science and Management",
+                "university_name": "Instituto Superior de Ci\u00eancia e Gest\u00e3o (INSCIG)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2009.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Studies",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environmental Studies",
+                "FieldsOfStudy": [
+                    "Environmental Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Av. da Namaacha, 188",
+                "City": "Boane",
+                "Province": "Maputo",
+                "PostCode": "N/A",
+                "Website": "http://www.isteg.ac.mz",
+                "college_name": "Institute of Technology and Management",
+                "university_name": "Instituto Superior de Tecnologia e Gest\u00e3o (ISTEG)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accounting and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Computing",
+                "FieldsOfStudy": [
+                    "Business Computing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Sciences",
+                "FieldsOfStudy": [
+                    "Communication Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction Management and Technologies",
+                "FieldsOfStudy": [
+                    "Construction Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Financial Management and Banking",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Management",
+                "FieldsOfStudy": [
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hydraulic and Sanitary Infrastructure",
+                "FieldsOfStudy": [
+                    "Hydraulic Engineering",
+                    "Sanitary Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing and Advertising",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Monetary Economics and Insurance",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Insurance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Work Psychology",
+                "FieldsOfStudy": [
+                    "Industrial and Organizational Psychology",
+                    "Social Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Territorial Planning and Environment",
+                "FieldsOfStudy": [
+                    "Environmental Studies",
+                    "Regional Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism Management",
+                "FieldsOfStudy": [
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida Em\u00edlia Da\u00fasse, 1990\nAlto-Ma\u00e9",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "1100",
+                "Website": "https://isfic.ac.mz",
+                "college_name": "Institute of Training, Research and Science",
+                "university_name": "Instituto Superior de Forma\u00e7\u00e3o, Investiga\u00e7\u00e3o e Ci\u00eancia (ISFIC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Education and Social Service",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Resources Manangement",
+                "FieldsOfStudy": [
+                    "Human Resources",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing and Advertising",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social and Work Psychology",
+                "FieldsOfStudy": [
+                    "Industrial and Organizational Psychology",
+                    "Social Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Prolongamento da Av. Kim Il Sung\n(IFT/TDM) Edif\u00edcio D1\nCaixa Postal 2088",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.transcom.co.mz/isutc",
+                "college_name": "Institute of Transport and Communications",
+                "university_name": "Instituto Superior de Transportes e Comunica\u00e7\u00f5es (ISUTC)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1999.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Basic Sciences",
+                "FieldsOfStudy": [
+                    "Mathematics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Construction Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information and Communication Technologies",
+                "FieldsOfStudy": [
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management, Economics and Finance",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Finance",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Mechanical Engineering",
+                "FieldsOfStudy": [
+                    "Mechanical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Transport and Logistics",
+                "FieldsOfStudy": [
+                    "Transport Engineering",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus Universit\u00e1rio da Beira\nInham\u00edzua",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.unipiaget.ac.mz",
+                "college_name": "Jean Piaget University of Mozambique",
+                "university_name": "Universidade Jean Piaget de Mo\u00e7ambique (UJPM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electronic Engineering",
+                    "Geological Engineering",
+                    "Mining Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health",
+                "FieldsOfStudy": [
+                    "Health Sciences",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Economics",
+                    "Human Resources",
+                    "International Relations and Diplomacy",
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Bairro de Marrere\nR. nr. 4250, Km 2,3",
+                "City": "Nampula",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.unilurio.ac.mz",
+                "college_name": "Lurio University",
+                "university_name": "Universidade L\u00fario"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agrarian Sciences",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Engineering",
+                    "Forestry"
+                ],
+                "Details": "Niassa Campus"
+            },
+            {
+                "College": "Architecture and Physical Planning",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Architecture and Planning",
+                    "Town Planning"
+                ],
+                "Details": "Nampula"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Geological Engineering",
+                    "Mechanical Engineering"
+                ],
+                "Details": "Cabo Delgado Campus"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Food Science",
+                    "Health Education",
+                    "Health Sciences",
+                    "Medicine",
+                    "Nutrition",
+                    "Optometry",
+                    "Pharmacy",
+                    "Tropical Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences",
+                "FieldsOfStudy": [
+                    "Biological and Life Sciences",
+                    "Ecology"
+                ],
+                "Details": "Cabo Delgado Campus"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Campus de Matsinho, \nEstrada Nacional n\u00ba6, desvio nas Antenas Km 4,5\nGondola",
+                "City": "Manica",
+                "Province": "N/A",
+                "PostCode": "124-841",
+                "Website": "http://www.ispm.ac.mz",
+                "college_name": "Manica Polytechnic Institute",
+                "university_name": "Instituto Superior Polit\u00e9cnico de Manica (ISPM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "Day or night classes available"
+            },
+            {
+                "College": "Agricultural Engineering with option in Agribusiness",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Forestry",
+                    "Zoology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ecotourism and Wildlife",
+                "FieldsOfStudy": [
+                    "Tourism",
+                    "Wildlife"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Forest Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Forestry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Zootechnics Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Animal Husbandry"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Av. Samora Machel, N.\u00ba 202, 2\u00ba Andar\nCP. N.\u00ba 4388",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://www.ismonitor.ac.mz",
+                "college_name": "Monitor Institute",
+                "university_name": "Instituto Superior Monitor (ISM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Psychology",
+                "FieldsOfStudy": [
+                    "Educational Psychology",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education and Psychology",
+                "FieldsOfStudy": [
+                    "Educational Psychology",
+                    "Industrial and Organizational Psychology",
+                    "Social Psychology",
+                    "Vocational Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Environmental Management",
+                    "Human Resources",
+                    "Marketing",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Caixa Postal 3661\nAvenida Vlademir Lenine, 3621",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ismma.ac.mz",
+                "college_name": "Mother Mary Africa Institute",
+                "university_name": "Instituto Superior Maria M\u00e3e de \u00c1frica (ISMMA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Educational Sciences",
+                "FieldsOfStudy": [
+                    "Educational Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy and Ethics",
+                "FieldsOfStudy": [
+                    "Ethics",
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rua John Issa, Nr. 93",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.iscam.ac.mz",
+                "college_name": "Mozambique Institute of Accountancy and Auditing",
+                "university_name": "Instituto Superior de Contabilidade e Auditoria de Mo\u00e7ambique (ISCAM)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marketing",
+                "FieldsOfStudy": [
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rua 1394\nZona FACIM, 322",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "https://isctem.ac.mz",
+                "college_name": "Mozambique Institute of Science and Technology",
+                "university_name": "Instituto Superior de Ci\u00eancias e Tecnologia de Mo\u00e7ambique (ISCTEM)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1996.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Applied Management",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Architecture and Urbanism",
+                "FieldsOfStudy": [
+                    "Architecture",
+                    "Town Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Communication Studies",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "General Medicine",
+                "FieldsOfStudy": [
+                    "Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy",
+                "FieldsOfStudy": [
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Law",
+                    "Management",
+                    "Petroleum and Gas Engineering",
+                    "Public Health"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rua Cidade de Mo\u00e7ambique,10",
+                "City": "Nampula",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.umb.ac.mz",
+                "college_name": "Mussa Bin Bique University",
+                "university_name": "Universidade Mussa Bin Bique (UMBB)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1998.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rua Mavonde",
+                "City": "Manica",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "N/A",
+                "college_name": "Mutasa Institute",
+                "university_name": "Instituto Superior Mutasa (ISMU)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2012.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Philosophy",
+                "FieldsOfStudy": [
+                    "Philosophy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rua 7 de Abril\nMachava",
+                "City": "Matola",
+                "Province": "Maputo",
+                "PostCode": "N/A",
+                "Website": "http://www.una.ac.mz",
+                "college_name": "Nachingwea University",
+                "university_name": "Universidade Nachingwea (UNA)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2011.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agricultural Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Informatics",
+                "FieldsOfStudy": [
+                    "Computer Science",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal Sciences",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Political Sciences and Administration",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rua Jo\u00e3o Carlos Raposo Beir\u00e3o n\u00ba 135",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "21 306-709",
+                "Website": "http://www.up.ac.mz",
+                "college_name": "Pedagogical University",
+                "university_name": "Universidade Pedag\u00f3gica (UP)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1985 as Instituto Superior Pedag\u00f3gico (ISP). Acquired current status and title 1995.",
+            "AcademicYear": "August to June (August-December; January-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or equivalent, and entrance examination"
+            ],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Educational Sciences and Psychology",
+                "FieldsOfStudy": [
+                    "Educational Sciences",
+                    "Psychology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Health Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Language, Communication and Arts",
+                "FieldsOfStudy": [
+                    "Communication Studies",
+                    "English",
+                    "Fine Arts",
+                    "French",
+                    "Modern Languages",
+                    "Portuguese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Natural Sciences and Mathematics",
+                "FieldsOfStudy": [
+                    "Biology",
+                    "Chemistry",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Education and Sports",
+                "FieldsOfStudy": [
+                    "Physical Education",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Accountancy and Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida Paulo Samuel Kankhomba, 1011",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.apolitecnica.ac.mz",
+                "college_name": "Polytechnic University",
+                "university_name": "Universidade Polit\u00e9cnica"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1995 as Instituto Superior Polit\u00e9cnico e Universit\u00e1rio. Acquired present status and title 2007.",
+            "AcademicYear": "February to December",
+            "AdmissionRequirements": [
+                "High school certificate and entrance examination"
+            ],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Humanities and Technologies",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business Computing",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Law",
+                    "Nursing",
+                    "Psychology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nacala Polytechnic Institute",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Environmental Engineering",
+                    "Law",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "University Studies - Tete",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Electrical Engineering",
+                    "Environmental Engineering",
+                    "Law",
+                    "Mechanical Engineering",
+                    "Psychology",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Alberta",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Educational Sciences",
+                    "Human Resources",
+                    "Law",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Higher Education and Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Commercial Law",
+                    "Finance",
+                    "Health Administration",
+                    "Human Resources",
+                    "Public Health",
+                    "Social Work",
+                    "Taxation",
+                    "Tropical Medicine"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management, Science and Technology",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Educational Sciences",
+                    "Engineering",
+                    "Finance",
+                    "Law",
+                    "Management",
+                    "Modern Languages",
+                    "Natural Sciences",
+                    "Psychology",
+                    "Social Sciences",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "University Studies - Nampula",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Business Computing",
+                    "Civil Engineering",
+                    "Communication Studies",
+                    "Development Studies",
+                    "Electrical Engineering",
+                    "Finance",
+                    "Law",
+                    "Mechanical Engineering",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida Ahmed Sekou Torr\u00e9, 610",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.ustm.ac.mz",
+                "college_name": "Saint Thomas University of Mozambique",
+                "university_name": "Universidade S\u00e3o Tom\u00e1s de Mo\u00e7ambique"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Agriculture",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Development Studies",
+                    "Rural Planning",
+                    "Rural Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Sciences",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Finance"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics and Accountancy",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Economics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ethics and Humanities",
+                "FieldsOfStudy": [
+                    "Clinical Psychology",
+                    "Communication Studies",
+                    "Human Resources",
+                    "Industrial and Organizational Psychology",
+                    "International Relations and Diplomacy",
+                    "Philosophy",
+                    "Public Administration",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technologies and Sciences",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Computer Networks",
+                    "Information Technology",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism, Hotel and Restaurant Management",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Postgraduate Studies",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Communication Studies",
+                    "Economics",
+                    "Educational Sciences",
+                    "Ethics",
+                    "Finance",
+                    "Human Resources"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "USTM - Business School ( U-BS)",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Computer Science",
+                    "Economics",
+                    "Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Maputo",
+                "Province": "Maputo",
+                "PostCode": "412",
+                "Website": "http://cbs-school.com",
+                "college_name": "School of Corporate and Social Management",
+                "university_name": "Escola Superior de Gest\u00e3o Corporativa e Social (ESGCS)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2013.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy, Taxation and Corporate Finance",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Entrepreneurship",
+                "FieldsOfStudy": [
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Information Technologies and Systems",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Management",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Occupation Safety and Hygiene",
+                "FieldsOfStudy": [
+                    "Hygiene",
+                    "Occupational Health",
+                    "Safety Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida Zedequias Manganhela, 305-309\n3\u00ba Adar",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.eseg.ac.mz",
+                "college_name": "School of Economics and Management",
+                "university_name": "Escola Superior de Economia e Gest\u00e3o (ESEG)"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Accountancy and Auditing",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Commercial Law",
+                    "English",
+                    "Finance",
+                    "Human Resources",
+                    "International Economics",
+                    "Law",
+                    "Marketing",
+                    "Mathematics",
+                    "Statistics",
+                    "Taxation"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration and Management",
+                "FieldsOfStudy": [
+                    "Business Administration",
+                    "Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Commercial Law",
+                    "Economic and Finance Policy",
+                    "Economic History",
+                    "Economics",
+                    "English",
+                    "Finance",
+                    "International Economics",
+                    "Law",
+                    "Management",
+                    "Mathematics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Environment and Territory Management",
+                "FieldsOfStudy": [
+                    "Environmental Management",
+                    "Regional Planning"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Administrative Law",
+                    "Civil Law",
+                    "Constitutional Law",
+                    "Criminal Law",
+                    "Criminology",
+                    "Economic and Finance Policy",
+                    "Economics",
+                    "Finance",
+                    "Fiscal Law",
+                    "Forensic Medicine and Dentistry",
+                    "International Law",
+                    "Labour Law",
+                    "Law",
+                    "Political Sciences",
+                    "Private Law",
+                    "Public Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Administration",
+                "FieldsOfStudy": [
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Communication",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Journalism",
+                    "Marketing",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Tourism Management",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Communication Studies",
+                    "Economic and Finance Policy",
+                    "English",
+                    "Hotel and Restaurant",
+                    "Hotel Management",
+                    "International Economics",
+                    "Law",
+                    "Management",
+                    "Marketing",
+                    "Mathematics",
+                    "Statistics",
+                    "Tourism"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida Francisco o. Magumbwe, n\u00ba 708\n4\u00ba andar",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.esj.ac.mz",
+                "college_name": "School of Journalism",
+                "university_name": "Escola Superior de Jornalismo (ESJ)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Advertising and Marketing",
+                "FieldsOfStudy": [
+                    "Advertising and Publicity",
+                    "Marketing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Journalism",
+                "FieldsOfStudy": [
+                    "Journalism"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Library Science and Documentation Techniques",
+                "FieldsOfStudy": [
+                    "Documentation Techniques",
+                    "Library Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Relations",
+                "FieldsOfStudy": [
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Caixa postal 637\nAvenida 10 de Novembro, 1",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.enautica.ac.mz",
+                "college_name": "School of Nautical Sciences",
+                "university_name": "Escola Superior de Ci\u00eancias N\u00e1uticas"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2004.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Electronic and Telecommunications Engineering",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Engineering",
+                "FieldsOfStudy": [
+                    "Marine Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Marine Transport",
+                "FieldsOfStudy": [
+                    "Marine Transport"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Maritime Law",
+                "FieldsOfStudy": [
+                    "Maritime Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Ports Economics and Management",
+                "FieldsOfStudy": [
+                    "Transport Economics",
+                    "Transport Management"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "N/A",
+                "City": "Songo",
+                "Province": "Tete",
+                "PostCode": "N/A",
+                "Website": "http://www.ispsongo.ac.mz",
+                "college_name": "Songo Polytechnic Institute",
+                "university_name": "Instituto Superior Polit\u00e9cnico de Songo (ISPS)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2008.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Electrical Engineering",
+                "FieldsOfStudy": [
+                    "Electrical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Hydraulic Engineering",
+                "FieldsOfStudy": [
+                    "Hydraulic Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Thermal Engineering",
+                "FieldsOfStudy": [
+                    "Thermal Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Avenida Albert Lithuli, 418/38",
+                "City": "Maputo",
+                "Province": "N/A",
+                "PostCode": "N/A",
+                "Website": "http://www.udm.ac.mz",
+                "college_name": "Technical University of Mozambique",
+                "university_name": "Universidade T\u00e9cnica de Mo\u00e7ambique"
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 2002.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics and Social Sciences",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Marketing",
+                    "Public Administration",
+                    "Public Relations"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Legal Sciences",
+                "FieldsOfStudy": [
+                    "Commercial Law",
+                    "Constitutional Law",
+                    "Economics",
+                    "Government",
+                    "Human Rights",
+                    "Justice Administration",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technological Sciences",
+                "FieldsOfStudy": [
+                    "Civil Engineering",
+                    "Energy Engineering",
+                    "Environmental Engineering",
+                    "Industrial Engineering",
+                    "Industrial Management",
+                    "Information Technology",
+                    "Petroleum and Gas Engineering",
+                    "Safety Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Estrada Nacional n\u00ba 7, Km 1\nBairro Matundo\nCaixa Postal: 362",
+                "City": "Tete",
+                "Province": "Tete",
+                "PostCode": "N/A",
+                "Website": "http://ispt.ac.mz",
+                "college_name": "Tete Polytechnic Institute",
+                "university_name": "Instituto Superior Polit\u00e9cnico de Tete (ISPT)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2005.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Economics",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Public Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Engineering",
+                    "Mineralogy",
+                    "Mining Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Rua Alfredo Lawley, 1018\nMatacuane",
+                "City": "Beira",
+                "Province": "Sofala",
+                "PostCode": "N/A",
+                "Website": "http://www.unizambeze.ac.mz",
+                "college_name": "Zambeze University",
+                "university_name": "Universidade Zambeze \u2013 Unizambeze (UZ)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 2006.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "Portuguese"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Information and Communication Technology",
+                "FieldsOfStudy": [
+                    "Information Technology"
+                ],
+                "Details": "ICTC"
+            },
+            {
+                "College": "Studies, Innovation and Advanced Training",
+                "FieldsOfStudy": [
+                    "Natural Sciences",
+                    "Technology"
+                ],
+                "Details": "SCIFA"
+            },
+            {
+                "College": "Agricultural Engineering and Forestry",
+                "FieldsOfStudy": [
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Animal Husbandry",
+                    "Fishery",
+                    "Public Administration"
+                ],
+                "Details": "FEAF"
+            },
+            {
+                "College": "Agricultural Sciences",
+                "FieldsOfStudy": [
+                    "Agriculture"
+                ],
+                "Details": "FCA"
+            },
+            {
+                "College": "Environmental and Natural Resources",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Civil Engineering",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Natural Resources",
+                    "Rural Studies"
+                ],
+                "Details": "FEARN"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Health Administration",
+                    "Medicine",
+                    "Pharmacy"
+                ],
+                "Details": "FCS"
+            },
+            {
+                "College": "Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Architecture",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Construction Engineering",
+                    "Electronic Engineering",
+                    "Energy Engineering",
+                    "Hydraulic Engineering",
+                    "Production Engineering"
+                ],
+                "Details": "FCT"
+            },
+            {
+                "College": "Social Sciences and Humanities",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Communication Studies",
+                    "Cultural Studies",
+                    "Economics",
+                    "Finance",
+                    "Law",
+                    "Literature",
+                    "Management",
+                    "Modern Languages",
+                    "Sociology"
+                ],
+                "Details": "FCSH"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

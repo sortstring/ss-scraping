@@ -1,0 +1,341 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "Maison de l'Avocat, 24 rue Jean Cocteau",
+                "City": "Sainte-Clothilde",
+                "Province": "N/A",
+                "PostCode": "97490",
+                "Website": "https://www.eda-reunion-mayotte.fr",
+                "college_name": "EDA Reunion-Mayotte",
+                "university_name": "EDA R\u00e9union-Mayotte"
+            },
+            "InstitutionFunding": "Public",
+            "History": "EDA Reunion-Mayotte provides initial training for student lawyers and prepares and exams the Certificate of Aptitude for the Legal Profession (CAPA). It also provides training as part of the continuing education process for practising lawyers",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Lawyer Training",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "102 avenue du 20 d\u00e9cembre 1848\nB.P. 246",
+                "City": "Le Port",
+                "Province": "Cedex",
+                "PostCode": "97826",
+                "Website": "https://sites.google.com/esa.re/esa-reunion",
+                "college_name": "Reunion College of Arts",
+                "university_name": "Ecole sup\u00e9rieure d'art de la R\u00e9union \u2013 ESA R\u00e9union (ESA)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1991",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [
+                "Entrance examination",
+                "Secondary school certificate (Baccalaur\u00e9at) or equivalent"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Design",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Design",
+                    "Furniture Design",
+                    "Graphic Design",
+                    "Multimedia",
+                    "Visual Arts"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Design",
+                    "Fine Arts",
+                    "Visual Arts"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "15, avenue Ren\u00e9 Cassin\nBP 7151",
+                "City": "Saint-Denis Messag",
+                "Province": "Cedex 9",
+                "PostCode": "97715",
+                "Website": "https://www.univ-reunion.fr",
+                "college_name": "Reunion Island University",
+                "university_name": "Universit\u00e9 de La R\u00e9union (UR)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1982 as Ecole de Jurisprudence, became Ecole de Droit 1926, Institut d'Etudes juridiques, politiques et \u00e9conomiques1950, and Centre Universitaire 1971. Acquired present status and title as a full-functioning French University and title 1982",
+            "AcademicYear": "September to June (September-December; February-June)",
+            "AdmissionRequirements": [
+                "Secondary school certificate (Baccalaur\u00e9at) or equivalent and entrance examination"
+            ],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Social Sciences",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Communication Studies",
+                    "Educational Sciences",
+                    "English",
+                    "Ethnology",
+                    "Geography",
+                    "Germanic Studies",
+                    "History",
+                    "Literature"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Health Sciences",
+                "FieldsOfStudy": [
+                    "Dentistry",
+                    "Medicine",
+                    "Midwifery",
+                    "Occupational Therapy",
+                    "Pharmacy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Human Science and Environment",
+                "FieldsOfStudy": [
+                    "Cultural Studies",
+                    "Ecology",
+                    "Environmental Studies",
+                    "French",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law and Economics",
+                "FieldsOfStudy": [
+                    "Economics",
+                    "Law",
+                    "Political Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Sciences and Technology",
+                "FieldsOfStudy": [
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Earth Sciences",
+                    "Food Technology",
+                    "Mathematics",
+                    "Molecular Biology",
+                    "Natural Sciences",
+                    "Physics",
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration (IAE)",
+                "FieldsOfStudy": [
+                    "Business Administration"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Confucius",
+                "FieldsOfStudy": [
+                    "Chinese"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Teacher Training (INSPE)",
+                "FieldsOfStudy": [
+                    "Educational Research",
+                    "Educational Sciences",
+                    "Teacher Trainers Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Technology (IUT Saint-Pierre)",
+                "FieldsOfStudy": [
+                    "Banking",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "E-Business/Commerce",
+                    "Management",
+                    "Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Observatory for the Sciences of the Universe",
+                "FieldsOfStudy": [
+                    "Astronomy and Space Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering (ESIROI)",
+                "FieldsOfStudy": [
+                    "Construction Engineering",
+                    "Energy Engineering",
+                    "Engineering",
+                    "Food Technology",
+                    "Information Technology",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Anthropology",
+                    "Arts and Humanities",
+                    "Biological and Life Sciences",
+                    "Business Administration",
+                    "Civil Engineering",
+                    "Earth Sciences",
+                    "Economics",
+                    "Geography",
+                    "Health Sciences",
+                    "History",
+                    "Information Sciences",
+                    "Law",
+                    "Mathematics and Computer Science",
+                    "Modern Languages",
+                    "Natural Sciences",
+                    "Social Sciences",
+                    "Sports",
+                    "Teacher Training",
+                    "Technology"
+                ],
+                "Doctor'sDegrees": [
+                    "Arts and Humanities",
+                    "Economics",
+                    "Law",
+                    "Management"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "40, avenue de Soweto",
+                "City": "Saint-Pierre",
+                "Province": "N/A",
+                "PostCode": "97455",
+                "Website": "https://esiroi.univ-reunion.fr",
+                "college_name": "Reunion Island University \u2013 University of Reunion Island's Engineering School",
+                "university_name": "Universit\u00e9 de La R\u00e9union \u2013 Ecole Sup\u00e9rieure d\u2019ing\u00e9nieurs R\u00e9union Oc\u00e9an Indien (ESIROI)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "First engineering school outside metropolitan France to be accredited in 2006 by the Commission des titres d'ing\u00e9nieur (CTI)",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "French"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Building and Energy",
+                "FieldsOfStudy": [
+                    "Building Technologies",
+                    "Energy Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Computer science and Telecommunications",
+                "FieldsOfStudy": [
+                    "Computer Engineering",
+                    "Telecommunications Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Food industry",
+                "FieldsOfStudy": [
+                    "Agricultural Business"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": []
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]

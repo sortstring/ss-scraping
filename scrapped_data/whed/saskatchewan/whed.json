@@ -1,0 +1,1234 @@
+[
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "3737 Wascana Parkway",
+                "City": "Regina",
+                "Province": "Saskatchewan",
+                "PostCode": "S4S 0A2",
+                "Website": "https://www.uregina.ca",
+                "college_name": "University of Regina",
+                "university_name": "(U of R)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1911 as Regina College, Reorganized 1925 as University of Saskatchewan, 1959 as University of Saskatchewan, Regina Campus, and acquired present status and title 1974",
+            "AcademicYear": "September to August (September-December; January-April; May-August)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized foreign equivalent",
+                "For individual course requirements, please see website"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Campion",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Fine Arts",
+                    "Natural Sciences"
+                ],
+                "Details": "http://campioncollege.ca/"
+            },
+            {
+                "College": "Luther",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Fine Arts",
+                    "Natural Sciences"
+                ],
+                "Details": "http://luthercollege.edu"
+            },
+            {
+                "College": "Arts",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Asian Studies",
+                    "Business Administration",
+                    "Classical Languages",
+                    "Cultural Studies",
+                    "Development Studies",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "European Studies",
+                    "French",
+                    "French Studies",
+                    "Gender Studies",
+                    "Geography",
+                    "History",
+                    "Indigenous Studies",
+                    "International Studies",
+                    "Journalism",
+                    "Latin American Studies",
+                    "Law",
+                    "Linguistics",
+                    "Medieval Studies",
+                    "Philosophy",
+                    "Police Studies",
+                    "Political Sciences",
+                    "Psychology",
+                    "Religious Studies",
+                    "Social Studies",
+                    "Sociology",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing",
+                    "Small Business"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Education",
+                    "Humanities and Social Science Education",
+                    "Natives Education",
+                    "Preschool Education",
+                    "Primary Education",
+                    "Secondary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering and Applied Science",
+                "FieldsOfStudy": [
+                    "Electronic Engineering",
+                    "Environmental Engineering",
+                    "Industrial Engineering",
+                    "Petroleum and Gas Engineering",
+                    "Software Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "English as a Second Language (ESL)",
+                "FieldsOfStudy": [
+                    "English"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Fine Arts",
+                "FieldsOfStudy": [
+                    "Acting",
+                    "Art History",
+                    "Ceramic Art",
+                    "Film",
+                    "Fine Arts",
+                    "Music",
+                    "Music Education",
+                    "Music Theory and Composition",
+                    "Painting and Drawing",
+                    "Printing and Printmaking",
+                    "Sculpture",
+                    "Theatre",
+                    "Video"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies and Research",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Biochemistry",
+                    "Biology",
+                    "Business Administration",
+                    "Computer Science",
+                    "Education",
+                    "Engineering",
+                    "Fine Arts",
+                    "Geography",
+                    "Health Sciences",
+                    "Mathematics",
+                    "Natural Sciences",
+                    "Physical Therapy",
+                    "Physics",
+                    "Psychology",
+                    "Social Work",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Kinesiology and Health Studies",
+                "FieldsOfStudy": [
+                    "Gerontology",
+                    "Physical Therapy",
+                    "Public Health",
+                    "Sports",
+                    "Sports Management"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Science",
+                "FieldsOfStudy": [
+                    "Actuarial Science",
+                    "Biochemistry",
+                    "Biology",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Ecology",
+                    "Geography",
+                    "Geology",
+                    "Mathematics",
+                    "Molecular Biology",
+                    "Physics",
+                    "Statistics"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Work",
+                "FieldsOfStudy": [
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Policy",
+                "FieldsOfStudy": [
+                    "Political Sciences"
+                ],
+                "Details": "Johnson-Shoyama"
+            },
+            {
+                "College": "French",
+                "FieldsOfStudy": [
+                    "French"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Native Studies and Applied Research",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Indigenous Studies"
+                ],
+                "Details": "Gabriel Dumont. (http://www.gdins.org)"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Education",
+                    "Engineering",
+                    "Fine Arts",
+                    "Natural Sciences",
+                    "Nursing",
+                    "Physical Therapy",
+                    "Social Work"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Business Administration",
+                    "Computer Science",
+                    "Education",
+                    "Engineering",
+                    "Fine Arts",
+                    "Nursing",
+                    "Physical Therapy",
+                    "Social Work"
+                ],
+                "Doctor'sDegrees": [
+                    "Biochemistry",
+                    "Biology",
+                    "Chemistry",
+                    "Clinical Psychology",
+                    "Computer Science",
+                    "Education",
+                    "Engineering",
+                    "Geology",
+                    "Health Sciences",
+                    "Mathematics",
+                    "Physical Therapy",
+                    "Physics",
+                    "Statistics"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "1 First Nations Way",
+                "City": "Regina",
+                "Province": "Regina",
+                "PostCode": "S4S 7K2",
+                "Website": "https://www.fnuniv.ca",
+                "college_name": "University of Regina \u2013 First Nations University of Canada",
+                "university_name": "(FNUniv)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Created 1976 as the Saskatchewan Indian Federated College and acquired current title and status 2003.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "N/A"
+        },
+        "Divisions": [
+            {
+                "College": "Postgraduate",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Native Language Education",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Undergraduate",
+                "FieldsOfStudy": [
+                    "Communication Arts",
+                    "Education",
+                    "Fine Arts",
+                    "Indigenous Studies",
+                    "Native Language",
+                    "Native Language Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Social Work"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Communication Arts",
+                    "Fine Arts",
+                    "Indigenous Studies",
+                    "Native Language",
+                    "Native Language Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Social Work"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Education",
+                    "Native Language Education",
+                    "Social Work"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "107 Administration Place",
+                "City": "Saskatoon",
+                "Province": "Saskatchewan",
+                "PostCode": "S7N 5A2",
+                "Website": "http://www.usask.ca",
+                "college_name": "University of Saskatchewan",
+                "university_name": "(U of S)"
+            },
+            "InstitutionFunding": "Public",
+            "History": "Founded 1907.",
+            "AcademicYear": "September to June (September-December; January-April; May-June). Also summer session (July-August)",
+            "AdmissionRequirements": [
+                "Secondary school certificate or recognized equivalent",
+                "Proof of English proficiency"
+            ],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Continuing and Distance Education",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Agriculture",
+                    "Business Administration",
+                    "Chinese",
+                    "Design",
+                    "Ecology",
+                    "Educational Psychology",
+                    "English",
+                    "Environmental Studies",
+                    "Fine Arts",
+                    "Foreign Languages Education",
+                    "French",
+                    "German",
+                    "Horticulture",
+                    "Indigenous Studies",
+                    "Japanese",
+                    "Leadership",
+                    "Mathematics",
+                    "Music",
+                    "Music Education",
+                    "Spanish",
+                    "Special Education"
+                ],
+                "Details": "CCDE"
+            },
+            {
+                "College": "Agriculture and Bioresources",
+                "FieldsOfStudy": [
+                    "Agricultural Business",
+                    "Agricultural Economics",
+                    "Agriculture",
+                    "Agronomy",
+                    "Animal Husbandry",
+                    "Biochemistry",
+                    "Biotechnology",
+                    "Botany",
+                    "Chemistry",
+                    "Computer Science",
+                    "Crop Production",
+                    "Ecology",
+                    "Environmental Studies",
+                    "Food Science",
+                    "Forestry",
+                    "Genetics",
+                    "Horticulture",
+                    "Meat and Poultry",
+                    "Microbiology",
+                    "Molecular Biology",
+                    "Natural Resources",
+                    "Nutrition",
+                    "Physics",
+                    "Physiology",
+                    "Plant and Crop Protection",
+                    "Plant Pathology",
+                    "Social Sciences",
+                    "Soil Science",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Arts and Science",
+                "FieldsOfStudy": [
+                    "Amerindian Languages",
+                    "Anatomy",
+                    "Ancient Civilizations",
+                    "Anthropology",
+                    "Archaeology",
+                    "Art History",
+                    "Astronomy and Space Science",
+                    "Biochemistry",
+                    "Biology",
+                    "Biotechnology",
+                    "Cell Biology",
+                    "Chemistry",
+                    "Computer Science",
+                    "Criminology",
+                    "Cultural Studies",
+                    "Economics",
+                    "English",
+                    "Environmental Studies",
+                    "Fine Arts",
+                    "Food Science",
+                    "French",
+                    "Gender Studies",
+                    "Geography",
+                    "Geology",
+                    "Geophysics",
+                    "German",
+                    "Greek (Classical)",
+                    "Hebrew",
+                    "History",
+                    "Indigenous Studies",
+                    "International Studies",
+                    "Latin",
+                    "Law",
+                    "Linguistics",
+                    "Literature",
+                    "Mathematical Physics",
+                    "Mathematics",
+                    "Medieval Studies",
+                    "Modern History",
+                    "Modern Languages",
+                    "Music",
+                    "Music Education",
+                    "Native American Studies",
+                    "Pharmacology",
+                    "Philosophy",
+                    "Physical Engineering",
+                    "Physics",
+                    "Physiology",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Administration",
+                    "Regional Planning",
+                    "Religion",
+                    "Religious Studies",
+                    "Russian",
+                    "Sanskrit",
+                    "Slavic Languages",
+                    "Social Sciences",
+                    "Sociology",
+                    "Spanish",
+                    "Statistics",
+                    "Theatre",
+                    "Town Planning",
+                    "Toxicology",
+                    "Women's Studies"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Briercrest College and Seminary",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Christian Religious Studies",
+                    "Education",
+                    "Holy Writings",
+                    "Music",
+                    "Pastoral Studies",
+                    "Religion",
+                    "Religious Music",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Dentistry",
+                "FieldsOfStudy": [
+                    "Dentistry"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Curriculum",
+                    "Education",
+                    "Educational Psychology",
+                    "Educational Technology",
+                    "Music Education",
+                    "Natives Education",
+                    "Physical Education",
+                    "Primary Education",
+                    "Secondary Education",
+                    "Special Education",
+                    "Teacher Training"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Emmanuel and St. Chad",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Christian Religious Studies",
+                    "Ethics",
+                    "History of Religion",
+                    "Protestant Theology",
+                    "Religion",
+                    "Religious Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Engineering",
+                "FieldsOfStudy": [
+                    "Agricultural Engineering",
+                    "Bioengineering",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Engineering",
+                    "Environmental Engineering",
+                    "Geological Engineering",
+                    "Mechanical Engineering",
+                    "Physical Engineering"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Graduate Studies and Research",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Agricultural Economics",
+                    "Agricultural Engineering",
+                    "Agriculture",
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Animal Husbandry",
+                    "Anthropology",
+                    "Archaeology",
+                    "Art History",
+                    "Biochemistry",
+                    "Bioengineering",
+                    "Biology",
+                    "Biomedicine",
+                    "Botany",
+                    "Business Administration",
+                    "Cell Biology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Community Health",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Cultural Studies",
+                    "Curriculum",
+                    "Economics",
+                    "Education",
+                    "Educational Administration",
+                    "Educational Psychology",
+                    "Electrical Engineering",
+                    "English",
+                    "Environmental Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Epidemiology",
+                    "Finance",
+                    "Fine Arts",
+                    "Food Science",
+                    "Gender Studies",
+                    "Geography",
+                    "Geological Engineering",
+                    "Geology",
+                    "Health Sciences",
+                    "History",
+                    "Immunology",
+                    "Indigenous Studies",
+                    "International Business",
+                    "Laboratory Techniques",
+                    "Law",
+                    "Linguistics",
+                    "Management",
+                    "Mathematics",
+                    "Meat and Poultry",
+                    "Mechanical Engineering",
+                    "Microbiology",
+                    "Music",
+                    "Native American Studies",
+                    "Natural Resources",
+                    "Neurological Therapy",
+                    "Nursing",
+                    "Nutrition",
+                    "Obstetrics and Gynaecology",
+                    "Oncology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Philosophy",
+                    "Physical Engineering",
+                    "Physical Therapy",
+                    "Physics",
+                    "Physiology",
+                    "Political Sciences",
+                    "Psychiatry and Mental Health",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Rehabilitation and Therapy",
+                    "Religion",
+                    "Sociology",
+                    "Soil Science",
+                    "Special Education",
+                    "Statistics",
+                    "Surgery",
+                    "Theatre",
+                    "Toxicology",
+                    "Veterinary Science",
+                    "Women's Studies",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Horizon College and Seminary",
+                "FieldsOfStudy": [
+                    "Christian Religious Studies",
+                    "Missionary Studies",
+                    "Pastoral Studies",
+                    "Religious Studies",
+                    "Theology"
+                ],
+                "Details": "http://www.horizon.edu"
+            },
+            {
+                "College": "Kinesiology",
+                "FieldsOfStudy": [
+                    "Nutrition",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Physiology",
+                    "Psychology",
+                    "Sports"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Law",
+                "FieldsOfStudy": [
+                    "Law"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Lutheran Theological Seminary",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Classical Languages",
+                    "Greek (Classical)",
+                    "History of Religion",
+                    "Holy Writings",
+                    "New Testament",
+                    "Protestant Theology",
+                    "Theology"
+                ],
+                "Details": "http://www.usak.ca/stu/luther"
+            },
+            {
+                "College": "Medicine",
+                "FieldsOfStudy": [
+                    "Anaesthesiology",
+                    "Anatomy",
+                    "Biochemistry",
+                    "Biomedicine",
+                    "Cardiology",
+                    "Cell Biology",
+                    "Community Health",
+                    "Epidemiology",
+                    "Health Sciences",
+                    "Immunology",
+                    "Information Technology",
+                    "Laboratory Techniques",
+                    "Medical Technology",
+                    "Medicine",
+                    "Microbiology",
+                    "Neurosciences",
+                    "Obstetrics and Gynaecology",
+                    "Occupational Therapy",
+                    "Oncology",
+                    "Ophthalmology",
+                    "Paediatrics",
+                    "Pathology",
+                    "Pharmacology",
+                    "Physical Therapy",
+                    "Physiology",
+                    "Psychiatry and Mental Health",
+                    "Public Health",
+                    "Radiology",
+                    "Rehabilitation and Therapy",
+                    "Speech Therapy and Audiology",
+                    "Surgery"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Northern Teacher Education Program / Northern Professional Access College",
+                "FieldsOfStudy": [
+                    "Education",
+                    "English",
+                    "Indigenous Studies",
+                    "Medicine",
+                    "Native Language",
+                    "Natural Sciences",
+                    "Physics",
+                    "Veterinary Science"
+                ],
+                "Details": "http://nortep-norpac.sk.ca/"
+            },
+            {
+                "College": "Nursing",
+                "FieldsOfStudy": [
+                    "Nursing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Pharmacy and Nutrition",
+                "FieldsOfStudy": [
+                    "Biotechnology",
+                    "Economics",
+                    "Epidemiology",
+                    "Molecular Biology",
+                    "Nanotechnology",
+                    "Nutrition",
+                    "Pharmacy",
+                    "Toxicology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "St. Andrew's",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Ethics",
+                    "Holy Writings",
+                    "Pastoral Studies",
+                    "Religion",
+                    "Religious Education",
+                    "Theology"
+                ],
+                "Details": "http://www.usask.ca/stu/standrews/"
+            },
+            {
+                "College": "St. Peter's",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Arts and Humanities",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Fine Arts",
+                    "History",
+                    "International Business",
+                    "Philosophy",
+                    "Physical Education",
+                    "Physical Therapy",
+                    "Psychology",
+                    "Sports",
+                    "Writing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "St. Thomas More",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Archaeology",
+                    "Arts and Humanities",
+                    "English",
+                    "French",
+                    "History",
+                    "Natural Sciences",
+                    "Philosophy",
+                    "Political Sciences",
+                    "Psychology",
+                    "Slavic Languages",
+                    "Sociology"
+                ],
+                "Details": "http://stmcollege.ca"
+            },
+            {
+                "College": "Veterinary Medicine",
+                "FieldsOfStudy": [
+                    "Biomedicine",
+                    "Microbiology",
+                    "Pathology",
+                    "Veterinary Science"
+                ],
+                "Details": "Western"
+            },
+            {
+                "College": "Public Policy",
+                "FieldsOfStudy": [
+                    "Health Administration",
+                    "International Business",
+                    "Public Administration"
+                ],
+                "Details": "Johnson-Shoyama"
+            },
+            {
+                "College": "Native Studies and Applied Research",
+                "FieldsOfStudy": [
+                    "Adult Education",
+                    "Indigenous Studies"
+                ],
+                "Details": "Gabriel Dumont (Also affiiated to Universiy of Regina). http://gdins.org"
+            },
+            {
+                "College": "Business",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Business Administration",
+                    "Business and Commerce",
+                    "Finance",
+                    "Human Resources",
+                    "International Business",
+                    "Management",
+                    "Marketing"
+                ],
+                "Details": "Edwards"
+            },
+            {
+                "College": "Environment and Sustainability",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Education",
+                    "Engineering",
+                    "Environmental Management",
+                    "Environmental Studies",
+                    "Law",
+                    "Natural Resources",
+                    "Natural Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Physical Therapy",
+                "FieldsOfStudy": [
+                    "Physical Therapy"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Public Health",
+                "FieldsOfStudy": [
+                    "Anthropology",
+                    "Biological and Life Sciences",
+                    "Biology",
+                    "Business Administration",
+                    "Chemistry",
+                    "Computer Science",
+                    "Dentistry",
+                    "Epidemiology",
+                    "Health Administration",
+                    "Health Sciences",
+                    "Immunology",
+                    "Medicine",
+                    "Microbiology",
+                    "Native American Studies",
+                    "Nursing",
+                    "Nutrition",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Psychology",
+                    "Public Health",
+                    "Social Sciences",
+                    "Sociology",
+                    "Statistics",
+                    "Veterinary Science"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": "N/A",
+                "Bachelor'sDegree": [
+                    "Agricultural Business",
+                    "Agriculture",
+                    "Arts and Humanities",
+                    "Biological and Life Sciences",
+                    "Business Administration",
+                    "Chemistry",
+                    "Computer Science",
+                    "Education",
+                    "Engineering",
+                    "Mathematics"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Accountancy",
+                    "Agricultural Economics",
+                    "Animal Husbandry",
+                    "Anthropology",
+                    "Archaeology",
+                    "Biochemistry",
+                    "Bioengineering",
+                    "Biology",
+                    "Business Administration",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Community Health",
+                    "Computer Engineering",
+                    "Cultural Studies",
+                    "Curriculum",
+                    "Economics",
+                    "Educational Administration",
+                    "Educational Psychology",
+                    "Educational Technology",
+                    "Electrical Engineering",
+                    "English",
+                    "Environmental Studies",
+                    "Epidemiology",
+                    "Finance",
+                    "Fine Arts",
+                    "Food Science",
+                    "French",
+                    "Gender Studies",
+                    "Geography",
+                    "Geology",
+                    "Health Sciences",
+                    "History",
+                    "Indigenous Studies",
+                    "Law",
+                    "Linguistics",
+                    "Marketing",
+                    "Mathematics",
+                    "Mathematics and Computer Science",
+                    "Mechanical Engineering",
+                    "Microbiology",
+                    "Music",
+                    "Nursing",
+                    "Nutrition",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Physical Therapy",
+                    "Physiology",
+                    "Plant Pathology",
+                    "Political Sciences",
+                    "Psychology",
+                    "Public Administration",
+                    "Public Health",
+                    "Sociology",
+                    "Soil Science",
+                    "Special Education",
+                    "Veterinary Science",
+                    "Water Management",
+                    "Women's Studies",
+                    "Writing"
+                ],
+                "Doctor'sDegrees": [
+                    "Agricultural Economics",
+                    "Anatomy",
+                    "Animal Husbandry",
+                    "Biochemistry",
+                    "Biology",
+                    "Cell Biology",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Community Health",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Educational Administration",
+                    "Electrical Engineering",
+                    "English",
+                    "Food Science",
+                    "Geology",
+                    "Health Sciences",
+                    "History",
+                    "Immunology",
+                    "Mathematics",
+                    "Mechanical Engineering",
+                    "Microbiology",
+                    "Nursing",
+                    "Nutrition",
+                    "Pharmacology",
+                    "Pharmacy",
+                    "Physical Engineering",
+                    "Physiology",
+                    "Psychology",
+                    "Social and Community Services",
+                    "Soil Science",
+                    "Statistics",
+                    "Toxicology",
+                    "Veterinary Science"
+                ],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    },
+    {
+        "GeneralInformation": {
+            "Address": {
+                "Street": "510 College Drive",
+                "City": "Caronport",
+                "Province": "Saskatchewan",
+                "PostCode": "S0H 0S0",
+                "Website": "https://www.briercrest.ca",
+                "college_name": "University of Saskatchewan \u2013 Briercrest College and Seminary",
+                "university_name": ""
+            },
+            "InstitutionFunding": "Private",
+            "History": "Founded 1935 as Briecrest Bible Institute. Earned full accrediaion 1976. Acquired present title 1982. Affiliated with University of Saskachewan.",
+            "AcademicYear": "N/A",
+            "AdmissionRequirements": [],
+            "Languages": [
+                "English"
+            ],
+            "StudentBody": "co-ed"
+        },
+        "Divisions": [
+            {
+                "College": "Arts and Humanities",
+                "FieldsOfStudy": [
+                    "Arts and Humanities",
+                    "Economics",
+                    "English",
+                    "Fine Arts",
+                    "History",
+                    "Literature",
+                    "Mathematics",
+                    "Philosophy",
+                    "Social Sciences"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Biblical Studies",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Greek (Classical)",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Business Administration",
+                "FieldsOfStudy": [
+                    "Accountancy",
+                    "Administration",
+                    "Business Administration",
+                    "Finance",
+                    "Human Resources",
+                    "Information Management",
+                    "Leadership",
+                    "Management",
+                    "Marketing",
+                    "Operations Research"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Christian Ministry",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Family Studies",
+                    "Pastoral Studies",
+                    "Psychology",
+                    "Religion",
+                    "Religious Music",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Church and Culture",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Christian Religious Studies",
+                    "History of Religion",
+                    "Religious Studies",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Education",
+                "FieldsOfStudy": [
+                    "Education",
+                    "Foreign Languages Education",
+                    "History",
+                    "Humanities and Social Science Education",
+                    "Music Education",
+                    "Physical Education",
+                    "Primary Education"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Global Studies",
+                "FieldsOfStudy": "N/A",
+                "Details": "N/A"
+            },
+            {
+                "College": "Music",
+                "FieldsOfStudy": [
+                    "Art History",
+                    "Music",
+                    "Music Education",
+                    "Musical Instruments",
+                    "Religious Music",
+                    "Singing"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Social Sciences",
+                "FieldsOfStudy": [
+                    "Administration",
+                    "Anthropology",
+                    "Native American Studies",
+                    "Psychology",
+                    "Social Sciences",
+                    "Sociology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Theology",
+                "FieldsOfStudy": [
+                    "Technology"
+                ],
+                "Details": "N/A"
+            },
+            {
+                "College": "Youth Ministry",
+                "FieldsOfStudy": [
+                    "Bible",
+                    "Pastoral Studies",
+                    "Psychology",
+                    "Sociology",
+                    "Theology"
+                ],
+                "Details": "N/A"
+            }
+        ],
+        "Degrees": {
+            "Undergraduate": {
+                "CertificateOrDiploma": [],
+                "Bachelor'sDegree": [
+                    "Arts and Humanities",
+                    "English",
+                    "History"
+                ]
+            },
+            "Postgraduate": {
+                "PostBachelor'sDiplomaOrCertificate": [],
+                "Master'sDegree": [
+                    "Bible",
+                    "Christian Religious Studies",
+                    "Family Studies",
+                    "Holy Writings",
+                    "Leadership",
+                    "Management",
+                    "Missionary Studies",
+                    "New Testament",
+                    "Pastoral Studies",
+                    "Psychology",
+                    "Theology"
+                ],
+                "Doctor'sDegrees": [],
+                "ResearchScholarship": [],
+                "EducationSpecialistDegree": []
+            }
+        }
+    }
+]
